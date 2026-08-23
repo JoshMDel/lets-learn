@@ -1,0 +1,21 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#1f9c8f"/>
+  <circle cx="256" cy="260" r="46" fill="#ffffff" opacity="0.12"/>
+  <!-- ears -->
+  <circle cx="150" cy="150" r="34" fill="#17b3a3"/>
+  <circle cx="362" cy="150" r="34" fill="#17b3a3"/>
+  <!-- head -->
+  <circle cx="256" cy="266" r="176" fill="#17b3a3"/>
+  <circle cx="256" cy="266" r="176" fill="url(#shine)" opacity="0.35"/>
+  <defs>
+    <radialGradient id="shine" cx="35%" cy="28%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- eyes -->
+  <circle cx="205" cy="250" r="22" fill="#1a2a2c"/>
+  <circle cx="307" cy="250" r="22" fill="#1a2a2c"/>
+  <!-- smile -->
+  <path d="M186 316 Q256 372 326 316" stroke="#1a2a2c" stroke-width="16" fill="none" stroke-linecap="round"/>
+</svg>

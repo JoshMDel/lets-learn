@@ -1,0 +1,113 @@
+import { useParams, Link } from 'react-router-dom'
+import { useQuery } from '@tanstack/react-query'
+import { ShellLayout } from '../../components/ShellLayout'
+import { Card } from '../../components/ui/Card'
+import { useLocale } from '../../i18n/LocaleContext'
+import { supabase } from '../../lib/supabaseClient'
+import { useChildDashboard } from '../../content/dashboard'
+import type { ChildProfile } from '../../types/content'
+
+function StatCard({ label, value }: { label: string; value: string | number }) {
+  return (
+    <Card className="text-center">
+      <div className="font-heading text-3xl font-bold text-primary">{value}</div>
+      <div className="mt-1 text-sm text-muted">{label}</div>
+    </Card>
+  )
+}
+
+export default function ChildDashboard() {
+  const { t } = useLocale()
+  const { childId } = useParams<{ childId: string }>()
+
+  const { data: child } = useQuery({
+    queryKey: ['child', childId],
+    enabled: !!childId,
+    queryFn: async () => {
+      const { data, error } = await supabase.from('child_profiles').select('*').eq('id', childId).single()
+      if (error) throw error
+      return data as ChildProfile
+    },
+  })
+
+  const { data: stats, isLoading } = useChildDashboard(childId ?? null)
+
+  return (
+    <ShellLayout narrow={false}>
+      <Link to="/parent" className="text-sm font-semibold text-primary">
+        ← {t('parent.dashboard.title')}
+      </Link>
+      <h1 className="mt-2 font-heading text-3xl font-bold">
+        {child ? `${child.display_name} · Grade ${child.grade}` : '…'}
+      </h1>
+
+      {isLoading || !stats ? (
+        <p className="mt-8 text-muted">{t('common.loading')}</p>
+      ) : (
+        <>
+          <div className="mt-8 grid grid-cols-3 gap-4">
+            <StatCard label={t('parent.child.attempts')} value={stats.totalAttempts} />
+            <StatCard
+              label={t('parent.child.avgScore')}
+              value={stats.averageScore != null ? `${stats.averageScore}%` : '—'}
+            />
+            <StatCard label={t('parent.child.topicsMastered')} value={stats.topicsMastered} />
+          </div>
+
+          <Card className="mt-6">
+            <h2 className="font-heading text-lg font-bold">{t('parent.child.skillBreakdown')}</h2>
+            <div className="mt-4 flex flex-col gap-3">
+              {stats.skillAccuracy.map(({ skill, correct, total }) => {
+                const pct = total > 0 ? Math.round((correct / total) * 100) : null
+                return (
+                  <div key={skill}>
+                    <div className="mb-1 flex justify-between text-sm">
+                      <span className="font-medium">{t(`skill.${skill}`)}</span>
+                      <span className="text-muted">{pct != null ? `${pct}% (${correct}/${total})` : '—'}</span>
+                    </div>
+                    <div className="h-2.5 overflow-hidden rounded-full bg-surface-2">
+                      <div
+                        className="h-full rounded-full bg-primary transition-all"
+                        style={{ width: `${pct ?? 0}%` }}
+                      />
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </Card>
+
+          <Card className="mt-6">
+            <h2 className="font-heading text-lg font-bold">{t('parent.child.recentAttempts')}</h2>
+            {stats.recentAttempts.length === 0 ? (
+              <p className="mt-3 text-sm text-muted">{t('parent.child.noAttempts')}</p>
+            ) : (
+              <div className="mt-4 flex flex-col divide-y divide-subtle">
+                {stats.recentAttempts.map((a) => (
+                  <div key={a.id} className="flex items-center justify-between py-3 text-sm">
+                    <div>
+                      <div className="font-medium">
+                        {a.subject_name} · {a.topic_name}
+                      </div>
+                      <div className="text-muted">
+                        {t('learning.tier')} {a.tier_number} ·{' '}
+                        {a.completed_at ? new Date(a.completed_at).toLocaleDateString() : ''}
+                      </div>
+                    </div>
+                    <span
+                      className={`rounded-full px-3 py-1 font-heading font-semibold ${
+                        a.passed ? 'bg-success/15 text-success' : 'bg-surface-2 text-muted'
+                      }`}
+                    >
+                      {a.score_pct}%
+                    </span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </Card>
+        </>
+      )}
+    </ShellLayout>
+  )
+}
