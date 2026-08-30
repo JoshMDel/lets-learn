@@ -4,6 +4,7 @@ import {
   useEffect,
   useState,
   useCallback,
+  useRef,
   type ReactNode,
 } from 'react'
 import type { Session } from '@supabase/supabase-js'
@@ -32,6 +33,12 @@ interface AuthContextValue {
   unlockParentTools: () => void
   lockParentTools: () => void
   refreshProfile: () => Promise<void>
+  /** Logs a learner out of the app. A child logged in with their own
+   * username/password gets a real sign-out (their auth session ends
+   * entirely). A child being played by a parent who tapped their avatar
+   * just has that hand-off cleared -- the parent's own session is left
+   * alone, since they're still the one physically holding the device. */
+  logoutLearner: () => Promise<void>
 }
 
 const AuthContext = createContext<AuthContextValue | null>(null)
@@ -95,18 +102,30 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     await loadRoleForSession(session)
   }, [loadRoleForSession, session])
 
+  // Tracks whose session this is, so the re-auth on /parent-gate (which
+  // itself calls signInWithPassword and so fires this same listener again)
+  // doesn't immediately re-lock the parent tools it just unlocked -- only a
+  // genuine change of user (a real logout, or a different account signing
+  // in) should reset that gate.
+  const currentUserIdRef = useRef<string | null>(null)
+
   useEffect(() => {
     let mounted = true
     supabase.auth.getSession().then(async ({ data }) => {
       if (!mounted) return
+      currentUserIdRef.current = data.session?.user.id ?? null
       setSession(data.session)
       await loadRoleForSession(data.session)
       setLoading(false)
     })
 
     const { data: sub } = supabase.auth.onAuthStateChange(async (_event, newSession) => {
+      const newUserId = newSession?.user.id ?? null
+      if (newUserId !== currentUserIdRef.current) {
+        setParentToolsUnlocked(false)
+      }
+      currentUserIdRef.current = newUserId
       setSession(newSession)
-      setParentToolsUnlocked(false)
       await loadRoleForSession(newSession)
     })
 
@@ -119,6 +138,16 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   const unlockParentTools = useCallback(() => setParentToolsUnlocked(true), [])
   const lockParentTools = useCallback(() => setParentToolsUnlocked(false), [])
+
+  const logoutLearner = useCallback(async () => {
+    if (role === 'child') {
+      // The auth session itself IS this child's -- end it for real so a
+      // back-button press can't land on a still-authenticated dashboard.
+      await supabase.auth.signOut()
+    }
+    // Either way, clear which child is "active" on this device.
+    setActiveChildId(null)
+  }, [role, setActiveChildId])
 
   return (
     <AuthContext.Provider
@@ -134,6 +163,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         unlockParentTools,
         lockParentTools,
         refreshProfile,
+        logoutLearner,
       }}
     >
       {children}

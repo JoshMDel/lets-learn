@@ -140,7 +140,25 @@ export interface SubmitAttemptResult {
   passed: boolean
   correct_count: number
   total: number
+  /** R2.00 if this submission was the first time this tier was ever passed
+   * for this child, otherwise 0 (already rewarded previously, or not passed). */
+  reward_amount: number
+  /** Running total of all rewards ever earned by this child, after this attempt. */
+  total_rewards: number
   results: SubmitAttemptQuestionResult[]
+}
+
+// One row per tier a child has ever been rewarded for passing -- see
+// public.reward_transactions. Read-only from the client; only the
+// submit_attempt() RPC ever writes these.
+export interface RewardTransaction {
+  id: string
+  child_id: string
+  tier_id: string
+  attempt_id: string
+  score_pct: number
+  amount: number
+  created_at: string
 }
 
 export interface SubmitAttemptQuestionResult {

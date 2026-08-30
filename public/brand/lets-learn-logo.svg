@@ -1,0 +1,26 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's Learn">
+  <rect x="0" y="0" width="200" height="200" rx="44" fill="#FBF1E2"/>
+
+  <!-- ears -->
+  <circle cx="66" cy="60" r="20" fill="#1f9c8f"/>
+  <circle cx="134" cy="60" r="20" fill="#1f9c8f"/>
+
+  <!-- head -->
+  <circle cx="100" cy="104" r="68" fill="#1f9c8f"/>
+  <circle cx="100" cy="104" r="68" fill="url(#logoShine)" opacity="0.28"/>
+  <defs>
+    <radialGradient id="logoShine" cx="34%" cy="26%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- eyes -->
+  <circle cx="76" cy="100" r="13" fill="#20312f"/>
+  <circle cx="124" cy="100" r="13" fill="#20312f"/>
+  <circle cx="80" cy="96" r="3.4" fill="#ffffff"/>
+  <circle cx="128" cy="96" r="3.4" fill="#ffffff"/>
+
+  <!-- smile -->
+  <path d="M82 132 Q100 146 118 132" stroke="#20312f" stroke-width="7" fill="none" stroke-linecap="round"/>
+</svg>

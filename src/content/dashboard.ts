@@ -13,12 +13,24 @@ export interface RecentAttemptRow {
   subject_name: string
 }
 
+export interface RewardHistoryRow {
+  id: string
+  date: string
+  topic_name: string
+  score_pct: number
+  amount: number
+}
+
 export interface ChildDashboardStats {
   totalAttempts: number
   averageScore: number | null
   topicsMastered: number
   skillAccuracy: { skill: SkillType; correct: number; total: number }[]
   recentAttempts: RecentAttemptRow[]
+  /** Reward Points: total earned so far and how many tests that reflects. */
+  rewardTotal: number
+  rewardTestsPassed: number
+  rewardHistory: RewardHistoryRow[]
 }
 
 const SKILLS: SkillType[] = ['literal', 'inference', 'vocabulary', 'main_idea', 'sequencing']
@@ -88,6 +100,9 @@ export function useChildDashboard(childId: string | null) {
 
       let topicsMastered = 0
       const recentAttempts: RecentAttemptRow[] = []
+      const rewardHistory: RewardHistoryRow[] = []
+      let rewardTotal = 0
+      let rewardTestsPassed = 0
 
       if (tierIds.length > 0) {
         const { data: tiers, error: tiersErr } = await supabase
@@ -151,9 +166,43 @@ export function useChildDashboard(childId: string | null) {
             subject_name: subject?.name_en ?? '',
           })
         }
+
+        // Reward Points: every tier passed for the first time earns R2 --
+        // see the reward_transactions table (unique per child+tier, written
+        // only by submit_attempt()). Every rewarded tier is guaranteed to
+        // already be mastered, so it's covered by tierById/topicById above.
+        const { data: rewards, error: rewardsErr } = await supabase
+          .from('reward_transactions')
+          .select('id, tier_id, score_pct, amount, created_at')
+          .eq('child_id', childId as string)
+          .order('created_at', { ascending: false })
+        if (rewardsErr) throw rewardsErr
+
+        for (const r of rewards ?? []) {
+          const tier = tierById.get(r.tier_id)
+          const topic = tier ? topicById.get(tier.topic_id) : undefined
+          rewardHistory.push({
+            id: r.id,
+            date: r.created_at,
+            topic_name: topic?.name_en ?? '',
+            score_pct: Number(r.score_pct),
+            amount: Number(r.amount),
+          })
+        }
+        rewardTotal = rewardHistory.reduce((sum, r) => sum + r.amount, 0)
+        rewardTestsPassed = rewardHistory.length
       }
 
-      return { totalAttempts, averageScore, topicsMastered, skillAccuracy, recentAttempts }
+      return {
+        totalAttempts,
+        averageScore,
+        topicsMastered,
+        skillAccuracy,
+        recentAttempts,
+        rewardTotal,
+        rewardTestsPassed,
+        rewardHistory,
+      }
     },
   })
 }

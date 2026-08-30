@@ -15,7 +15,16 @@ export default function DeviceChooser() {
 
   return (
     <ShellLayout>
-      <h1 className="mb-2 font-heading text-3xl font-bold">{t('chooser.title')}</h1>
+      <div className="mb-6 flex flex-col items-center text-center">
+        <img
+          src="/brand/lets-learn-logo.svg"
+          alt="Let's Learn"
+          className="h-24 w-24 sm:h-28 sm:w-28"
+          width={112}
+          height={112}
+        />
+      </div>
+      <h1 className="mb-2 text-center font-heading text-3xl font-bold sm:text-left">{t('chooser.title')}</h1>
       <div className="mt-8 flex flex-col gap-4">
         <Link
           to="/child-login"

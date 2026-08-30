@@ -5,6 +5,7 @@ import { Card } from '../../components/ui/Card'
 import { useLocale } from '../../i18n/LocaleContext'
 import { supabase } from '../../lib/supabaseClient'
 import { useChildDashboard } from '../../content/dashboard'
+import { formatRands } from '../../lib/currency'
 import type { ChildProfile } from '../../types/content'
 
 function StatCard({ label, value }: { label: string; value: string | number }) {
@@ -53,6 +54,44 @@ export default function ChildDashboard() {
             />
             <StatCard label={t('parent.child.topicsMastered')} value={stats.topicsMastered} />
           </div>
+
+          <div className="mt-4 grid grid-cols-2 gap-4">
+            <StatCard label={t('rewards.testsPassedLabel')} value={stats.rewardTestsPassed} />
+            <StatCard label={t('rewards.rewardEarnedLabel')} value={formatRands(stats.rewardTotal)} />
+          </div>
+          <p className="mt-2 text-center text-xs text-muted">{t('rewards.explainer')}</p>
+
+          <Card className="mt-6">
+            <h2 className="font-heading text-lg font-bold">{t('rewards.rewardHistoryTitle')}</h2>
+            {stats.rewardHistory.length === 0 ? (
+              <p className="mt-3 text-sm text-muted">{t('rewards.history.empty')}</p>
+            ) : (
+              <div className="mt-4 overflow-x-auto">
+                <table className="w-full min-w-[420px] text-left text-sm">
+                  <thead>
+                    <tr className="text-muted">
+                      <th className="pb-2 font-medium">{t('rewards.history.date')}</th>
+                      <th className="pb-2 font-medium">{t('rewards.history.achievement')}</th>
+                      <th className="pb-2 font-medium">{t('rewards.history.score')}</th>
+                      <th className="pb-2 text-right font-medium">{t('rewards.history.reward')}</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-subtle">
+                    {stats.rewardHistory.map((r) => (
+                      <tr key={r.id}>
+                        <td className="py-2 text-muted">{new Date(r.date).toLocaleDateString()}</td>
+                        <td className="py-2 font-medium">{r.topic_name}</td>
+                        <td className="py-2 text-muted">{r.score_pct}%</td>
+                        <td className="py-2 text-right font-heading font-semibold text-success">
+                          +{formatRands(r.amount)}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+          </Card>
 
           <Card className="mt-6">
             <h2 className="font-heading text-lg font-bold">{t('parent.child.skillBreakdown')}</h2>

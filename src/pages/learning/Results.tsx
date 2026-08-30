@@ -5,6 +5,7 @@ import { Button } from '../../components/ui/Button'
 import { moodFromPerformance } from '../../components/Mascot'
 import { useLocale } from '../../i18n/LocaleContext'
 import { supabase } from '../../lib/supabaseClient'
+import { formatRands } from '../../lib/currency'
 import type { SubmitAttemptResult } from '../../types/content'
 
 interface ResultsState {
@@ -65,6 +66,21 @@ export default function Results() {
         <p className={`mt-3 font-heading text-xl font-semibold ${result.passed ? 'text-success' : 'text-primary'}`}>
           {result.passed ? `🎉 ${t('results.passed')}` : t('results.tryAgain')}
         </p>
+
+        {result.passed ? (
+          <div className="mx-auto mt-4 max-w-xs rounded-[var(--radius-lg)] border-2 border-accent/30 bg-accent/10 p-4">
+            {result.reward_amount > 0 && (
+              <p className="font-heading text-lg font-bold text-primary">
+                {t('results.youEarned', { amount: formatRands(result.reward_amount) })}
+              </p>
+            )}
+            <p className="mt-1 text-sm text-muted">
+              {t('results.totalRewardsEarned', { amount: formatRands(result.total_rewards) })}
+            </p>
+          </div>
+        ) : (
+          <p className="mx-auto mt-4 max-w-sm text-sm text-muted">{t('results.keepPractisingNote')}</p>
+        )}
       </div>
 
       <div className="flex flex-col gap-4">

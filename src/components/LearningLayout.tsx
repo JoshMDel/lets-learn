@@ -18,7 +18,17 @@ export function LearningLayout({
   useThemeScope('learning')
   const navigate = useNavigate()
   const { t } = useLocale()
-  const { role } = useAuth()
+  const { role, logoutLearner } = useAuth()
+
+  async function handleLogout() {
+    const wasChild = role === 'child'
+    await logoutLearner()
+    // A self-logged-in child has no session left to return to -- send them
+    // to the device chooser. A child being played by a parent just loses
+    // the hand-off, so the avatar picker (still that parent's session) is
+    // the right "access-selection" screen to land back on.
+    navigate(wasChild ? '/' : '/switch-profile', { replace: true })
+  }
 
   return (
     <div className="min-h-full bg-app">
@@ -51,6 +61,12 @@ export function LearningLayout({
                 🔒
               </button>
             )}
+            <button
+              onClick={handleLogout}
+              className="rounded-full bg-surface-2 px-3 py-2 font-heading text-sm font-semibold text-ink hover:bg-danger/15 hover:text-danger"
+            >
+              {t('nav.logout')}
+            </button>
           </div>
         </div>
       </header>

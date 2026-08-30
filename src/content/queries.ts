@@ -12,6 +12,28 @@ import type {
   Topic,
 } from '../types/content'
 
+/** My Rewards card on the learner's own home screen -- just the total and
+ * count, not the full history (that's a parent-dashboard concern). Reads
+ * the same reward_transactions table the parent dashboard does. */
+export function useMyRewards(childId: string | null) {
+  return useQuery({
+    queryKey: ['myRewards', childId],
+    enabled: !!childId,
+    queryFn: async () => {
+      const { data, error } = await supabase
+        .from('reward_transactions')
+        .select('amount')
+        .eq('child_id', childId as string)
+      if (error) throw error
+      const rows = data ?? []
+      return {
+        total: rows.reduce((sum, r) => sum + Number(r.amount), 0),
+        testsPassed: rows.length,
+      }
+    },
+  })
+}
+
 export function useSubjects(grade: number | null) {
   return useQuery({
     queryKey: ['subjects', grade],
