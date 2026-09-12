@@ -9,12 +9,15 @@ import ParentHome from './pages/shell/ParentHome'
 import AddChild from './pages/shell/AddChild'
 import ParentProfile from './pages/shell/ParentProfile'
 import ChildDashboard from './pages/shell/ChildDashboard'
+import ParentChat from './pages/shell/ParentChat'
 import Home from './pages/learning/Home'
 import Subject from './pages/learning/Subject'
 import Topic from './pages/learning/Topic'
 import Read from './pages/learning/Read'
 import Quiz from './pages/learning/Quiz'
 import Results from './pages/learning/Results'
+import Profile from './pages/learning/Profile'
+import Chat from './pages/learning/Chat'
 import { RequireActiveLearner, RequireParentToolsUnlocked, RequireSession } from './auth/guards'
 
 export default function App() {
@@ -73,6 +76,22 @@ export default function App() {
           </RequireParentToolsUnlocked>
         }
       />
+      <Route
+        path="/parent/chat"
+        element={
+          <RequireParentToolsUnlocked>
+            <ParentChat />
+          </RequireParentToolsUnlocked>
+        }
+      />
+      <Route
+        path="/parent/chat/:childId"
+        element={
+          <RequireParentToolsUnlocked>
+            <ParentChat />
+          </RequireParentToolsUnlocked>
+        }
+      />
 
       <Route
         path="/home"
@@ -119,6 +138,22 @@ export default function App() {
         element={
           <RequireActiveLearner>
             <Results />
+          </RequireActiveLearner>
+        }
+      />
+      <Route
+        path="/profile"
+        element={
+          <RequireActiveLearner>
+            <Profile />
+          </RequireActiveLearner>
+        }
+      />
+      <Route
+        path="/chat"
+        element={
+          <RequireActiveLearner>
+            <Chat />
           </RequireActiveLearner>
         }
       />

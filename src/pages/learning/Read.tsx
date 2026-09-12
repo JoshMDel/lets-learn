@@ -6,6 +6,7 @@ import { Button } from '../../components/ui/Button'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { usePassage } from '../../content/queries'
+import { useRecordActivity } from '../../content/activity'
 import { setResumeState } from '../../content/resume'
 
 export default function Read() {
@@ -13,6 +14,8 @@ export default function Read() {
   const navigate = useNavigate()
   const { tierId } = useParams<{ tierId: string }>()
   const { activeChildId } = useAuth()
+
+  useRecordActivity(activeChildId)
 
   const { data, isLoading } = usePassage(tierId ?? null)
 

@@ -6,6 +6,7 @@ import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { supabase } from '../../lib/supabaseClient'
 import { useSubjects, useMyRewards } from '../../content/queries'
+import { useConversation, useUnreadCount } from '../../content/chat'
 import { formatRands } from '../../lib/currency'
 import type { ChildProfile, ChildState } from '../../types/content'
 
@@ -23,7 +24,7 @@ const SUBJECT_EMOJI: Record<string, string> = {
 export default function Home() {
   const { t, locale } = useLocale()
   const navigate = useNavigate()
-  const { activeChildId } = useAuth()
+  const { activeChildId, session } = useAuth()
   const [grade, setGrade] = useState<number | null>(null)
 
   const { data: child } = useQuery({
@@ -61,8 +62,14 @@ export default function Home() {
   const { data: subjects, isLoading } = useSubjects(grade)
   const { data: rewards } = useMyRewards(activeChildId)
 
+  const { data: conversationId } = useConversation(activeChildId)
+  const unreadChat = useUnreadCount(session?.user.id ?? null, conversationId ? [conversationId] : [])
+
   return (
-    <LearningLayout title={child?.display_name}>
+    <LearningLayout
+      title={child?.display_name}
+      bottomNav={{ active: 'home', unreadChat: unreadChat > 0 }}
+    >
       <div className="mb-6 rounded-[var(--radius-lg)] border-2 border-accent/30 bg-gradient-to-br from-accent/15 to-primary/10 p-5 text-center">
         <div className="font-heading text-sm font-semibold text-muted">
           🏆 {t('rewards.myRewards')}

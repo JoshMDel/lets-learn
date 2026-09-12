@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { useThemeScope } from './useThemeScope'
 import { LocaleToggle } from './ui/LocaleToggle'
 import { Mascot, type MascotMood } from './Mascot'
+import { MobileBottomNav, type NavTab } from './MobileBottomNav'
 import { useLocale } from '../i18n/LocaleContext'
 import { useAuth } from '../auth/AuthContext'
 
@@ -10,10 +11,15 @@ export function LearningLayout({
   children,
   mood = 'building',
   title,
+  bottomNav,
 }: {
   children: ReactNode
   mood?: MascotMood
   title?: string
+  /** Adds the mobile-only Home/Chat/Profile bar. Only used on Home/Chat/
+   * Profile themselves -- deliberately left off Subject/Topic/Read/Quiz/
+   * Results so this phase doesn't touch that in-lesson flow's chrome. */
+  bottomNav?: { active: NavTab; unreadChat?: boolean }
 }) {
   useThemeScope('learning')
   const navigate = useNavigate()
@@ -70,7 +76,12 @@ export function LearningLayout({
           </div>
         </div>
       </header>
-      <main className="mx-auto max-w-2xl px-4 py-6">{children}</main>
+      <main className={`mx-auto max-w-2xl px-4 py-6 ${bottomNav ? 'pb-24 md:pb-6' : ''}`}>
+        {children}
+      </main>
+      {bottomNav && (
+        <MobileBottomNav role="child" active={bottomNav.active} unreadChat={bottomNav.unreadChat} />
+      )}
     </div>
   )
 }

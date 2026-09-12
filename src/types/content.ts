@@ -148,17 +148,50 @@ export interface SubmitAttemptResult {
   results: SubmitAttemptQuestionResult[]
 }
 
-// One row per tier a child has ever been rewarded for passing -- see
-// public.reward_transactions. Read-only from the client; only the
-// submit_attempt() RPC ever writes these.
+// One row per reward event -- either a task passed (+R2) or a missed day's
+// inactivity deduction. Read-only from the client; only server-side
+// functions (submit_attempt, catch_up_child_rewards) ever write these.
+export type RewardReason = 'task_passed' | 'daily_inactivity'
+
 export interface RewardTransaction {
   id: string
   child_id: string
-  tier_id: string
-  attempt_id: string
-  score_pct: number
+  tier_id: string | null
+  attempt_id: string | null
+  score_pct: number | null
   amount: number
+  reason: RewardReason
+  missed_date: string | null
   created_at: string
+}
+
+// The one place both the learner and parent dashboards read a child's
+// reward balance/count from -- see public.v_child_reward_summary.
+export interface ChildRewardSummary {
+  child_id: string
+  balance: number
+  tasks_passed: number
+}
+
+export interface ChildActivityDay {
+  child_id: string
+  activity_date: string
+}
+
+export interface Conversation {
+  id: string
+  child_id: string
+  created_at: string
+  updated_at: string
+}
+
+export interface Message {
+  id: string
+  conversation_id: string
+  sender_id: string
+  body: string
+  created_at: string
+  read_at: string | null
 }
 
 export interface SubmitAttemptQuestionResult {

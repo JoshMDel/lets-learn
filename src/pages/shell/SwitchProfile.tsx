@@ -5,14 +5,9 @@ import { Button } from '../../components/ui/Button'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { supabase } from '../../lib/supabaseClient'
-import type { ChildProfile } from '../../types/content'
-
-const AVATAR_EMOJI = ['🦊', '🐸', '🐼', '🦁', '🐨', '🦉', '🐙', '🦄']
-function avatarFor(id: string) {
-  let hash = 0
-  for (const c of id) hash = (hash * 31 + c.charCodeAt(0)) % AVATAR_EMOJI.length
-  return AVATAR_EMOJI[Math.abs(hash) % AVATAR_EMOJI.length]
-}
+import { signOut } from '../../lib/authApi'
+import { avatarForId, AVATAR_EMOJI } from '../../lib/avatar'
+import type { ChildProfile, ChildState } from '../../types/content'
 
 export default function SwitchProfile() {
   const { t } = useLocale()
@@ -33,6 +28,20 @@ export default function SwitchProfile() {
     },
   })
 
+  const childIds = (children ?? []).map((c) => c.id)
+  const { data: avatarByChild } = useQuery({
+    queryKey: ['childAvatars', childIds],
+    enabled: childIds.length > 0,
+    queryFn: async () => {
+      const { data, error } = await supabase
+        .from('child_state')
+        .select('child_id, avatar_key')
+        .in('child_id', childIds)
+      if (error) throw error
+      return new Map((data as Pick<ChildState, 'child_id' | 'avatar_key'>[]).map((s) => [s.child_id, s.avatar_key]))
+    },
+  })
+
   if (loading) return null
   if (!session) return <Navigate to="/" replace />
   if (role === 'child') return <Navigate to="/home" replace />
@@ -42,8 +51,19 @@ export default function SwitchProfile() {
     navigate('/home')
   }
 
+  async function handleLogout() {
+    await signOut()
+    navigate('/', { replace: true })
+  }
+
   return (
-    <ShellLayout>
+    <ShellLayout
+      headerRight={
+        <Button variant="ghost" onClick={handleLogout}>
+          {t('nav.logout')}
+        </Button>
+      }
+    >
       <h1 className="font-heading text-3xl font-bold">{t('switchProfile.title')}</h1>
 
       {isLoading ? (
@@ -56,7 +76,11 @@ export default function SwitchProfile() {
               onClick={() => chooseChild(child.id)}
               className="flex flex-col items-center gap-2 rounded-[var(--radius-lg)] border border-subtle bg-surface p-5 transition-colors hover:border-primary"
             >
-              <span className="text-4xl">{avatarFor(child.id)}</span>
+              <span className="text-4xl">
+                {AVATAR_EMOJI.includes(avatarByChild?.get(child.id) ?? '')
+                  ? avatarByChild!.get(child.id)
+                  : avatarForId(child.id)}
+              </span>
               <span className="font-heading font-semibold">{child.display_name}</span>
               <span className="text-xs text-muted">Grade {child.grade}</span>
             </button>

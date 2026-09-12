@@ -1,11 +1,22 @@
-import { Navigate, Link } from 'react-router-dom'
+import { useState } from 'react'
+import { Navigate, useSearchParams } from 'react-router-dom'
 import { ShellLayout } from '../../components/ShellLayout'
+import { RoleToggle, type LoginRole } from '../../components/ui/RoleToggle'
 import { useAuth } from '../../auth/AuthContext'
 import { useLocale } from '../../i18n/LocaleContext'
+import { LearnerLoginForm } from './LearnerLoginForm'
+import { ParentLoginForm } from './ParentLoginForm'
 
+// The app's single public entry point: one unified welcome screen with a
+// role toggle, replacing the old two-big-cards chooser. /login and
+// /child-login now just redirect here with ?role= preselected, so the form
+// logic lives in one place (LearnerLoginForm / ParentLoginForm).
 export default function DeviceChooser() {
   const { session, role, loading } = useAuth()
   const { t } = useLocale()
+  const [searchParams] = useSearchParams()
+  const initialRole: LoginRole = searchParams.get('role') === 'parent' ? 'parent' : 'learner'
+  const [selectedRole, setSelectedRole] = useState<LoginRole>(initialRole)
 
   if (loading) return null
   // A device that already has a parent/teacher signed in skips straight to
@@ -23,23 +34,14 @@ export default function DeviceChooser() {
           width={112}
           height={112}
         />
+        <h1 className="mt-4 font-heading text-3xl font-bold">{t('welcome.title')}</h1>
+        <p className="mt-1 text-muted">{t('welcome.subtitle')}</p>
       </div>
-      <h1 className="mb-2 text-center font-heading text-3xl font-bold sm:text-left">{t('chooser.title')}</h1>
-      <div className="mt-8 flex flex-col gap-4">
-        <Link
-          to="/child-login"
-          className="rounded-[var(--radius-lg)] border border-subtle bg-surface p-6 transition-colors hover:border-primary"
-        >
-          <div className="font-heading text-xl font-semibold">{t('chooser.learner')}</div>
-          <p className="mt-1 text-sm text-muted">{t('chooser.learnerHint')}</p>
-        </Link>
-        <Link
-          to="/login"
-          className="rounded-[var(--radius-lg)] border border-subtle bg-surface p-6 transition-colors hover:border-primary"
-        >
-          <div className="font-heading text-xl font-semibold">{t('chooser.parentTeacher')}</div>
-          <p className="mt-1 text-sm text-muted">{t('chooser.parentHint')}</p>
-        </Link>
+
+      <RoleToggle value={selectedRole} onChange={setSelectedRole} />
+
+      <div className="mt-8">
+        {selectedRole === 'learner' ? <LearnerLoginForm /> : <ParentLoginForm />}
       </div>
     </ShellLayout>
   )

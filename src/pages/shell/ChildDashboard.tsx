@@ -34,7 +34,7 @@ export default function ChildDashboard() {
   const { data: stats, isLoading } = useChildDashboard(childId ?? null)
 
   return (
-    <ShellLayout narrow={false}>
+    <ShellLayout narrow={false} bottomNav={{ active: 'home' }}>
       <Link to="/parent" className="text-sm font-semibold text-primary">
         ← {t('parent.dashboard.title')}
       </Link>
@@ -71,22 +71,32 @@ export default function ChildDashboard() {
                   <thead>
                     <tr className="text-muted">
                       <th className="pb-2 font-medium">{t('rewards.history.date')}</th>
+                      <th className="pb-2 font-medium">{t('rewards.history.type')}</th>
                       <th className="pb-2 font-medium">{t('rewards.history.achievement')}</th>
                       <th className="pb-2 font-medium">{t('rewards.history.score')}</th>
                       <th className="pb-2 text-right font-medium">{t('rewards.history.reward')}</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-subtle">
-                    {stats.rewardHistory.map((r) => (
-                      <tr key={r.id}>
-                        <td className="py-2 text-muted">{new Date(r.date).toLocaleDateString()}</td>
-                        <td className="py-2 font-medium">{r.topic_name}</td>
-                        <td className="py-2 text-muted">{r.score_pct}%</td>
-                        <td className="py-2 text-right font-heading font-semibold text-success">
-                          +{formatRands(r.amount)}
-                        </td>
-                      </tr>
-                    ))}
+                    {stats.rewardHistory.map((r) => {
+                      const earned = r.amount >= 0
+                      return (
+                        <tr key={r.id}>
+                          <td className="py-2 text-muted">{new Date(r.date).toLocaleDateString()}</td>
+                          <td className="py-2 text-muted">{t(`rewards.reason.${r.reason}`)}</td>
+                          <td className="py-2 font-medium">{r.topic_name || '—'}</td>
+                          <td className="py-2 text-muted">{r.score_pct != null ? `${r.score_pct}%` : '—'}</td>
+                          <td
+                            className={`py-2 text-right font-heading font-semibold ${
+                              earned ? 'text-success' : 'text-danger'
+                            }`}
+                          >
+                            {earned ? '+' : '−'}
+                            {formatRands(Math.abs(r.amount))}
+                          </td>
+                        </tr>
+                      )
+                    })}
                   </tbody>
                 </table>
               </div>

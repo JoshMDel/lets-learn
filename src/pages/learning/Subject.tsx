@@ -4,6 +4,7 @@ import { LearningLayout } from '../../components/LearningLayout'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { useTopics } from '../../content/queries'
+import { useRecordActivity } from '../../content/activity'
 import { supabase } from '../../lib/supabaseClient'
 
 export default function Subject() {
@@ -11,6 +12,10 @@ export default function Subject() {
   const navigate = useNavigate()
   const { subjectId } = useParams<{ subjectId: string }>()
   const { activeChildId } = useAuth()
+
+  // Opening a subject is a genuine subject interaction (unlike just loading
+  // the home dashboard) -- protects the daily reward-decay requirement.
+  useRecordActivity(activeChildId)
 
   const { data: topics, isLoading } = useTopics(subjectId ?? null)
 

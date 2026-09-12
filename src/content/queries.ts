@@ -14,21 +14,23 @@ import type {
 
 /** My Rewards card on the learner's own home screen -- just the total and
  * count, not the full history (that's a parent-dashboard concern). Reads
- * the same reward_transactions table the parent dashboard does. */
+ * v_child_reward_summary, the one place every reward display gets its
+ * numbers from (balance already floors at 0; tasks_passed excludes
+ * daily-inactivity deduction rows). */
 export function useMyRewards(childId: string | null) {
   return useQuery({
     queryKey: ['myRewards', childId],
     enabled: !!childId,
     queryFn: async () => {
       const { data, error } = await supabase
-        .from('reward_transactions')
-        .select('amount')
+        .from('v_child_reward_summary')
+        .select('balance, tasks_passed')
         .eq('child_id', childId as string)
+        .maybeSingle()
       if (error) throw error
-      const rows = data ?? []
       return {
-        total: rows.reduce((sum, r) => sum + Number(r.amount), 0),
-        testsPassed: rows.length,
+        total: Number(data?.balance ?? 0),
+        testsPassed: data?.tasks_passed ?? 0,
       }
     },
   })

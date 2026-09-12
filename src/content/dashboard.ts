@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
 import { supabase } from '../lib/supabaseClient'
-import type { SkillType } from '../types/content'
+import type { RewardReason, SkillType } from '../types/content'
 
 export interface RecentAttemptRow {
   id: string
@@ -17,8 +17,9 @@ export interface RewardHistoryRow {
   id: string
   date: string
   topic_name: string
-  score_pct: number
+  score_pct: number | null
   amount: number
+  reason: RewardReason
 }
 
 export interface ChildDashboardStats {
@@ -86,6 +87,25 @@ export function useChildDashboard(childId: string | null) {
         }
       }
 
+      // Reward summary: the one place every reward display (learner card,
+      // parent card, this dashboard) reads its balance/count from.
+      const { data: summary, error: summaryErr } = await supabase
+        .from('v_child_reward_summary')
+        .select('balance, tasks_passed')
+        .eq('child_id', childId as string)
+        .maybeSingle()
+      if (summaryErr) throw summaryErr
+      const rewardTotal = Number(summary?.balance ?? 0)
+      const rewardTestsPassed = summary?.tasks_passed ?? 0
+
+      // Full reward history (earned + deducted), for the transparency table.
+      const { data: rewards, error: rewardsErr } = await supabase
+        .from('reward_transactions')
+        .select('id, tier_id, score_pct, amount, reason, created_at')
+        .eq('child_id', childId as string)
+        .order('created_at', { ascending: false })
+      if (rewardsErr) throw rewardsErr
+
       // Mastery / recent attempts need tier -> topic -> subject names.
       const { data: progress, error: progErr } = await supabase
         .from('child_tier_progress')
@@ -101,8 +121,8 @@ export function useChildDashboard(childId: string | null) {
       let topicsMastered = 0
       const recentAttempts: RecentAttemptRow[] = []
       const rewardHistory: RewardHistoryRow[] = []
-      let rewardTotal = 0
-      let rewardTestsPassed = 0
+      let tierById = new Map<string, { id: string; topic_id: string; tier_number: number; label: string }>()
+      let topicById = new Map<string, { id: string; subject_id: string; name_en: string; name_af: string }>()
 
       if (tierIds.length > 0) {
         const { data: tiers, error: tiersErr } = await supabase
@@ -137,8 +157,8 @@ export function useChildDashboard(childId: string | null) {
           maxTierByTopic.set(t.topic_id, Math.max(maxTierByTopic.get(t.topic_id) ?? 0, t.tier_number))
         }
 
-        const tierById = new Map((tiers ?? []).map((t) => [t.id, t]))
-        const topicById = new Map((topics ?? []).map((t) => [t.id, t]))
+        tierById = new Map((tiers ?? []).map((t) => [t.id, t]))
+        topicById = new Map((topics ?? []).map((t) => [t.id, t]))
         const subjectById = new Map((subjects ?? []).map((s) => [s.id, s]))
 
         const masteredTopicIds = new Set<string>()
@@ -166,31 +186,27 @@ export function useChildDashboard(childId: string | null) {
             subject_name: subject?.name_en ?? '',
           })
         }
+      }
 
-        // Reward Points: every tier passed for the first time earns R2 --
-        // see the reward_transactions table (unique per child+tier, written
-        // only by submit_attempt()). Every rewarded tier is guaranteed to
-        // already be mastered, so it's covered by tierById/topicById above.
-        const { data: rewards, error: rewardsErr } = await supabase
-          .from('reward_transactions')
-          .select('id, tier_id, score_pct, amount, created_at')
-          .eq('child_id', childId as string)
-          .order('created_at', { ascending: false })
-        if (rewardsErr) throw rewardsErr
-
-        for (const r of rewards ?? []) {
-          const tier = tierById.get(r.tier_id)
-          const topic = tier ? topicById.get(tier.topic_id) : undefined
-          rewardHistory.push({
-            id: r.id,
-            date: r.created_at,
-            topic_name: topic?.name_en ?? '',
-            score_pct: Number(r.score_pct),
-            amount: Number(r.amount),
-          })
-        }
-        rewardTotal = rewardHistory.reduce((sum, r) => sum + r.amount, 0)
-        rewardTestsPassed = rewardHistory.length
+      // Reward history: every tier passed for the first time earns R2 (via
+      // submit_attempt()); every rewarded tier is guaranteed already
+      // mastered, so it's covered by tierById/topicById above (populated
+      // whenever tierIds was non-empty). Deduction rows
+      // (reason='daily_inactivity') have no tier_id -- topic_name just
+      // stays blank for those, the reason itself explains the row -- and
+      // this runs regardless of tierIds, since a brand-new, never-mastered
+      // child can still have been deducted for missed days.
+      for (const r of rewards ?? []) {
+        const tier = r.tier_id ? tierById.get(r.tier_id) : undefined
+        const topic = tier ? topicById.get(tier.topic_id) : undefined
+        rewardHistory.push({
+          id: r.id,
+          date: r.created_at,
+          topic_name: topic?.name_en ?? '',
+          score_pct: r.score_pct != null ? Number(r.score_pct) : null,
+          amount: Number(r.amount),
+          reason: r.reason as RewardReason,
+        })
       }
 
       return {
