@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { LearningLayout } from '../../components/LearningLayout'
+import { LumiSays } from '../../components/Lumi'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { supabase } from '../../lib/supabaseClient'
@@ -70,6 +71,10 @@ export default function Home() {
       title={child?.display_name}
       bottomNav={{ active: 'home', unreadChat: unreadChat > 0 }}
     >
+      <LumiSays pose="welcome" size={96} animation="wave" animateOnceKey="home" className="mb-5">
+        {t('lumi.greeting')}
+      </LumiSays>
+
       <div className="mb-6 rounded-[var(--radius-lg)] border-2 border-accent/30 bg-gradient-to-br from-accent/15 to-primary/10 p-5 text-center">
         <div className="font-heading text-sm font-semibold text-muted">
           🏆 {t('rewards.myRewards')}

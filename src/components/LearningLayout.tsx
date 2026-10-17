@@ -2,19 +2,16 @@ import type { ReactNode } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useThemeScope } from './useThemeScope'
 import { LocaleToggle } from './ui/LocaleToggle'
-import { Mascot, type MascotMood } from './Mascot'
 import { MobileBottomNav, type NavTab } from './MobileBottomNav'
 import { useLocale } from '../i18n/LocaleContext'
 import { useAuth } from '../auth/AuthContext'
 
 export function LearningLayout({
   children,
-  mood = 'building',
   title,
   bottomNav,
 }: {
   children: ReactNode
-  mood?: MascotMood
   title?: string
   /** Adds the mobile-only Home/Chat/Profile bar. Only used on Home/Chat/
    * Profile themselves -- deliberately left off Subject/Topic/Read/Quiz/
@@ -44,7 +41,7 @@ export function LearningLayout({
             onClick={() => navigate('/home')}
             className="flex items-center gap-2 rounded-full px-3 py-2 font-heading font-semibold text-ink hover:bg-surface-2"
           >
-            <Mascot mood={mood} size={36} />
+            <img src="/brand/lets-learn-logo.svg" alt="" className="h-9 w-9" />
             {title && <span className="hidden sm:inline">{title}</span>}
           </button>
           <div className="flex items-center gap-2">

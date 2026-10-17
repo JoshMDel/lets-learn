@@ -2,7 +2,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { LearningLayout } from '../../components/LearningLayout'
 import { Button } from '../../components/ui/Button'
-import { moodFromPerformance } from '../../components/Mascot'
+import { Lumi } from '../../components/Lumi'
 import { useLocale } from '../../i18n/LocaleContext'
 import { supabase } from '../../lib/supabaseClient'
 import { formatRands } from '../../lib/currency'
@@ -51,20 +51,26 @@ export default function Results() {
   }
 
   const { result, tierId } = state
-  const mood = moodFromPerformance({
-    justMastered: result.passed,
-    recentAccuracy: result.correct_count / result.total,
-  })
 
   return (
-    <LearningLayout mood={mood}>
+    <LearningLayout>
       <div className="mb-8 text-center">
+        <div className="mb-3 flex justify-center">
+          <Lumi
+            pose={result.passed ? 'celebrating' : 'encouraging'}
+            width={result.passed ? 170 : 120}
+            animation={result.passed ? 'bounce' : 'enter'}
+          />
+        </div>
         <h1 className="font-heading text-3xl font-bold">{t('results.title')}</h1>
         <p className="mt-2 text-lg text-muted">
           {t('results.score', { correct: result.correct_count, total: result.total })}
         </p>
         <p className={`mt-3 font-heading text-xl font-semibold ${result.passed ? 'text-success' : 'text-primary'}`}>
           {result.passed ? `🎉 ${t('results.passed')}` : t('results.tryAgain')}
+        </p>
+        <p className="mt-1 text-sm text-muted">
+          {result.passed ? t('lumi.results.passed') : t('lumi.results.tryAgain')}
         </p>
 
         {result.passed ? (

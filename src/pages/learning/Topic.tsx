@@ -1,6 +1,7 @@
 import { useParams, useNavigate } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { LearningLayout } from '../../components/LearningLayout'
+import { LumiSays } from '../../components/Lumi'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { useTiers, useChildProgress } from '../../content/queries'
@@ -29,13 +30,29 @@ export default function Topic() {
 
   const progressByTier = new Map((progress ?? []).map((p) => [p.tier_id, p]))
   const topicName = topic ? (locale === 'af' ? topic.name_af : topic.name_en) : ''
+  const allMastered = (tiers ?? []).length > 0 && (tiers ?? []).every((tr) => progressByTier.get(tr.id)?.mastered)
 
   return (
     <LearningLayout title={topicName}>
-      <h1 className="mb-6 font-heading text-2xl font-bold">{topicName || t('learning.topics')}</h1>
+      <h1 className="mb-4 font-heading text-2xl font-bold">{topicName || t('learning.topics')}</h1>
+
+      {!isLoading && (tiers ?? []).length > 0 && (
+        <LumiSays
+          pose={allMastered ? 'celebrating' : 'reading'}
+          size={allMastered ? 72 : 64}
+          animation={allMastered ? 'bounce' : undefined}
+          className="mb-5"
+        >
+          {allMastered ? t('lumi.topic.allDone') : t('lumi.topic.intro')}
+        </LumiSays>
+      )}
 
       {isLoading ? (
         <p className="text-muted">{t('common.loading')}</p>
+      ) : (tiers ?? []).length === 0 ? (
+        <LumiSays pose="emptyState" size={112}>
+          {t('lumi.empty.activities')}
+        </LumiSays>
       ) : (
         <div className="flex flex-col gap-3">
           {(tiers ?? []).map((tier, i) => {

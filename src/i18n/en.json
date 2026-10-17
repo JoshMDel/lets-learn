@@ -146,6 +146,16 @@
   "chat.empty": "No messages yet — say hello!",
   "chat.pickChild": "Choose who to chat with",
   "chat.loading": "Loading conversation…",
+  "lumi.greeting": "Hi! I'm Lumi. Ready to learn something new today?",
+  "lumi.subject.intro": "Let's learn something new! Pick a topic to start.",
+  "lumi.subject.allDone": "Wow, you've finished every topic here!",
+  "lumi.topic.intro": "Ready for your next challenge?",
+  "lumi.topic.allDone": "You've mastered every level here. Well done!",
+  "lumi.empty.activities": "No activities here yet. Check back soon!",
+  "lumi.results.passed": "You did it! I'm so proud of you.",
+  "lumi.results.tryAgain": "Good effort! Let's practise and try again.",
+  "lumi.parent.noLearners": "Welcome! Add your first learner to get started.",
+  "lumi.switch.noLearners": "No learners yet. Add one to get started!",
   "locale.toggle.en": "EN",
   "locale.toggle.af": "AF"
 }

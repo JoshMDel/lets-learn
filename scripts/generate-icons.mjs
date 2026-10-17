@@ -7,6 +7,7 @@ import path from 'node:path'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const src = path.join(__dirname, 'icon-source.svg')
+const srcMaskable = path.join(__dirname, 'icon-source-maskable.svg')
 const outDir = path.join(__dirname, '..', 'public', 'icons')
 
 await mkdir(outDir, { recursive: true })
@@ -14,17 +15,17 @@ await mkdir(outDir, { recursive: true })
 const targets = [
   { name: 'icon-192.png', size: 192 },
   { name: 'icon-512.png', size: 512 },
-  { name: 'icon-maskable-512.png', size: 512 },
+  { name: 'icon-maskable-512.png', size: 512, source: srcMaskable },
   { name: 'apple-touch-icon.png', size: 180 },
 ]
 
-for (const { name, size } of targets) {
-  await sharp(src, { density: 384 })
+for (const { name, size, source = src } of targets) {
+  await sharp(source, { density: 384 })
     .resize(size, size)
     .png()
     .toFile(path.join(outDir, name))
   console.log('wrote', name)
 }
 
-// Also drop a simplified favicon.svg at the app root (browsers render this
-// directly, no rasterization needed).
+// public/favicon.svg is a plain copy of icon-source.svg (browsers render SVG
+// favicons directly, no rasterization needed).

@@ -1,26 +1,27 @@
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's Learn">
-  <rect x="0" y="0" width="200" height="200" rx="44" fill="#FBF1E2"/>
-
-  <!-- ears -->
-  <circle cx="66" cy="60" r="20" fill="#1f9c8f"/>
-  <circle cx="134" cy="60" r="20" fill="#1f9c8f"/>
-
-  <!-- head -->
-  <circle cx="100" cy="104" r="68" fill="#1f9c8f"/>
-  <circle cx="100" cy="104" r="68" fill="url(#logoShine)" opacity="0.28"/>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's Learn">
   <defs>
-    <radialGradient id="logoShine" cx="34%" cy="26%" r="60%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    <linearGradient id="lumiTile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1fb8a8"/>
+      <stop offset="1" stop-color="#0a5a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#lumiTile)"/>
+  <defs>
+    <linearGradient id="lumiBody" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#63f3d6"/>
+      <stop offset="0.55" stop-color="#2fddbc"/>
+      <stop offset="1" stop-color="#14b4a1"/>
+    </linearGradient>
+    <radialGradient id="lumiShine" cx="0.3" cy="0.22" r="0.55">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <!-- eyes -->
-  <circle cx="76" cy="100" r="13" fill="#20312f"/>
-  <circle cx="124" cy="100" r="13" fill="#20312f"/>
-  <circle cx="80" cy="96" r="3.4" fill="#ffffff"/>
-  <circle cx="128" cy="96" r="3.4" fill="#ffffff"/>
-
-  <!-- smile -->
-  <path d="M82 132 Q100 146 118 132" stroke="#20312f" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <circle cx="142" cy="136" r="46" fill="#1fc9ad"/>
+  <circle cx="370" cy="136" r="46" fill="#1fc9ad"/>
+  <rect x="76" y="112" width="360" height="336" rx="156" fill="url(#lumiBody)"/>
+  <rect x="76" y="112" width="360" height="336" rx="156" fill="url(#lumiShine)"/>
+  <ellipse cx="200" cy="284" rx="21" ry="24" fill="#0c2a2e"/>
+  <ellipse cx="312" cy="284" rx="21" ry="24" fill="#0c2a2e"/>
+  <path d="M186 344 Q256 396 326 344" stroke="#0c2a2e" stroke-width="16" fill="none" stroke-linecap="round"/>
 </svg>

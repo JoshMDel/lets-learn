@@ -1,0 +1,20 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lumi">
+  <defs>
+    <linearGradient id="lumiBody" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#63f3d6"/>
+      <stop offset="0.55" stop-color="#2fddbc"/>
+      <stop offset="1" stop-color="#14b4a1"/>
+    </linearGradient>
+    <radialGradient id="lumiShine" cx="0.3" cy="0.22" r="0.55">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="142" cy="136" r="46" fill="#1fc9ad"/>
+  <circle cx="370" cy="136" r="46" fill="#1fc9ad"/>
+  <rect x="76" y="112" width="360" height="336" rx="156" fill="url(#lumiBody)"/>
+  <rect x="76" y="112" width="360" height="336" rx="156" fill="url(#lumiShine)"/>
+  <ellipse cx="200" cy="284" rx="21" ry="24" fill="#0c2a2e"/>
+  <ellipse cx="312" cy="284" rx="21" ry="24" fill="#0c2a2e"/>
+  <path d="M186 344 Q256 396 326 344" stroke="#0c2a2e" stroke-width="16" fill="none" stroke-linecap="round"/>
+</svg>

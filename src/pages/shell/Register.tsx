@@ -5,12 +5,14 @@ import { Button } from '../../components/ui/Button'
 import { TextField } from '../../components/ui/TextField'
 import { useLocale } from '../../i18n/LocaleContext'
 import { registerParent } from '../../lib/authApi'
+import { useAuth } from '../../auth/AuthContext'
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 
 export default function Register() {
   const { t } = useLocale()
   const navigate = useNavigate()
+  const { unlockParentTools } = useAuth()
   const [firstName, setFirstName] = useState('')
   const [lastName, setLastName] = useState('')
   const [email, setEmail] = useState('')
@@ -34,7 +36,8 @@ export default function Register() {
     setSubmitting(true)
     try {
       await registerParent({ firstName, lastName, email, contactNumber, password })
-      navigate('/switch-profile', { replace: true })
+      unlockParentTools()
+      navigate('/parent', { replace: true })
     } catch (err) {
       const message = err instanceof Error ? err.message : ''
       if (message.toLowerCase().includes('already registered') || message.toLowerCase().includes('exists')) {

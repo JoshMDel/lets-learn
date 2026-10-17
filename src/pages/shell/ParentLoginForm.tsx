@@ -4,12 +4,14 @@ import { Button } from '../../components/ui/Button'
 import { TextField } from '../../components/ui/TextField'
 import { useLocale } from '../../i18n/LocaleContext'
 import { loginParent } from '../../lib/authApi'
+import { useAuth } from '../../auth/AuthContext'
 
 /** The parent/teacher half of the unified welcome page's role toggle. Same
  * loginParent() call/behaviour as the old standalone /login page. */
 export function ParentLoginForm() {
   const { t } = useLocale()
   const navigate = useNavigate()
+  const { unlockParentTools } = useAuth()
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
@@ -21,7 +23,10 @@ export function ParentLoginForm() {
     setSubmitting(true)
     try {
       await loginParent(email, password)
-      navigate('/switch-profile', { replace: true })
+      // They just typed their password, so the parent-tools re-auth gate
+      // would only ask for it again -- land straight on the dashboard.
+      unlockParentTools()
+      navigate('/parent', { replace: true })
     } catch {
       setError(t('auth.error.invalidCredentials'))
     } finally {

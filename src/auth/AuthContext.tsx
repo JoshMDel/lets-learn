@@ -43,6 +43,28 @@ interface AuthContextValue {
 
 const AuthContext = createContext<AuthContextValue | null>(null)
 
+// Remembers (per browser) which parent last unlocked the parent tools, so a
+// page reload or app reopen doesn't make them re-enter their password. It is
+// cleared on logout / account change, and when a child is handed the device.
+const PARENT_UNLOCK_KEY = 'lets-learn-parent-unlocked'
+
+function readUnlockedUserId(): string | null {
+  try {
+    return window.localStorage.getItem(PARENT_UNLOCK_KEY)
+  } catch {
+    return null
+  }
+}
+
+function writeUnlockedUserId(id: string | null) {
+  try {
+    if (id) window.localStorage.setItem(PARENT_UNLOCK_KEY, id)
+    else window.localStorage.removeItem(PARENT_UNLOCK_KEY)
+  } catch {
+    // storage unavailable: falls back to unlock-per-page-load
+  }
+}
+
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [session, setSession] = useState<Session | null>(null)
   const [loading, setLoading] = useState(true)
@@ -114,15 +136,21 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     supabase.auth.getSession().then(async ({ data }) => {
       if (!mounted) return
       currentUserIdRef.current = data.session?.user.id ?? null
+      if (currentUserIdRef.current && readUnlockedUserId() === currentUserIdRef.current) {
+        setParentToolsUnlocked(true)
+      }
       setSession(data.session)
       await loadRoleForSession(data.session)
       setLoading(false)
     })
 
-    const { data: sub } = supabase.auth.onAuthStateChange(async (_event, newSession) => {
+    const { data: sub } = supabase.auth.onAuthStateChange(async (event, newSession) => {
       const newUserId = newSession?.user.id ?? null
-      if (newUserId !== currentUserIdRef.current) {
+      // INITIAL_SESSION is just the stored session being restored on load, not
+      // a change of user -- it must not wipe the remembered parent unlock.
+      if (event !== 'INITIAL_SESSION' && newUserId !== currentUserIdRef.current) {
         setParentToolsUnlocked(false)
+        writeUnlockedUserId(null)
       }
       currentUserIdRef.current = newUserId
       setSession(newSession)
@@ -136,8 +164,14 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  const unlockParentTools = useCallback(() => setParentToolsUnlocked(true), [])
-  const lockParentTools = useCallback(() => setParentToolsUnlocked(false), [])
+  const unlockParentTools = useCallback(() => {
+    setParentToolsUnlocked(true)
+    writeUnlockedUserId(currentUserIdRef.current)
+  }, [])
+  const lockParentTools = useCallback(() => {
+    setParentToolsUnlocked(false)
+    writeUnlockedUserId(null)
+  }, [])
 
   const logoutLearner = useCallback(async () => {
     if (role === 'child') {

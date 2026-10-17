@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import { ShellLayout } from '../../components/ShellLayout'
 import { Button } from '../../components/ui/Button'
 import { Card } from '../../components/ui/Card'
+import { LumiSays } from '../../components/Lumi'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { supabase } from '../../lib/supabaseClient'
@@ -85,7 +86,12 @@ export default function ParentHome() {
       {isLoading ? (
         <p className="mt-8 text-muted">{t('common.loading')}</p>
       ) : (children ?? []).length === 0 ? (
-        <p className="mt-8 text-muted">{t('parent.dashboard.empty')}</p>
+        <Card className="mt-8">
+          <LumiSays pose="emptyState" size={120}>
+            <span className="block font-semibold">{t('lumi.parent.noLearners')}</span>
+            <span className="mt-0.5 block text-muted">{t('parent.dashboard.empty')}</span>
+          </LumiSays>
+        </Card>
       ) : (
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {children!.map((child) => {

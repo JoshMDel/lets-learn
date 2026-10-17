@@ -4,7 +4,8 @@ import { useAuth } from './AuthContext'
 
 function FullScreenLoading() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-app text-muted">
+    <div className="flex min-h-screen flex-col items-center justify-center gap-3 bg-app text-muted">
+      <img src="/brand/lumi-logo.svg" alt="" className="lumi-float h-16 w-16" />
       Loading…
     </div>
   )

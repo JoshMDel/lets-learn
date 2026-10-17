@@ -146,6 +146,16 @@
   "chat.empty": "Nog geen boodskappe nie — groet gerus!",
   "chat.pickChild": "Kies met wie om te klets",
   "chat.loading": "Gesprek laai tans…",
+  "lumi.greeting": "Hallo! Ek is Lumi. Is jy gereed om vandag iets nuuts te leer?",
+  "lumi.subject.intro": "Kom ons leer iets nuuts! Kies 'n onderwerp om te begin.",
+  "lumi.subject.allDone": "Wow, jy het al die onderwerpe hier voltooi!",
+  "lumi.topic.intro": "Gereed vir jou volgende uitdaging?",
+  "lumi.topic.allDone": "Jy het al die vlakke hier bemeester. Mooi so!",
+  "lumi.empty.activities": "Nog geen aktiwiteite hier nie. Loer gou weer in!",
+  "lumi.results.passed": "Jy het dit reggekry! Ek is so trots op jou.",
+  "lumi.results.tryAgain": "Goeie poging! Kom ons oefen en probeer weer.",
+  "lumi.parent.noLearners": "Welkom! Voeg jou eerste leerder by om te begin.",
+  "lumi.switch.noLearners": "Nog geen leerders nie. Voeg een by om te begin!",
   "locale.toggle.en": "EN",
   "locale.toggle.af": "AF"
 }

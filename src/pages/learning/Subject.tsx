@@ -1,6 +1,7 @@
 import { useParams, useNavigate } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { LearningLayout } from '../../components/LearningLayout'
+import { LumiSays } from '../../components/Lumi'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { useTopics } from '../../content/queries'
@@ -60,12 +61,30 @@ export default function Subject() {
     },
   })
 
+  const allDone =
+    (topics ?? []).length > 0 && (topics ?? []).every((tp) => progressByTopic?.complete.has(tp.id))
+
   return (
     <LearningLayout>
-      <h1 className="mb-6 font-heading text-2xl font-bold">{t('learning.topics')}</h1>
+      <h1 className="mb-4 font-heading text-2xl font-bold">{t('learning.topics')}</h1>
+
+      {!isLoading && (topics ?? []).length > 0 && (
+        <LumiSays
+          pose={allDone ? 'celebrating' : 'reading'}
+          size={allDone ? 72 : 64}
+          animation={allDone ? 'bounce' : undefined}
+          className="mb-5"
+        >
+          {allDone ? t('lumi.subject.allDone') : t('lumi.subject.intro')}
+        </LumiSays>
+      )}
 
       {isLoading ? (
         <p className="text-muted">{t('common.loading')}</p>
+      ) : (topics ?? []).length === 0 ? (
+        <LumiSays pose="emptyState" size={112}>
+          {t('lumi.empty.activities')}
+        </LumiSays>
       ) : (
         <div className="flex flex-col gap-3">
           {(topics ?? []).map((topic) => {

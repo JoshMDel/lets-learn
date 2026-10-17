@@ -2,6 +2,7 @@ import { useQuery } from '@tanstack/react-query'
 import { Navigate, useNavigate } from 'react-router-dom'
 import { ShellLayout } from '../../components/ShellLayout'
 import { Button } from '../../components/ui/Button'
+import { LumiSays } from '../../components/Lumi'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { supabase } from '../../lib/supabaseClient'
@@ -12,7 +13,7 @@ import type { ChildProfile, ChildState } from '../../types/content'
 export default function SwitchProfile() {
   const { t } = useLocale()
   const navigate = useNavigate()
-  const { session, role, loading, setActiveChildId } = useAuth()
+  const { session, role, loading, setActiveChildId, lockParentTools } = useAuth()
 
   const { data: children, isLoading } = useQuery({
     queryKey: ['myChildren', session?.user.id],
@@ -47,6 +48,9 @@ export default function SwitchProfile() {
   if (role === 'child') return <Navigate to="/home" replace />
 
   function chooseChild(id: string) {
+    // Handing the device to a child relocks the parent tools (password needed
+    // to get back in), now that unlocking survives reloads.
+    lockParentTools()
     setActiveChildId(id)
     navigate('/home')
   }
@@ -68,6 +72,10 @@ export default function SwitchProfile() {
 
       {isLoading ? (
         <p className="mt-8 text-muted">{t('common.loading')}</p>
+      ) : (children ?? []).length === 0 ? (
+        <LumiSays pose="emptyState" size={112} className="mt-8">
+          {t('lumi.switch.noLearners')}
+        </LumiSays>
       ) : (
         <div className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-3">
           {(children ?? []).map((child) => (
