@@ -1,0 +1,187 @@
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+from lessonkit import *
+
+INT97 = [
+  'Welkom by ons program, Tienertyd!',
+  'Dit is Danie Swanepoel van Tienertyd, en vandag voer ons ’n onderhoud met die beroemde sanger, Bobby van Jaarsveld. Welkom by ons program, Bobby!',
+  'Baie dankie, dit is ’n voorreg om vandag met die luisteraars te kan gesels.',
+  'Daar is baie jong bewonderaars wat meer oor jou te wete wil kom. Vertel vir ons waar en wanneer jy gebore is?',
+  'Ek is op die 6de Maart 1987 in Paarl in die Wes-Kaap gebore.',
+  'Vertel vir ons meer van jou familie en jou lewe voordat jy ’n musiekster geword het.',
+  'My doopnaam is Pieter. Ek het my bynaam Bobby by my pa gekry. Ek is die middelste van 3 kinders, en ek het twee sussies: Karlien en Cara. Ons moes baie verhuis a.g.v. my pa se werksomstandighede – ek was in 7 verskillende laerskole! Ek het egter net een hoërskool bygewoon, naamlik die Hoërskool Brits, waar ek ook gematrikuleer het. Op 7 Januarie 2011 is ek met Anna Rheeders getroud, en vandag het ons twee seuns: Sion en Leben, wat ons groot vreugde verskaf.',
+  'Van watter sportsoorte en ander ontspanningsaktiwiteite hou jy?',
+  'Op skool het ek aan hokkie, rugby, krieket en atletiek deelgeneem. Ek hou daarvan om te gaan fliek en is baie lief vir springmielies. Ek is mal oor duik, en wanneer ek die kans kry om te gaan diepseeduik, doen ek dit. Andersins moet ek liedjies skryf en babas oppas. Op hierdie stadium is dit my stokperdjie: kinders grootmaak.',
+  'Het julle enige troeteldiere?',
+  'Ek is baie lief vir alle diere. Een van my troeteldiere op skool was ’n slang, alhoewel hy darem nie giftig was nie. Later het ek ook ’n iguana aangeskaf. My lieflinghond se naam was Baboo, wat ’n steekhaar-terriër was. As ek nie ’n sanger geword het nie, sou ek beslis ’n veearts geword het.',
+  'Hoe het jou loopbaan begin?',
+  'Ek het op hoërskool aan talentkompetisies begin deelneem, en daar het my liefde vir die musiekbedryf begin. Ek het my eerste CD-kontrak in Graad 11 gekry, en my eerste solo-CD is vroeg in my matriekjaar uitgereik. Daarna het ek professioneel begin optree.',
+  'Vertel vir ons meer van jou loopbaan.',
+  'Eerstens wil ek dankie sê aan elkeen wat my altyd ondersteun. Ek waardeer julle uit my hart uit. Ek sê dit altyd en sal dit weer en weer sê – ons kan net doen wat ons doen solank julle ons CD’s en DVD’s koop en ons konserte bywoon. Deur genade kon ek al 3 albums vrystel, nl. Duisende Ure, Net Vir Jou en Wat Geld Nie Kan Koop Nie. Ek het ook reeds verskeie musiekvideo’s vrygestel, o.a. “Spieëltjie”, “’n Vrou wil dit Hoor”, “Net vir Jou” en “Kyk waar is ons Nou”. Ek het ook opgetree in die rolprente Liefling en As Jy Sing. Afgesien van my alleenoptredes sedert 2001 het ek ook van 2007 tot 2011 aan die Skouspeloptredes deelgeneem, en sedert 2012 neem ek aan die “Afrikaans is Groot”-opvoerings deel.',
+  'Wat is jou boodskap aan ander jongmense?',
+  'Ek wil jongmense aanmoedig om hulle droom uit te lewe en altyd te weet waar hulle krag en sukses vandaan kom. Die feit dat ek my droom kan uitleef is pure genade. Ek dank my hemelse Vader vir sy liefde en genade, want dit is waar my krag vandaan kom.']
+GL97 = [('bewonderaars', 'Mense wat baie van iemand hou en hom of haar bewonder.'), ('voorreg', '’n Spesiale geleentheid waarvoor jy dankbaar is.'), ('doopnaam', 'Die naam wat jy by jou doop gekry het.'), ('gematrikuleer', 'Matriek geslaag (die laaste skooljaar voltooi).'),
+        ('verskaf', 'Gee of bring.'), ('iguana', '’n Groot akkedis.'), ('loopbaan', 'Die beroep of werk wat jy oor baie jare doen.'), ('professioneel', 'Soos ’n beroep: vir geld en met vaardigheid.')]
+CRIT = ['Duidelike uitspraak', 'Voldoende volume', 'Wisseling van stemtoon', 'Tempo (nie te vinnig of te stadig nie)']
+
+# ============================================================== 97 Onderhoud met 'n musiekster
+L97 = lesson(97,
+  skills=[LISTEN, READ],
+  intro='Wat vra ’n radio-omroeper vir ’n musiekster? Luister na ’n onderhoud met Bobby van Jaarsveld, bespreek dit en rolspeel dit saam met ’n maat.',
+  objectives=['Na ’n radio-onderhoud luister.', 'Die onderhoud in ’n groep bespreek.', 'Die onderhoud rolspeel.', 'Mekaar se onderhoude beoordeel.'],
+  pass_=passage('Onderhoud met ’n musiekster', INT97, glossary=GL97),
+  learn=[
+    note('’n **Onderhoud** is ’n gesprek met vrae en antwoorde. Die onderhoudvoerder vra vrae en die ander persoon antwoord.', title='Wat is ’n onderhoud?', src='supplementary', page=70),
+    text('Hoe beoordeel ons ’n onderhoud?', bullets=CRIT, page=71),
+  ],
+  acts=[
+    discuss('Luister aandagtig', 'Luister aandagtig terwyl jou onderwyser hierdie onderhoud voorlees. (Of druk die knoppie.)', speak='passage', page=70, item='Ons lees'),
+    discuss('Rolspeel die onderhoud', 'Werk in pare. Rolspeel hierdie onderhoud met Bobby van Jaarsveld. Jy en jou maat kan beurte maak om die radio-omroeper en Bobby te wees.', page=71, item='Ons doen'),
+    writing('Beoordeel julle onderhoud', 'Merk wat julle goed gedoen het.', checklist=CRIT, no_text=True, page=71, item='kriteria', lines=1),
+    discuss('Gee jou maat raad', 'Gee jou maat indien nodig raad voordat julle die onderhoud weer rolspeel, bv. praat stadiger, harder, ens.', page=71, item='raad'),
+    discuss('Bespreek in groepverband', 'Bespreek hierdie vrae.', points=['Wie dink jy sou na hierdie radioprogram luister? Dink jy die luisteraars sou hoofsaaklik ouer mense of jongmense wees?', 'Dink jy hulle sou in stede of in landelike gebiede woon?', 'Is daar nog sulke programme op Suid-Afrikaanse radiostasies of op TV?',
+            'Wat is die name van die programme?', 'Hou jy van Bobby van Jaarsveld? Sê waarom. Is daar ander sterre met wie jy graag ’n onderhoud sou wil voer?'], page=71, item='Ons praat'),
+    fill('Feite uit die onderhoud', 'Bobby is gebore op die {{1}} Maart {{2}} in {{3}} in die Wes-Kaap. Sy doopnaam is {{4}}.', {1: ['6de', '6'], 2: '1987', 3: 'Paarl', 4: 'Pieter'}, 'Dit is sy antwoord op die eerste vraag en die tweede vraag.', src='supplementary', status='derived_from_text'),
+    match('Wie of wat?', 'Verbind elke persoon of ding met die regte feit uit die onderhoud.', [('Danie Swanepoel', 'die onderhoudvoerder van Tienertyd'), ('Karlien en Cara', 'Bobby se twee sussies'), ('Sion en Leben', 'Bobby se twee seuns'), ('Baboo', 'Bobby se lieflinghond')], 'Dit is almal in die onderhoud genoem.', src='supplementary', status='derived_from_text'),
+    order('Bobby se loopbaan', 'Sit die gebeure in die volgorde waarin dit in sy loopbaan plaasgevind het.', ['Hy neem aan talentkompetisies deel.', 'Hy kry sy eerste CD-kontrak in Graad 11.', 'Sy eerste solo-CD kom vroeg in sy matriekjaar uit.', 'Hy begin professioneel optree.'], 'Dit is die volgorde in sy antwoord oor sy loopbaan.', perm=[2, 0, 3, 1], src='supplementary', status='derived_from_text'),
+    tf('Waar of onwaar?', 'Bobby het in net een laerskool skoolgegaan.', False, 'Hy sê: “ek was in 7 verskillende laerskole!”', src='supplementary', status='derived_from_text'),
+  ],
+  quiz=[
+    q('literal', 'Wie voer die onderhoud met Bobby?', 'Danie Swanepoel', ['Anna Rheeders', 'Pieter', 'Baboo'], 'Hy stel homself voor as Danie Swanepoel van Tienertyd.', ev=['Danie Swanepoel']),
+    q('literal', 'In watter stad is Bobby gebore?', 'Paarl', ['Brits', 'Kaapstad', 'Pretoria'], 'Hy is in Paarl in die Wes-Kaap gebore.', ev=['in Paarl in die Wes-Kaap']),
+    q('literal', 'Waar kom Bobby se bynaam vandaan?', 'Van sy pa', ['Van sy ma', 'Van sy onderwyser', 'Van ’n vriend'], 'Hy het sy bynaam Bobby by sy pa gekry.', ev=['bynaam Bobby by my pa gekry']),
+    q('literal', 'Hoeveel laerskole het Bobby bygewoon?', '7', ['1', '3', '11'], 'Hy moes baie verhuis en was in 7 verskillende laerskole.', ev=['7 verskillende laerskole']),
+    q('literal', 'Aan watter sportsoorte het Bobby op skool deelgeneem?', 'Hokkie, rugby, krieket en atletiek', ['Net sokker', 'Tennis en swem', 'Netbal en gholf'], 'Hy noem hokkie, rugby, krieket en atletiek.', ev=['hokkie, rugby, krieket']),
+    q('literal', 'Wat was een van Bobby se troeteldiere op skool?', '’n Slang', ['’n Perd', '’n Papegaai', '’n Kat'], 'Een van sy troeteldiere op skool was ’n slang.', ev=['troeteldiere op skool was ’n slang']),
+    q('literal', 'Wanneer het Bobby sy eerste CD-kontrak gekry?', 'In Graad 11', ['In Graad 1', 'Ná matriek', 'In Graad 7'], 'Hy het sy eerste CD-kontrak in Graad 11 gekry.', ev=['eerste CD-kontrak in Graad 11']),
+    q('main_idea', 'Wat is Bobby se boodskap aan jongmense?', 'Leef jou droom uit en onthou waar jou krag vandaan kom.', ['Moet nooit skool toe gaan nie.', 'Word net ’n sanger.', 'Moenie vir ander luister nie.'], 'Hy moedig jongmense aan om hulle droom uit te leef.', ev=['jongmense aanmoedig om hulle droom uit te lewe']),
+    q('vocabulary', 'Wat is ’n onderhoud?', '’n Gesprek met vrae en antwoorde', ['’n Brief', '’n Gedig', '’n Prent'], 'Die onderhoudvoerder vra vrae en die ander persoon antwoord.', status='derived_from_rule', src='supplementary'),
+  ])
+
+# ============================================================== 98 Ons dink na oor die onderhoud
+L98 = lesson(98,
+  skills=[READ, LANG],
+  intro='Wat het ons uit die onderhoud geleer? Soeklees die onderhoud, gee jou mening en werk met antonieme, sinonieme, homofone en homonieme.',
+  objectives=['Soeklees ’n onderhoud en vrae daaroor beantwoord.', 'Jou eie mening uitspreek en stereotipering uitken.', 'Antonieme en sinonieme gebruik.', 'Homofone en homonieme in sinne gebruik.'],
+  pass_=passage('Onderhoud met ’n musiekster (werkkaart 97)', INT97, glossary=GL97),
+  learn=[note('**Homofone** klink dieselfde, maar word verskillend gespel en het verskillende betekenisse. **Homonieme** is woorde wat dieselfde lyk en klink, maar wat verskillende betekenisse het.', title='Homofone en homonieme', page=73)],
+  acts=[
+    sa('Vraag 1', 'Wie het die onderhoud met Bobby van Jaarsveld gevoer?', 'Danie Swanepoel.', lines=1, page=72, item=1, status='derived_from_text'),
+    sa('Vraag 2', 'Tydens watter program is die onderhoud uitgesaai?', 'Tienertyd.', lines=1, page=72, item=2, status='derived_from_text'),
+    sa('Vraag 3', 'Hoe het hy sy sangloopbaan begin?', 'Hy het op hoërskool aan talentkompetisies begin deelneem, en daar het sy liefde vir die musiekbedryf begin.', lines=2, page=72, item=3, status='derived_from_text'),
+    sa('Vraag 4: Is sy loopbaan suksesvol?', 'Dink jy sy loopbaan is suksesvol? Motiveer jou antwoord.', None, lines=3, page=72, item=4),
+    sa('Vraag 5: Waardeer hy sy ondersteuners?', 'Dink jy Bobby waardeer sy ondersteuners? Gebruik ’n aanhaling uit die teks om jou antwoord te motiveer.', 'Ja: “Ek waardeer julle uit my hart uit.”', lines=2, page=72, item=5, status='derived_from_text'),
+    sa('Vraag 6: ’n Voorbeeld?', 'Voel jy dat Bobby vir jongmense ’n voorbeeld van positiewe sosiale waardes is? Motiveer jou antwoord.', None, lines=3, page=72, item=6),
+    sa('Vraag 7: Die vrae', 'Dink jy die onderhoudvoerder se keuse van vrae was doeltreffend? Motiveer jou antwoord.', None, lines=3, page=72, item=7),
+    sa('Vraag 8: Jou eie vraag', 'Watter ander vraag sou jy nog gestel het?', None, lines=2, page=72, item=8),
+    sa('Vraag 9: Stereotipe stelling', 'Stereotiepe stelling: Alle suksesvolle mense het ryk grootgeword. Dui aan of hierdie stelling waar of onwaar is. Motiveer jou antwoord.', 'Onwaar: dit is ’n veralgemening; baie suksesvolle mense het nie ryk grootgeword nie. (Bobby self sê besittings is nie die belangrikste ding nie.)', lines=3, page=72, item=9, status='needs_review'),
+    fill('Vervang met antonieme', 'Gisteraand voer ons ’n onderhoud met die {{1}} sanger, Bobby van Jaarsveld. (Vanaand → antoniem; onbekende → antoniem)\nDaar is baie {{2}} bewonderaars wat {{3}} oor jou te wete wil kom. (bejaarde; minder)\nEk het {{4}} in my lewe besef dat besittings nie die {{5}} ding is nie. (laat; onbelangrikste)',
+         {1: ['beroemde', 'bekende'], 2: 'jong', 3: 'meer', 4: 'vroeg', 5: 'belangrikste'}, 'Antonieme is teenoorgesteld: onbekend – beroemd, bejaard – jong, minder – meer, laat – vroeg, onbelangrikste – belangrikste.', src='workbook', page=73, item='antonieme', status='derived_from_rule'),
+    match('Sinonieme', 'Verbind die sinonieme met mekaar.', [('deelnemer', 'mededinger'), ('oorreed', 'oortuig'), ('positief', 'optimisties'), ('imponeer', 'beïndruk'), ('loopbaan', 'beroep')], 'Sinonieme het amper dieselfde betekenis.', src='workbook', page=73, item='sinonieme', status='derived_from_rule'),
+    sa('Homofone in sinne', 'Gebruik die volgende homofone in sinne sodat hulle betekenis duidelik word: ryk / reik / peil / pyl.', 'bv. Die ryk man het ’n groot huis. Ek kan nie so hoog reik nie. Die peil van die rivier styg. Die jagter skiet ’n pyl.', lines=4, page=73, item='homofone', status='needs_review'),
+    sa('Homonieme in sinne', 'Gebruik die volgende homonieme in sinne sodat hulle betekenis duidelik word: bloei (werkwoord, twee betekenisse) en berg (selfstandige naamwoord en werkwoord).', 'bv. Die roos sal môre bloei. Die seun se neus bloei. Ons klim teen die berg uit. Hulle berg die oes in die skuur.', lines=4, page=73, item='homonieme', status='needs_review'),
+  ],
+  quiz=[
+    q('literal', 'Wie het die onderhoud met Bobby gevoer?', 'Danie Swanepoel', ['Anna Rheeders', 'Baboo', 'Pieter'], 'Dit staan aan die begin van die onderhoud.', ev=['Danie Swanepoel'], src='workbook', page=72, item=1),
+    q('literal', 'Tydens watter program is die onderhoud uitgesaai?', 'Tienertyd', ['Skouspel', 'Afrikaans is Groot', 'Spieëltjie'], 'Danie is van Tienertyd.', ev=['Tienertyd'], src='workbook', page=72, item=2),
+    q('literal', 'Hoe het Bobby sy sangloopbaan begin?', 'Met talentkompetisies op hoërskool', ['As ’n kind in die kerk', 'Deur ’n advertensie', 'By ’n sokkerwedstryd'], 'Op hoërskool het hy aan talentkompetisies begin deelneem.', ev=['talentkompetisies begin deelneem'], src='workbook', page=72, item=3),
+    q('inference', 'Hoe weet ons dat Bobby sy ondersteuners waardeer?', 'Hy sê: “Ek waardeer julle uit my hart uit.”', ['Hy sing vir hulle.', 'Hy skryf aan hulle.', 'Hy gee hulle geskenke.'], 'Hy bedank almal wat hom ondersteun.', ev=['Ek waardeer julle uit my hart uit'], src='workbook', page=72, item=5, status='derived_from_text'),
+    q('vocabulary', 'Watter woord is ’n sinoniem vir “oorreed”?', 'oortuig', ['uitsluit', 'verloor', 'hardloop'], 'Oorreed en oortuig beteken amper dieselfde.', status='derived_from_rule', src='workbook', page=73, item='sinonieme'),
+    q('vocabulary', 'Watter woord is ’n sinoniem vir “loopbaan”?', 'beroep', ['probleem', 'skool', 'vakansie'], 'Loopbaan en beroep het amper dieselfde betekenis.', status='derived_from_rule', src='workbook', page=73, item='sinonieme'),
+    q('vocabulary', 'Wat is die antoniem van “bejaarde”?', 'jong', ['oud', 'ryk', 'siek'], 'Bejaard beteken oud; die teenoorgestelde is jong.', status='derived_from_rule', src='workbook', page=73, item='antonieme'),
+    q('vocabulary', 'Wat is ’n stereotiepe stelling?', '’n Veralgemening oor ’n groep mense', ['’n Waar feit', '’n Vraag', '’n Lang antwoord'], 'Voorbeeld: Alle suksesvolle mense het ryk grootgeword.', status='derived_from_rule', src='workbook', page=72, item=9),
+    q('vocabulary', 'Wat is homonieme?', 'Woorde wat dieselfde lyk en klink, maar verskillende betekenisse het', ['Woorde met teenoorgestelde betekenis', 'Woorde wat dieselfde klink maar anders gespel word', 'Woorde met dieselfde betekenis'], 'Dit is die werkboek se verduideliking.', status='official', src='workbook', page=73),
+  ])
+
+# ============================================================== 99 Voer jou eie onderhoud
+L99 = lesson(99,
+  skills=[LISTEN, WRITE],
+  intro='Vandag is jy die radio-omroeper! Kies iemand, beplan vier vrae, voer die onderhoud en rolspeel dit voor die klas.',
+  objectives=['’n Onderhoud beplan met ’n geheuekaart (spinnekopdiagram).', 'Vier belangrike vrae oor iemand se lewe en loopbaan opstel.', '’n Onderhoud voer en die antwoorde invul.', 'Die onderhoud voor die klas rolspeel.'],
+  learn=[text('Hoe beplan jy ’n onderhoud?', bullets=['Dink met wie jy ’n onderhoud wil voer en skryf die naam in die middel van die spinnekopdiagram.', 'Dink aan die **vier belangrikste vrae** oor sy of haar lewe en loopbaan.', 'Voer die onderhoud (of vra ’n maat om voor te gee om die persoon te wees).', 'Skryf die antwoorde neer.'], page=74)],
+  acts=[
+    discuss('Jy is die radio-omroeper', 'Vandag is jy ’n radio-omroeper. Dink met wie jy ’n onderhoud wil voer.', page=74, item='Ons skryf'),
+    writing('My vier belangrikste vrae', 'Vul die persoon se naam in die middel van die spinnekopdiagram in. Skryf jou vier belangrikste vrae oor sy of haar lewe en loopbaan.', checklist=['Ek het die persoon se naam neergeskryf.', 'Vraag 1 is geskryf.', 'Vraag 2 is geskryf.', 'Vraag 3 is geskryf.', 'Vraag 4 is geskryf.'], lines=6, page=74, item='vrae'),
+    discuss('Voer die onderhoud', 'Voer nou indien moontlik ’n werklike onderhoud met die persoon wat jy gekies het, en vra hom of haar jou vier vrae. Indien dit nie moontlik is nie, vra ’n maat om voor te gee om daardie persoon te wees, en doen ’n rolspel van die onderhoud.', page=74, item='Ons doen'),
+    writing('Die antwoorde op my vrae', 'Skryf ’n onderhoud met … Vul die antwoorde op jou vier vrae in (antwoord 1 tot 4).', checklist=['Ek het antwoord 1 neergeskryf.', 'Ek het antwoord 2 neergeskryf.', 'Ek het antwoord 3 neergeskryf.', 'Ek het antwoord 4 neergeskryf.'], lines=10, page=75, item='antwoorde'),
+    discuss('Rolspel voor die klas', 'Rolspel jou en jou maat se onderhoud voor die klas.', page=75, item='Ons doen'),
+    choices('Goeie onderhoudvrae', 'Is dit ’n goeie vraag vir ’n onderhoud (’n oop vraag wat meer as ja of nee vra)?', [('Vertel my van jou loopbaan.', ['Ja', 'Nee'], 0), ('Hou jy van sokker?', ['Ja', 'Nee'], 1), ('Hoe het jy begin sing?', ['Ja', 'Nee'], 0), ('Is jy 12?', ['Ja', 'Nee'], 1)],
+            'Oop vrae wat met “Hoe”, “Vertel” of “Waarom” begin, gee langer antwoorde.', src='supplementary', status='derived_from_rule'),
+    order('Die stappe van ’n onderhoud', 'Sit die stappe in die regte volgorde.', ['Kies met wie jy ’n onderhoud wil voer.', 'Skryf vier belangrike vrae op die geheuekaart.', 'Voer die onderhoud.', 'Skryf die antwoorde neer.', 'Rolspeel die onderhoud voor die klas.'], 'Dit is die volgorde wat die werkboek gee.', perm=[3, 0, 4, 1, 2], src='supplementary', status='official'),
+  ],
+  quiz=[
+    q('sequencing', 'Wat doen jy EERSTE as jy ’n onderhoud beplan?', 'Besluit met wie jy ’n onderhoud wil voer', ['Skryf die antwoorde', 'Rolspeel voor die klas', 'Voer die onderhoud'], 'Die werkboek sê: dink met wie jy ’n onderhoud wil voer.', status='official', src='supplementary', page=74),
+    q('main_idea', 'Hoeveel belangrikste vrae moet jy opstel?', 'Vier', ['Een', 'Twee', 'Tien'], 'Die werkboek sê: die vier belangrikste vrae.', status='official', src='supplementary', page=74),
+    q('main_idea', 'Wat skryf jy in die middel van die spinnekopdiagram?', 'Die naam van die persoon met wie jy die onderhoud voer', ['Die datum', 'Jou eie naam', 'Die titel van ’n lied'], 'Die werkboek sê vul die persoon se naam in die middel in.', status='official', src='supplementary', page=74),
+    q('main_idea', 'Wat as jy nie ’n werklike onderhoud kan voer nie?', 'Jy vra ’n maat om voor te gee om die persoon te wees', ['Jy los die oefening uit', 'Jy skryf ’n gedig', 'Jy bel die onderwyser'], 'Dit is die werkboek se opsie.', status='official', src='supplementary', page=74),
+    q('grammar', 'Watter vraag is ’n goeie oop onderhoudvraag?', 'Vertel my van jou loopbaan.', ['Is jy ’n sanger?', 'Hou jy van koffie?', 'Is dit warm?'], 'Oop vrae gee langer antwoorde.', status='derived_from_rule', src='supplementary'),
+    q('sequencing', 'Wat doen jy ná die onderhoud?', 'Skryf die antwoorde neer en rolspeel dit', ['Gooi dit weg', 'Begin ’n nuwe onderhoud', 'Niks nie'], 'Die werkboek vra jou om die antwoorde in te vul en voor die klas te rolspeel.', status='official', src='supplementary', page=75),
+    q('vocabulary', 'Wat is ’n radio-omroeper?', 'Iemand wat op die radio praat en onderhoude voer', ['Iemand wat radio’s maak', 'Iemand wat net musiek speel', 'Iemand wat kos verkoop'], 'In die oefening is jy die omroeper wat vrae vra.', status='derived_from_rule', src='supplementary'),
+    q('main_idea', 'Wat is die doel van ’n onderhoud?', 'Om meer oor iemand te leer deur vrae te vra', ['Om ’n gedig te skryf', 'Om ’n sokkerwedstryd te wen', 'Om ’n boek te lees'], 'Die onderhoudvoerder vra vrae en luister na die antwoorde.', status='derived_from_rule', src='supplementary'),
+  ])
+
+# ============================================================== 100 Ons hersien bywoorde
+L100 = lesson(100,
+  skills=[LANG],
+  intro='Bywoorde vertel ons wanneer, waar, hoe en hoeveel iets gedoen word. Vandag hersien ons die soorte bywoorde.',
+  objectives=['Bywoorde in sinne uitken.', 'Die tipe bywoord aandui (tyd, plek, wyse of graad).', 'Die woord uitwys wat deur die bywoord beskryf word.'],
+  learn=[
+    text('’n Kykie na bywoorde', 'Soos jy in vorige werkkaarte geleer het, sê bywoorde vir ons **wanneer** (tyd), **waar** (plek), **hoe** (wyse) en **hoeveel** of in watter mate (graad) iets gedoen word. Bywoorde gee meer inligting oor werkwoorde, byvoeglike naamwoorde, ander bywoorde, sinsdele ens.', page=76),
+    table('Die vier soorte bywoorde', ['Soort', 'Vraag', 'Voorbeeld'], [['Tyd', 'wanneer?', 'gister, môre, elke dag'], ['Plek', 'waar?', 'in die swembad, winkel toe'], ['Wyse', 'hoe?', 'saggies, mooi, vinnig'], ['Graad', 'hoeveel?', 'baie, geweldig']], page=76),
+    text('Wat beskryf bywoorde?', bullets=['Ons sing **mooi**. (Dit beskryf die werkwoord.)', 'Ons sing **baie** mooi. (Dit beskryf die bywoord.)', 'Ons sing ’n **vrolike**, tradisionele liedjie. (Dit beskryf die byvoeglike naamwoord.)'], page=76),
+  ],
+  acts=[
+    match('Nomsa swem …', 'Verbind elke bywoord(frase) met die soort bywoord: Nomsa swem elke dag baie geesdriftig in die swembad.', [('elke dag', 'tyd'), ('baie', 'graad'), ('geesdriftig', 'wyse'), ('in die swembad', 'plek')], 'Tyd = wanneer; graad = hoeveel; wyse = hoe; plek = waar.', src='workbook', page=76, item='tabel 1', status='derived_from_rule'),
+    match('My ma ry …', 'Verbind elke bywoord(frase) met die soort bywoord: My ma ry soggens geweldig vinnig werk toe.', [('soggens', 'tyd'), ('geweldig', 'graad'), ('vinnig', 'wyse'), ('werk toe', 'plek')], 'Soggens = wanneer; geweldig = hoeveel; vinnig = hoe; werk toe = waar.', src='workbook', page=76, item='tabel 3', status='derived_from_rule'),
+    choices('Watter soort bywoord?', 'Dui die soort bywoord aan (die onderstreepte deel):',
+            [('Hy praat saggies. (saggies)', ['tyd', 'plek', 'wyse', 'graad'], 2), ('Bobby woon in Suid-Afrika. (in Suid-Afrika)', ['tyd', 'plek', 'wyse', 'graad'], 1), ('Ons vertrek môre Sun City toe. (môre)', ['tyd', 'plek', 'wyse', 'graad'], 0),
+             ('Hy sing mooi omdat hy hard oefen. (mooi)', ['tyd', 'plek', 'wyse', 'graad'], 2), ('Die koor sing pragtig. (pragtig)', ['tyd', 'plek', 'wyse', 'graad'], 2), ('Hulle sal môreoggend ’n onderhoud voer. (môreoggend)', ['tyd', 'plek', 'wyse', 'graad'], 0),
+             ('Die kinders het aandagtig na die onderhoud geluister. (aandagtig)', ['tyd', 'plek', 'wyse', 'graad'], 2), ('Hulle het per bus huis toe gekom. (huis toe)', ['tyd', 'plek', 'wyse', 'graad'], 1), ('Hulle sing nou. (nou)', ['tyd', 'plek', 'wyse', 'graad'], 0),
+             ('Ek het gister radiostasie toe gegaan. (gister)', ['tyd', 'plek', 'wyse', 'graad'], 0)],
+            'Vra jou af: wanneer? waar? hoe? hoeveel?', src='workbook', page=76, item='sinne', status='derived_from_rule'),
+    choices('Wat beskryf die bywoord?', 'Wat word deur die onderstreepte bywoord beskryf?',
+            [('Ons sing mooi.  (mooi)', ['werkwoord', 'bywoord', 'byvoeglike naamwoord'], 0), ('Ons sing baie mooi.  (baie)', ['werkwoord', 'bywoord', 'byvoeglike naamwoord'], 1), ('Ons sing ’n baie vrolike liedjie.  (baie)', ['werkwoord', 'bywoord', 'byvoeglike naamwoord'], 2)],
+            'Bywoorde kan werkwoorde, ander bywoorde en byvoeglike naamwoorde beskryf.', src='supplementary', status='derived_from_rule'),
+    fill('Voltooi die sin', 'Bywoorde beantwoord vrae oor wanneer, {{1}}, hoe en in watter {{2}} iets gedoen word.', {1: 'waar', 2: ['mate', 'graad']}, 'Die werkboek sê: Bywoorde beantwoord dus vrae oor wanneer, waar, hoe en in watter mate iets gedoen word.', bank=['waar', 'mate', 'wie'], src='supplementary', status='official'),
+    tf('Waar of onwaar?', '“Nou” in “Hulle sing nou” is ’n bywoord van tyd.', True, 'Nou vertel wanneer hulle sing.', src='supplementary', status='derived_from_rule'),
+  ],
+  quiz=[
+    q('grammar', 'Watter vraag beantwoord ’n bywoord van tyd?', 'Wanneer?', ['Waar?', 'Hoe?', 'Wie?'], 'Die werkboek sê tyd = wanneer.', status='official', src='workbook', page=76),
+    q('grammar', 'Watter vraag beantwoord ’n bywoord van plek?', 'Waar?', ['Wanneer?', 'Hoe?', 'Hoeveel?'], 'Plek = waar.', status='official', src='workbook', page=76),
+    q('grammar', 'Watter vraag beantwoord ’n bywoord van wyse?', 'Hoe?', ['Wanneer?', 'Waar?', 'Wie?'], 'Wyse = hoe.', status='official', src='workbook', page=76),
+    q('grammar', 'Watter vraag beantwoord ’n bywoord van graad?', 'Hoeveel (in watter mate)?', ['Wanneer?', 'Waar?', 'Wie?'], 'Graad = hoeveel of in watter mate.', status='official', src='workbook', page=76),
+    q('grammar', 'Watter soort bywoord is “saggies” in “Hy praat saggies”?', 'wyse', ['tyd', 'plek', 'graad'], 'Saggies vertel hoe hy praat.', status='official', src='workbook', page=76, item='sinne'),
+    q('grammar', 'Watter soort bywoord is “gister” in “Ek het gister radiostasie toe gegaan”?', 'tyd', ['plek', 'wyse', 'graad'], 'Gister vertel wanneer.', status='derived_from_rule', src='workbook', page=76, item='sinne'),
+    q('grammar', 'Watter soort bywoord is “in die swembad”?', 'plek', ['tyd', 'wyse', 'graad'], 'In die swembad vertel waar.', status='derived_from_rule', src='workbook', page=76, item='tabel 1'),
+    q('grammar', 'Wat beskryf “baie” in “Ons sing baie mooi”?', 'Die bywoord “mooi”', ['Die werkwoord “sing”', 'Die selfstandige naamwoord', 'Die voornaamwoord “ons”'], 'Die werkboek sê dit beskryf die bywoord.', status='official', src='workbook', page=76),
+  ])
+
+# ============================================================== 101 Onthou jy nog?
+L101 = lesson(101,
+  skills=[LANG, WRITE],
+  intro='Onthou jy nog hoe woorde in die meervoud en verkleining verander, en hoe byvoeglike naamwoorde werk? Tyd vir ’n vinnige hersiening!',
+  objectives=['Meervoude en verkleinwoorde vorm.', 'Selfstandige en byvoeglike naamwoorde in sinne gebruik.', 'Die byvoeglike naamwoord voor en ná die selfstandige naamwoord skryf.'],
+  learn=[
+    note('Selfstandige naamwoorde is die name van mense, dinge en plekke.', title='Selfstandige naamwoorde', page=77),
+    table('Byvoeglike naamwoord voor of ná die selfstandige naamwoord', ['Voor (met -e)', 'Ná (sonder -e)'], [['Hy is ’n **lang** seun.', 'Die seun is **lank**.']], page=77),
+  ],
+  acts=[
+    fill('Meervoud en verkleining', 'seun: meervoud {{1}}, verkleining {{2}}\nlied: meervoud {{3}}, verkleining {{4}}\nonderhoud: meervoud {{5}}, verkleining {{6}}\nradio: meervoud {{7}}, verkleining {{8}}',
+         {1: 'seuns', 2: ['seuntjie', 'seunie'], 3: ['liedere', 'liedjies'], 4: 'liedjie', 5: 'onderhoude', 6: ['onderhoudjie', 'onderhoudjie'], 7: ['radio’s', 'radios'], 8: ['radiotjie', 'radio’tjie']},
+         'Kyk na die reëls vir meervoud (-e of -s) en verkleining (-jie, -tjie, -kie, -etjie, -pie).', prompt='Voltooi die tabel.', src='workbook', page=77, item='tabel', status='needs_review'),
+    choices('Byvoeglike naamwoord: kies die regte vorm', 'Kies die korrekte vorm.', [('Hy is ’n ___ seun.', ['lank', 'lang'], 1), ('Die seun is ___.', ['lank', 'lang'], 0), ('Sy is ’n ___ meisie.', ['talentvol', 'talentvolle'], 1), ('Die meisie is ___.', ['talentvol', 'talentvolle'], 0), ('Hy is ’n ___ omroeper.', ['bekwaam', 'bekwame'], 1), ('Die omroeper is ___.', ['bekwaam', 'bekwame'], 0)],
+            'Voor die selfstandige naamwoord kry die byvoeglike naamwoord dikwels -e; ná die naamwoord nie.', src='workbook', page=77, item='byvoeglike naamwoorde', status='derived_from_rule'),
+    sa('Skryf jou eie sinne', 'Gebruik hierdie selfstandige naamwoorde en byvoeglike naamwoorde om jou eie sinne te skryf. In die eerste sin moet jy die byvoeglike naamwoord voor die selfstandige naamwoord skryf. In die tweede sin moet jy die byvoeglike naamwoord ná die selfstandige naamwoord skryf: talentvol / meisie; bekwaam / omroeper; getrou / luisteraar; streng / bestuurder; pragtige / liedjie.',
+       'Die talentvolle meisie sing mooi. Die meisie is talentvol.\nHy is ’n bekwame omroeper. Die omroeper is bekwaam.\nSy is ’n getroue luisteraar. Die luisteraar is getrou.\nHy is ’n strenge bestuurder. Die bestuurder is streng.\nDit is ’n pragtige liedjie. Die liedjie is pragtig.', lines=8, page=77, item='sinne', status='derived_from_rule'),
+    tf('Waar of onwaar?', 'Selfstandige naamwoorde is die name van mense, dinge en plekke.', True, 'Die werkboek sê dit in die nota.', src='supplementary', status='official'),
+  ],
+  quiz=[
+    q('grammar', 'Wat is die meervoud van “seun”?', 'seuns', ['seune', 'seunde', 'seunen'], 'Seun – seuns.', status='derived_from_rule', src='workbook', page=77, item='tabel'),
+    q('grammar', 'Wat is die verkleining van “lied”?', 'liedjie', ['liedtjie', 'liedie', 'liedpie'], 'Woorde op -d kry -jie.', status='derived_from_rule', src='workbook', page=77, item='tabel'),
+    q('grammar', 'Watter vorm is korrek: “Hy is ’n ___ seun”?', 'lang', ['lank', 'lange', 'langer'], 'Voor die selfstandige naamwoord gebruik ons “lang”.', status='derived_from_rule', src='workbook', page=77, item='byvoeglike naamwoorde'),
+    q('grammar', 'Watter vorm is korrek: “Die seun is ___”?', 'lank', ['lang', 'lange', 'lankste'], 'Ná die selfstandige naamwoord: lank.', status='official', src='workbook', page=77),
+    q('grammar', 'Watter woord is die selfstandige naamwoord: “Die talentvolle meisie sing”?', 'meisie', ['talentvolle', 'sing', 'Die'], 'Meisie is die naam van ’n persoon.', status='derived_from_rule', src='supplementary'),
+    q('grammar', 'Watter woord is die byvoeglike naamwoord: “’n pragtige liedjie”?', 'pragtige', ['liedjie', '’n', 'is'], 'Pragtige beskryf die liedjie.', status='derived_from_rule', src='workbook', page=77),
+    q('grammar', 'Wat is die verkleining van “radio”?', 'radiotjie', ['radiojie', 'radioie', 'radiokie'], 'Woorde wat op ’n klinker eindig, kry dikwels -tjie.', status='needs_review', src='workbook', page=77, item='tabel'),
+    q('grammar', 'Wat is die meervoud van “onderhoud”?', 'onderhoude', ['onderhoudde', 'onderhouds', 'onderhoudens'], 'Tweeklank-reël: voeg -e by.', status='derived_from_rule', src='workbook', page=77, item='tabel'),
+  ])

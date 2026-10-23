@@ -1,0 +1,605 @@
+{
+ "key": "gr6-afr-b2-wk122",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 122,
+ "title_af": "My eie gedig",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk7-8",
+  "name_af": "Tema 8 · Week 7–8: Gedigte vir kinders",
+  "name_en": "Theme 8 · Weeks 7–8: Poems for children",
+  "sort": 109
+ },
+ "tier_number": 2,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  120,
+  121
+ ],
+ "pdf_pages": [
+  124,
+  125
+ ],
+ "reference_pages": [
+  {
+   "pdf": 124,
+   "printed": 120,
+   "src": "/workbook/gr6-afr-b2/p124.webp"
+  },
+  {
+   "pdf": 125,
+   "printed": 121,
+   "src": "/workbook/gr6-afr-b2/p125.webp"
+  }
+ ],
+ "intro_af": "Nou is jy die digter! Skryf ’n gedig oor ’n slim dier. Beplan met ’n geheuekaart, soek rymwoorde en skryf vier strofes van vier reëls.",
+ "objectives_af": [
+  "’n Geheuekaart gebruik om ’n gedig te beplan.",
+  "Beskrywende woorde en rymwoorde saamstel.",
+  "’n Gedig van 4 strofes van 4 reëls skryf.",
+  "Beeldspraak in jou gedig gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die opdrag",
+   "payload": {
+    "bullets": [
+     "Skryf ’n gedig oor ’n **slim dier**. Dit moet uit **4 strofes** (verse) van **4 reëls** elk bestaan.",
+     "Beskryf hoe die dier lyk en watter karaktertrekke hy het. Wat is uniek aan hom? Wat doen hy wat hom slim maak?",
+     "Bespreek die dier in groepverband.",
+     "Gebruik die rymwoorde aan die einde van elke twee reëls.",
+     "Onthou om beeldspraak te gebruik."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Geheuekaart vir jou gedig",
+   "payload": {
+    "headers": [
+     "Strofe",
+     "Onderwerp"
+    ],
+    "rows": [
+     [
+      "Strofe 1",
+      "Fisiese voorkoms"
+     ],
+     [
+      "Strofe 2",
+      "Karaktertrekke"
+     ],
+     [
+      "Strofe 3",
+      "Uniekheid"
+     ],
+     [
+      "Strofe 4",
+      "Wat hom slim maak"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Beplan jou strofes",
+   "payload": {
+    "prompt": "Verbind elke strofe met sy onderwerp.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Strofe 1"
+     },
+     {
+      "key": "l2",
+      "text": "Strofe 2"
+     },
+     {
+      "key": "l3",
+      "text": "Strofe 3"
+     },
+     {
+      "key": "l4",
+      "text": "Strofe 4"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Karaktertrekke"
+     },
+     {
+      "key": "r3",
+      "text": "Uniekheid"
+     },
+     {
+      "key": "r4",
+      "text": "Wat hom slim maak"
+     },
+     {
+      "key": "r1",
+      "text": "Fisiese voorkoms"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124,
+    "item": "geheuekaart"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is die vier dele van die geheuekaart."
+   },
+   "answer_status": "official",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Bespreek die dier",
+   "payload": {
+    "prompt": "Bespreek die dier in groepverband: Hoe lyk hy? Watter karaktertrekke het hy? Wat is uniek aan hom? Wat doen hy wat hom slim maak?"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124,
+    "item": "bespreking"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Geheuekaart: woorde en rymwoorde",
+   "payload": {
+    "prompt": "Skryf woorde neer wat die dier beskryf. Voeg dan woorde by wat rym met die beskrywende woorde. Doen dit vir elke strofe.",
+    "lines": 10,
+    "checklist": [
+     "Strofe 1: woorde en rymwoorde",
+     "Strofe 2: woorde en rymwoorde",
+     "Strofe 3: woorde en rymwoorde",
+     "Strofe 4: woorde en rymwoorde"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124,
+    "item": "geheuekaart"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Rym of nie?",
+   "payload": {
+    "prompt": "Rym die woorde?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "kat – mat",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "slim – klim",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "vos – hond",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "pote – note",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "stert – berg",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Woorde rym as hulle op dieselfde klank eindig."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf die eerste weergawe",
+   "payload": {
+    "prompt": "Skryf die eerste weergawe van jou gedig in jou klaswerkboek. Laat ’n maat dit hersien en korrigeer waar nodig.",
+    "lines": 14,
+    "checklist": [
+     "Die gedig het 4 strofes.",
+     "Elke strofe het 4 reëls.",
+     "Ek het rymwoorde aan die einde van elke twee reëls gebruik.",
+     "Ek het beeldspraak gebruik.",
+     "My maat het my gedig hersien."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124,
+    "item": "eerste weergawe"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf die finale weergawe",
+   "payload": {
+    "prompt": "Skryf die finale weergawe van jou gedig hier neer. Teken ook ’n bypassende prent.",
+    "lines": 14,
+    "checklist": [
+     "Ek het ’n titel gekies.",
+     "Ek het gekorrigeer.",
+     "Ek het ’n prent geteken."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 121,
+    "pdf_page": 125,
+    "item": "finale weergawe"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waaroor skryf jy jou gedig?",
+   "explanation": "Dit is die opdrag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Slim dier",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "My ma"
+    },
+    {
+     "key": "c",
+     "text": "Die weer"
+    },
+    {
+     "key": "d",
+     "text": "My skool"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Uit hoeveel strofes bestaan jou gedig?",
+   "explanation": "Vier strofes.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vier",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een"
+    },
+    {
+     "key": "c",
+     "text": "Twee"
+    },
+    {
+     "key": "d",
+     "text": "Agt"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel reëls het elke strofe?",
+   "explanation": "Elke strofe het 4 reëls.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vier",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Twee"
+    },
+    {
+     "key": "c",
+     "text": "Ses"
+    },
+    {
+     "key": "d",
+     "text": "Tien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waaroor gaan strofe 1?",
+   "explanation": "Strofe 1 is die fisiese voorkoms.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Fisiese voorkoms",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Karaktertrekke"
+    },
+    {
+     "key": "c",
+     "text": "Uniekheid"
+    },
+    {
+     "key": "d",
+     "text": "Wat hom slim maak"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waaroor gaan strofe 4?",
+   "explanation": "Strofe 4 is wat hom slim maak.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wat hom slim maak",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Fisiese voorkoms"
+    },
+    {
+     "key": "c",
+     "text": "Karaktertrekke"
+    },
+    {
+     "key": "d",
+     "text": "Uniekheid"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar gebruik jy die rymwoorde?",
+   "explanation": "Dit is die opdrag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Aan die einde van elke twee reëls",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Aan die begin van die gedig"
+    },
+    {
+     "key": "c",
+     "text": "Net in die titel"
+    },
+    {
+     "key": "d",
+     "text": "In die middel van elke reël"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat moet jy ook in jou gedig gebruik?",
+   "explanation": "Onthou om beeldspraak te gebruik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Beeldspraak",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Resep"
+    },
+    {
+     "key": "c",
+     "text": "’n Kaart"
+    },
+    {
+     "key": "d",
+     "text": "Getalle"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 120,
+    "pdf_page": 124
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord rym met “klim”?",
+   "explanation": "Slim en klim eindig op dieselfde klank.",
+   "options": [
+    {
+     "key": "a",
+     "text": "slim",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "vos"
+    },
+    {
+     "key": "c",
+     "text": "berg"
+    },
+    {
+     "key": "d",
+     "text": "groot"
+    }
+   ],
+   "key": "q08"
+  }
+ ]
+}

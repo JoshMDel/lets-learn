@@ -1,0 +1,499 @@
+{
+ "key": "gr6-afr-b2-wk111",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 111,
+ "title_af": "Ons erfenis",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 7,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  96,
+  97
+ ],
+ "pdf_pages": [
+  100,
+  101
+ ],
+ "reference_pages": [
+  {
+   "pdf": 100,
+   "printed": 96,
+   "src": "/workbook/gr6-afr-b2/p100.webp"
+  },
+  {
+   "pdf": 101,
+   "printed": 97,
+   "src": "/workbook/gr6-afr-b2/p101.webp"
+  }
+ ],
+ "intro_af": "Waarom moet ons ons erfenis beskerm? Bespreek en skryf, en maak dan ’n oorredende plakkaat om mense na die Wieg van die Mensdom te lok.",
+ "objectives_af": [
+  "Bespreek wat ’n erfenisterrein is en waarom die Wieg van die Mensdom belangrik is.",
+  "’n Oorredende plakkaat ontwerp.",
+  "Oorredende woorde en prente gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat is oorreding?",
+   "payload": {
+    "bullets": [
+     "Jou plakkaat moet **probeer om mense te oorreed** om die Wieg van die Mensdom te besoek.",
+     "Gebruik dus **oorredende woorde** en **prentjies**.",
+     "Jy kan die internetverslag en die koerantberig op bladsy 10 weer lees om jou te help."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Voorbeelde",
+   "payload": {
+    "text": "Oorredende woorde: “moet”, “ongelooflik”, “nooit weer”, “jy sal dit nie wil mis nie”, “kom”, “beleef”."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Bespreek en skryf: erfenisterrein",
+   "payload": {
+    "prompt": "Bespreek met jou maat en skryf die antwoord: Wat is ’n erfenisterrein?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100,
+    "item": "1"
+   },
+   "suggested_answer": "’n Terrein wat so belangrik is dat dit bewaar moet word; UNESCO verklaar dit tot ’n Wêrelderfenisterrein.",
+   "answer_status": "needs_review",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Bespreek en skryf: Wieg van die Mensdom",
+   "payload": {
+    "prompt": "Waarom is die Wieg van die Mensdom vir ons as Suid-Afrikaners so belangrik?",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100,
+    "item": "2"
+   },
+   "suggested_answer": "Daar is baie fossiele gevind, en wetenskaplikes glo die mensdom het hier ontstaan. Dit is trots, toerisme en erfenis vir ons.",
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Oorredend of net inligting?",
+   "payload": {
+    "prompt": "Watter sin probeer jou oorreed?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Kom besoek die Wieg van die Mensdom – jy sal dit nooit vergeet nie!",
+      "options": [
+       {
+        "key": "a",
+        "text": "oorredend"
+       },
+       {
+        "key": "b",
+        "text": "net inligting"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die Sterkfonteingrot is naby Krugersdorp.",
+      "options": [
+       {
+        "key": "a",
+        "text": "oorredend"
+       },
+       {
+        "key": "b",
+        "text": "net inligting"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Jy moet hierdie ongelooflike plek self beleef!",
+      "options": [
+       {
+        "key": "a",
+        "text": "oorredend"
+       },
+       {
+        "key": "b",
+        "text": "net inligting"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "UNESCO het die gebied in 2000 tot Wêrelderfenisterrein verklaar.",
+      "options": [
+       {
+        "key": "a",
+        "text": "oorredend"
+       },
+       {
+        "key": "b",
+        "text": "net inligting"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Oorredende sinne gebruik bevele, uitroepe en sterk woorde om jou te laat wil besoek."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Maak ’n plakkaat",
+   "payload": {
+    "prompt": "Lees weer die internetverslag oor die Wieg van die Mensdom, en maak ’n plakkaat om dit as Wêrelderfenisterrein te adverteer. Gebruik oorredende woorde en prentjies.",
+    "lines": 10,
+    "checklist": [
+     "My plakkaat het ’n duidelike opskrif.",
+     "Ek het oorredende woorde gebruik.",
+     "Ek het ’n prent of prente.",
+     "Ek het gewys waar die terrein is.",
+     "Ek het spelfoute reggemaak."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 97,
+    "pdf_page": 101,
+    "item": "plakkaat"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Jou plakkaat moet net inligting gee en hoef nie oorredend te wees nie."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100,
+    "item": "plakkaat"
+   },
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê jou plakkaat moet probeer om mense te oorreed."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat moet jou plakkaat probeer doen?",
+   "explanation": "Dit is die doel van die plakkaat.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Mense oorreed om die Wieg van die Mensdom te besoek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Mense bang maak"
+    },
+    {
+     "key": "c",
+     "text": "Net sommer teken"
+    },
+    {
+     "key": "d",
+     "text": "Die grot verkoop"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat moet jy op die plakkaat gebruik?",
+   "explanation": "Gebruik oorredende woorde en prentjies.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Oorredende woorde en prentjies",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net lang sinne"
+    },
+    {
+     "key": "c",
+     "text": "Net getalle"
+    },
+    {
+     "key": "d",
+     "text": "Net kaarte"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat kan jy lees om jou te help?",
+   "explanation": "Jy kan die verslag en die koerantberig op bladsy 10 lees.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die internetverslag en die koerantberig",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net die sportblad"
+    },
+    {
+     "key": "c",
+     "text": "Jou maat se plakkaat"
+    },
+    {
+     "key": "d",
+     "text": "Niks"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin is oorredend?",
+   "explanation": "Dit gebruik ’n bevel en ’n uitroep om te oorreed.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kom beleef die Wieg van die Mensdom – dis ’n onvergeetlike dag!",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die grot is naby Krugersdorp."
+    },
+    {
+     "key": "c",
+     "text": "Dit het in 1947 gebeur."
+    },
+    {
+     "key": "d",
+     "text": "UNESCO het dit verklaar."
+    }
+   ],
+   "key": "q04"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is oorredend?",
+   "explanation": "Dit is ’n sterk, aanloklike woord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "ongelooflik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "gister"
+    },
+    {
+     "key": "c",
+     "text": "grot"
+    },
+    {
+     "key": "d",
+     "text": "jaar"
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom adverteer ons ’n erfenisterrein?",
+   "explanation": "Die plakkaat wil mense oorreed om te besoek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sodat meer mense dit besoek en leer waarom dit belangrik is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om dit te verkoop"
+    },
+    {
+     "key": "c",
+     "text": "Om dit te sluit"
+    },
+    {
+     "key": "d",
+     "text": "Om dit te vergeet"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar moet jy eers lees voor jy die plakkaat maak?",
+   "explanation": "Lees weer die internetverslag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die internetverslag oor die Wieg van die Mensdom",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Storieboek"
+    },
+    {
+     "key": "c",
+     "text": "Die TV-gids"
+    },
+    {
+     "key": "d",
+     "text": "Die weerkaart"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat bespreek jy met jou maat?",
+   "explanation": "Dit is die twee vrae op bladsy 96.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wat ’n erfenisterrein is en waarom die Wieg van die Mensdom belangrik is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Wat jy vir middagete het"
+    },
+    {
+     "key": "c",
+     "text": "Wie die beste teken"
+    },
+    {
+     "key": "d",
+     "text": "Hoe jy skool toe kom"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 96,
+    "pdf_page": 100
+   },
+   "key": "q08"
+  }
+ ]
+}

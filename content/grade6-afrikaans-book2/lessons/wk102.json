@@ -1,0 +1,567 @@
+{
+ "key": "gr6-afr-b2-wk102",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 102,
+ "title_af": "Gebruik ’n onderhoudvraelys",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 6,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  78,
+  79
+ ],
+ "pdf_pages": [
+  82,
+  83
+ ],
+ "reference_pages": [
+  {
+   "pdf": 82,
+   "printed": 78,
+   "src": "/workbook/gr6-afr-b2/p082.webp"
+  },
+  {
+   "pdf": 83,
+   "printed": 79,
+   "src": "/workbook/gr6-afr-b2/p083.webp"
+  }
+ ],
+ "intro_af": "Hoe vind ons uit wat mense dink? Ons gebruik ’n onderhoudsvraelys! Vandag doen jy ’n opname oor die skoolstelsel, teken die bevindinge aan en skryf ’n verslag.",
+ "objectives_af": [
+  "Verstaan hoekom ons ’n vraelys vir ’n onderhoud gebruik.",
+  "’n Onderhoud voer met ’n vraelys en die bevindinge aanteken.",
+  "’n Verslag oor die bevindinge skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Hoekom ’n vraelys?",
+   "payload": {
+    "bullets": [
+     "Hoe vind ons uit of mense van iemand of iets hou of nie? Een manier is om met hulle ’n onderhoud te voer en te vra wat hulle van die persoon of ding dink.",
+     "So ’n onderhoud moet voorberei word, anders vergeet ons dalk watter vrae om te stel of vra ons die verkeerde vrae.",
+     "Daarom stel ons ’n **vraelys** op wat ons tydens die onderhoud kan gebruik."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Jou opname",
+   "payload": {
+    "bullets": [
+     "Gebruik die vraelys om uit te vind wat jou maats van die skoolstelsel dink en wat hulle graag sou wil verander.",
+     "By die laaste vraag staan “Ander”. Daar kan jy enige vraag van jou keuse invul, solank dit oor dieselfde onderwerp handel.",
+     "Vra **tien maats** om ja of nee op hierdie vrae te antwoord.",
+     "Maak ’n regmerkie vir ja of ’n kruisie vir nee in die kolomme langs die vrae."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons doen: die opname",
+   "payload": {
+    "prompt": "Gebruik hierdie vraelys om uit te vind wat jou maats van die skoolstelsel dink. Vra tien maats om ja of nee te antwoord op: 1. Ons behoort toegelaat te word om enige klere skool toe te dra, nie net skooldrag nie. 2. Ons behoort sport voor skool te beoefen, wanneer dit koeler is. 3. Die skooldag moet langer gemaak word om huiswerk onnodig te maak. 4. Aparte skole vir seuns en meisies is beter as gemengde skole. 5. Kinders behoort oor skoolreëls geraadpleeg te word. 6. Ander."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82,
+    "item": "Ons doen"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die stelling by die opskrif in die tabel",
+   "payload": {
+    "prompt": "Verbind elke stelling met die opskrif in Tabel 1.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Ons behoort enige klere skool toe te dra."
+     },
+     {
+      "key": "l2",
+      "text": "Ons behoort sport voor skool te beoefen."
+     },
+     {
+      "key": "l3",
+      "text": "Die skooldag moet langer gemaak word."
+     },
+     {
+      "key": "l4",
+      "text": "Aparte skole vir seuns en meisies is beter."
+     },
+     {
+      "key": "l5",
+      "text": "Kinders behoort oor skoolreëls geraadpleeg te word."
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Oggendsport"
+     },
+     {
+      "key": "r3",
+      "text": "Langer skooldae"
+     },
+     {
+      "key": "r4",
+      "text": "Aparte skole"
+     },
+     {
+      "key": "r5",
+      "text": "Raadpleging oor reëls"
+     },
+     {
+      "key": "r1",
+      "text": "Skaf skooldrag af"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82,
+    "item": "tabel 1"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die werkboek se tabel gebruik hierdie opskrifte."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Vul jou resultate in",
+   "payload": {
+    "prompt": "Vul die resultate van jou onderhoude in: hoeveel maats het met elke stelling saamgestem (regmerkies) en hoeveel het nie (kruisies)?",
+    "lines": 6,
+    "checklist": [
+     "Ek het tien maats gevra.",
+     "Ek het die totale ja’s en nee’s getel.",
+     "Ek het die tabel ingevul."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82,
+    "item": "tabel 1"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf die bevindinge: vraag 1 tot 6",
+   "payload": {
+    "prompt": "Beantwoord: Vraag 1: Het jou maats saamgestem dat hulle enige klere waarvan hulle hou, skool toe behoort te kan dra? Vraag 2: Wat het jou maats van sport voor skool gedink? Vraag 3: Het jou maats saamgestem dat die skooldag verleng behoort te word? Vraag 4: Verkies jou maats gemengde skole of aparte skole? Vraag 5: Het jou maats saamgestem dat leerders oor skoolreëls geraadpleeg behoort te word? Vraag 6: Watter “ander” vraag het jy gestel en wat het jou maats geantwoord?",
+    "lines": 10,
+    "checklist": [
+     "Ek het minstens twee sinne oor elke vraag geskryf.",
+     "Ek het gesê hoeveel maats ja en hoeveel nee gesê het."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 79,
+    "pdf_page": 83,
+    "item": "vrae 1–6"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jou verslag",
+   "payload": {
+    "prompt": "Noudat jy uitgevind het hoe hulle oor hierdie sake voel, hoe dink jy behoort die skoolstelsel verander te word? Skryf nou ’n verslag oor jou bevindinge. Skryf minstens twee sinne oor elke vraag.",
+    "lines": 14,
+    "checklist": [
+     "Ek het minstens twee sinne oor elke vraag geskryf.",
+     "Ek het gesê hoeveel maats ja en hoeveel nee gesê het.",
+     "Ek het my eie mening bygevoeg.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 79,
+    "pdf_page": 83,
+    "item": "verslag"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die stappe van ’n opname",
+   "payload": {
+    "prompt": "Sit die stappe in die regte volgorde.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Tel die totale ja’s en nee’s."
+     },
+     {
+      "key": "e1",
+      "text": "Stel ’n vraelys met stellings op."
+     },
+     {
+      "key": "e5",
+      "text": "Skryf ’n verslag oor die bevindinge."
+     },
+     {
+      "key": "e2",
+      "text": "Vra tien maats om ja of nee te antwoord."
+     },
+     {
+      "key": "e3",
+      "text": "Maak ’n regmerkie of kruisie by elke vraag."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "So werk ’n opname met ’n onderhoudsvraelys."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "By “Ander” kan jy enige vraag invul, solank dit oor dieselfde onderwerp handel."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê dit by die laaste vraag."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Hoekom stel ons ’n vraelys op vir ’n onderhoud?",
+   "explanation": "Die werkboek sê ’n onderhoud moet voorberei word.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sodat ons nie vergeet watter vrae om te stel nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om die onderhoud langer te maak"
+    },
+    {
+     "key": "c",
+     "text": "Om mense te laat lag"
+    },
+    {
+     "key": "d",
+     "text": "Om die antwoorde te kan raai"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel maats moet jy vra om ja of nee te antwoord?",
+   "explanation": "Die werkboek sê: vra tien maats.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tien",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Twee"
+    },
+    {
+     "key": "c",
+     "text": "Vyf"
+    },
+    {
+     "key": "d",
+     "text": "Twintig"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat maak jy as ’n maat ja sê?",
+   "explanation": "Die werkboek sê: regmerkie vir ja, kruisie vir nee.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Regmerkie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Kruisie"
+    },
+    {
+     "key": "c",
+     "text": "’n Sirkel"
+    },
+    {
+     "key": "d",
+     "text": "Niks"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat maak jy as ’n maat nee sê?",
+   "explanation": "Kruisie vir nee.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Kruisie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Regmerkie"
+    },
+    {
+     "key": "c",
+     "text": "’n Sterretjie"
+    },
+    {
+     "key": "d",
+     "text": "Niks"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat staan by die laaste vraag in die vraelys?",
+   "explanation": "By die laaste vraag staan “Ander”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ander",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Totaal"
+    },
+    {
+     "key": "c",
+     "text": "Ja"
+    },
+    {
+     "key": "d",
+     "text": "Nee"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waaroor gaan die opname in hierdie werkkaart?",
+   "explanation": "Die opskrif van die tabel is “Bevindinge van opname oor verandering van die skoolstelsel”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die verandering van die skoolstelsel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sokker"
+    },
+    {
+     "key": "c",
+     "text": "Haustiere"
+    },
+    {
+     "key": "d",
+     "text": "Weerberigte"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel sinne moet jy minstens oor elke vraag in jou verslag skryf?",
+   "explanation": "Skryf minstens twee sinne oor elke vraag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Twee",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een"
+    },
+    {
+     "key": "c",
+     "text": "Vyf"
+    },
+    {
+     "key": "d",
+     "text": "Tien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 79,
+    "pdf_page": 83
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat is ’n vraelys?",
+   "explanation": "Die werkboek verduidelik: ons stel ’n vraelys op wat ons tydens die onderhoud kan gebruik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Lys vrae wat jy tydens ’n onderhoud kan gebruik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Soort gedig"
+    },
+    {
+     "key": "c",
+     "text": "’n Brief aan ’n maat"
+    },
+    {
+     "key": "d",
+     "text": "’n Prent van ’n skool"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 78,
+    "pdf_page": 82
+   },
+   "key": "q08"
+  }
+ ]
+}

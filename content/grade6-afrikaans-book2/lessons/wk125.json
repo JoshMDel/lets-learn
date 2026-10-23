@@ -1,0 +1,699 @@
+{
+ "key": "gr6-afr-b2-wk125",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 125,
+ "title_af": "Pret met poësie",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk7-8",
+  "name_af": "Tema 8 · Week 7–8: Gedigte vir kinders",
+  "name_en": "Theme 8 · Weeks 7–8: Poems for children",
+  "sort": 109
+ },
+ "tier_number": 5,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Lees en kyk",
+  "Luister en praat"
+ ],
+ "printed_pages": [
+  126,
+  127
+ ],
+ "pdf_pages": [
+  130,
+  131
+ ],
+ "reference_pages": [
+  {
+   "pdf": 130,
+   "printed": 126,
+   "src": "/workbook/gr6-afr-b2/p130.webp"
+  },
+  {
+   "pdf": 131,
+   "printed": 127,
+   "src": "/workbook/gr6-afr-b2/p131.webp"
+  }
+ ],
+ "intro_af": "Kan jy met ’n iguana gaan stap? Lees ’n snaakse gedig van Brian Moses, leer snaakse dierename en beantwoord vrae oor die gedig.",
+ "objectives_af": [
+  "’n Gedig lees en geniet.",
+  "Dierename met hul betekenisse verbind.",
+  "Vrae oor die gedig beantwoord.",
+  "Rymwoorde in die gedig opspoor."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die VN voeg ’n paar iguanas by sy lys van bedreigde spesies",
+   "payload": {
+    "paragraphs": [
+     "22 Maart 2010 – Die Verenigde Nasies se Omgewingsprogram (UNEP) het verskeie reptiele by sy lys van bedreigde spesies gevoeg. Die doel van hierdie lys is om mense oor die hele wêreld te verbied om handel te dryf met diere wat deur uitwissing bedreig word.",
+     "Vier iguanaspesies is by die lys gevoeg. Beskermde iguanas word gevang en veral in Europa en die Verenigde State aan mense verkoop wat hulle as ongewone, eksotiese troeteldiere wil aanhou. Omdat hierdie iguanaspesies nou op die lys verskyn, kan regerings handel in die reptiele reguleer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 126,
+    "pdf_page": 130
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat",
+   "payload": {
+    "prompt": "Bespreek: Het jy al ooit ’n iguana gesien? Hoe lyk hulle? Hoe voel dit om aan een te vat?"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 126,
+    "pdf_page": 130,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Dierename en betekenisse",
+   "payload": {
+    "prompt": "Spreek die dierename uit en luister na die klanke. Verbind elke woord met die korrekte betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "piranha"
+     },
+     {
+      "key": "l2",
+      "text": "chinchilla"
+     },
+     {
+      "key": "l3",
+      "text": "chihuahua"
+     },
+     {
+      "key": "l4",
+      "text": "gorilla"
+     },
+     {
+      "key": "l5",
+      "text": "skoenlapperlarwe"
+     },
+     {
+      "key": "l6",
+      "text": "alligator"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "klein knaagdier met ’n welige stert"
+     },
+     {
+      "key": "r3",
+      "text": "klein hondsoort"
+     },
+     {
+      "key": "r4",
+      "text": "groot aap"
+     },
+     {
+      "key": "r5",
+      "text": "lyk soos ’n wurm en kan helderkleurig wees"
+     },
+     {
+      "key": "r6",
+      "text": "soos ’n krokodil maar met ’n korter snoet"
+     },
+     {
+      "key": "r1",
+      "text": "vis met skerp tande"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "woorde"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Hierdie dierename kom in die gedig voor."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Stap hy regtig met die iguana?",
+   "payload": {
+    "prompt": "Dink jy die skrywer gaan regtig met sy iguana stap, of is dit net ’n prettige gedig? Waarom sê jy so?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "1"
+   },
+   "suggested_answer": "Dit is waarskynlik net ’n prettige gedig – dit gaan oor ’n snaakse idee, en hy stap ook met ’n piranha en ’n gorilla.",
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Temperatuur",
+   "payload": {
+    "text": "Die skrywer noem dat die temperatuur bo 85 °F styg. Dit is ongeveer {{1}} °C.",
+    "prompt": "Skakel 85 grade Fahrenheit om na Celsius."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "2"
+   },
+   "answer": {
+    "1": [
+     "29",
+     "29,4",
+     "29.4"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Formule: (85 – 32) × 5 ÷ 9 ≈ 29,4 °C."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Alligator of iguana?",
+   "payload": {
+    "prompt": "Waarom dink jy sou mense dalk dink die iguana is ’n alligator?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "3"
+   },
+   "suggested_answer": "Omdat ’n iguana ’n skubberige reptiel met stekels op sy rug is, wat soos ’n klein krokodil lyk.",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Jou mening",
+   "payload": {
+    "prompt": "Sou jy verbaas wees as jy iemand met ’n troetel-iguana sien stap? Sou jy die polisie bel as jy so iets sien? Waarom?"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "4–5"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Rymwoorde in die gedig",
+   "payload": {
+    "prompt": "Verbind die woorde wat in die gedig rym.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "vyf"
+     },
+     {
+      "key": "l2",
+      "text": "band"
+     },
+     {
+      "key": "l3",
+      "text": "kyk"
+     },
+     {
+      "key": "l4",
+      "text": "lê"
+     },
+     {
+      "key": "l5",
+      "text": "kwaai"
+     },
+     {
+      "key": "l6",
+      "text": "slaap"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "strand"
+     },
+     {
+      "key": "r3",
+      "text": "aanstryk"
+     },
+     {
+      "key": "r4",
+      "text": "hê"
+     },
+     {
+      "key": "r5",
+      "text": "kraai"
+     },
+     {
+      "key": "r6",
+      "text": "gaap"
+     },
+     {
+      "key": "r1",
+      "text": "skubbelyf"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "6"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Hierdie pare rym aan die einde van reëls."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die VN het iguanas by die lys van bedreigde spesies gevoeg om mense te verbied om met hulle handel te dryf."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "nuus"
+   },
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit is wat die nuusberig sê."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarmee gaan die spreker stap?",
+   "explanation": "Hy gaan stap met sy iguana.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Iguana",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Hond"
+    },
+    {
+     "key": "c",
+     "text": "’n Kat"
+    },
+    {
+     "key": "d",
+     "text": "’n Perd"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarheen gaan hulle gou-gou?",
+   "explanation": "Dan gaan hy gou-gou see toe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die see toe",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Skool toe"
+    },
+    {
+     "key": "c",
+     "text": "Winkel toe"
+    },
+    {
+     "key": "d",
+     "text": "Berg toe"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar klim die iguana op?",
+   "explanation": "Hy klim op die spreker se skouer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Op sy skouer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Op sy kop"
+    },
+    {
+     "key": "c",
+     "text": "In sy sak"
+    },
+    {
+     "key": "d",
+     "text": "Op ’n boom"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    8
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom bel mense die polisie?",
+   "explanation": "Hulle vra of mens ’n alligator aan ’n leiband mag hê.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hulle dink die iguana is ’n alligator",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hulle is bang vir die skrywer"
+    },
+    {
+     "key": "c",
+     "text": "Daar is ’n ongeluk"
+    },
+    {
+     "key": "d",
+     "text": "Die skrywer maak lawaai"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    16
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom dink mense die iguana is kwaai?",
+   "explanation": "Dis oor die stekels op sy rug.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Oor sy stekels op sy rug",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Oor sy tande"
+    },
+    {
+     "key": "c",
+     "text": "Oor sy geluide"
+    },
+    {
+     "key": "d",
+     "text": "Oor sy kleur"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    18
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat doen die iguana as jy hom onder die ken kielie?",
+   "explanation": "Dan lag hy dat hy kraai.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy lag",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy byt"
+    },
+    {
+     "key": "c",
+     "text": "Hy loop weg"
+    },
+    {
+     "key": "d",
+     "text": "Hy slaap"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    20
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is ’n piranha?",
+   "explanation": "Dit is die betekenis in die werkboek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Vis met skerp tande",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Groot aap"
+    },
+    {
+     "key": "c",
+     "text": "’n Klein hondsoort"
+    },
+    {
+     "key": "d",
+     "text": "’n Knaagdier"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "woorde"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom is die UNEP-lys belangrik?",
+   "explanation": "Dit is die doel van die lys.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dit verbied handel in diere wat bedreig word deur uitwissing",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit verkoop iguanas"
+    },
+    {
+     "key": "c",
+     "text": "Dit leer mense om iguanas aan te hou"
+    },
+    {
+     "key": "d",
+     "text": "Dit maak iguanas kleiner"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 127,
+    "pdf_page": 131,
+    "item": "nuus"
+   },
+   "key": "q08"
+  }
+ ],
+ "passage": {
+  "title": "Ek gaan stap met my iguana",
+  "language": "af",
+  "sentences": [
+   "Ek gaan stap\n",
+   "Met my iguana\n",
+   "Wanneer die temperatuur begin\n",
+   "Styg bo tagtig en nog vyf,\n",
+   "Kry my iguana lewe\n",
+   "In sy skubbelyf.",
+   "Dan gaan ek gou-gou see toe,\n",
+   "My iguana aan die band,\n",
+   "Daar klim hy op my skouer\n",
+   "Terwyl ons wandel langs die strand…",
+   "As iemand op ons afkom\n",
+   "gee hulle ons meer as een kyk,\n",
+   "ek en my iguana wat\n",
+   "oor die sand aanstryk,",
+   "Tot mense die polisie bel\n",
+   "Om ’n klag te lê\n",
+   "want mag mens ’n alligator\n",
+   "aan ’n leiband hê?",
+   "Dis oor die stekels op sy rug\n",
+   "dat mense dink hy’s kwaai,\n",
+   "maar kielie hom onder die ken\n",
+   "dan lag hy dat hy kraai.",
+   "En ek weet my ou iguana\n",
+   "wil beslis gaan slaap\n",
+   "as hy sy nagklere aantrek\n",
+   "En begin te gaap.",
+   "En ek gaan stap\n",
+   "Met my iguana…\n",
+   "Met my iguana…\n",
+   "En my piranha…\n",
+   "En my chihuahua\n",
+   "En my chinchilla,\n",
+   "Met my gorilla,\n",
+   "My skoenlapperlarwe…\n",
+   "En ek gaan stap\n",
+   "Met my iguana…"
+  ],
+  "paragraph_starts": [
+   0,
+   6,
+   10,
+   14,
+   18,
+   22,
+   26
+  ],
+  "glossary": [
+   {
+    "term": "iguana",
+    "definition": "’n Groot akkedis met stekels op sy rug.",
+    "sentence_index": 1
+   },
+   {
+    "term": "skubbelyf",
+    "definition": "Liggaam met skubbe.",
+    "sentence_index": 5
+   },
+   {
+    "term": "aanstryk",
+    "definition": "Rustig aangestap kom.",
+    "sentence_index": 13
+   },
+   {
+    "term": "alligator",
+    "definition": "’n Reptiel soos ’n krokodil, maar met ’n korter snoet.",
+    "sentence_index": 16
+   },
+   {
+    "term": "leiband",
+    "definition": "’n Riem om ’n dier aan te lei.",
+    "sentence_index": 17
+   },
+   {
+    "term": "stekels",
+    "definition": "Skerp punte op ’n dier se vel.",
+    "sentence_index": 18
+   },
+   {
+    "term": "kraai",
+    "definition": "Hard lag.",
+    "sentence_index": 21
+   }
+  ]
+ }
+}

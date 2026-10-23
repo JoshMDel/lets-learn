@@ -8,10 +8,15 @@ export default function Chat() {
   const { activeChildId, session } = useAuth()
 
   return (
-    <LearningLayout title={t('chat.title')} bottomNav={{ active: 'chat' }}>
-      <h1 className="mb-4 font-heading text-2xl font-bold">{t('chat.title')}</h1>
+    <LearningLayout title={t('chat.title')} bottomNav={{ active: 'chat' }} chat>
       {activeChildId && session && (
-        <ChatConversation childId={activeChildId} viewerId={session.user.id} />
+        <ChatConversation
+          childId={activeChildId}
+          viewerId={session.user.id}
+          peerName={t('chat.parentTeacher')}
+          peerAvatar="👤"
+          backTo="/home"
+        />
       )}
     </LearningLayout>
   )

@@ -1,0 +1,574 @@
+{
+ "key": "gr6-afr-b2-wk116",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 116,
+ "title_af": "Skryf ’n resensie",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 4,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  108,
+  109
+ ],
+ "pdf_pages": [
+  112,
+  113
+ ],
+ "reference_pages": [
+  {
+   "pdf": 112,
+   "printed": 108,
+   "src": "/workbook/gr6-afr-b2/p112.webp"
+  },
+  {
+   "pdf": 113,
+   "printed": 109,
+   "src": "/workbook/gr6-afr-b2/p113.webp"
+  }
+ ],
+ "intro_af": "Wat dink jy van ’n storie wat jy gelees het? Skryf ’n boekresensie – eers beplan jy op ’n organiseerder, dan skryf jy.",
+ "objectives_af": [
+  "’n Resensie beplan op ’n grafiese organiseerder.",
+  "’n Resensie in paragraafvorm skryf.",
+  "Jou werk hersien en korrigeer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat is ’n resensie?",
+   "payload": {
+    "bullets": [
+     "’n Resensie vertel ander wat jy van ’n storie dink en of jy dit sal aanbeveel.",
+     "Jy kan ’n storie kies wat jy gelees het – ook enige van die stories in jou werkboek."
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Die organiseerder",
+   "payload": {
+    "headers": [
+     "Deel",
+     "Vraag"
+    ],
+    "rows": [
+     [
+      "Titel van die storie",
+      ""
+     ],
+     [
+      "Skrywer",
+      ""
+     ],
+     [
+      "Agtergrond",
+      "Waar en wanneer speel die storie hom af?"
+     ],
+     [
+      "Karakters",
+      "Wie is die mense in die storie?"
+     ],
+     [
+      "Intrige",
+      "Wat gebeur in die storie? Is die storie feit of fiksie?"
+     ],
+     [
+      "Tema",
+      "Waaroor handel die storie? Wat is sy boodskap?"
+     ],
+     [
+      "Waarvan het jy gehou?",
+      ""
+     ],
+     [
+      "Aanbeveling",
+      "Waarom sal jy die storie vir ’n maat aanbeveel?"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die deel by die vraag",
+   "payload": {
+    "prompt": "Verbind elke deel van die organiseerder met die vraag wat dit stel.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Agtergrond"
+     },
+     {
+      "key": "l2",
+      "text": "Karakters"
+     },
+     {
+      "key": "l3",
+      "text": "Intrige"
+     },
+     {
+      "key": "l4",
+      "text": "Tema"
+     },
+     {
+      "key": "l5",
+      "text": "Aanbeveling"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Wie is die mense in die storie?"
+     },
+     {
+      "key": "r3",
+      "text": "Wat gebeur in die storie?"
+     },
+     {
+      "key": "r4",
+      "text": "Waaroor handel die storie? Wat is sy boodskap?"
+     },
+     {
+      "key": "r5",
+      "text": "Waarom sal jy die storie vir ’n maat aanbeveel?"
+     },
+     {
+      "key": "r1",
+      "text": "Waar en wanneer speel die storie hom af?"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112,
+    "item": "organiseerder"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is die vrae wat by elke deel van die organiseerder staan."
+   },
+   "answer_status": "official",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beplan jou resensie",
+   "payload": {
+    "prompt": "Voltooi die grafiese organiseerder: titel van die storie, skrywer, agtergrond, karakters, intrige, tema, waarvan jy gehou het en aanbeveling.",
+    "lines": 12,
+    "checklist": [
+     "Titel en skrywer",
+     "Agtergrond (waar en wanneer)",
+     "Karakters",
+     "Intrige (feit of fiksie)",
+     "Tema en boodskap",
+     "Waarvan ek gehou het",
+     "Aanbeveling"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112,
+    "item": "organiseerder"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die skryfproses",
+   "payload": {
+    "prompt": "Sit die stappe in die regte volgorde.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Laat ’n maat jou resensie hersien."
+     },
+     {
+      "key": "e1",
+      "text": "Voltooi die organiseerder."
+     },
+     {
+      "key": "e5",
+      "text": "Skryf die finale weergawe neer."
+     },
+     {
+      "key": "e2",
+      "text": "Skryf die eerste weergawe in paragraafvorm in jou klaswerkboek."
+     },
+     {
+      "key": "e4",
+      "text": "Korrigeer waar nodig."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 109,
+    "pdf_page": 113,
+    "item": "proses"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Dit is die volgorde wat die werkboek gee."
+   },
+   "answer_status": "official",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jou resensie",
+   "payload": {
+    "prompt": "Skryf die finale weergawe van jou resensie.",
+    "lines": 14,
+    "checklist": [
+     "Ek het in paragrawe geskryf.",
+     "Al die dele van die organiseerder is gedek.",
+     "My maat het my werk hersien.",
+     "Ek het gekorrigeer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 109,
+    "pdf_page": 113,
+    "item": "finale weergawe"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Jy moet ’n resensie oor ’n storie skryf wat jy nog nooit gelees het nie."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112,
+    "item": "opdrag"
+   },
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: oor ’n storie wat jy gelees het."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waaroor skryf jy ’n resensie?",
+   "explanation": "Dit is die opdrag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Storie wat jy gelees het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Film"
+    },
+    {
+     "key": "c",
+     "text": "’n Liedjie"
+    },
+    {
+     "key": "d",
+     "text": "’n Reisverslag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar plan jy jou resensie?",
+   "explanation": "Voltooi die grafiese organiseerder.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Op ’n grafiese organiseerder",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Op die bord"
+    },
+    {
+     "key": "c",
+     "text": "In ’n dagboek"
+    },
+    {
+     "key": "d",
+     "text": "Op ’n plakkaat"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter deel vra “Waar en wanneer speel die storie hom af?”",
+   "explanation": "Dit is die vraag by Agtergrond.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Agtergrond",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Karakters"
+    },
+    {
+     "key": "c",
+     "text": "Tema"
+    },
+    {
+     "key": "d",
+     "text": "Intrige"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter deel vra “Wie is die mense in die storie?”",
+   "explanation": "Dit is die vraag by Karakters.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Karakters",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Agtergrond"
+    },
+    {
+     "key": "c",
+     "text": "Aanbeveling"
+    },
+    {
+     "key": "d",
+     "text": "Titel"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waarvoor staan “Tema”?",
+   "explanation": "Dit is die vraag by Tema.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Waaroor die storie handel en wat sy boodskap is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Waar die storie hom afspeel"
+    },
+    {
+     "key": "c",
+     "text": "Die titel"
+    },
+    {
+     "key": "d",
+     "text": "Die skrywer se naam"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waarom skryf jy ’n aanbeveling?",
+   "explanation": "Dit is die vraag by Aanbeveling.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om te sê waarom jy die storie vir ’n maat sal aanbeveel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om die skrywer te bedank"
+    },
+    {
+     "key": "c",
+     "text": "Om die storie te verkoop"
+    },
+    {
+     "key": "d",
+     "text": "Om die intrige te kopieer"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "sequencing",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat doen jy EERS: skryf die eerste weergawe of voltooi die organiseerder?",
+   "explanation": "Eers beplan, dan skryf.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Voltooi die organiseerder",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Skryf die eerste weergawe"
+    },
+    {
+     "key": "c",
+     "text": "Skryf die finale weergawe"
+    },
+    {
+     "key": "d",
+     "text": "Laat ’n maat hersien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 108,
+    "pdf_page": 112
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar skryf jy die eerste weergawe?",
+   "explanation": "Die eerste weergawe gaan in jou klaswerkboek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In paragraafvorm in jou klaswerkboek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Op die bladsy self"
+    },
+    {
+     "key": "c",
+     "text": "Op die internet"
+    },
+    {
+     "key": "d",
+     "text": "Op ’n plakkaat"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 109,
+    "pdf_page": 113
+   },
+   "key": "q08"
+  }
+ ]
+}

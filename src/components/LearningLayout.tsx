@@ -10,6 +10,7 @@ export function LearningLayout({
   children,
   title,
   bottomNav,
+  chat = false,
 }: {
   children: ReactNode
   title?: string
@@ -17,6 +18,9 @@ export function LearningLayout({
    * Profile themselves -- deliberately left off Subject/Topic/Read/Quiz/
    * Results so this phase doesn't touch that in-lesson flow's chrome. */
   bottomNav?: { active: NavTab; unreadChat?: boolean }
+  /** Full-bleed chat screen: on phones the header and page padding give way
+   * to the chat's own header (the bottom nav still handles navigation). */
+  chat?: boolean
 }) {
   useThemeScope('learning')
   const navigate = useNavigate()
@@ -35,7 +39,9 @@ export function LearningLayout({
 
   return (
     <div className="min-h-full bg-app">
-      <header className="sticky top-0 z-10 border-b border-subtle bg-app/95 backdrop-blur">
+      <header
+        className={`sticky top-0 z-10 border-b border-subtle bg-app/95 backdrop-blur ${chat ? 'hidden md:block' : ''}`}
+      >
         <div className="mx-auto flex max-w-2xl items-center justify-between px-4 py-3">
           <button
             onClick={() => navigate('/home')}
@@ -73,7 +79,13 @@ export function LearningLayout({
           </div>
         </div>
       </header>
-      <main className={`mx-auto max-w-2xl px-4 py-6 ${bottomNav ? 'pb-24 md:pb-6' : ''}`}>
+      <main
+        className={
+          chat
+            ? 'mx-auto max-w-md p-0 md:px-4 md:py-6'
+            : `mx-auto max-w-2xl px-4 py-6 ${bottomNav ? 'pb-24 md:pb-6' : ''}`
+        }
+      >
         {children}
       </main>
       {bottomNav && (

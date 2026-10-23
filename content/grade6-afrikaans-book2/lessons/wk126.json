@@ -1,0 +1,643 @@
+{
+ "key": "gr6-afr-b2-wk126",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 126,
+ "title_af": "Nuwejaar!",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk7-8",
+  "name_af": "Tema 8 · Week 7–8: Gedigte vir kinders",
+  "name_en": "Theme 8 · Weeks 7–8: Poems for children",
+  "sort": 109
+ },
+ "tier_number": 6,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  128,
+  130
+ ],
+ "pdf_pages": [
+  132,
+  134
+ ],
+ "reference_pages": [
+  {
+   "pdf": 132,
+   "printed": 128,
+   "src": "/workbook/gr6-afr-b2/p132.webp"
+  },
+  {
+   "pdf": 133,
+   "printed": 129,
+   "src": "/workbook/gr6-afr-b2/p133.webp"
+  },
+  {
+   "pdf": 134,
+   "printed": 130,
+   "src": "/workbook/gr6-afr-b2/p134.webp"
+  }
+ ],
+ "intro_af": "Dis Nuwejaar – tyd vir ’n nuwe begin! Lees die snaakse gedig, dink terug aan jou jaar en maak planne vir volgende jaar. Merk dan af wat jy al kan doen.",
+ "objectives_af": [
+  "’n Gedig lees en geniet.",
+  "Vrae oor die gedig beantwoord.",
+  "Beskryf wat jy gedurende die jaar gedoen en geleer het.",
+  "Planne vir volgende jaar maak.",
+  "Jou eie leer nagaan met die kontrolelys."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Oor die gedig",
+   "payload": {
+    "text": "Die gedig is deur Kenn Nesbitt (verwerk). Die spreker se planne is ’n **oordrywing**: dit is snaaks omdat dit onmoontlik is."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 128,
+    "pdf_page": 132
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Jy is spesiaal – veiligheidsinligting",
+   "payload": {
+    "paragraphs": [
+     "Jou hele liggaam is spesiaal. Jou liggaam behoort aan jou!"
+    ],
+    "bullets": [
+     "NIEMAND behoort aan jou privaat liggaamsdele te raak nie.",
+     "As iemand aan jou privaat liggaamsdele raak, moet jy iemand daarvan vertel.",
+     "As iemand jou dinge laat doen wat jy nie wil doen nie, moet jy iemand daarvan vertel.",
+     "Jy kan hierdie nommers bel: Kinderlyn: 0800 05 55 55 · Life Line: 0861 322 322 · SAPD se noodnommer: 10111 · SAPD se misdaadstopnommer: 086 00 10111 · Kinderbeskermingseenheid: 012 393 2359/2362/2363"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 130,
+    "pdf_page": 134
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Lees die gedig",
+   "payload": {
+    "prompt": "Lees hierdie gedig hardop saam met jou maat of groep.",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 128,
+    "pdf_page": 132,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Wat sal die spreker doen?",
+   "payload": {
+    "prompt": "Is dit een van die spreker se planne?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Leer vlieg.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Ander planete besoek.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Meer skoolwerk doen.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Na die verre verlede reis op ’n dinosourus.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Onsigbaar word.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a",
+     "q5": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die planne in die gedig is snaaks omdat hulle onmoontlik is."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoe voel die spreker?",
+   "payload": {
+    "prompt": "Hoe voel die spreker oor die nuwe jaar? Hoe weet jy?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 128,
+    "pdf_page": 132,
+    "item": "gevoel"
+   },
+   "suggested_answer": "Hy of sy is baie opgewonde en gelukkig: “Hoera!” en “die beste jaar ooit”.",
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Wat het ek die afgelope jaar gedoen en geleer?",
+   "payload": {
+    "prompt": "Beskryf wat jy gedurende die jaar gedoen en geleer het.",
+    "lines": 8,
+    "checklist": [
+     "Ek het gesê wat ek gedoen het.",
+     "Ek het gesê wat ek geleer het.",
+     "Ek het ’n paar sinne geskryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 128,
+    "pdf_page": 132,
+    "item": "terugblik"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "My planne vir volgende jaar",
+   "payload": {
+    "prompt": "Beskryf jou planne vir volgende jaar.",
+    "lines": 8,
+    "checklist": [
+     "Ek het my planne beskryf.",
+     "Ek het gesê hoekom hulle vir my belangrik is."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 128,
+    "pdf_page": 132,
+    "item": "planne"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Kontrolelys: Ek kan …",
+   "payload": {
+    "prompt": "Merk wat jy al kan doen. Dit is net vir jou eie nagaan.",
+    "lines": 1,
+    "no_text": true,
+    "checklist": [
+     "’n verhalende teks lees.",
+     "vrae op grond van ’n teks beantwoord.",
+     "’n toepaslike slot vir ’n storie bespreek.",
+     "’n einde vir ’n storie rolspeel en dit vir die klas aanbied.",
+     "’n alternatiewe slot vir ’n storie bedink.",
+     "’n dagboekinskrywing in die eerste persoon skryf.",
+     "die negatiewe vorm en kontraksies gebruik.",
+     "’n storie of sprokie skryf en op die karakters, intrige, agtergrond en gebeure konsentreer.",
+     "sinne wat oorsaak en gevolg uitdruk, verbind.",
+     "voegwoorde gebruik.",
+     "’n beskrywende paragraaf gebruik.",
+     "’n biografie lees.",
+     "werkwoorde, bywoorde en voorsetsels identifiseer.",
+     "gedigte lees.",
+     "’n gedig dramatiseer.",
+     "rymwoorde in ’n gedig identifiseer.",
+     "’n gedig hardop lees.",
+     "’n karakterbeskrywing bespreek.",
+     "vrae wat op ’n gedig gebaseer is, beantwoord.",
+     "’n gedig skryf.",
+     "’n rolspel oor ’n gedig opmaak.",
+     "limerieke lees.",
+     "vrae wat op limerieke gebaseer is, beantwoord.",
+     "’n limeriek skryf.",
+     "voorbeelde van vergelykings voorsien.",
+     "voorbeelde van die onderskeie digmiddele (soos metafore) voorsien.",
+     "’n formele brief skryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 129,
+    "pdf_page": 133,
+    "item": "Kontrolelys"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die spreker se planne in die gedig is almal realisties."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Niemand kan deur mure loop of onsigbaar word nie – dis snaaks oordrywing."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter dag vier die spreker?",
+   "explanation": "Hoera! Dis Nuwejaar!",
+   "options": [
+    {
+     "key": "a",
+     "text": "Nuwejaar",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Verjaarsdag"
+    },
+    {
+     "key": "c",
+     "text": "Kersfees"
+    },
+    {
+     "key": "d",
+     "text": "Boekeweek"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarmee wil die spreker alles geniet?",
+   "explanation": "Om alles soos ’n kangaroe te geniet.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Soos ’n kangaroe",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Soos ’n leeu"
+    },
+    {
+     "key": "c",
+     "text": "Soos ’n voël"
+    },
+    {
+     "key": "d",
+     "text": "Soos ’n slang"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    5
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat sal die spreker miskien leer?",
+   "explanation": "Of miskien sal ek leer vlieg.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vlieg",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Swem"
+    },
+    {
+     "key": "c",
+     "text": "Hardloop"
+    },
+    {
+     "key": "d",
+     "text": "Sing"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarheen sal die spreker reis?",
+   "explanation": "Ek sal ander planete besoek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Na ander planete",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Na die see"
+    },
+    {
+     "key": "c",
+     "text": "Na ’n dorp"
+    },
+    {
+     "key": "d",
+     "text": "Na ’n skool"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    14
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarop reis die spreker na die verlede?",
+   "explanation": "Op ’n groot dinosourus se snoet.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Dinosourus se snoet",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Voël se rug"
+    },
+    {
+     "key": "c",
+     "text": "’n Perd se rug"
+    },
+    {
+     "key": "d",
+     "text": "’n Vliegtuig"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    17
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom is die gedig snaaks?",
+   "explanation": "Niemand kan deur mure loop of onsigbaar word nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die planne is onmoontlik en oordrewe",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit is baie kort"
+    },
+    {
+     "key": "c",
+     "text": "Dit gaan oor skool"
+    },
+    {
+     "key": "d",
+     "text": "Dit rym nie"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    7
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe voel die spreker oor die nuwe jaar?",
+   "explanation": "Hoera, die beste jaar ooit!",
+   "options": [
+    {
+     "key": "a",
+     "text": "Opgewonde en gelukkig",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hartseer"
+    },
+    {
+     "key": "c",
+     "text": "Bang"
+    },
+    {
+     "key": "d",
+     "text": "Verveeld"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    19
+   ]
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Hoe gebruik die digter beeldspraak?",
+   "explanation": "Oordrywing is een van die gedig se maniere om humor te skep.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy oordryf sy planne",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy gebruik net feite"
+    },
+    {
+     "key": "c",
+     "text": "Hy skryf ’n verslag"
+    },
+    {
+     "key": "d",
+     "text": "Hy gee opdragte"
+    }
+   ],
+   "key": "q08"
+  }
+ ],
+ "passage": {
+  "title": "Nuwejaar!",
+  "language": "af",
+  "sentences": [
+   "Hoera! Hoera!\n",
+   "Dis Nuwejaar!\n",
+   "Hoera! Hoera! Dis Nuwejaar!\n",
+   "’n Dag om te begin opnuut.\n",
+   "Daarom het ek klaar besluit\n",
+   "Om alles soos ’n kangaroe te geniet.",
+   "Of miskien sal ek leer vlieg,\n",
+   "Probeer om deur mure te loop.\n",
+   "Miskien om onsigbaar te word,\n",
+   "Of my onder ’n waterval te laat doop.",
+   "Ek sal myself elasties maak\n",
+   "En leer hoe om baie klein te word.\n",
+   "Of myself in water verander,\n",
+   "En in die wasbak se drein afstort.",
+   "Ek sal ander planete besoek,\n",
+   "Die vreemdste wesens ontmoet\n",
+   "Of na die verre verlede toe reis\n",
+   "Op ’n groot dinosourus se snoet.",
+   "Ek sal sommer dadelik begin.\n",
+   "Ja, dis die beste jaar ooit.\n",
+   "Hoera, want dis Nuwejaar!\n",
+   "En lekkerder was daar nooit!"
+  ],
+  "paragraph_starts": [
+   0,
+   6,
+   10,
+   14,
+   18
+  ],
+  "glossary": [
+   {
+    "term": "opnuut",
+    "definition": "Weer van voor af.",
+    "sentence_index": 3
+   },
+   {
+    "term": "onsigbaar",
+    "definition": "Iets wat jy nie kan sien nie.",
+    "sentence_index": 8
+   },
+   {
+    "term": "elasties",
+    "definition": "Rekbaar soos ’n rekkie.",
+    "sentence_index": 10
+   },
+   {
+    "term": "drein",
+    "definition": "Die pyp waardeur water uit ’n wasbak loop.",
+    "sentence_index": 13
+   },
+   {
+    "term": "wesens",
+    "definition": "Skepsels; lewende dinge.",
+    "sentence_index": 15
+   }
+  ]
+ }
+}

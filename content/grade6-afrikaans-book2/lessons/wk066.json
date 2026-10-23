@@ -1,0 +1,857 @@
+{
+ "key": "gr6-afr-b2-wk066",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 66,
+ "title_af": "Charl soek verder",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk1-2",
+  "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+  "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+  "sort": 101
+ },
+ "tier_number": 2,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  4,
+  5
+ ],
+ "pdf_pages": [
+  8,
+  9
+ ],
+ "reference_pages": [
+  {
+   "pdf": 8,
+   "printed": 4,
+   "src": "/workbook/gr6-afr-b2/p008.webp"
+  },
+  {
+   "pdf": 9,
+   "printed": 5,
+   "src": "/workbook/gr6-afr-b2/p009.webp"
+  }
+ ],
+ "intro_af": "Charl soek nog steeds sy talent. Lees die tweede deel van die storie en ontdek wat Jan vir hom sê.",
+ "objectives_af": [
+  "Lees die tweede deel van ’n storie en beantwoord meerkeusevrae.",
+  "Soek sinonieme (woorde met dieselfde betekenis) in die teks.",
+  "Praat oor hoe die karakters voel en gee jou eie mening.",
+  "Skryf ’n dagboekinskrywing in die eerste persoon."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is sinonieme?",
+   "payload": {
+    "text": "Sinonieme is woorde met dieselfde betekenis."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "’n Dagboekinskrywing moet bevat:",
+   "payload": {
+    "bullets": [
+     "die datum",
+     "jou eerstepersoonvertelling (“ek”)",
+     "die korrekte volgorde van die gebeure",
+     "saamgestelde sinne"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die skryfproses",
+   "payload": {
+    "bullets": [
+     "**Beplan** jou skryfwerk met ’n breinkaart.",
+     "**Skryf** jou eerste weergawe.",
+     "Laat ’n maat jou werk **hersien**.",
+     "**Korrigeer** spelfoute en punktuasie.",
+     "Skryf jou **finale weergawe** vir publikasie."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die storie",
+   "payload": {
+    "prompt": "Druk die knoppie en luister terwyl jy saamlees.",
+    "speak_passage": true
+   },
+   "source": "supplementary",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryfvraag 1",
+   "payload": {
+    "prompt": "Hoe weet jy dat Dingani se span goed sokker speel?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 4,
+    "pdf_page": 8,
+    "item": "1"
+   },
+   "suggested_answer": "Hulle het die groot sokkertoernooi gewen.",
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Meerkeusevraag 1",
+   "payload": {
+    "prompt": "Wat het Jan vir Charl aan die einde van die storie help besef?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Dat daar reeds iets is wat hy goed doen."
+     },
+     {
+      "key": "B",
+      "text": "Dat hy goed sokker speel."
+     },
+     {
+      "key": "C",
+      "text": "Dat tuinmaak harde werk is."
+     },
+     {
+      "key": "D",
+      "text": "Dat sy maats meer talentvol is as hy."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 4,
+    "pdf_page": 8,
+    "item": "A"
+   },
+   "answer": {
+    "choice": "A"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Jan sê hoe groot en gesond Charl se groente is en dat hy self nie plante kan laat groei nie. So help hy Charl besef dat tuinmaak sy talent is.",
+    "per_option": {
+     "B": "Charl het swak sokker gespeel.",
+     "C": "Jan sê nie dat tuinmaak harde werk is nie – hy bewonder dit.",
+     "D": "Jan sê juis dat hy wens hy kon plante kweek soos Charl."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Meerkeusevraag 2",
+   "payload": {
+    "prompt": "Waarom het Charl sy vriende oorgenooi vir aandete?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Om die einde van die somer te vier."
+     },
+     {
+      "key": "B",
+      "text": "Om sy talent asook hulle s’n te vier."
+     },
+     {
+      "key": "C",
+      "text": "Om sokker te speel."
+     },
+     {
+      "key": "D",
+      "text": "Om hulle te leer hoe om tuin te maak."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 4,
+    "pdf_page": 8,
+    "item": "B"
+   },
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Charl nooi hulle om Dingani se sokkeroorwinning te vier, met groente uit sy eie tuin (sy talent), en om Jan se konsert by te woon.",
+    "per_option": {
+     "A": "Die storie praat nie van die einde van die somer nie.",
+     "C": "Hulle gaan eet; Dingani se sokker is reeds gespeel.",
+     "D": "Charl wil vier, nie leer nie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Sinonieme in die storie",
+   "payload": {
+    "prompt": "Verbind elke beskrywing met die korrekte woord uit die storie (werkkaarte 65 en 66).",
+    "left": [
+     {
+      "key": "l1",
+      "text": "met trae treë (werkkaart 65)"
+     },
+     {
+      "key": "l2",
+      "text": "prewel (werkkaart 65)"
+     },
+     {
+      "key": "l3",
+      "text": "wanneer iemand alleen sing (werkkaart 66)"
+     },
+     {
+      "key": "l4",
+      "text": "’n buitengewone vermoë (werkkaart 66)"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "mompel"
+     },
+     {
+      "key": "r3",
+      "text": "solo"
+     },
+     {
+      "key": "r4",
+      "text": "talent"
+     },
+     {
+      "key": "r1",
+      "text": "sleepvoetend"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9,
+    "item": "sinonieme"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Kyk na die vetgedrukte woorde in die twee stories."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Sinoniem 5",
+   "payload": {
+    "prompt": "’n baie spesiale vermoë (werkkaart 66) – watter woord uit die storie kan jy gebruik?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9,
+    "item": "sinonieme 5"
+   },
+   "suggested_answer": "talent (die storie praat ook van “spesiale talente”)",
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryfvraag 2",
+   "payload": {
+    "prompt": "Aan watter aktiwiteite het Charl probeer deelneem?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9,
+    "item": "1"
+   },
+   "suggested_answer": "Hy het sokker probeer speel en by ’n sanggroep se oudisie probeer aansluit.",
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat",
+   "payload": {
+    "prompt": "Bespreek hierdie vrae met ’n maat.",
+    "points": [
+     "Hoe het Charl gevoel toe hy nie een van die aktiwiteite kon regkry nie?",
+     "Het jy al ooit so gevoel?",
+     "Hoe het Charl gevoel toe hy besef dat hy ’n talentvolle tuinier is?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9,
+    "item": "Ons praat"
+   },
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Ons skryf: Dagboekinskrywing",
+   "payload": {
+    "prompt": "Maak asof jy Charl is en skryf ’n dagboekinskrywing waarin jy opsom hoe jy gevoel het toe jy ontdek het dat jy tog ’n talent het.",
+    "lines": 10,
+    "checklist": [
+     "Ek het die datum bo-aan geskryf.",
+     "Ek het in die eerste persoon (“ek”) vertel.",
+     "Ek het die gebeure in die korrekte volgorde vertel.",
+     "Ek het saamgestelde sinne gebruik.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jou skryfwerk met ’n breinkaart.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 5,
+    "pdf_page": 9,
+    "item": "Ons skryf"
+   },
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Vul die woord in",
+   "payload": {
+    "text": "Charl stap met {{1}} terug huis toe, want hy voel {{2}}.",
+    "word_bank": [
+     "hangskouers",
+     "moedeloos",
+     "solo"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "hangskouers"
+    ],
+    "2": [
+     "moedeloos",
+     "teleurgesteld"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Hangskouers wys dat jy teleurgesteld of moedeloos voel."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Charl het die oudisie vir die sanggroep gewen."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Sy stem het begin kraak en een van die beoordelaars het ’n skewe gesig getrek – Charl het geweet hy sal nie gekies word nie."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-11",
+   "sort_order": 110
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Sit die gebeure in volgorde",
+   "payload": {
+    "prompt": "Sit hierdie gebeure in die volgorde waarin hulle in die storie gebeur het.",
+    "items": [
+     {
+      "key": "e2",
+      "text": "Charl se stem kraak by die oudisie."
+     },
+     {
+      "key": "e4",
+      "text": "Jan sê Charl se groente is groot en smaaklik."
+     },
+     {
+      "key": "e1",
+      "text": "Charl sien ’n pamflet oor ’n nuwe sanggroep."
+     },
+     {
+      "key": "e3",
+      "text": "Charl stap met hangskouers huis toe."
+     },
+     {
+      "key": "e5",
+      "text": "Charl nooi sy maats vir aandete."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die storie vertel die gebeure in die volgorde van die tyd."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-12",
+   "sort_order": 120
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het Jan vir Charl aan die einde van die storie help besef?",
+   "explanation": "Jan bewonder Charl se groente en help hom so besef dat tuinmaak sy talent is.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dat daar reeds iets is wat hy goed doen.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dat hy goed sokker speel."
+    },
+    {
+     "key": "c",
+     "text": "Dat tuinmaak harde werk is."
+    },
+    {
+     "key": "d",
+     "text": "Dat sy maats meer talentvol is as hy."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 4,
+    "pdf_page": 8,
+    "item": "A"
+   },
+   "key": "q01",
+   "supporting": [
+    17
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom het Charl sy vriende oorgenooi vir aandete?",
+   "explanation": "Charl vier Dingani se oorwinning met groente uit sy tuin en gaan na Jan se konsert.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om sy talent asook hulle s’n te vier.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om die einde van die somer te vier."
+    },
+    {
+     "key": "c",
+     "text": "Om sokker te speel."
+    },
+    {
+     "key": "d",
+     "text": "Om hulle te leer hoe om tuin te maak."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 4,
+    "pdf_page": 8,
+    "item": "B"
+   },
+   "key": "q02",
+   "supporting": [
+    24
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het gebeur toe Charl by die oudisie gesing het?",
+   "explanation": "Die beoordelaar het ’n skewe gesig getrek en Charl het geweet hy sal nie gekies word nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sy stem het begin kraak en piep.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het die solo gekry."
+    },
+    {
+     "key": "c",
+     "text": "Hy het die liedjie vergeet."
+    },
+    {
+     "key": "d",
+     "text": "Hy is dadelik gekies."
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    2,
+    3
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie het die groot sokkertoernooi gewen?",
+   "explanation": "Dingani antwoord: “Ons het gewen!”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dingani se span",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jan se koor"
+    },
+    {
+     "key": "c",
+     "text": "Charl se span"
+    },
+    {
+     "key": "d",
+     "text": "Niemand nie"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    10
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat beteken “hangskouers” in die sin “Charl stap met hangskouers terug huis toe”?",
+   "explanation": "Skouers wat hang, wys dat iemand teleurgesteld is.",
+   "options": [
+    {
+     "key": "a",
+     "text": "teleurgesteld en moedeloos",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "bly en trots"
+    },
+    {
+     "key": "c",
+     "text": "kwaad en vol selfvertroue"
+    },
+    {
+     "key": "d",
+     "text": "baie moeg van die sokker"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom sê Jan: “Ek wens ek het jou hand met ’n plant gehad”?",
+   "explanation": "Jan se plante gaan dood, terwyl Charl se groente groot en gesond is – Jan bewonder dit.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy bewonder Charl se vermoë om plante te kweek.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy hou nie van groente nie."
+    },
+    {
+     "key": "c",
+     "text": "Hy wil Charl se tuin koop."
+    },
+    {
+     "key": "d",
+     "text": "Hy is kwaad vir Charl."
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    20
+   ]
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die hoofgedagte van die hele storie?",
+   "explanation": "Charl dink hy het geen talent nie, maar hy is baie goed met plante.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Elkeen het ’n talent, al sien jy dit nie dadelik nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sokker is beter as sing."
+    },
+    {
+     "key": "c",
+     "text": "Groente kweek is maklik."
+    },
+    {
+     "key": "d",
+     "text": "Die skoolvakansie is vervelig."
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    22
+   ]
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het EERSTE in hierdie deel van die storie gebeur?",
+   "explanation": "Die deel begin met die pamflet en die oudisie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Charl het by die sanggroep se oudisie gaan sing.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Charl het sy maats vir aandete genooi."
+    },
+    {
+     "key": "c",
+     "text": "Jan het gesê Charl se groente is groot."
+    },
+    {
+     "key": "d",
+     "text": "Dingani het gesê sy span het gewen."
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat gaan Jan môre doen?",
+   "explanation": "Jan sê: “Dit vind môre plaas … en ek gaan ’n solo sing!”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy gaan ’n solo by die konsert sing.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy gaan sokker speel."
+    },
+    {
+     "key": "c",
+     "text": "Hy gaan groente plant."
+    },
+    {
+     "key": "d",
+     "text": "Hy gaan na ’n oudisie gaan."
+    }
+   ],
+   "key": "q09",
+   "supporting": [
+    13
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Charl soek verder",
+  "language": "af",
+  "sentences": [
+   "’n Paar weke later sien Charl ’n pamflet wat jongmense nooi om by ’n nuwe sanggroep aan te sluit.",
+   "Dadelik besluit hy om te gaan uitvind of hy goed genoeg is.",
+   "Maar terwyl hy sing, begin sy stem te kraak en te piep.",
+   "Een van die beoordelaars trek ’n skewe gesig, en toe weet Charl hy sal nie gekies word nie.",
+   "Charl stap met hangskouers terug huis toe en gaan reguit na die tuin toe.",
+   "“Al my maats het spesiale talente,” dink hy.",
+   "“Ek wens daar was iets wat ek regtig goed kon doen.”",
+   "Die res van die skoolvakansie hou Charl aan om te soek na sy talent, en elke keer stap hy moedeloos terug huis toe om tyd in die tuin deur te bring.",
+   "Teen die einde van die vakansie sien Charl weer sy maats Dingani en Jan.",
+   "“Hoe het dit met die groot sokkertoernooi gegaan?” vra hy vir Dingani.",
+   "“Ons het gewen!” antwoord Dingani.",
+   "“En hoe was die konsert?” vra Charl vir Jan.",
+   "“Dit vind môre plaas,” antwoord Jan.",
+   "“Maar ons koor het regtig hard gewerk, en ek gaan ’n solo sing!”",
+   "“Veels geluk,” sê Charl vir hulle.",
+   "“Ek wens ek het iets gehad waarop ek trots kon wees.”",
+   "“Jy maak seker ’n grap?” vra Jan.",
+   "“Kyk hoe groot is die groente in jou tuin!",
+   "Dit lyk so smaaklik en gesond!",
+   "Elke keer wanneer ek iets probeer kweek, word dit bruin en gaan dood.",
+   "Ek wens ek het jou hand met ’n plant gehad.”",
+   "“Regtig?” antwoord Charl.",
+   "“Ek het nooit aan tuinmaak as iets besonders gedink nie.”",
+   "Hy glimlag.",
+   "“Waarom kom julle nie albei môre saam met my Dingani se sokkeroorwinning vier nie?",
+   "Kom sommer vir aandete.",
+   "Ons sal vars groente uit my tuin eet, en dan kan ons Jan se konsert bywoon!”"
+  ],
+  "paragraph_starts": [
+   0,
+   4,
+   8,
+   10,
+   11,
+   12,
+   14,
+   16,
+   21
+  ],
+  "glossary": [
+   {
+    "term": "pamflet",
+    "definition": "’n Klein gedrukte blad met inligting wat uitgedeel word.",
+    "sentence_index": 0
+   },
+   {
+    "term": "beoordelaars",
+    "definition": "Mense wat besluit of jy goed genoeg is.",
+    "sentence_index": 3
+   },
+   {
+    "term": "hangskouers",
+    "definition": "Skouers wat swaar hang omdat jy teleurgesteld of moedeloos is.",
+    "sentence_index": 4
+   },
+   {
+    "term": "moedeloos",
+    "definition": "Teleurgesteld en sonder hoop om aan te hou probeer.",
+    "sentence_index": 7
+   },
+   {
+    "term": "talent",
+    "definition": "’n Spesiale vermoë om iets baie goed te doen.",
+    "sentence_index": 5
+   },
+   {
+    "term": "solo",
+    "definition": "Wanneer een persoon alleen sing of speel.",
+    "sentence_index": 13
+   },
+   {
+    "term": "sokkeroorwinning",
+    "definition": "Die wen van ’n sokkerwedstryd.",
+    "sentence_index": 24
+   }
+  ]
+ }
+}

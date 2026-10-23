@@ -1,0 +1,721 @@
+{
+ "key": "gr6-afr-b2-wk097",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 97,
+ "title_af": "Onderhoud met ’n musiekster",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 1,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk"
+ ],
+ "printed_pages": [
+  70,
+  71
+ ],
+ "pdf_pages": [
+  74,
+  75
+ ],
+ "reference_pages": [
+  {
+   "pdf": 74,
+   "printed": 70,
+   "src": "/workbook/gr6-afr-b2/p074.webp"
+  },
+  {
+   "pdf": 75,
+   "printed": 71,
+   "src": "/workbook/gr6-afr-b2/p075.webp"
+  }
+ ],
+ "intro_af": "Wat vra ’n radio-omroeper vir ’n musiekster? Luister na ’n onderhoud met Bobby van Jaarsveld, bespreek dit en rolspeel dit saam met ’n maat.",
+ "objectives_af": [
+  "Na ’n radio-onderhoud luister.",
+  "Die onderhoud in ’n groep bespreek.",
+  "Die onderhoud rolspeel.",
+  "Mekaar se onderhoude beoordeel."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is ’n onderhoud?",
+   "payload": {
+    "text": "’n **Onderhoud** is ’n gesprek met vrae en antwoorde. Die onderhoudvoerder vra vrae en die ander persoon antwoord."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 70,
+    "pdf_page": 74
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Hoe beoordeel ons ’n onderhoud?",
+   "payload": {
+    "bullets": [
+     "Duidelike uitspraak",
+     "Voldoende volume",
+     "Wisseling van stemtoon",
+     "Tempo (nie te vinnig of te stadig nie)"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 71,
+    "pdf_page": 75
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister aandagtig",
+   "payload": {
+    "prompt": "Luister aandagtig terwyl jou onderwyser hierdie onderhoud voorlees. (Of druk die knoppie.)",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 70,
+    "pdf_page": 74,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Rolspeel die onderhoud",
+   "payload": {
+    "prompt": "Werk in pare. Rolspeel hierdie onderhoud met Bobby van Jaarsveld. Jy en jou maat kan beurte maak om die radio-omroeper en Bobby te wees."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 71,
+    "pdf_page": 75,
+    "item": "Ons doen"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beoordeel julle onderhoud",
+   "payload": {
+    "prompt": "Merk wat julle goed gedoen het.",
+    "lines": 1,
+    "no_text": true,
+    "checklist": [
+     "Duidelike uitspraak",
+     "Voldoende volume",
+     "Wisseling van stemtoon",
+     "Tempo (nie te vinnig of te stadig nie)"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 71,
+    "pdf_page": 75,
+    "item": "kriteria"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Gee jou maat raad",
+   "payload": {
+    "prompt": "Gee jou maat indien nodig raad voordat julle die onderhoud weer rolspeel, bv. praat stadiger, harder, ens."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 71,
+    "pdf_page": 75,
+    "item": "raad"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Bespreek in groepverband",
+   "payload": {
+    "prompt": "Bespreek hierdie vrae.",
+    "points": [
+     "Wie dink jy sou na hierdie radioprogram luister? Dink jy die luisteraars sou hoofsaaklik ouer mense of jongmense wees?",
+     "Dink jy hulle sou in stede of in landelike gebiede woon?",
+     "Is daar nog sulke programme op Suid-Afrikaanse radiostasies of op TV?",
+     "Wat is die name van die programme?",
+     "Hou jy van Bobby van Jaarsveld? Sê waarom. Is daar ander sterre met wie jy graag ’n onderhoud sou wil voer?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 71,
+    "pdf_page": 75,
+    "item": "Ons praat"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Feite uit die onderhoud",
+   "payload": {
+    "text": "Bobby is gebore op die {{1}} Maart {{2}} in {{3}} in die Wes-Kaap. Sy doopnaam is {{4}}."
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "6de",
+     "6"
+    ],
+    "2": [
+     "1987"
+    ],
+    "3": [
+     "Paarl"
+    ],
+    "4": [
+     "Pieter"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Dit is sy antwoord op die eerste vraag en die tweede vraag."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Wie of wat?",
+   "payload": {
+    "prompt": "Verbind elke persoon of ding met die regte feit uit die onderhoud.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Danie Swanepoel"
+     },
+     {
+      "key": "l2",
+      "text": "Karlien en Cara"
+     },
+     {
+      "key": "l3",
+      "text": "Sion en Leben"
+     },
+     {
+      "key": "l4",
+      "text": "Baboo"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Bobby se twee sussies"
+     },
+     {
+      "key": "r3",
+      "text": "Bobby se twee seuns"
+     },
+     {
+      "key": "r4",
+      "text": "Bobby se lieflinghond"
+     },
+     {
+      "key": "r1",
+      "text": "die onderhoudvoerder van Tienertyd"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is almal in die onderhoud genoem."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Bobby se loopbaan",
+   "payload": {
+    "prompt": "Sit die gebeure in die volgorde waarin dit in sy loopbaan plaasgevind het.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Sy eerste solo-CD kom vroeg in sy matriekjaar uit."
+     },
+     {
+      "key": "e1",
+      "text": "Hy neem aan talentkompetisies deel."
+     },
+     {
+      "key": "e4",
+      "text": "Hy begin professioneel optree."
+     },
+     {
+      "key": "e2",
+      "text": "Hy kry sy eerste CD-kontrak in Graad 11."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Dit is die volgorde in sy antwoord oor sy loopbaan."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Bobby het in net een laerskool skoolgegaan."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Hy sê: “ek was in 7 verskillende laerskole!”"
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-09",
+   "sort_order": 90
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie voer die onderhoud met Bobby?",
+   "explanation": "Hy stel homself voor as Danie Swanepoel van Tienertyd.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Danie Swanepoel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Anna Rheeders"
+    },
+    {
+     "key": "c",
+     "text": "Pieter"
+    },
+    {
+     "key": "d",
+     "text": "Baboo"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "In watter stad is Bobby gebore?",
+   "explanation": "Hy is in Paarl in die Wes-Kaap gebore.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Paarl",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Brits"
+    },
+    {
+     "key": "c",
+     "text": "Kaapstad"
+    },
+    {
+     "key": "d",
+     "text": "Pretoria"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar kom Bobby se bynaam vandaan?",
+   "explanation": "Hy het sy bynaam Bobby by sy pa gekry.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Van sy pa",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Van sy ma"
+    },
+    {
+     "key": "c",
+     "text": "Van sy onderwyser"
+    },
+    {
+     "key": "d",
+     "text": "Van ’n vriend"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    9
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoeveel laerskole het Bobby bygewoon?",
+   "explanation": "Hy moes baie verhuis en was in 7 verskillende laerskole.",
+   "options": [
+    {
+     "key": "a",
+     "text": "7",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "1"
+    },
+    {
+     "key": "c",
+     "text": "3"
+    },
+    {
+     "key": "d",
+     "text": "11"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    11
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Aan watter sportsoorte het Bobby op skool deelgeneem?",
+   "explanation": "Hy noem hokkie, rugby, krieket en atletiek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hokkie, rugby, krieket en atletiek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net sokker"
+    },
+    {
+     "key": "c",
+     "text": "Tennis en swem"
+    },
+    {
+     "key": "d",
+     "text": "Netbal en gholf"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    15
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat was een van Bobby se troeteldiere op skool?",
+   "explanation": "Een van sy troeteldiere op skool was ’n slang.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Slang",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Perd"
+    },
+    {
+     "key": "c",
+     "text": "’n Papegaai"
+    },
+    {
+     "key": "d",
+     "text": "’n Kat"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    22
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wanneer het Bobby sy eerste CD-kontrak gekry?",
+   "explanation": "Hy het sy eerste CD-kontrak in Graad 11 gekry.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In Graad 11",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In Graad 1"
+    },
+    {
+     "key": "c",
+     "text": "Ná matriek"
+    },
+    {
+     "key": "d",
+     "text": "In Graad 7"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    28
+   ]
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is Bobby se boodskap aan jongmense?",
+   "explanation": "Hy moedig jongmense aan om hulle droom uit te leef.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Leef jou droom uit en onthou waar jou krag vandaan kom.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Moet nooit skool toe gaan nie."
+    },
+    {
+     "key": "c",
+     "text": "Word net ’n sanger."
+    },
+    {
+     "key": "d",
+     "text": "Moenie vir ander luister nie."
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    41
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n onderhoud?",
+   "explanation": "Die onderhoudvoerder vra vrae en die ander persoon antwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Gesprek met vrae en antwoorde",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Brief"
+    },
+    {
+     "key": "c",
+     "text": "’n Gedig"
+    },
+    {
+     "key": "d",
+     "text": "’n Prent"
+    }
+   ],
+   "key": "q09"
+  }
+ ],
+ "passage": {
+  "title": "Onderhoud met ’n musiekster",
+  "language": "af",
+  "sentences": [
+   "Welkom by ons program, Tienertyd!",
+   "Dit is Danie Swanepoel van Tienertyd, en vandag voer ons ’n onderhoud met die beroemde sanger, Bobby van Jaarsveld.",
+   "Welkom by ons program, Bobby!",
+   "Baie dankie, dit is ’n voorreg om vandag met die luisteraars te kan gesels.",
+   "Daar is baie jong bewonderaars wat meer oor jou te wete wil kom.",
+   "Vertel vir ons waar en wanneer jy gebore is?",
+   "Ek is op die 6de Maart 1987 in Paarl in die Wes-Kaap gebore.",
+   "Vertel vir ons meer van jou familie en jou lewe voordat jy ’n musiekster geword het.",
+   "My doopnaam is Pieter.",
+   "Ek het my bynaam Bobby by my pa gekry.",
+   "Ek is die middelste van 3 kinders, en ek het twee sussies: Karlien en Cara.",
+   "Ons moes baie verhuis a.g.v. my pa se werksomstandighede – ek was in 7 verskillende laerskole!",
+   "Ek het egter net een hoërskool bygewoon, naamlik die Hoërskool Brits, waar ek ook gematrikuleer het.",
+   "Op 7 Januarie 2011 is ek met Anna Rheeders getroud, en vandag het ons twee seuns: Sion en Leben, wat ons groot vreugde verskaf.",
+   "Van watter sportsoorte en ander ontspanningsaktiwiteite hou jy?",
+   "Op skool het ek aan hokkie, rugby, krieket en atletiek deelgeneem.",
+   "Ek hou daarvan om te gaan fliek en is baie lief vir springmielies.",
+   "Ek is mal oor duik, en wanneer ek die kans kry om te gaan diepseeduik, doen ek dit.",
+   "Andersins moet ek liedjies skryf en babas oppas.",
+   "Op hierdie stadium is dit my stokperdjie: kinders grootmaak.",
+   "Het julle enige troeteldiere?",
+   "Ek is baie lief vir alle diere.",
+   "Een van my troeteldiere op skool was ’n slang, alhoewel hy darem nie giftig was nie.",
+   "Later het ek ook ’n iguana aangeskaf.",
+   "My lieflinghond se naam was Baboo, wat ’n steekhaar-terriër was.",
+   "As ek nie ’n sanger geword het nie, sou ek beslis ’n veearts geword het.",
+   "Hoe het jou loopbaan begin?",
+   "Ek het op hoërskool aan talentkompetisies begin deelneem, en daar het my liefde vir die musiekbedryf begin.",
+   "Ek het my eerste CD-kontrak in Graad 11 gekry, en my eerste solo-CD is vroeg in my matriekjaar uitgereik.",
+   "Daarna het ek professioneel begin optree.",
+   "Vertel vir ons meer van jou loopbaan.",
+   "Eerstens wil ek dankie sê aan elkeen wat my altyd ondersteun.",
+   "Ek waardeer julle uit my hart uit.",
+   "Ek sê dit altyd en sal dit weer en weer sê – ons kan net doen wat ons doen solank julle ons CD’s en DVD’s koop en ons konserte bywoon.",
+   "Deur genade kon ek al 3 albums vrystel, nl.",
+   "Duisende Ure, Net Vir Jou en Wat Geld Nie Kan Koop Nie.",
+   "Ek het ook reeds verskeie musiekvideo’s vrygestel, o.a.",
+   "“Spieëltjie”, “’n Vrou wil dit Hoor”, “Net vir Jou” en “Kyk waar is ons Nou”.",
+   "Ek het ook opgetree in die rolprente Liefling en As Jy Sing.",
+   "Afgesien van my alleenoptredes sedert 2001 het ek ook van 2007 tot 2011 aan die Skouspeloptredes deelgeneem, en sedert 2012 neem ek aan die “Afrikaans is Groot”-opvoerings deel.",
+   "Wat is jou boodskap aan ander jongmense?",
+   "Ek wil jongmense aanmoedig om hulle droom uit te lewe en altyd te weet waar hulle krag en sukses vandaan kom.",
+   "Die feit dat ek my droom kan uitleef is pure genade.",
+   "Ek dank my hemelse Vader vir sy liefde en genade, want dit is waar my krag vandaan kom."
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   7,
+   8,
+   14,
+   15,
+   20,
+   21,
+   26,
+   27,
+   30,
+   31,
+   40,
+   41
+  ],
+  "glossary": [
+   {
+    "term": "bewonderaars",
+    "definition": "Mense wat baie van iemand hou en hom of haar bewonder.",
+    "sentence_index": 4
+   },
+   {
+    "term": "voorreg",
+    "definition": "’n Spesiale geleentheid waarvoor jy dankbaar is.",
+    "sentence_index": 3
+   },
+   {
+    "term": "doopnaam",
+    "definition": "Die naam wat jy by jou doop gekry het.",
+    "sentence_index": 8
+   },
+   {
+    "term": "gematrikuleer",
+    "definition": "Matriek geslaag (die laaste skooljaar voltooi).",
+    "sentence_index": 12
+   },
+   {
+    "term": "verskaf",
+    "definition": "Gee of bring.",
+    "sentence_index": 13
+   },
+   {
+    "term": "iguana",
+    "definition": "’n Groot akkedis.",
+    "sentence_index": 23
+   },
+   {
+    "term": "loopbaan",
+    "definition": "Die beroep of werk wat jy oor baie jare doen.",
+    "sentence_index": 26
+   },
+   {
+    "term": "professioneel",
+    "definition": "Soos ’n beroep: vir geld en met vaardigheid.",
+    "sentence_index": 29
+   }
+  ]
+ }
+}

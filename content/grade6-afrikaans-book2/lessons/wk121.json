@@ -1,0 +1,730 @@
+{
+ "key": "gr6-afr-b2-wk121",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 121,
+ "title_af": "Maandag-malligheid",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk7-8",
+  "name_af": "Tema 8 · Week 7–8: Gedigte vir kinders",
+  "name_en": "Theme 8 · Weeks 7–8: Poems for children",
+  "sort": 109
+ },
+ "tier_number": 1,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Lees en kyk",
+  "Luister en praat",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  118,
+  119
+ ],
+ "pdf_pages": [
+  122,
+  123
+ ],
+ "reference_pages": [
+  {
+   "pdf": 122,
+   "printed": 118,
+   "src": "/workbook/gr6-afr-b2/p122.webp"
+  },
+  {
+   "pdf": 123,
+   "printed": 119,
+   "src": "/workbook/gr6-afr-b2/p123.webp"
+  }
+ ],
+ "intro_af": "Wat ’n lawaaierige Maandagoggend! Lees die gedig “Maandag-malligheid”, dramatiseer die klanke, soek die rymwoorde en ontdek die beeldspraak.",
+ "objectives_af": [
+  "’n Gedig hardop lees en dramatiseer.",
+  "Rymwoorde in ’n gedig uitken.",
+  "Vrae oor ’n gedig beantwoord.",
+  "Voorbeelde van beeldspraak (vergelyking, metafoor, alliterasie, assonansie, personifikasie) gee."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat is beeldspraak?",
+   "payload": {
+    "paragraphs": [
+     "Beeldspraak beteken om ’n figuurlike betekenis oor te dra deur vergelykings, metafore, personifikasie, idiomatiese uitdrukkings, ens."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 118,
+    "pdf_page": 122
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Soorte beeldspraak",
+   "payload": {
+    "headers": [
+     "Term",
+     "Verduideliking"
+    ],
+    "rows": [
+     [
+      "Vergelyking",
+      "vergelyk twee enerse goed met die woord “soos”. Ons gebruik in vergelykings dikwels dierebeelde."
+     ],
+     [
+      "Metafoor",
+      "vergelyk twee dinge deur te sê dat die een ding die ander ding is, sonder om die woord “soos” te gebruik."
+     ],
+     [
+      "Alliterasie",
+      "is wanneer opeenvolgende woorde met dieselfde letter begin om die aandag te trek."
+     ],
+     [
+      "Assonansie",
+      "is die herhaling van vokale (klinkers) om ’n bepaalde stemming te skep."
+     ],
+     [
+      "Personifikasie",
+      "is wanneer ons menslike/persoonlike eienskappe aan dooie dinge gee, bv. “Die wind huil om die hoeke”."
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 118,
+    "pdf_page": 122
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Dramatiseer die gedig",
+   "payload": {
+    "prompt": "Lees die gedig “Maandag-malligheid” hardop. Dramatiseer die gedig deur die klanke na te boots om die malligheid waarmee die Maandag begin, voor te stel (woef-woef, doef-doef, toet, die skoolklok, die wekker).",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 118,
+    "pdf_page": 122,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Rymwoorde",
+   "payload": {
+    "prompt": "Omkring die woorde wat rym: verbind elke woord met sy rymwoord in die gedig.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "wekker"
+     },
+     {
+      "key": "l2",
+      "text": "woef-woef"
+     },
+     {
+      "key": "l3",
+      "text": "al"
+     },
+     {
+      "key": "l4",
+      "text": "skril"
+     },
+     {
+      "key": "l5",
+      "text": "raas"
+     },
+     {
+      "key": "l6",
+      "text": "mekaar"
+     },
+     {
+      "key": "l7",
+      "text": "verby"
+     },
+     {
+      "key": "l8",
+      "text": "afsit"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "doef-doef"
+     },
+     {
+      "key": "r3",
+      "text": "mal"
+     },
+     {
+      "key": "r4",
+      "text": "gil"
+     },
+     {
+      "key": "r5",
+      "text": "baas"
+     },
+     {
+      "key": "r6",
+      "text": "bedaar"
+     },
+     {
+      "key": "r7",
+      "text": "geraas-vry"
+     },
+     {
+      "key": "r8",
+      "text": "bid"
+     },
+     {
+      "key": "r1",
+      "text": "lekker"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 118,
+    "pdf_page": 122,
+    "item": "rym"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6",
+     "l7": "r7",
+     "l8": "r8"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die rymwoorde kom aan die einde van reëls wat saam ’n paar vorm."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Strofes en versreëls",
+   "payload": {
+    "prompt": "Uit hoeveel strofes bestaan die gedig? Hoeveel versreëls is daar in elke strofe? Dui die rymskema aan.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 119,
+    "pdf_page": 123,
+    "item": "1–3"
+   },
+   "suggested_answer": "Die gedig bestaan uit 3 strofes.\nElke strofe het 6 versreëls.\nRymskema: aabbcc (die reëls rym twee-twee).",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter soort beeldspraak?",
+   "payload": {
+    "prompt": "Kies die regte soort beeldspraak.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Die skoolklok lui skril soos meisies wat gil.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       },
+       {
+        "key": "c",
+        "text": "personifikasie"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die wind huil om die hoeke.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       },
+       {
+        "key": "c",
+        "text": "personifikasie"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Sy het ’n hart van goud.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       },
+       {
+        "key": "c",
+        "text": "personifikasie"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Hy is so trots soos ’n pou.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       },
+       {
+        "key": "c",
+        "text": "personifikasie"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Die wekker gil my wakker.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       },
+       {
+        "key": "c",
+        "text": "personifikasie"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 118,
+    "pdf_page": 122,
+    "item": "beeldspraak"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "c",
+     "q3": "b",
+     "q4": "a",
+     "q5": "c"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Vergelyking gebruik “soos”; metafoor sê iets ís iets anders; personifikasie gee menslike eienskappe aan dooie dinge."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Voorbeelde uit die gedig",
+   "payload": {
+    "prompt": "Gee voorbeelde vir elk uit die gedig: alliterasie, assonansie, metafoor, vergelyking.",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 119,
+    "pdf_page": 123,
+    "item": "beeldspraak"
+   },
+   "suggested_answer": "Alliterasie: “wakker van my wekker” / “weer wakker gil”\nAssonansie: “woef-woef … doef-doef” (die oe-klank)\nMetafoor: “die oggend begin sirkus-mal” (die oggend is ’n sirkus)\nVergelyking: “Die skoolklok lui skril soos meisies wat gil.”",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die spreker en sy gevoelens",
+   "payload": {
+    "prompt": "Wie is die spreker in die gedig? Beskryf die emosies/gevoelens wat die spreker beleef in jou eie woorde.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 119,
+    "pdf_page": 123,
+    "item": "spreker"
+   },
+   "suggested_answer": "Die spreker is ’n skoolkind. Hy of sy voel moeg, geïrriteerd en oorweldig deur al die geraas.",
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In die gedig is dit die hele dag stil."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit is ’n lawaaierige dag; eers as die spreker slaap, is dit doodstil."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat maak die spreker wakker?",
+   "explanation": "Hy word wakker van sy wekker.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Wekker",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die hond"
+    },
+    {
+     "key": "c",
+     "text": "Die kar"
+    },
+    {
+     "key": "d",
+     "text": "Die skoolklok"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Met watter klank word die hond beskryf?",
+   "explanation": "Die hond se woef-woef maak “doef-doef” in sy kop.",
+   "options": [
+    {
+     "key": "a",
+     "text": "woef-woef",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "miaau"
+    },
+    {
+     "key": "c",
+     "text": "toet"
+    },
+    {
+     "key": "d",
+     "text": "lui"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarmee word die skoolklok vergelyk?",
+   "explanation": "Die skoolklok lui skril soos meisies wat gil.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Meisies wat gil",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hondjies wat blaf"
+    },
+    {
+     "key": "c",
+     "text": "Kinders wat lag"
+    },
+    {
+     "key": "d",
+     "text": "Voëls wat sing"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    7
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie hou nie op raas nie?",
+   "explanation": "Juffrou hou nie op raas nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Juffrou",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die skoolhoof"
+    },
+    {
+     "key": "c",
+     "text": "Die hond"
+    },
+    {
+     "key": "d",
+     "text": "Die kinders"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    8
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat wil niemand tuis afsit nie?",
+   "explanation": "Tuis wil niemand die TV afsit nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die TV",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die radio"
+    },
+    {
+     "key": "c",
+     "text": "Die kar"
+    },
+    {
+     "key": "d",
+     "text": "Die wekker"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    14
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wanneer is dit doodstil?",
+   "explanation": "Net as hy slaap is dit doodstil.",
+   "options": [
+    {
+     "key": "a",
+     "text": "As die spreker slaap",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In die klas"
+    },
+    {
+     "key": "c",
+     "text": "By pouse"
+    },
+    {
+     "key": "d",
+     "text": "Op pad skool toe"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    16
+   ]
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoeveel strofes het die gedig?",
+   "explanation": "Die gedig bestaan uit drie strofes van ses reëls.",
+   "options": [
+    {
+     "key": "a",
+     "text": "3",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "2"
+    },
+    {
+     "key": "c",
+     "text": "4"
+    },
+    {
+     "key": "d",
+     "text": "6"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 119,
+    "pdf_page": 123,
+    "item": "1–3"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter soort beeldspraak is “Die skoolklok lui skril soos meisies wat gil”?",
+   "explanation": "Daar is die woord “soos”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vergelyking",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Metafoor"
+    },
+    {
+     "key": "c",
+     "text": "Alliterasie"
+    },
+    {
+     "key": "d",
+     "text": "Assonansie"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    7
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Maandag-malligheid",
+  "language": "af",
+  "sentences": [
+   "Ek word wakker van my wekker\n",
+   "dis nog vroeg, ek voel nie lekker.\n",
+   "Die hond se woef-woef\n",
+   "maak in my kop: doef-doef\n",
+   "Ek is laat en die kar toet al\n",
+   "die oggend begin sirkus-mal!",
+   "Die skoolklok lui skril\n",
+   "soos meisies wat gil.\n",
+   "Juffrou hou nie op raas\n",
+   "in haar klas is sy mos baas.\n",
+   "Pouse roep en soek die kinders mekaar\n",
+   "nie eers die interkom laat hul bedaar.",
+   "Uiteindelik is die dag verby\n",
+   "my ore steeds nie geraas-vry.\n",
+   "Tuis wil niemand die TV afsit,\n",
+   "nie eers as ons voor ete bid.\n",
+   "Net as ek slaap is dit doodstil\n",
+   "tot die wekker my weer wakker gil."
+  ],
+  "paragraph_starts": [
+   0,
+   6,
+   12
+  ],
+  "glossary": [
+   {
+    "term": "interkom",
+    "definition": "Toestel waarmee ’n skool aankondigings oor luidsprekers maak.",
+    "sentence_index": 11
+   },
+   {
+    "term": "bedaar",
+    "definition": "Rustig word.",
+    "sentence_index": 11
+   },
+   {
+    "term": "geraas-vry",
+    "definition": "Sonder lawaai.",
+    "sentence_index": 13
+   },
+   {
+    "term": "malligheid",
+    "definition": "Gekheid; dwase of dol gedrag."
+   },
+   {
+    "term": "raas",
+    "definition": "Hard en kwaad praat.",
+    "sentence_index": 8
+   }
+  ]
+ }
+}

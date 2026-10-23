@@ -1,0 +1,699 @@
+{
+ "key": "gr6-afr-b2-wk067",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 67,
+ "title_af": "Ons skryf ’n verslag",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk1-2",
+  "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+  "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+  "sort": 101
+ },
+ "tier_number": 3,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  6,
+  7
+ ],
+ "pdf_pages": [
+  10,
+  11
+ ],
+ "reference_pages": [
+  {
+   "pdf": 10,
+   "printed": 6,
+   "src": "/workbook/gr6-afr-b2/p010.webp"
+  },
+  {
+   "pdf": 11,
+   "printed": 7,
+   "src": "/workbook/gr6-afr-b2/p011.webp"
+  }
+ ],
+ "intro_af": "Vandag word jy ’n verslaggewer! Jy beplan en skryf ’n koerantberig oor Charl se storie.",
+ "objectives_af": [
+  "Beplan ’n koerantberig met die vrae wie, waar, wanneer en wat.",
+  "Die hoofgedagte en die probleem van ’n storie uitwys.",
+  "Gebeure in die korrekte (chronologiese) volgorde plaas.",
+  "Skryf ’n verslag (koerantberig) oor die Julievakansie."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat staan in ’n koerantberig?",
+   "payload": {
+    "bullets": [
+     "die naam van die koerant",
+     "die opskrif van die verslag",
+     "die verslaggewer (jou naam) en die datum",
+     "wie die hoofkarakters is",
+     "waar en wanneer dit gebeur het",
+     "die gebeure in chronologiese (tyd-)volgorde"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 7,
+    "pdf_page": 11
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Beplan met vrae",
+   "payload": {
+    "bullets": [
+     "Wat is die titel van die storie?",
+     "Wie is die hoofkarakters?",
+     "Waar speel die storie hom af?",
+     "Wanneer speel die storie af?",
+     "Wat is die probleem in die storie?",
+     "Word die gebeure in chronologiese volgorde beskryf?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die skryfproses",
+   "payload": {
+    "bullets": [
+     "**Beplan** jou verslag deur die vrae te beantwoord.",
+     "**Skryf** jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk **hersien**.",
+     "**Korrigeer** spelfoute en punktuasie.",
+     "Skryf jou **finale weergawe** op bladsy 7."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat",
+   "payload": {
+    "prompt": "Kyk weer na die storie van “Die Seun wat sy Talent gaan Soek het” en bespreek hierdie vrae met ’n maat.",
+    "points": [
+     "Wat is die titel van die storie?",
+     "Wie is die hoofkarakters?",
+     "Waar speel die storie hom af?",
+     "Wanneer speel die storie af?",
+     "Wat is die probleem in die storie?",
+     "Word die gebeure in chronologiese volgorde beskryf?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Beplan: Hoofkarakters",
+   "payload": {
+    "prompt": "Wie is die hoofkarakters?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "1"
+   },
+   "suggested_answer": "Charl, Dingani en Jan.",
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Beplan: Waar en wanneer",
+   "payload": {
+    "prompt": "Waar en wanneer speel die gebeure hulle af?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "2"
+   },
+   "suggested_answer": "In Limpopo, tydens die Julievakansie van 2015.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Beplan: Hoofgedagte en probleem",
+   "payload": {
+    "prompt": "Wat is die hoofgedagte en die probleem van die storie?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "3"
+   },
+   "suggested_answer": "Probleem: Charl dink hy het geen spesiale talent soos sy maats nie. Hoofgedagte: Elkeen het ’n talent; jy moet net ontdek wat joune is.",
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Plaas die gebeure in die korrekte volgorde",
+   "payload": {
+    "prompt": "Nommer die sinne van 1 tot 6: sit hulle in die volgorde waarin die gebeure plaasgevind het.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Charl voel moedeloos omdat hy geen spesiale talent het nie."
+     },
+     {
+      "key": "e5",
+      "text": "Jan wys Charl daarop dat hy wel ’n spesiale talent het – die vermoë om buitengewone groente en vrugte te kweek."
+     },
+     {
+      "key": "e1",
+      "text": "Gedurende die Julievakansie werk Charl in die gemeenskapstuin."
+     },
+     {
+      "key": "e6",
+      "text": "Die drie seuns vier hulle talente en suksesse tydens ’n aandete."
+     },
+     {
+      "key": "e2",
+      "text": "Hy gesels met Dingani en probeer sokker speel, maar hy vaar nie goed nie."
+     },
+     {
+      "key": "e4",
+      "text": "Later praat hy met Jan en word hy gemotiveer om aan oudisies vir ’n sanggroep deel te neem. Hy slaag egter ook nie daarin nie."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "Ons doen"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5",
+     "e6"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Volg die storie van die begin (die vakansie begin) tot die einde (die aandete)."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Wat noem ons ’n verslaggewer?",
+   "payload": {
+    "prompt": "Wat noem ons ’n persoon wat koerantberigte skryf? Gee ook ’n sinoniem vir die woord.",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "4"
+   },
+   "suggested_answer": "verslaggewer / joernalis",
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Jou opskrif",
+   "payload": {
+    "prompt": "Wat gaan die opskrif van jou verslag (koerantberig) wees?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "5"
+   },
+   "feedback": {},
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jou verslag",
+   "payload": {
+    "prompt": "Skryf nou jou verslag (koerantberig) oor die gebeure van die Julievakansie.",
+    "lines": 14,
+    "checklist": [
+     "Ek het die naam van die koerant neergeskryf.",
+     "Ek het ’n opskrif geskryf.",
+     "Ek het my naam as verslaggewer en die datum bygevoeg.",
+     "Ek sê wie, waar en wanneer.",
+     "Ek vertel die gebeure in chronologiese volgorde.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jou skryfwerk met ’n breinkaart.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 7,
+    "pdf_page": 11,
+    "item": "Skryf jou verslag"
+   },
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In ’n koerantberig vertel jy die gebeure deurmekaar, sonder volgorde."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Gebeure word in chronologiese volgorde vertel: eers wat eerste gebeur het, dan wat daarna gebeur het."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die sin",
+   "payload": {
+    "text": "Die persoon wat ’n koerantberig skryf, word ’n {{1}} of ’n {{2}} genoem.",
+    "word_bank": [
+     "verslaggewer",
+     "joernalis",
+     "digter"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "verslaggewer",
+     "joernalis"
+    ],
+    "2": [
+     "joernalis",
+     "verslaggewer"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Albei woorde beteken dieselfde – hulle is sinonieme."
+   },
+   "answer_status": "official",
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Wat hoort in ’n koerantberig?",
+   "payload": {
+    "prompt": "Kies vir elke ding of dit in ’n koerantberig hoort.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "’n Opskrif",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die naam van die verslaggewer",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "’n Gedig met rym",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Wie, waar en wanneer",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Gebeure in tydvolgorde",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a",
+     "q5": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "’n Koerantberig het ’n opskrif, ’n verslaggewer en feite oor wie, waar en wanneer – in volgorde vertel."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-11",
+   "sort_order": 110
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat noem ons ’n persoon wat koerantberigte skryf?",
+   "explanation": "Die werkboek gee die antwoord: verslaggewer/joernalis.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n verslaggewer (joernalis)",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n digter"
+    },
+    {
+     "key": "c",
+     "text": "’n storieverteller"
+    },
+    {
+     "key": "d",
+     "text": "’n drukker"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 6,
+    "pdf_page": 10,
+    "item": "4"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter gebeurtenis kom EERSTE in Charl se storie?",
+   "explanation": "Die vakansie begin en Charl werk in die tuin.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Charl werk in die gemeenskapstuin.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Charl en Jan vier hulle talente."
+    },
+    {
+     "key": "c",
+     "text": "Jan sê Charl het ’n talent."
+    },
+    {
+     "key": "d",
+     "text": "Charl gaan na die oudisie."
+    }
+   ],
+   "key": "q02"
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter gebeurtenis kom LAASTE in die storie?",
+   "explanation": "Die storie eindig met die aandete.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die drie seuns vier hulle talente tydens ’n aandete.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Charl probeer sokker speel."
+    },
+    {
+     "key": "c",
+     "text": "Charl gaan na ’n oudisie."
+    },
+    {
+     "key": "d",
+     "text": "Jan wys Charl op sy talent."
+    }
+   ],
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie is die drie hoofkarakters in die storie?",
+   "explanation": "Die storie gaan oor Charl en sy maats Dingani en Jan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Charl, Dingani en Jan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Charl, Tumi en Jan"
+    },
+    {
+     "key": "c",
+     "text": "Dingani, Jan en Pieter"
+    },
+    {
+     "key": "d",
+     "text": "Charl, Sipho en Dingani"
+    }
+   ],
+   "key": "q04"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die probleem in Charl se storie?",
+   "explanation": "Charl voel moedeloos omdat sy maats talente het en hy nie dink hy het een nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy dink hy het geen spesiale talent nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het nie ’n sokkerbal nie."
+    },
+    {
+     "key": "c",
+     "text": "Hy kan nie in die tuin werk nie."
+    },
+    {
+     "key": "d",
+     "text": "Hy het geen maats nie."
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar en wanneer speel Charl se storie af?",
+   "explanation": "Die storie noem Julie 2015 en dat Charl in Limpopo woon.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In Limpopo, tydens die Julievakansie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In die Wes-Kaap, tydens Kersfees"
+    },
+    {
+     "key": "c",
+     "text": "In Gauteng, in die winter"
+    },
+    {
+     "key": "d",
+     "text": "By die skool, in Maart"
+    }
+   ],
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n chronologiese volgorde?",
+   "explanation": "Chronologies beteken in tydvolgorde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die gebeure in die volgorde waarin hulle gebeur het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die gebeure deurmekaar"
+    },
+    {
+     "key": "c",
+     "text": "Net die belangrikste gebeure"
+    },
+    {
+     "key": "d",
+     "text": "Net die laaste gebeurtenis"
+    }
+   ],
+   "key": "q07"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter inligting hoort NIE in ’n koerantberig nie?",
+   "explanation": "’n Koerantberig bevat opskrif, verslaggewer, datum en feite – nie ’n rympie nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Rympie vir jou maat",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die opskrif"
+    },
+    {
+     "key": "c",
+     "text": "Die verslaggewer se naam"
+    },
+    {
+     "key": "d",
+     "text": "Die datum"
+    }
+   ],
+   "key": "q08"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+from lessonkit import *
+
+WRITE_PROCESS = ['Beplan jou skryfwerk met ’n breinkaart.', 'Skryf jou eerste weergawe in jou klaswerkboek.', 'Laat ’n maat jou werk hersien.',
+                 'Korrigeer spelfoute en punktuasie.', 'Skryf jou finale weergawe netjies neer.']
+
+# ============================================================== 68 Verskillende soorte werkwoorde
+L68 = lesson(68,
+  intro='Werkwoorde is die “doenwoorde” van ’n sin. Vandag leer jy om hoofwerkwoorde en hulpwerkwoorde te kies en sinne in die bedrywende en lydende vorm te skryf.',
+  objectives=['Hoof- en hulpwerkwoorde identifiseer.', 'Die onderwerp, gesegde en voorwerp van ’n sin uitwys.', 'Enkelvoudige en saamgestelde sinne uitken.',
+              'Sinne in die bedrywende en die lydende vorm skryf.', 'Ons storie in die korrekte volgorde vertel.'],
+  learn=[
+    text('Kyk uit na werkwoorde', bullets=['**Hoofwerkwoorde** is die aksie- of doenwoorde wat in sinne voorkom.',
+         '**Hulpwerkwoorde** vertel ons meer aangaande die hoofwerkwoorde, bv. sal, moet, kan, mag, sou, moes, wou en kon.'], page=8),
+    table('Drie soorte hulpwerkwoorde', ['Soort', 'Voorbeeld'], [['Hulpwerkwoorde van tyd', 'het'], ['Hulpwerkwoorde van wyse (modaliteit)', 'sal / sou en wil / wou'],
+          ['Hulpwerkwoorde van vorm (lydende vorm)', 'Die appel **word** geëet. Die appel **is** geëet.']], page=8),
+    text('Ons hersien sinsleer', 'Sin = onderwerp (wie) + gesegde (werkwoord of werkwoordstuk) + voorwerp (wie/wat).',
+         bullets=['Die seuntjie (onderwerp) gooi (werkwoord) die bal (voorwerp).', 'Die seuntjie (onderwerp) het die bal (voorwerp) gegooi (werkwoordstuk).'], page=8),
+    note('’n Enkelvoudige sin het net een gesegde. ’n Saamgestelde sin het altyd twee of meer gesegdes (werkwoorde of -stukke).', title='Enkelvoudig of saamgestel?', page=8),
+    text('Lydende en bedrywende vorm', bullets=['In die **bedrywende vorm** is die sin in sy basiese vorm: onderwerp + gesegde + voorwerp, bv. Die seun gooi die bal.',
+         'In die **lydende vorm** ruil die onderwerp en die voorwerp om: Die bal word deur die seun gegooi. (teenwoordige tyd)', 'Die bal is deur die seun gegooi. (verlede tyd)',
+         'Die bal sal deur die seun gegooi word. (toekomende tyd)'], page=9),
+  ],
+  examples=[
+    example(table('Hoofwerkwoord of hulpwerkwoord?', ['Sin', 'Hulpwerkwoord', 'Hoofwerkwoord'], [['Dingani **kan** sokker **speel**.', 'kan', 'speel'], ['Jan **moes** ’n solo **sing**.', 'moes', 'sing'],
+          ['Charl **het** moedeloos **gevoel**.', 'het', 'gevoel']], src='supplementary', page=8)),
+  ],
+  acts=[
+    fill('Hulp- en hoofwerkwoorde (1)', '1. Charl gaan die hele vakansie in die gemeenskapstuin werk.\n   Hulpwerkwoord: {{1}} · Hoofwerkwoord: {{2}}\n2. Dingani kan baie goed sokker speel.\n   Hulpwerkwoord: {{3}} · Hoofwerkwoord: {{4}}\n3. Charl wou baie graag sy spesiale talent ontdek.\n   Hulpwerkwoord: {{5}} · Hoofwerkwoord: {{6}}\n4. Charl het moedeloos gevoel.\n   Hulpwerkwoord: {{7}} · Hoofwerkwoord: {{8}}',
+         {1: 'gaan', 2: 'werk', 3: 'kan', 4: 'speel', 5: 'wou', 6: 'ontdek', 7: 'het', 8: 'gevoel'},
+         'Die hulpwerkwoord (gaan, kan, wou, het) staan by die hoofwerkwoord (werk, speel, ontdek, gevoel).', prompt='Skryf die hulpwerkwoord en die hoofwerkwoord van elke sin.',
+         src='workbook', page=8, item=1, status='derived_from_rule'),
+    fill('Hulp- en hoofwerkwoorde (2)', '5. Jan moes ’n solo sing.\n   Hulpwerkwoord: {{1}} · Hoofwerkwoord: {{2}}\n6. Jan oortuig Charl dat hy sy talent moet beoefen. (kyk net na die deel ná “dat”)\n   Hulpwerkwoord: {{3}} · Hoofwerkwoord: {{4}}\n7. Die drie seuns gaan hulle talente en suksesse môre vier.\n   Hulpwerkwoord: {{5}} · Hoofwerkwoord: {{6}}',
+         {1: 'moes', 2: 'sing', 3: 'moet', 4: 'beoefen', 5: 'gaan', 6: 'vier'},
+         'moes, moet en gaan help die hoofwerkwoorde sing, beoefen en vier.', prompt='Skryf die hulpwerkwoord en die hoofwerkwoord van elke sin.', src='workbook', page=8, item=2, status='derived_from_rule'),
+    choices('Enkelvoudig of saamgestel?', 'Is die sin enkelvoudig (een gesegde) of saamgestel (twee of meer gesegdes)?',
+            [('Charl werk in die groentetuin.', ['Enkelvoudig', 'Saamgestel'], 0), ('Dingani het sokker gaan speel en hulle het gewen.', ['Enkelvoudig', 'Saamgestel'], 1),
+             ('Jan sing in die koor en is gekies om ’n solo te sing.', ['Enkelvoudig', 'Saamgestel'], 1), ('Charl het mismoedig gevoel.', ['Enkelvoudig', 'Saamgestel'], 0),
+             ('Jan wys Charl daarop dat hy unieke talente het.', ['Enkelvoudig', 'Saamgestel'], 1)],
+            'Tel die gesegdes: een = enkelvoudig; twee of meer = saamgestel.', src='workbook', page=8, item='tabel', status='derived_from_rule'),
+    fill('Onderwerp en voorwerp (1)', 'Hy kweek groente.  Onderwerp: {{1}} · Voorwerp: {{2}}\nDingani het ’n doel aangeteken.  Onderwerp: {{3}} · Voorwerp: {{4}}\nJan gaan ’n solo sing.  Onderwerp: {{5}} · Voorwerp: {{6}}',
+         {1: 'hy', 2: 'groente', 3: 'Dingani', 4: ['’n doel', 'doel'], 5: 'Jan', 6: ['’n solo', 'solo']},
+         'Die onderwerp vertel wie die doener is; die voorwerp vertel wie of wat die aksie ontvang.', src='workbook', page=9, item=1, status='derived_from_rule'),
+    fill('Onderwerp en voorwerp (2)', 'Charl maak kos.  Onderwerp: {{1}} · Voorwerp: {{2}}\nHy sing ’n liedjie.  Onderwerp: {{3}} · Voorwerp: {{4}}',
+         {1: 'Charl', 2: 'kos', 3: 'hy', 4: ['’n liedjie', 'liedjie']}, 'Wie sing? Hy. Wat sing hy? ’n Liedjie.', src='workbook', page=9, item=2, status='derived_from_rule'),
+    sa('Skryf in die lydende vorm', 'Skryf die vyf sinne in die lydende vorm oor: Hy kweek groente. / Dingani het ’n doel aangeteken. / Jan gaan ’n solo sing. / Charl maak kos. / Hy sing ’n liedjie.',
+       'Groente word deur hom gekweek.\n’n Doel is deur Dingani aangeteken.\n’n Solo gaan deur Jan gesing word.\nKos word deur Charl gemaak.\n’n Liedjie word deur hom gesing.', lines=6, page=9, item=3, status='derived_from_rule'),
+    writing('Vertel Charl se storie', 'Vertel die storie van Charl in die korrekte volgorde oor. Gebruik die woorde eers, toe, daarna, later en uiteindelik.',
+            checklist=['Ek het die woord “eers” gebruik.', 'Ek het die woord “toe” gebruik.', 'Ek het “daarna” en “later” gebruik.', 'Ek het “uiteindelik” gebruik.', 'Die gebeure is in die korrekte volgorde.'], lines=10, page=9, item=4),
+    choices('Kies die lydende vorm', 'Watter sin is in die lydende vorm?',
+            [('Dingani gooi die bal. / Die bal word deur Dingani gegooi.', ['Eerste sin', 'Tweede sin'], 1), ('Die koek is deur Ma gebak. / Ma bak die koek.', ['Eerste sin', 'Tweede sin'], 0),
+             ('Jan sing ’n liedjie. / ’n Liedjie word deur Jan gesing.', ['Eerste sin', 'Tweede sin'], 1)], 'In die lydende vorm kom “word” of “is” voor en die voorwerp begin die sin.', status='derived_from_rule'),
+    tf('Waar of onwaar?', '“Kan” is ’n hoofwerkwoord.', False, 'Kan is ’n hulpwerkwoord (van wyse). Dit staan by ’n hoofwerkwoord, soos in “Dingani kan sokker speel”.', status='derived_from_rule'),
+  ],
+  quiz=[
+    q('grammar', 'Watter woord is die hulpwerkwoord in: “Dingani kan baie goed sokker speel”?', 'kan', ['speel', 'sokker', 'baie'], 'Kan help die hoofwerkwoord speel.', status='derived_from_rule', src='workbook', page=8, item=2),
+    q('grammar', 'Watter woord is die hoofwerkwoord in: “Charl wou baie graag sy talent ontdek”?', 'ontdek', ['wou', 'baie', 'graag'], 'Ontdek is die aksiewoord; wou is die hulpwerkwoord.', status='derived_from_rule', src='workbook', page=8, item=3),
+    q('grammar', 'Watter sin is in die lydende vorm?', 'Die bal word deur die seun gegooi.', ['Die seun gooi die bal.', 'Die seun het die bal gegooi.', 'Die seun sal die bal gooi.'], 'In die lydende vorm kom die voorwerp eerste en daar is “word” of “is”.', status='derived_from_rule'),
+    q('grammar', 'Wat is die lydende vorm van: “Charl maak kos”?', 'Kos word deur Charl gemaak.', ['Charl word deur kos gemaak.', 'Kos maak Charl.', 'Charl het kos gemaak.'], 'Die voorwerp (kos) word die onderwerp en daar kom “word” by.', status='derived_from_rule', src='workbook', page=9, item=3),
+    q('grammar', 'Hoeveel gesegdes het ’n saamgestelde sin?', 'Twee of meer', ['Net een', 'Geen een nie', 'Presies drie'], 'Die werkboek sê: ’n saamgestelde sin het altyd twee of meer gesegdes.', status='official', src='workbook', page=8),
+    q('grammar', 'Watter sin is enkelvoudig?', 'Charl het mismoedig gevoel.', ['Dingani het sokker gaan speel en hulle het gewen.', 'Jan sing in die koor en is gekies om ’n solo te sing.', 'Jan wys Charl daarop dat hy unieke talente het.'], 'Net een gesegde: “het … gevoel”.', status='derived_from_rule', src='workbook', page=8, item='tabel'),
+    q('grammar', 'Wat is die onderwerp in: “Jan gaan ’n solo sing”?', 'Jan', ['solo', 'gaan', '’n solo sing'], 'Wie gaan sing? Jan.', status='derived_from_rule', src='workbook', page=9, item=1),
+    q('grammar', 'Watter woorde is hulpwerkwoorde van wyse (modaliteit)?', 'sal / sou en wil / wou', ['het', 'word en is', 'speel en sing'], 'Die werkboek noem sal/sou en wil/wou as hulpwerkwoorde van wyse.', status='official', src='workbook', page=8),
+    q('grammar', 'Watter hulpwerkwoord van tyd kom in “Charl het moedeloos gevoel” voor?', 'het', ['gevoel', 'moedeloos', 'Charl'], 'Die hulpwerkwoord van tyd is “het”.', status='official', src='workbook', page=8),
+    q('grammar', '“Die bal is deur die seun gegooi.” In watter tyd is die lydende vorm?', 'Verlede tyd', ['Teenwoordige tyd', 'Toekomende tyd', 'Dit is nie die lydende vorm nie'], 'Volgens die werkboek is “is … gegooi” die verlede tyd.', status='official', src='workbook', page=9),
+  ])
+
+# ============================================================== 69 ’n Koerantberig
+ARTICLE69 = [
+  'WIEG VAN DIE MENSDOM, Suid-Afrika - Die negejarige Matthew Berger het een sonnige oggend hier by Maropeng saam met sy hond, Tau, deur die hoë gras gehardloop. Hy het oor ’n stomp geval en toevallig ’n belangrike argeologiese vonds gedoen. “Pa, ek het ’n fossiel gekry!” het Matthew vir sy pa, dr Lee Berger, geskree. Dr Berger was al 20 jaar lank besig om geraamtes van ons antieke menslike voorsate te soek.',
+  'In sy hand het die jonge Matthew die oorblyfsel gehou van ’n seun wat 1,27 meter lank was en net ’n paar jaar ouer as Matthew toe hy dood is. Toe dr Berger nader kom om te kyk waarom Matthew hom roep, was hy verstom om te sien sy seun staan met die sleutelbeen van ’n hominied in sy hand. “Ek kon dit nie glo nie! Ek was skoon duiselig,” het Dr Berger later gesê. “Ek was byna dood (van verbasing).”',
+  'Dr Berger en sy medenavorsers van die Universiteit van die Witwatersrand in Johannesburg het sedertdien nog dele van die seun se skelet gekry, insluitende sy skedel. Hulle dink dit is moontlik dat hy en sy gesin water gesoek het en dat diere wat op jag was hulle tot op ’n nou lysie gedwing het, van waar hulle hulle in ’n skag van tussen 30 en 45 meter diep dood geval het.',
+  'Dr Berger en ’n span wetenskaplikes sê die fossiel wys dat die seun aan ’n hominiede spesie behoort het. Hominiede is die voorsate van menslike wesens en ander nabye verwante van die menslike ras.',
+  'Die wetenskaplikes het die spesie Sediba gedoop (dit is ’n Sotho-woord wat fontein of fonteinwater beteken). Die spesie het regop op hulle lang bene geloop, maar nog in bome gelewe. Hulle het dieselfde kleinerige tande en gesigsvorm as die moderne mens gehad, maar die voete was primitief en die brein baie klein. Wetenskaplike studies het getoon die Sediba-spesie het tussen 1,78 miljoen en 1,95 miljoen jaar gelede gelewe.']
+SENT69 = ['KINDERNUUS', 'Skoolseun (9) ontdek per toeval die eerste mens', 'Deur Tobie du Preez, 15 Augustus 2015'] + ARTICLE69  # list of paragraphs
+
+L69 = lesson(69,
+  intro='Koerantberigte vertel ons feite oor iets wat gebeur het. Lees hoe ’n seun per toeval ’n belangrike ontdekking gedoen het.',
+  objectives=['Voorspel waaroor ’n koerantberig gaan deur na die opskrif en prente te kyk.', 'Die dele van ’n koerantberig uitwys (koerant, opskrif, verslaggewer, datum).',
+              'Die berig in een sin opsom en die hoofidee van elke paragraaf neerskryf.', 'Jou eie mening oor die berig gee en motiveer.'],
+  pass_=passage('’n Koerantberig: Skoolseun (9) ontdek per toeval die eerste mens', SENT69, glossary=[
+      ('fossiel', '’n Oorblyfsel van ’n plant of dier wat miljoene jare gelede gelewe het.'), ('hominied', 'Een van die voorsate van mense en hulle nabye verwante.'),
+      ('medenavorsers', 'Ander mense wat saam met jou navorsing doen.'), ('primitief', 'Baie eenvoudig of vroeg in die ontwikkeling.'),
+      ('Sediba', '’n Sotho-woord wat fontein of fonteinwater beteken.'), ('voorsate', 'Mense of diere van wie jy afstam, lank gelede.')]),
+  learn=[
+    note('Ons gebruik blokhakies [soos dié] wanneer ons iets byvoeg by iemand se woorde om die sin te voltooi.', title='Blokhakies', page=10),
+    text('Dele van ’n koerantberig', bullets=['die naam van die koerant (bv. KINDERNUUS)', 'die **opskrif** – kort en interessant', 'die **verslaggewer** (“Deur …”) en die **datum**', 'paragrawe met feite oor wie, waar, wanneer en wat'],
+         src='supplementary', page=10),
+  ],
+  acts=[
+    discuss('Ons praat: Voorspel', 'Kyk na die opskrif en illustrasies van die koerantberig, en voorspel waaroor die koerantberig handel.', page=10, item='Ons praat'),
+    discuss('Luister na die berig', 'Druk die knoppie en luister terwyl jy die berig saamlees.', src='supplementary', speak='passage'),
+    fill('Voltooi die tabel (1)', 'Wat is die naam van die koerant? {{1}}\nWie is die verslaggewer? {{2}}\nWat is die datum van publikasie? {{3}}',
+         {1: ['Kindernuus', 'Kinder nuus'], 2: 'Tobie du Preez', 3: '15 Augustus 2015'}, 'Die naam, verslaggewer en datum staan bo-aan die berig.', src='workbook', page=11, item=1, status='derived_from_text'),
+    sa('Voltooi die tabel (2)', 'Wat is die opskrif van die koerantberig?', 'Skoolseun (9) ontdek per toeval die eerste mens', lines=1, page=11, item=2, status='derived_from_text'),
+    sa('Som die berig op', 'Som die berig in een sin op.', 'Die negejarige Matthew Berger het per toeval die oorblyfsels van ’n hominied (die Sediba-spesie) by Maropeng gevind.', lines=2, page=11, item=3, status='needs_review'),
+    sa('Hoofidee van elke paragraaf', 'Nommer die 5 paragrawe van die berig. Skryf die hoofidee (kerngedagte) van elke paragraaf neer.',
+       'Paragraaf 1: Matthew val oor ’n stomp en vind ’n fossiel.\nParagraaf 2: Dr Berger is verstom oor die sleutelbeen in sy seun se hand.\nParagraaf 3: Meer dele van die skelet is gevind en die wetenskaplikes dink hoe die seun gesterf het.\nParagraaf 4: Die fossiel behoort aan ’n hominiede spesie, voorsate van mense.\nParagraaf 5: Die spesie is Sediba genoem en het lank gelede gelewe.',
+       lines=8, page=11, item=4, status='needs_review'),
+    match('Pas die paragraaf by sy hoofidee', 'Verbind elke paragraaf met sy hoofidee.',
+          [('Paragraaf 1', 'Matthew val oor ’n stomp en vind per toeval ’n fossiel.'), ('Paragraaf 2', 'Dr Berger is verstom oor die sleutelbeen van ’n hominied in sy seun se hand.'),
+           ('Paragraaf 3', 'Meer dele van die skelet is gevind, en die wetenskaplikes dink hoe die seun gesterf het.'), ('Paragraaf 4', 'Die fossiel behoort aan ’n hominiede spesie, die voorsate van mense.'),
+           ('Paragraaf 5', 'Die spesie is Sediba genoem en het lank gelede gelewe.')], 'Die hoofidee is wat die paragraaf in die kort vertel.', status='needs_review'),
+    sa('Soos mense', 'In watter opsigte was die Sediba-spesie soos mense?', 'Hulle het regop geloop en dieselfde kleinerige tande en gesigsvorm as die moderne mens gehad.', lines=2, page=11, item=5, status='derived_from_text'),
+    sa('Anders as mense', 'Hoe het die spesie van mense verskil?', 'Hulle het nog in bome gelewe, hulle voete was primitief en hulle brein was baie klein.', lines=2, page=11, item=6, status='derived_from_text'),
+    sa('Jou eie mening', 'Gee jou eie mening (perspektief) rakende die berig. Dink jy daar was ’n Sediba-spesie? Motiveer jou antwoord.', None, lines=5, page=11, item=7),
+    tf('Waar of onwaar?', 'Matthew Berger was agt jaar oud toe hy die fossiel gevind het.', False, 'Die berig sê Matthew was negejarig (9 jaar oud).'),
+    fill('Voltooi die sin', 'Die wetenskaplikes het die spesie {{1}} genoem. Dit is ’n Sotho-woord wat {{2}} beteken.', {1: 'Sediba', 2: ['fontein', 'fonteinwater', 'fontein of fonteinwater']},
+         'Sediba beteken fontein of fonteinwater.', bank=['Sediba', 'fontein', 'hominied']),
+  ],
+  quiz=[
+    q('literal', 'Wat is die naam van die koerant?', 'Kindernuus', ['Wiegnuus', 'Mensdomnuus', 'Sedibanuus'], 'Die naam staan bo-aan: KINDERNUUS.', ev=['KINDERNUUS'], src='workbook', page=11, item=1, status='derived_from_text'),
+    q('literal', 'Wie is die verslaggewer?', 'Tobie du Preez', ['Lee Berger', 'Matthew Berger', 'Tau'], 'Die berig begin met “Deur Tobie du Preez”.', ev=['Tobie du Preez'], src='workbook', page=11, item=1, status='derived_from_text'),
+    q('literal', 'Hoe oud was Matthew Berger?', 'Nege jaar oud', ['Agt jaar oud', 'Tien jaar oud', 'Twintig jaar oud'], 'Die opskrif en die eerste paragraaf sê hy was negejarig (9).', ev=['Skoolseun (9)']),
+    q('literal', 'Wat het Matthew gekry toe hy oor ’n stomp geval het?', '’n Fossiel', ['’n Skat', '’n Dinosourus', '’n Nuwe hond'], 'Hy het toevallig ’n belangrike argeologiese vonds gedoen: ’n fossiel.', ev=['Hy het oor ’n stomp geval']),
+    q('vocabulary', 'Wat beteken “hominiede”?', 'Voorsate van mense en hulle nabye verwante', ['Soorte diere wat in water leef', 'Gereedskap van antieke mense', 'Skoolseuns'], 'Die berig verduidelik: Hominiede is die voorsate van menslike wesens en ander nabye verwante.', ev=['Hominiede is die voorsate']),
+    q('literal', 'Wat beteken die woord “Sediba”?', 'Fontein of fonteinwater', ['Eerste mens', 'Hoë gras', 'Skelet'], 'Dit is ’n Sotho-woord wat fontein of fonteinwater beteken.', ev=['Sediba gedoop']),
+    q('literal', 'Waar het die Sediba-spesie geleef, volgens die berig?', 'Nog in bome', ['Net in grotte', 'In groot dorpe', 'Op skepe'], 'Hulle het regop geloop, maar nog in bome gelewe.', ev=['nog in bome gelewe']),
+    q('main_idea', 'Wat is die beste opsomming van die berig?', '’n Skoolseun het per toeval ’n fossiel van ’n hominied gevind.', ['Dr Berger het ’n nuwe skool begin.', '’n Hond het ’n skelet gegrawe.', 'Wetenskaplikes het ’n nuwe dier ontdek wat nog leef.'], 'Die berig vertel van Matthew se toevallige vonds by Maropeng.', ev=['toevallig ’n belangrike argeologiese vonds'], status='needs_review'),
+    q('inference', 'Hoekom was dr Berger so verbaas?', 'Hy het 20 jaar lank na sulke geraamtes gesoek en sy seun het een gekry.', ['Hy het nie van fossiele gehou nie.', 'Matthew het weggeloop.', 'Hy het gedink dit is ’n speelding.'], 'Dr Berger was al 20 jaar besig om geraamtes van voorsate te soek.', ev=['al 20 jaar lank', 'verstom'], status='derived_from_text'),
+  ])

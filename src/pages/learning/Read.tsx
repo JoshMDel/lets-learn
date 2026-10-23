@@ -1,11 +1,12 @@
 import { useEffect } from 'react'
-import { useParams, useNavigate } from 'react-router-dom'
+import { useParams, useNavigate, Navigate } from 'react-router-dom'
 import { LearningLayout } from '../../components/LearningLayout'
 import { PassageReader } from '../../components/PassageReader'
 import { Button } from '../../components/ui/Button'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { usePassage } from '../../content/queries'
+import { useLessonForTier } from '../../content/lessons'
 import { useRecordActivity } from '../../content/activity'
 import { setResumeState } from '../../content/resume'
 
@@ -17,7 +18,8 @@ export default function Read() {
 
   useRecordActivity(activeChildId)
 
-  const { data, isLoading } = usePassage(tierId ?? null)
+  const { data: lesson, isLoading: lessonLoading } = useLessonForTier(tierId ?? null)
+  const { data, isLoading } = usePassage(lesson ? null : (tierId ?? null))
 
   useEffect(() => {
     if (activeChildId && tierId) {
@@ -25,7 +27,10 @@ export default function Read() {
     }
   }, [activeChildId, tierId])
 
-  if (isLoading || !data) {
+  // Workbook lessons have their own page; every older link to /read/:tier lands there.
+  if (lesson) return <Navigate to={`/lesson/${tierId}`} replace />
+
+  if (lessonLoading || isLoading || !data) {
     return (
       <LearningLayout>
         <p className="text-muted">{t('common.loading')}</p>

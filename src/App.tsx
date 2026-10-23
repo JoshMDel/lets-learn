@@ -18,6 +18,7 @@ import Quiz from './pages/learning/Quiz'
 import Results from './pages/learning/Results'
 import Profile from './pages/learning/Profile'
 import Chat from './pages/learning/Chat'
+import Lesson from './pages/learning/Lesson'
 import { RequireActiveLearner, RequireParentToolsUnlocked, RequireSession } from './auth/guards'
 
 export default function App() {
@@ -98,6 +99,14 @@ export default function App() {
         element={
           <RequireActiveLearner>
             <Home />
+          </RequireActiveLearner>
+        }
+      />
+      <Route
+        path="/lesson/:tierId"
+        element={
+          <RequireActiveLearner>
+            <Lesson />
           </RequireActiveLearner>
         }
       />

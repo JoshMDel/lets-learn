@@ -1,0 +1,701 @@
+{
+ "key": "gr6-afr-b2-wk079",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 79,
+ "title_af": "’n Vriendskaplike brief",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 7,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  30,
+  31
+ ],
+ "pdf_pages": [
+  34,
+  35
+ ],
+ "reference_pages": [
+  {
+   "pdf": 34,
+   "printed": 30,
+   "src": "/workbook/gr6-afr-b2/p034.webp"
+  },
+  {
+   "pdf": 35,
+   "printed": 31,
+   "src": "/workbook/gr6-afr-b2/p035.webp"
+  }
+ ],
+ "intro_af": "Een brief kan baie vertel. Luister na ’n vriendskaplike brief en skryf dan self een aan jou maat.",
+ "objectives_af": [
+  "Na die voorlesing van ’n vriendskaplike brief luister.",
+  "Die dele van ’n brief uitken (adres, datum, aanhef, inhoud, slot).",
+  "’n Vriendskaplike brief volgens die korrekte formaat skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Dele van ’n vriendskaplike brief",
+   "payload": {
+    "headers": [
+     "Deel",
+     "Voorbeeld uit die brief"
+    ],
+    "rows": [
+     [
+      "Adres (straat, dorp, provinsie, poskode)",
+      "Olifantstraat 7, Middelburg, Mpumalanga, 1050"
+     ],
+     [
+      "Datum",
+      "1 Augustus 2015"
+     ],
+     [
+      "Aanhef",
+      "Liewe Bianca"
+     ],
+     [
+      "Inhoud",
+      "Eerstens wil ek dankie sê …"
+     ],
+     [
+      "Slot en groet",
+      "Groete, Chantelle"
+     ]
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 30,
+    "pdf_page": 34
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die brief",
+   "payload": {
+    "prompt": "Luister na hierdie brief terwyl jou onderwyser dit vir jou voorlees. (Jy kan ook die knoppie druk.)",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 30,
+    "pdf_page": 34,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Wie skryf aan wie?",
+   "payload": {
+    "prompt": "Wie skryf die brief en aan wie?",
+    "lines": 1
+   },
+   "source": "supplementary",
+   "suggested_answer": "Chantelle skryf die brief aan Bianca.",
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Waaroor gaan die brief?",
+   "payload": {
+    "prompt": "Waaroor skryf Chantelle in die brief?",
+    "lines": 3
+   },
+   "source": "supplementary",
+   "suggested_answer": "Sy dank Bianca vir die kuier en vertel haar van ’n fiksieverhaal (’n Zulu-fabel oor Jabu en die leeu) wat hulle by die skool behandel het.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter deel van die brief is dit?",
+   "payload": {
+    "prompt": "Kies die deel van die brief.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Olifantstraat 7",
+      "options": [
+       {
+        "key": "a",
+        "text": "adres"
+       },
+       {
+        "key": "b",
+        "text": "datum"
+       },
+       {
+        "key": "c",
+        "text": "aanhef"
+       },
+       {
+        "key": "d",
+        "text": "groet"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "1 Augustus 2015",
+      "options": [
+       {
+        "key": "a",
+        "text": "adres"
+       },
+       {
+        "key": "b",
+        "text": "datum"
+       },
+       {
+        "key": "c",
+        "text": "aanhef"
+       },
+       {
+        "key": "d",
+        "text": "groet"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Liewe Bianca",
+      "options": [
+       {
+        "key": "a",
+        "text": "adres"
+       },
+       {
+        "key": "b",
+        "text": "datum"
+       },
+       {
+        "key": "c",
+        "text": "aanhef"
+       },
+       {
+        "key": "d",
+        "text": "groet"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Groete, Chantelle",
+      "options": [
+       {
+        "key": "a",
+        "text": "adres"
+       },
+       {
+        "key": "b",
+        "text": "datum"
+       },
+       {
+        "key": "c",
+        "text": "aanhef"
+       },
+       {
+        "key": "d",
+        "text": "groet"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "c",
+     "q4": "d"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die adres staan bo-aan, dan die datum, die aanhef, die inhoud en laaste die groet."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die dele van ’n brief in volgorde",
+   "payload": {
+    "prompt": "Sit die dele van ’n vriendskaplike brief in die regte volgorde.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Inhoud"
+     },
+     {
+      "key": "e1",
+      "text": "Adres"
+     },
+     {
+      "key": "e5",
+      "text": "Slot en groet"
+     },
+     {
+      "key": "e2",
+      "text": "Datum"
+     },
+     {
+      "key": "e3",
+      "text": "Aanhef (Liewe …)"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Volgorde: adres, datum, aanhef, inhoud, slot en groet."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jou eie brief",
+   "payload": {
+    "prompt": "Skryf ’n brief aan jou maat waarin jy hom of haar vertel van ’n fiksieverhaal wat jy gehoor of gelees het.",
+    "lines": 14,
+    "checklist": [
+     "Ek het my straatnaam en -nommer geskryf.",
+     "Ek het my dorp, provinsie en poskode geskryf.",
+     "Ek het die datum geskryf.",
+     "Ek het begin met “Beste …” of “Liewe …”.",
+     "Ek het die verhaal vertel en die sedeles genoem.",
+     "Ek het ’n slot geskryf (bv. “Beste wense”) en my naam.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jou brief deur ’n geheuekaart in jou klaswerkboek op te stel.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 31,
+    "pdf_page": 35,
+    "item": "Ons skryf"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In ’n vriendskaplike brief kom die datum bo-aan die brief."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die adres en die datum staan bo-aan, voor die aanhef."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die brief",
+   "payload": {
+    "text": "Ons begin ’n vriendskaplike brief met “{{1}} Bianca” en ons sluit af met “{{2}}”.",
+    "word_bank": [
+     "Liewe",
+     "Groete",
+     "Môre"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "Liewe",
+     "Beste"
+    ],
+    "2": [
+     "Groete",
+     "Beste wense"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Chantelle begin met “Liewe Bianca” en sluit af met “Groete”."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie skryf die brief?",
+   "explanation": "Die brief eindig met “Groete, Chantelle”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Chantelle",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Bianca"
+    },
+    {
+     "key": "c",
+     "text": "Jabu"
+    },
+    {
+     "key": "d",
+     "text": "Sipho"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    23
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Aan wie is die brief gerig?",
+   "explanation": "Die aanhef is “Liewe Bianca”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Bianca",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Chantelle"
+    },
+    {
+     "key": "c",
+     "text": "Jakkals"
+    },
+    {
+     "key": "d",
+     "text": "Die onderwyser"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    5
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "In watter straat woon Chantelle?",
+   "explanation": "Die adres bo-aan is Olifantstraat 7.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Olifantstraat",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Leeustraat"
+    },
+    {
+     "key": "c",
+     "text": "Jakkalsstraat"
+    },
+    {
+     "key": "d",
+     "text": "Skoolstraat"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is die datum van die brief?",
+   "explanation": "Die datum staan bo-aan die brief.",
+   "options": [
+    {
+     "key": "a",
+     "text": "1 Augustus 2015",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "15 Augustus 2015"
+    },
+    {
+     "key": "c",
+     "text": "1 Julie 2015"
+    },
+    {
+     "key": "d",
+     "text": "1 Augustus 2005"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarvoor dank Chantelle vir Bianca?",
+   "explanation": "Sy skryf: “Eerstens wil ek dankie sê omdat jy die afgelope vakansie by my kom kuier het.”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dat sy in die vakansie kom kuier het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Vir ’n present"
+    },
+    {
+     "key": "c",
+     "text": "Vir ’n brief"
+    },
+    {
+     "key": "d",
+     "text": "Vir ’n boek"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is die sedeles van die fabel in die brief?",
+   "explanation": "Dit staan in die tweede-laaste paragraaf van die brief.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Verbreekte beloftes haal jou altyd in.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Leeus is gevaarlik."
+    },
+    {
+     "key": "c",
+     "text": "Jy moet jagters help."
+    },
+    {
+     "key": "d",
+     "text": "Kinders moet nie by riviere speel nie."
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    20
+   ]
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat staan altyd bo-aan ’n vriendskaplike brief?",
+   "explanation": "Eers kom die adres en datum, dan die aanhef.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die adres en die datum",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die groet"
+    },
+    {
+     "key": "c",
+     "text": "Die sedeles"
+    },
+    {
+     "key": "d",
+     "text": "Die handtekening"
+    }
+   ],
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter groet pas by ’n vriendskaplike brief?",
+   "explanation": "Chantelle sluit af met “Groete”; die werkboek se sjabloon het “Beste wense”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Groete of Beste wense",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hoogagtend"
+    },
+    {
+     "key": "c",
+     "text": "Aan wie dit mag aangaan"
+    },
+    {
+     "key": "d",
+     "text": "Geagte Meneer"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 31,
+    "pdf_page": 35
+   },
+   "key": "q08"
+  }
+ ],
+ "passage": {
+  "title": "’n Vriendskaplike brief",
+  "language": "af",
+  "sentences": [
+   "Olifantstraat 7",
+   "Middelburg",
+   "Mpumalanga",
+   "1050",
+   "1 Augustus 2015",
+   "Liewe Bianca",
+   "Eerstens wil ek dankie sê omdat jy die afgelope vakansie by my kom kuier het.",
+   "Ek vertrou dit gaan baie goed met jou en jou familie.",
+   "Ons het die afgelope week by die skool ’n fiksieverhaal behandel.",
+   "Die karakters was Jabu, Sipho, Leeu, Jakkals en jagters.",
+   "Jabu het beeste opgepas toe Sipho hom nooi om saam met hom te gaan kyk hoe die jagters valstrikke vir die leeu stel.",
+   "Jabu het die uitnodiging egter van die hand gewys aangesien hy die beeste rivier toe moes neem.",
+   "Terwyl hy die beeste opgepas het, het hy die leeu hoor brul, maar dit was ’n benoude brul.",
+   "Hy het ondersoek gaan instel en gesien dat die leeu in een van die jagters se valstrikke vasgevang was.",
+   "Die leeu het Jabu gesmeek om hom te bevry.",
+   "Hy het hom belowe dat hy hom nie sou opvreet nie.",
+   "Jabu het die leeu bevry, maar toe wou die leeu Jabu bespring.",
+   "Net toe het die slinkse jakkals sy verskyning maak.",
+   "Die jakkals oortuig die leeu toe om hom te gaan wys hoe hy in die valstrik vasgesit het.",
+   "Net toe die leeu sy kop onder die valstrik se balk indruk, klap die jakkals die valstrik toe en daar sit die leeu toe weer in die valstrik vas.",
+   "Die sedeles wat ons uit hierdie Zulu-fabel geleer het, was: Verbreekte beloftes haal jou altyd in!",
+   "Mag jy ’n suksesvolle en voorspoedige kwartaal beleef by die skool en by die huis.",
+   "Groete",
+   "Chantelle"
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   8,
+   10,
+   14,
+   18,
+   20,
+   21,
+   22,
+   23
+  ],
+  "glossary": [
+   {
+    "term": "benoude",
+    "definition": "Bang of angstig.",
+    "sentence_index": 12
+   },
+   {
+    "term": "uitnodiging",
+    "definition": "Wanneer iemand jou vra om iewers saam te kom.",
+    "sentence_index": 11
+   },
+   {
+    "term": "oortuig",
+    "definition": "Iemand oortuig dat jy reg is.",
+    "sentence_index": 18
+   },
+   {
+    "term": "sedeles",
+    "definition": "Die les wat ’n storie ons leer.",
+    "sentence_index": 20
+   },
+   {
+    "term": "voorspoedige",
+    "definition": "Suksesvol en met geluk.",
+    "sentence_index": 21
+   }
+  ]
+ }
+}

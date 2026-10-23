@@ -35,8 +35,18 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
+        // ~9 MB of workbook page scans: cached on first view instead of up front.
+        globIgnores: ['workbook/**'],
         navigateFallback: '/index.html',
         runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.startsWith('/workbook/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'workbook-pages',
+              expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 90 },
+            },
+          },
           {
             // Content/API calls: try the network first so progress/content stay
             // fresh, but fall back to the cache when offline.

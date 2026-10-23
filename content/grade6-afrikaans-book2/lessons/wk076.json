@@ -1,0 +1,946 @@
+{
+ "key": "gr6-afr-b2-wk076",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 76,
+ "title_af": "Kom ons dink na oor die storie",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 4,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  24,
+  25
+ ],
+ "pdf_pages": [
+  28,
+  29
+ ],
+ "reference_pages": [
+  {
+   "pdf": 28,
+   "printed": 24,
+   "src": "/workbook/gr6-afr-b2/p028.webp"
+  },
+  {
+   "pdf": 29,
+   "printed": 25,
+   "src": "/workbook/gr6-afr-b2/p029.webp"
+  }
+ ],
+ "intro_af": "Kom ons dink na oor die storie van Jabu en die leeu: hoe het dit begin, wat het in die middel gebeur en hoe het dit geëindig?",
+ "objectives_af": [
+  "Die agtergrond, karakters, intrige en tema van ’n storie uitwys.",
+  "Die karakters met byvoeglike naamwoorde beskryf.",
+  "Sinne wat nie by die onderwerp pas nie, uitken en die res in volgorde sit.",
+  "’n Opsomming van die storie skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Dele van ’n storie",
+   "payload": {
+    "headers": [
+     "Deel",
+     "Wat dit beteken"
+    ],
+    "rows": [
+     [
+      "**Agtergrond**",
+      "wanneer en waar die gebeure plaasvind"
+     ],
+     [
+      "**Karakters**",
+      "mense of diere in die storie"
+     ],
+     [
+      "**Intrige**",
+      "wat in die storie gebeur"
+     ],
+     [
+      "**Tema**",
+      "die boodskap wat oorgedra word"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die skryfproses",
+   "payload": {
+    "bullets": [
+     "Beplan jou opsomming deur dit met jou maat te bespreek.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat: Die karakters",
+   "payload": {
+    "prompt": "Praat oor elkeen van die karakters (Jabu, die leeu en die jakkals)."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter byvoeglike naamwoord pas by watter karakter?",
+   "payload": {
+    "prompt": "Besluit watter karakter elke woord die beste beskryf: Jabu, die leeu of die jakkals.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "verantwoordelik",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "jonk",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "betroubaar",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "goed",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "oneerlik",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "sterk",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q7",
+      "text": "gulsig",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q8",
+      "text": "naar",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q9",
+      "text": "slu",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q10",
+      "text": "slim",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q11",
+      "text": "wys",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     },
+     {
+      "key": "q12",
+      "text": "vreesloos",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu"
+       },
+       {
+        "key": "b",
+        "text": "die leeu"
+       },
+       {
+        "key": "c",
+        "text": "die jakkals"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28,
+    "item": "karakters"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a",
+     "q4": "a",
+     "q5": "b",
+     "q6": "b",
+     "q7": "b",
+     "q8": "b",
+     "q9": "c",
+     "q10": "c",
+     "q11": "c",
+     "q12": "c"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Dink aan wat elke karakter in die storie gedoen het. (Daar kan meer as een goeie antwoord wees – bespreek dit met jou maat.)"
+   },
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die opsomming: begin, middel en einde",
+   "payload": {
+    "prompt": "Skryf ’n opsomming van die storie. Skryf hoe die storie begin het, wat in die middel gebeur het en hoe dit geëindig het. Noem die agtergrond, karakters, intrige en tema.",
+    "lines": 10
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28,
+    "item": "opsomming"
+   },
+   "suggested_answer": "Begin: Jabu, ’n veewagter, pas sy pa se vee op toe Sipho hom vertel dat die leeu gesien is. Middel: Jabu hoor die leeu by die rivier brul, vind hom in ’n valstrik en laat hom vry nadat die leeu belowe om hom nie op te vreet nie. Einde: Die leeu wil sy belofte verbreek, maar die jakkals vang hom weer in die valstrik. Tema: Jy moet beloftes nakom.",
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter sinne handel NIE oor die onderwerp nie?",
+   "payload": {
+    "prompt": "Die onderwerp is: Jabu is verantwoordelik. Kies by elke sin of dit hoort of nie hoort nie.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Jabu was ’n baie verantwoordelike mens.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoort"
+       },
+       {
+        "key": "b",
+        "text": "hoort nie"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hy het sy pa se koeie opgepas toe Sipho hom van die leeuaanval vertel het.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoort"
+       },
+       {
+        "key": "b",
+        "text": "hoort nie"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Die bome het lang takke gehad.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoort"
+       },
+       {
+        "key": "b",
+        "text": "hoort nie"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Jabu het nie saam met Sipho gegaan nie want hy moes die vee rivier toe neem.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoort"
+       },
+       {
+        "key": "b",
+        "text": "hoort nie"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Die vee was moeg.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoort"
+       },
+       {
+        "key": "b",
+        "text": "hoort nie"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Jabu het geweet hy moet sy vee baie goed oppas.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoort"
+       },
+       {
+        "key": "b",
+        "text": "hoort nie"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 25,
+    "pdf_page": 29,
+    "item": "sinne"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b",
+     "q6": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Sinne wat nie oor Jabu se verantwoordelikheid gaan nie, hoort nie in die paragraaf nie."
+   },
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die korrekte volgorde van die gebeure",
+   "payload": {
+    "prompt": "Sit die vier sinne wat wel by die onderwerp hoort in die korrekte volgorde.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Jabu het nie saam met Sipho gegaan nie want hy moes die vee rivier toe neem."
+     },
+     {
+      "key": "e1",
+      "text": "Jabu was ’n baie verantwoordelike mens."
+     },
+     {
+      "key": "e4",
+      "text": "Jabu het geweet hy moet sy vee baie goed oppas."
+     },
+     {
+      "key": "e2",
+      "text": "Hy het sy pa se koeie opgepas toe Sipho hom van die leeuaanval vertel het."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 25,
+    "pdf_page": 29,
+    "item": "sinne"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Eers die stelling oor Jabu, dan wat gebeur het, die rede en die slotsom."
+   },
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "image",
+   "title_af": "Prent 1",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/figures/wk076-prent-1.webp",
+    "alt": "Jabu sit met sy kierie by die koeie op die koppie."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 25,
+    "pdf_page": 29
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "image",
+   "title_af": "Prent 2",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/figures/wk076-prent-2.webp",
+    "alt": "Jabu en ander sit snags om die vuur en luister na die mans."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 25,
+    "pdf_page": 29
+   },
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Beskryf die prente",
+   "payload": {
+    "prompt": "Skryf nou ’n beskrywende sin oor die gebeure in elke prent.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 25,
+    "pdf_page": 29,
+    "item": "prente"
+   },
+   "feedback": {},
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "My woordeboek: Nuwe woorde",
+   "payload": {
+    "prompt": "Skryf nuwe woorde uit die storie neer wat jy wil onthou.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 25,
+    "pdf_page": 29,
+    "item": "My woordeboek"
+   },
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die deel van ’n storie by sy betekenis",
+   "payload": {
+    "prompt": "Verbind elke deel met wat dit beteken.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Agtergrond"
+     },
+     {
+      "key": "l2",
+      "text": "Karakters"
+     },
+     {
+      "key": "l3",
+      "text": "Intrige"
+     },
+     {
+      "key": "l4",
+      "text": "Tema"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "mense of diere in die storie"
+     },
+     {
+      "key": "r3",
+      "text": "wat in die storie gebeur"
+     },
+     {
+      "key": "r4",
+      "text": "die boodskap wat oorgedra word"
+     },
+     {
+      "key": "r1",
+      "text": "wanneer en waar die gebeure plaasvind"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is die werkboek se verduideliking van die dele van ’n storie."
+   },
+   "answer_status": "official",
+   "key": "act-10",
+   "sort_order": 100
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat beteken “agtergrond” in ’n storie?",
+   "explanation": "Die werkboek sê agtergrond is wanneer en waar die gebeure plaasvind.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wanneer en waar die gebeure plaasvind",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Wie die skrywer is"
+    },
+    {
+     "key": "c",
+     "text": "Wat die boodskap is"
+    },
+    {
+     "key": "d",
+     "text": "Die titel van die storie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die “intrige” van ’n storie?",
+   "explanation": "Die intrige is die gebeure of storielyn.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wat in die storie gebeur",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die mense in die storie"
+    },
+    {
+     "key": "c",
+     "text": "Die boodskap van die storie"
+    },
+    {
+     "key": "d",
+     "text": "Die plek van die storie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die “tema” van ’n storie?",
+   "explanation": "Die tema is die boodskap van die storie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die boodskap wat oorgedra word",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die karakters"
+    },
+    {
+     "key": "c",
+     "text": "Die gebeure"
+    },
+    {
+     "key": "d",
+     "text": "Die plek"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is “karakters” in ’n storie?",
+   "explanation": "Karakters is die mense of diere in die storie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Mense of diere in die storie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die gebeure"
+    },
+    {
+     "key": "c",
+     "text": "Die boodskap"
+    },
+    {
+     "key": "d",
+     "text": "Die plek en tyd"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Watter byvoeglike naamwoord beskryf die jakkals die beste?",
+   "explanation": "Die jakkals het die leeu slim in die strik gevang.",
+   "options": [
+    {
+     "key": "a",
+     "text": "slu",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "gulsig"
+    },
+    {
+     "key": "c",
+     "text": "verantwoordelik"
+    },
+    {
+     "key": "d",
+     "text": "jonk"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28,
+    "item": "karakters"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Watter byvoeglike naamwoord beskryf die leeu in die storie?",
+   "explanation": "Die leeu het sy belofte verbreek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "oneerlik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "betroubaar"
+    },
+    {
+     "key": "c",
+     "text": "verantwoordelik"
+    },
+    {
+     "key": "d",
+     "text": "wys"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 24,
+    "pdf_page": 28,
+    "item": "karakters"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Watter sin handel NIE oor Jabu se verantwoordelikheid nie?",
+   "explanation": "Die sin oor die bome pas nie by die onderwerp nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die bome het lang takke gehad.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jabu was ’n baie verantwoordelike mens."
+    },
+    {
+     "key": "c",
+     "text": "Jabu het geweet hy moet sy vee baie goed oppas."
+    },
+    {
+     "key": "d",
+     "text": "Hy het sy pa se koeie opgepas."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 25,
+    "pdf_page": 29,
+    "item": "sinne"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die tema van die volksverhaal van Jabu en die leeu?",
+   "explanation": "Die storie wys wat gebeur as jy ’n belofte verbreek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jy moet ’n belofte nakom.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Leeus is bang vir jakkalse."
+    },
+    {
+     "key": "c",
+     "text": "Veewagters is baie sterk."
+    },
+    {
+     "key": "d",
+     "text": "Dit is altyd gevaarlik by die rivier."
+    }
+   ],
+   "key": "q08"
+  }
+ ]
+}

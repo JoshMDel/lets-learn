@@ -9,6 +9,7 @@ export function ShellLayout({
   narrow = true,
   headerRight,
   bottomNav,
+  chat = false,
 }: {
   children: ReactNode
   narrow?: boolean
@@ -17,11 +18,14 @@ export function ShellLayout({
    * `active` highlighted. Omit on screens that aren't part of that 3-tab
    * flow (e.g. auth screens). */
   bottomNav?: { active: NavTab; unreadChat?: boolean }
+  /** Full-bleed chat screen: on phones the header, padding and footer give
+   * way to the chat's own header (the bottom nav still handles navigation). */
+  chat?: boolean
 }) {
   useThemeScope('shell')
   return (
     <div className="min-h-full bg-app">
-      <header className="border-b border-subtle">
+      <header className={`border-b border-subtle ${chat ? 'hidden md:block' : ''}`}>
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
           <Link to="/" className="flex items-center gap-2.5">
             <img src="/brand/lets-learn-logo.svg" alt="" className="h-9 w-9" />
@@ -34,13 +38,17 @@ export function ShellLayout({
         </div>
       </header>
       <main
-        className={`mx-auto px-6 py-10 ${narrow ? 'max-w-md' : 'max-w-5xl'} ${
-          bottomNav ? 'pb-24 md:pb-10' : ''
-        }`}
+        className={
+          chat
+            ? 'mx-auto max-w-md p-0 md:px-6 md:py-8'
+            : `mx-auto px-6 py-10 ${narrow ? 'max-w-md' : 'max-w-5xl'} ${bottomNav ? 'pb-24 md:pb-10' : ''}`
+        }
       >
         {children}
       </main>
-      <footer className="mx-auto max-w-5xl px-6 py-8 text-center text-xs text-muted">
+      <footer
+        className={`mx-auto max-w-5xl px-6 py-8 text-center text-xs text-muted ${chat ? 'hidden md:block' : ''}`}
+      >
         Built by{' '}
         <a href="https://j92labs.co.za" target="_blank" rel="noreferrer" className="underline">
           J92 Labs

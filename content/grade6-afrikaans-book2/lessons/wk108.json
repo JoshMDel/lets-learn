@@ -1,0 +1,505 @@
+{
+ "key": "gr6-afr-b2-wk108",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 108,
+ "title_af": "Soveel kulture",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 4,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  90,
+  91
+ ],
+ "pdf_pages": [
+  94,
+  95
+ ],
+ "reference_pages": [
+  {
+   "pdf": 94,
+   "printed": 90,
+   "src": "/workbook/gr6-afr-b2/p094.webp"
+  },
+  {
+   "pdf": 95,
+   "printed": 91,
+   "src": "/workbook/gr6-afr-b2/p095.webp"
+  }
+ ],
+ "intro_af": "Suid-Afrika het baie kulture en godsdienste. Vandag gaan jy navorsing doen: voer ’n onderhoud met iemand van ’n ander geloof en leer meer oor ’n land.",
+ "objectives_af": [
+  "’n Onderhoud voer oor ’n godsdiens wat van joune verskil.",
+  "Antwoorde in ’n tabel aanteken.",
+  "Navorsing oor ’n land doen en die land op die kaart merk."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Respek vir ander kulture",
+   "payload": {
+    "paragraphs": [
+     "In Suid-Afrika het ons baie verskillende kulture en godsdienste."
+    ],
+    "bullets": [
+     "Voer ’n onderhoud met iemand **wie se godsdiens van joune verskil**.",
+     "Luister mooi en wees beleef: jy leer iets nuuts.",
+     "Skryf die antwoorde in die regterkantse kolom van die tabel."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Vrae vir die onderhoud",
+   "payload": {
+    "headers": [
+     "Vraag"
+    ],
+    "rows": [
+     [
+      "Wie word in hierdie godsdiens aanbid?"
+     ],
+     [
+      "Waar vind die aanbidding plaas?"
+     ],
+     [
+      "Hoe dikwels aanbid julle?"
+     ],
+     [
+      "Watter godsdienstige seremonies, feeste of dienste het julle?"
+     ],
+     [
+      "Hoe trek die mense vir hierdie geleenthede aan?"
+     ],
+     [
+      "Aanbid die mans en vroue saam?"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Navorsing oor ’n land",
+   "payload": {
+    "bullets": [
+     "Kies ’n land en raadpleeg verskillende bronne.",
+     "Waar is die land – op watter kontinent? Merk die land op die kaart.",
+     "Wat is party van hulle gewoontes?",
+     "Watter ander interessante inligting kan jy nog opspoor?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons doen: die onderhoud",
+   "payload": {
+    "prompt": "Voer ’n onderhoud met iemand wie se godsdiens van joune verskil. Gebruik die vrae in die tabel en vul die antwoorde in die regterkantse kolom in."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94,
+    "item": "onderhoud"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf die antwoorde",
+   "payload": {
+    "prompt": "Skryf die antwoorde op die ses vrae neer: wie aanbid word, waar, hoe dikwels, seremonies/feeste/dienste, hoe mense aantrek, en of mans en vroue saam aanbid.",
+    "lines": 12,
+    "checklist": [
+     "Ek het ses vrae gevra.",
+     "Ek het die antwoorde neergeskryf.",
+     "Ek was beleef en het mooi geluister."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94,
+    "item": "tabel"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Stappe vir jou navorsing",
+   "payload": {
+    "prompt": "Sit die stappe in ’n sinvolle volgorde.",
+    "items": [
+     {
+      "key": "e2",
+      "text": "Soek inligting in verskillende bronne."
+     },
+     {
+      "key": "e1",
+      "text": "Kies ’n land."
+     },
+     {
+      "key": "e4",
+      "text": "Skryf party gewoontes en ander interessante inligting neer."
+     },
+     {
+      "key": "e3",
+      "text": "Merk die land op die kaart."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Eers kies jy ’n land; dan soek jy inligting; dan merk en skryf jy."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Navorsing oor my land",
+   "payload": {
+    "prompt": "Skryf die naam van jou land, die kontinent, party gewoontes en nog interessante inligting neer.",
+    "lines": 8,
+    "checklist": [
+     "Ek het die land en kontinent geskryf.",
+     "Ek het gewoontes genoem.",
+     "Ek het interessante inligting bygevoeg."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94,
+    "item": "land"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die onderhoud moet met iemand wees wie se godsdiens dieselfde as joune is."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek vra vir iemand wie se godsdiens van joune verskil."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Met wie voer jy die onderhoud?",
+   "explanation": "Die werkboek sê dit.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Iemand wie se godsdiens van joune verskil",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Iemand met dieselfde godsdiens"
+    },
+    {
+     "key": "c",
+     "text": "Jou onderwyser alleen"
+    },
+    {
+     "key": "d",
+     "text": "Jou beste vriend/vriendin"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar skryf jy die antwoorde neer?",
+   "explanation": "Die werkboek sê: regterkantse kolom.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In die regterkantse kolom van die tabel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In die kantlyn"
+    },
+    {
+     "key": "c",
+     "text": "Agter in die boek"
+    },
+    {
+     "key": "d",
+     "text": "Op die kaart"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter vraag is deel van die onderhoud?",
+   "explanation": "Dit is die eerste vraag in die tabel.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wie word in hierdie godsdiens aanbid?",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hoeveel is 2 + 2?"
+    },
+    {
+     "key": "c",
+     "text": "Wat is jou gunstelingkos?"
+    },
+    {
+     "key": "d",
+     "text": "Waar woon jy?"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter vraag gaan oor die aanbidding se plek?",
+   "explanation": "Dit is die tweede vraag in die tabel.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Waar vind die aanbidding plaas?",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hoe dikwels aanbid julle?"
+    },
+    {
+     "key": "c",
+     "text": "Wie word aanbid?"
+    },
+    {
+     "key": "d",
+     "text": "Aanbid mans en vroue saam?"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat doen jy met die land wat jy kies?",
+   "explanation": "Die werkboek sê: Merk die land op die kaart.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Merk dit op die kaart",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Skryf dit uit vir ’n vriend"
+    },
+    {
+     "key": "c",
+     "text": "Teken die vlag net"
+    },
+    {
+     "key": "d",
+     "text": "Niks"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom voer ons so ’n onderhoud?",
+   "explanation": "Suid-Afrika het baie verskillende kulture en godsdienste.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om meer oor ander kulture en godsdienste te leer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om te wen"
+    },
+    {
+     "key": "c",
+     "text": "Om mense te laat verander"
+    },
+    {
+     "key": "d",
+     "text": "Om punte te verdien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Hoe moet jy jou gedra tydens die onderhoud?",
+   "explanation": "Respek vir ander se geloof is belangrik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Beleef wees en mooi luister",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Baie praat"
+    },
+    {
+     "key": "c",
+     "text": "Lag as dit snaaks is"
+    },
+    {
+     "key": "d",
+     "text": "Die persoon korrigeer"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat moet jy by jou landnavorsing ook opspoor?",
+   "explanation": "Die werkboek vra vir gewoontes en nog interessante inligting.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Interessante inligting",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die land se ouderdom"
+    },
+    {
+     "key": "c",
+     "text": "Net die vlag"
+    },
+    {
+     "key": "d",
+     "text": "Net die hoofstad"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 90,
+    "pdf_page": 94
+   },
+   "key": "q08"
+  }
+ ]
+}

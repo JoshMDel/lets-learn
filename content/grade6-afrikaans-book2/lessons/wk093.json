@@ -1,0 +1,666 @@
+{
+ "key": "gr6-afr-b2-wk093",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 93,
+ "title_af": "Hennie is ’n rugbyster!",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk9-10",
+  "name_af": "Tema 6 · Week 9–10: Speeltyd",
+  "name_en": "Theme 6 · Weeks 9–10: Playtime",
+  "sort": 105
+ },
+ "tier_number": 1,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 9–10",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  60,
+  61
+ ],
+ "pdf_pages": [
+  64,
+  65
+ ],
+ "reference_pages": [
+  {
+   "pdf": 64,
+   "printed": 60,
+   "src": "/workbook/gr6-afr-b2/p064.webp"
+  },
+  {
+   "pdf": 65,
+   "printed": 61,
+   "src": "/workbook/gr6-afr-b2/p065.webp"
+  }
+ ],
+ "intro_af": "Hennie wil liewer rugby kyk as huiswerk doen – tot hy droom dat hy ’n rugbyster is! Voer die toneelstuk op en ontdek waaroor Hennie skryf.",
+ "objectives_af": [
+  "’n Toneelstuk lees en opvoer (moeder, vader, seun en verteller).",
+  "Vrae oor ’n toneelstuk beantwoord.",
+  "Die agtergrond van ’n toneelstuk beskryf.",
+  "Die toneelstuk in drie gebeure opsom."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Hoe lees ons ’n toneelstuk?",
+   "payload": {
+    "bullets": [
+     "Die karakters se woorde (die **dialoog**) kom ná hulle name.",
+     "Die **verteller** lees die dele tussen die dialoog (wat nie deur die karakters voorgestel word nie).",
+     "Die **toneel- en verhoogaanwysings** verskyn tussen vierkantige hakies [ ].",
+     "Ons skryf die name van die karakters in **hoofletters**, gevolg deur ’n **dubbelpunt** (:). Ons gebruik **geen aanhalingstekens** nie."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Voer die toneelstuk op",
+   "payload": {
+    "prompt": "Voer hierdie toneelstuk op. Julle sal ’n moeder, ’n vader, ’n seun en ’n verteller nodig hê. Die verteller moet die dele tussen die dialoog lees.",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Waaroor gaan Hennie skryf?",
+   "payload": {
+    "prompt": "Waaroor dink jy gaan Hennie skryf?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 61,
+    "pdf_page": 65,
+    "item": "1"
+   },
+   "suggested_answer": "Hy gaan skryf oor sy droom: hoe hy ’n rugbyster geword het deur die wenpunte aan te teken.",
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Shakespeare",
+   "payload": {
+    "prompt": "Wat bedoel Hennie wanneer hy sê: “Ek is nie Shakespeare nie”?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 61,
+    "pdf_page": 65,
+    "item": "2"
+   },
+   "suggested_answer": "Hy bedoel hy is nie ’n groot, beroemde skrywer nie en kan nie sommer ’n storie van 300 woorde skryf nie.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die agtergrond",
+   "payload": {
+    "prompt": "Beskryf die agtergrond waarteen die toneelstuk hom afspeel. (Waar vind die gebeure plaas?)",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 61,
+    "pdf_page": 65,
+    "item": "3"
+   },
+   "suggested_answer": "In Hennie se sitkamer, waar hy op die rusbank na ’n rugbywedstryd op TV kyk; sy droom speel by Loftus af.",
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Drie gebeure",
+   "payload": {
+    "prompt": "Som die toneelstuk in drie gebeure op.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 61,
+    "pdf_page": 65,
+    "item": "4"
+   },
+   "suggested_answer": "1. Hennie wil TV kyk en nie sy huiswerk doen nie.\n2. Hy raak aan die slaap en droom hy is ’n rugbyster wat die wenpunte aanteken.\n3. Hy word wakker en weet presies waaroor hy gaan skryf.",
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die gebeure in volgorde",
+   "payload": {
+    "prompt": "Sit die gebeure in die volgorde waarin hulle in die toneelstuk gebeur.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Hy droom hy skop die wenpunte."
+     },
+     {
+      "key": "e1",
+      "text": "Hennie kyk rugby op TV."
+     },
+     {
+      "key": "e6",
+      "text": "Hy weet waaroor hy gaan skryf."
+     },
+     {
+      "key": "e2",
+      "text": "Sy ma en pa sê hy moet sy huiswerk doen."
+     },
+     {
+      "key": "e5",
+      "text": "Sy ma maak hom wakker."
+     },
+     {
+      "key": "e3",
+      "text": "Hennie raak aan die slaap."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5",
+     "e6"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die toneelstuk begin by die TV en eindig by Hennie se glimlag."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die woord by sy betekenis",
+   "payload": {
+    "prompt": "Verbind elke woord met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "opponente"
+     },
+     {
+      "key": "l2",
+      "text": "boeketas"
+     },
+     {
+      "key": "l3",
+      "text": "besorg"
+     },
+     {
+      "key": "l4",
+      "text": "desperaatheid"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "skooltas vir boeke"
+     },
+     {
+      "key": "r3",
+      "text": "bekommerd en omgee"
+     },
+     {
+      "key": "r4",
+      "text": "wanhoop"
+     },
+     {
+      "key": "r1",
+      "text": "teenstanders"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Tik op ’n woord in die toneelstuk om sy betekenis te sien."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In ’n toneelstuk word die karakters se woorde tussen aanhalingstekens geskryf."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: ons gebruik geen aanhalingstekens nie; die naam kom in hoofletters met ’n dubbelpunt."
+   },
+   "answer_status": "official",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom kyk Hennie se ouers besorg na hom?",
+   "explanation": "Die toneelaanwysing sê dit.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy doen nie sy huiswerk nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy is siek."
+    },
+    {
+     "key": "c",
+     "text": "Hy het die TV stukkend gemaak."
+    },
+    {
+     "key": "d",
+     "text": "Hy is laat."
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoeveel woorde moet Hennie se storie hê?",
+   "explanation": "Hy sê: “’n storie van 300 woorde”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "300",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "30"
+    },
+    {
+     "key": "c",
+     "text": "100"
+    },
+    {
+     "key": "d",
+     "text": "3000"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat bedoel Hennie met “Ek is nie Shakespeare nie”?",
+   "explanation": "Shakespeare was ’n beroemde skrywer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy is nie ’n groot skrywer nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy is nie ’n akteur nie"
+    },
+    {
+     "key": "c",
+     "text": "Hy hou nie van Engels nie"
+    },
+    {
+     "key": "d",
+     "text": "Hy is moeg"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    11
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar sit Hennie in sy droom?",
+   "explanation": "Die verteller vertel van sy droom by Loftus.",
+   "options": [
+    {
+     "key": "a",
+     "text": "By Loftus, in die voorste ry",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "By die skool"
+    },
+    {
+     "key": "c",
+     "text": "In die sitkamer"
+    },
+    {
+     "key": "d",
+     "text": "Op die veld"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    33
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat doen Hennie in sy droom om die wedstryd te wen?",
+   "explanation": "Drie sekondes voor die einde mik hy ’n skepskop.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy skop ’n skepskop tussen die pale deur",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy dra die bal oor die lyn"
+    },
+    {
+     "key": "c",
+     "text": "Hy gee die bal vir die losskakel"
+    },
+    {
+     "key": "d",
+     "text": "Hy blaas die fluitjie"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    40
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe weet ons dat Hennie nie meer bekommerd is aan die einde nie?",
+   "explanation": "Hy sê: “Ek weet presies waaroor ek gaan skryf!”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy glimlag en weet waaroor hy gaan skryf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy gaan weer slaap"
+    },
+    {
+     "key": "c",
+     "text": "Hy kyk weer TV"
+    },
+    {
+     "key": "d",
+     "text": "Hy gaan huis toe"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    56
+   ]
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoe word ’n karakter se naam in ’n toneelstuk geskryf?",
+   "explanation": "Die werkboek sê dit in die nota.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In hoofletters, gevolg deur ’n dubbelpunt",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In kleinletters met aanhalingstekens"
+    },
+    {
+     "key": "c",
+     "text": "In hakies"
+    },
+    {
+     "key": "d",
+     "text": "Onderstreep"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar verskyn die toneel- en verhoogaanwysings?",
+   "explanation": "Die werkboek sê: tussen vierkantige hakies.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tussen vierkantige hakies",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Tussen aanhalingstekens"
+    },
+    {
+     "key": "c",
+     "text": "Aan die einde van die toneelstuk"
+    },
+    {
+     "key": "d",
+     "text": "In hoofletters"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "q08"
+  }
+ ],
+ "passage": {
+  "title": "Hennie is ’n rugbyster!",
+  "language": "af",
+  "sentences": [
+   "Toneel: In Hennie se sitkamer.",
+   "Hy lê op die rusbank en kyk na ’n rugbywedstryd op TV.",
+   "Sy ma en pa kyk besorg na hom omdat hy nie sy huiswerk doen nie.",
+   "MOEDER: Hennie, het jy jou huiswerk gedoen?",
+   "HENNIE: Hm … aa … wel, min of meer.",
+   "Hm … ek het nie regtig baie huiswerk nie, Ma.",
+   "Al wat ek moet doen, is om ’n storie van 300 woorde oor iets te skryf.",
+   "Ek sal dit doen, maar ek wil net gou eers die res van die wedstryd kyk.",
+   "MOEDER: Hennie Havenga, gaan doen nou dadelik jou huiswerk! [Tel boeketas van die vloer af op en sit dit bo-op die tafel neer.]",
+   "HENNIE: Ai Ma!",
+   "Hoe kan ons onderwyser ons vra om ’n storie van 300 woorde te skryf?",
+   "Ek is nie Shakespeare nie!",
+   "Driehonderd woorde!",
+   "Dit sal ’n ewigheid duur!",
+   "Waaroor sal ek skryf?",
+   "Kan ek nie net gou eers na hierdie wedstryd tussen die Bulle en die Leeus kyk nie?",
+   "Ek sal direk ná die wedstryd my huiswerk begin doen, ek belowe!",
+   "VADER: [Haal ’n boek uit die skoolsak en maak dit oop.] Dalk sal dit jou help.",
+   "Kyk na hierdie breinkaart in jou werkboek.",
+   "Dit sê jy moet jou onderwerp in die middel skryf, en dan jou vier hoofgedagtes in elk van hierdie vier raampies.",
+   "Dis baie maklik!",
+   "Komaan, seun.",
+   "HENNIE: Maar Pa, waaroor kan ek skryf?",
+   "Ek sal begin met my naam en van.",
+   "Dan het ek reeds twee woorde.",
+   "Nog het 298 woorde!",
+   "Ek wens ek kan net die wedstryd klaar kyk.",
+   "Okei, okei, ek sal begin dink.",
+   "Waaroor sal ek skryf? [Hennie raak aan die slaap met sy kop op sy boeketas.]",
+   "VERTELLER: Hoe meer Hennie aan ’n onderwerp probeer dink, hoe vaker word hy.",
+   "Hy gaap luidrugtig en sit sy kop op sy boeketas neer.",
+   "Gou is hy vas aan die slaap.",
+   "Hy droom van die wedstryd waarna hy besig was om te kyk.",
+   "Hy sit by Loftus in die voorste ry, net agter die doelpale.",
+   "Hy hou die bal senuweeagtig dop.",
+   "Sy span verloor en daar bly nog net vyf minute oor.",
+   "Die flank loop mank, en die beseerde losskakel is pas van die veld af gedra.",
+   "Uit desperaatheid spring Hennie self op die veld en onderskep die bal by die opponente.",
+   "Hy is vinniger en ratser as enige van die ander span se spelers.",
+   "Dan span Hennie elke spier in sy liggaam in, en konsentreer hy soos nog nooit tevore nie.",
+   "Drie sekondes voordat die eindfluitjie blaas, mik hy ’n skepskop pale toe.",
+   "Die bal trek soos ’n pyl uit ’n boog en seil perfek tussen die pale deur!",
+   "Hennie se glimlaggende gesig verskyn op miljoene TV’s oor die hele land.",
+   "Die kommentator skree opgewonde: Hennie Havenga het pas die wenpunte aangeteken!",
+   "Ons het ’n nuwe rugbyster, Hennie Havenga!",
+   "Suid-Afrika, hier is julle nuwe ster!",
+   "MOEDER: [Maak vir Hennie wakker.] Hennie, word wakker!",
+   "Jy het huiswerk om te doen!",
+   "HENNIE: Wat?",
+   "Wat is aan die gang?",
+   "VADER: Hennie!",
+   "Wat dink jy doen jy?",
+   "Jy moet jou huiswerk klaarmaak!",
+   "MOEDER: Dalk het die slapie jou die energie gegee wat jy nodig het om jou storie te skryf.",
+   "Wil jy hê ek moet jou help dink aan ’n onderwerp vir jou storie?",
+   "HENNIE: [Met ’n breë glimlag.] Nee dankie, Ma.",
+   "Ek weet presies waaroor ek gaan skryf!"
+  ],
+  "paragraph_starts": [
+   0,
+   3,
+   4,
+   8,
+   9,
+   17,
+   22,
+   29,
+   46,
+   48,
+   50,
+   53,
+   55
+  ],
+  "glossary": [
+   {
+    "term": "besorg",
+    "definition": "Bekommerd en omgee.",
+    "sentence_index": 2
+   },
+   {
+    "term": "boeketas",
+    "definition": "’n Skooltas vir boeke.",
+    "sentence_index": 8
+   },
+   {
+    "term": "losskakel",
+    "definition": "’n Posisie in rugby (’n speler).",
+    "sentence_index": 36
+   },
+   {
+    "term": "flank",
+    "definition": "’n Posisie in rugby (’n speler aan die kant).",
+    "sentence_index": 36
+   },
+   {
+    "term": "opponente",
+    "definition": "Teenstanders.",
+    "sentence_index": 37
+   },
+   {
+    "term": "skepskop",
+    "definition": "’n Hoë skop in rugby wat oor die kruisbalk mik.",
+    "sentence_index": 40
+   },
+   {
+    "term": "desperaatheid",
+    "definition": "Wanhoop; ’n gevoel dat jy nie kan wag nie.",
+    "sentence_index": 37
+   },
+   {
+    "term": "Shakespeare",
+    "definition": "’n Beroemde Engelse skrywer.",
+    "sentence_index": 11
+   }
+  ]
+ }
+}

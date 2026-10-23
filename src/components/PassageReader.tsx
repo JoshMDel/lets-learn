@@ -19,6 +19,17 @@ export function PassageReader({
   const { t } = useLocale()
   const [activeTerm, setActiveTerm] = useState<GlossaryTerm | null>(null)
 
+  // Sentences are stored one per row; consecutive ones that belong to the same
+  // paragraph are shown together (older passages mark every sentence as a new paragraph).
+  const paragraphs = useMemo(() => {
+    const out: PassageSentence[][] = []
+    for (const s of sentences) {
+      if (s.new_paragraph !== false || out.length === 0) out.push([s])
+      else out[out.length - 1].push(s)
+    }
+    return out
+  }, [sentences])
+
   const glossaryMap = useMemo(() => {
     const map = new Map<string, GlossaryTerm>()
     for (const g of glossary) map.set(normalize(g.term), g)
@@ -29,15 +40,18 @@ export function PassageReader({
     <div>
       <p className="mb-4 text-sm text-muted">{t('read.tapWordHint')}</p>
       <div className="space-y-4 rounded-[var(--radius-lg)] border border-subtle bg-surface p-6 text-lg leading-relaxed">
-        {sentences.map((sentence) => (
-          <p key={sentence.id}>
-            {sentence.text.split(/(\s+)/).map((token, i) => {
-              if (/^\s+$/.test(token)) return token
+        {paragraphs.map((para) => (
+          <p key={para[0].id} className="whitespace-pre-line">
+            {para.flatMap((sentence, si) => [
+              si > 0 && !para[si - 1].text.endsWith('\n') ? <span key={`${sentence.id}-gap`}> </span> : null,
+              ...sentence.text.split(/(\s+)/).map((token, i) => {
+              if (token === '') return null
+              if (/^\s+$/.test(token)) return <span key={`${sentence.id}-${i}`}>{token}</span>
               const clean = normalize(token)
               const glossEntry = glossaryMap.get(clean)
               return (
                 <button
-                  key={i}
+                  key={`${sentence.id}-${i}`}
                   type="button"
                   onClick={() => {
                     speak(clean || token, language)
@@ -50,7 +64,8 @@ export function PassageReader({
                   {token}
                 </button>
               )
-            })}
+            }),
+            ])}
           </p>
         ))}
       </div>

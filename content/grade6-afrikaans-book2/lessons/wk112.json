@@ -1,0 +1,566 @@
+{
+ "key": "gr6-afr-b2-wk112",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 112,
+ "title_af": "Beplan ’n pamflet",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 8,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Skryf en aanbied",
+  "Lees en kyk"
+ ],
+ "printed_pages": [
+  98,
+  100
+ ],
+ "pdf_pages": [
+  102,
+  104
+ ],
+ "reference_pages": [
+  {
+   "pdf": 102,
+   "printed": 98,
+   "src": "/workbook/gr6-afr-b2/p102.webp"
+  },
+  {
+   "pdf": 103,
+   "printed": 99,
+   "src": "/workbook/gr6-afr-b2/p103.webp"
+  },
+  {
+   "pdf": 104,
+   "printed": 100,
+   "src": "/workbook/gr6-afr-b2/p104.webp"
+  }
+ ],
+ "intro_af": "Ontwerp ’n toerismebrosjure vir die Wieg van die Mensdom (of ’n ander Wêrelderfenisterrein). Beplan eers, skryf, laat ’n maat hersien en skryf dan jou finale weergawe.",
+ "objectives_af": [
+  "’n Toerismebrosjure beplan op ’n grafiese organiseerder.",
+  "Beskrywende taal en relevante inligting gebruik.",
+  "Jou werk hersien en korrigeer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Jou toerismebrosjure",
+   "payload": {
+    "bullets": [
+     "Ontwerp die brosjure om die Wieg van die Mensdom of enige ander Wêrelderfenisterrein te adverteer.",
+     "**Voorblad:** wys die ligging van die terrein en gee ’n leuse of slagspreuk.",
+     "Teken op elk van die ander bladsye ’n prent en skryf ’n beskrywing van wat die besoeker sal sien.",
+     "Sluit die adres van die terrein, toegangsgeld en openings- en sluitingstye in.",
+     "**Agterblad:** algemene inligting soos jou telefoonnommer, adres en e-posadres."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die proses",
+   "payload": {
+    "bullets": [
+     "**Beplan** jou brosjure op die grafiese organiseerder.",
+     "Skryf jou **eerste weergawe** in jou klaswerkboek.",
+     "Laat ’n maat jou werk **hersien**.",
+     "**Korrigeer** spelfoute en punktuasie.",
+     "Skryf jou **finale weergawe** op die uitgeskeurde brosjure."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die skryfproses",
+   "payload": {
+    "prompt": "Sit die stappe in die regte volgorde.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Laat ’n maat jou werk hersien."
+     },
+     {
+      "key": "e1",
+      "text": "Beplan op die grafiese organiseerder."
+     },
+     {
+      "key": "e5",
+      "text": "Skryf die finale weergawe op die brosjure."
+     },
+     {
+      "key": "e2",
+      "text": "Skryf die eerste weergawe in jou klaswerkboek."
+     },
+     {
+      "key": "e4",
+      "text": "Korrigeer spelfoute en punktuasie."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102,
+    "item": "proses"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Dit is die volgorde wat die werkboek gee."
+   },
+   "answer_status": "official",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die blok by die inhoud",
+   "payload": {
+    "prompt": "Verbind elke blok van die organiseerder met wat daarin hoort.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Blok 1"
+     },
+     {
+      "key": "l2",
+      "text": "Blok 2 tot 5"
+     },
+     {
+      "key": "l3",
+      "text": "Blok 6"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Relevante inligting met ’n prent en beskrywing"
+     },
+     {
+      "key": "r3",
+      "text": "Kontakbesonderhede en adres"
+     },
+     {
+      "key": "r1",
+      "text": "Voorblad en leuse/slagspreuk"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102,
+    "item": "organiseerder"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is hoe die organiseerder op bladsy 98 ingedeel is."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Blok 1: voorblad en leuse",
+   "payload": {
+    "prompt": "Wat gaan jy op jou voorblad plaas? Wat gaan jou leuse of slagspreuk wees?",
+    "lines": 4,
+    "checklist": [
+     "Ek het gesê wat op die voorblad kom.",
+     "Ek het ’n pakkende leuse geskryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102,
+    "item": "blok 1"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Blokke 2 tot 5: relevante inligting",
+   "payload": {
+    "prompt": "Skryf relevante inligting vir blokke 2 tot 5. Beskryf wat die besoeker sal sien, en sluit adres, toegangsgeld en openings- en sluitingstye in.",
+    "lines": 12,
+    "checklist": [
+     "Ek het beskrywende woorde gebruik.",
+     "Ek het die adres genoem.",
+     "Ek het toegangsgeld en tye genoem."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102,
+    "item": "blokke 2–5"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Blok 6: kontakbesonderhede",
+   "payload": {
+    "prompt": "Verstrek jou kontakbesonderhede en adres.",
+    "lines": 4,
+    "checklist": [
+     "Telefoonnommer",
+     "Adres",
+     "E-posadres"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102,
+    "item": "blok 6"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Hersien met ’n maat",
+   "payload": {
+    "prompt": "Laat ’n maat jou eerste weergawe hersien. Wat is goed? Wat kan beter? Korrigeer dan spelfoute en punktuasie en skryf jou finale weergawe op die uitgeskeurde brosjure."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102,
+    "item": "hersiening"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die agterblad bevat algemene inligting soos telefoonnommer, adres en e-posadres."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 99,
+    "pdf_page": 103,
+    "item": "agterblad"
+   },
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit staan by die agterblad (blok 6)."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat adverteer jy met jou brosjure?",
+   "explanation": "Dit is die opdrag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die Wieg van die Mensdom of ’n ander Wêrelderfenisterrein",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Winkel"
+    },
+    {
+     "key": "c",
+     "text": "’n Skool"
+    },
+    {
+     "key": "d",
+     "text": "’n Sokkerspan"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat moet op die voorblad wees?",
+   "explanation": "Die voorblad wys die ligging en bevat ’n leuse.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die ligging van die terrein en ’n leuse of slagspreuk",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net die prys"
+    },
+    {
+     "key": "c",
+     "text": "Die onderwyser se naam"
+    },
+    {
+     "key": "d",
+     "text": "Niks"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat moet jy op elke ander bladsy doen?",
+   "explanation": "Dit is wat die werkboek vra.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Teken ’n prent en skryf ’n beskrywing van wat die besoeker sal sien",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net kopieer"
+    },
+    {
+     "key": "c",
+     "text": "Net ’n kaart teken"
+    },
+    {
+     "key": "d",
+     "text": "Net getalle skryf"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter inligting moet jy insluit?",
+   "explanation": "Onthou die adres, toegangsgeld en tye.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Adres, toegangsgeld, openings- en sluitingstye",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net die datum"
+    },
+    {
+     "key": "c",
+     "text": "Net die ouderdom van die terrein"
+    },
+    {
+     "key": "d",
+     "text": "Net die naam"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar skryf jy jou eerste weergawe?",
+   "explanation": "Die eerste weergawe gaan in jou klaswerkboek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In jou klaswerkboek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Op die brosjure"
+    },
+    {
+     "key": "c",
+     "text": "Op die bord"
+    },
+    {
+     "key": "d",
+     "text": "Op die plakkaat"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "sequencing",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat doen jy ná die eerste weergawe?",
+   "explanation": "Eerste weergawe, dan hersien, dan korrigeer, dan finale weergawe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Laat ’n maat jou werk hersien",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Skryf die finale weergawe"
+    },
+    {
+     "key": "c",
+     "text": "Gooi dit weg"
+    },
+    {
+     "key": "d",
+     "text": "Plak dit op die muur"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat korrigeer jy?",
+   "explanation": "Korrigeer spelfoute en punktuasie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Spelfoute en punktuasie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die prente"
+    },
+    {
+     "key": "c",
+     "text": "Die foon"
+    },
+    {
+     "key": "d",
+     "text": "Die kaart"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat moet jy in jou paragrawe gebruik?",
+   "explanation": "Onthou om beskrywende woorde te gebruik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Beskrywende woorde",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net getalle"
+    },
+    {
+     "key": "c",
+     "text": "Net bevele"
+    },
+    {
+     "key": "d",
+     "text": "Net vrae"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 98,
+    "pdf_page": 102
+   },
+   "key": "q08"
+  }
+ ]
+}

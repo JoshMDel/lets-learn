@@ -1,0 +1,896 @@
+{
+ "key": "gr6-afr-b2-wk086",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 86,
+ "title_af": "’n E-pos van ’n maat",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk5-6",
+  "name_af": "Tema 6 · Week 5–6: Stories en briewe",
+  "name_en": "Theme 6 · Weeks 5–6: Stories and letters",
+  "sort": 103
+ },
+ "tier_number": 6,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  46,
+  47
+ ],
+ "pdf_pages": [
+  50,
+  51
+ ],
+ "reference_pages": [
+  {
+   "pdf": 50,
+   "printed": 46,
+   "src": "/workbook/gr6-afr-b2/p050.webp"
+  },
+  {
+   "pdf": 51,
+   "printed": 47,
+   "src": "/workbook/gr6-afr-b2/p051.webp"
+  }
+ ],
+ "intro_af": "Vandag lees jy ’n e-pos van Kin, wat ver van die huis af bly. Jy leer ook meer oor homonieme, homofone, woordvorming en verkleinwoorde.",
+ "objectives_af": [
+  "’n E-pos lees en bepaalde vrae soeklees.",
+  "Inligting uit ’n e-pos in ’n tabel invul.",
+  "Homonieme en homofone uitken.",
+  "Samestellings en afleidings uitken en verkleinwoorde vorm."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is ’n e-pos?",
+   "payload": {
+    "text": "Ons kan ook met maats of ander mense kommunikeer deur vir hulle e-posse te skryf, wat deur middel van die internet gestuur word. Ons stuur dikwels e-posse in plaas van gewone briewe om nuus met vriende te deel. Om vir iemand ’n e-pos te stuur, het jy sy of haar e-posadres nodig, en moet jy toegang tot die internet hê."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Homonieme en homofone",
+   "payload": {
+    "text": "**Homonieme** is woorde wat dieselfde lyk en klink, maar verskillende betekenisse het. **Homofone** klink dieselfde, maar word verskillend gespel en het verskillende betekenisse."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Verkleinwoorde: agtervoegsels",
+   "payload": {
+    "headers": [
+     "Agtervoegsel",
+     "Reël",
+     "Voorbeeld"
+    ],
+    "rows": [
+     [
+      "-jie",
+      "woorde wat op -t of -d eindig",
+      "hond – hondjie"
+     ],
+     [
+      "-tjie",
+      "",
+      "venster – venstertjie"
+     ],
+     [
+      "-kie",
+      "meerlettergrepige woorde op -ng: gooi die g weg",
+      "doring – dorinkie"
+     ],
+     [
+      "-etjie",
+      "eenlettergrepige woorde op -ng",
+      "wang – wangetjie"
+     ],
+     [
+      "-pie",
+      "woorde wat op -m eindig",
+      "arm – armpie"
+     ],
+     [
+      "-ie",
+      "",
+      "oog – ogie"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die e-pos",
+   "payload": {
+    "prompt": "Druk die knoppie en luister terwyl jy die e-pos saamlees.",
+    "speak_passage": true
+   },
+   "source": "supplementary",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "By wie kuier Kin?",
+   "payload": {
+    "prompt": "By wie kuier Kin?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50,
+    "item": "1"
+   },
+   "suggested_answer": "By sy neef in Suid-Japan.",
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Waarom is hy daar?",
+   "payload": {
+    "prompt": "Waarom het hy daarheen gegaan?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50,
+    "item": "2"
+   },
+   "suggested_answer": "Daar was ’n geweldige aardbewing in Japan en hy bly by sy neef totdat die situasie tuis in Tokio verbeter.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Datum, naam en inligting",
+   "payload": {
+    "text": "Op watter datum het hy die e-pos geskryf? {{1}}\nNaam: {{2}}\nOuderdom: {{3}}\nGraad: {{4}}\nSkool: {{5}}"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50,
+    "item": "tabel"
+   },
+   "answer": {
+    "1": [
+     "13 Augustus 2015"
+    ],
+    "2": [
+     "Kin Hosh"
+    ],
+    "3": [
+     "12",
+     "12 jaar"
+    ],
+    "4": [
+     "6",
+     "graad 6"
+    ],
+    "5": [
+     "Internasionale Laerskool",
+     "Internasionale laerskool"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die inligting kom uit die e-pos: die datum bo-aan, sy naam onderaan, “Hy is ook 12” en “albei in graad 6”."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Kin se stokperdjies",
+   "payload": {
+    "prompt": "Wat is Kin se stokperdjies? (Vul in die tabel.)",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50,
+    "item": "tabel 6"
+   },
+   "suggested_answer": "Lees en rekenaarspeletjies.",
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Homoniem of homofoon?",
+   "payload": {
+    "prompt": "Is die onderstreepte woordpare homonieme of homofone?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "reis / rys (Hy reis na Japan. – In Japan eet hulle rys.)",
+      "options": [
+       {
+        "key": "a",
+        "text": "homoniem"
+       },
+       {
+        "key": "b",
+        "text": "homofoon"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "berg (Tafelberg is ’n hoë berg. – Hulle berg die voedsel in die koelkamers.)",
+      "options": [
+       {
+        "key": "a",
+        "text": "homoniem"
+       },
+       {
+        "key": "b",
+        "text": "homofoon"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "bly (Ek bly baie lekker in Tokio. – Ek was baie bly toe ek jou e-pos ontvang het.)",
+      "options": [
+       {
+        "key": "a",
+        "text": "homoniem"
+       },
+       {
+        "key": "b",
+        "text": "homofoon"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "lei / ly (Kin lei die debat. – Sy ma ly aan asma.)",
+      "options": [
+       {
+        "key": "a",
+        "text": "homoniem"
+       },
+       {
+        "key": "b",
+        "text": "homofoon"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "vlei / vly (Die eend swem in die vlei. – Die meisie vly haar op die bank neer.)",
+      "options": [
+       {
+        "key": "a",
+        "text": "homoniem"
+       },
+       {
+        "key": "b",
+        "text": "homofoon"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "brak (Ek kan nie hierdie brak water drink nie. – Die brak blaf.)",
+      "options": [
+       {
+        "key": "a",
+        "text": "homoniem"
+       },
+       {
+        "key": "b",
+        "text": "homofoon"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51,
+    "item": "homonieme"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "a",
+     "q3": "a",
+     "q4": "b",
+     "q5": "b",
+     "q6": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Homonieme lyk en klink dieselfde. Homofone klink dieselfde maar word anders gespel."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Afleiding of samestelling?",
+   "payload": {
+    "prompt": "Hierdie woorde kom uit Kin se e-pos. Afleiding of samestelling?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "gebeure",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "veronderstel",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "rekenaarspeletjie",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "halfpad",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "swaaie",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51,
+    "item": "woorddele"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "b",
+     "q5": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Samestelling = twee basiswoorde (rekenaar + speletjie; half + pad). Afleiding = basis + voor- of agtervoegsel."
+   },
+   "answer_status": "needs_review",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Verkleinwoorde",
+   "payload": {
+    "text": "aardbewing: {{1}}\nlaerskool: {{2}}\nneef: {{3}}\npark: {{4}}\ngesin: {{5}}\nswaai: {{6}}\nmaats: {{7}}\nboek: {{8}}",
+    "prompt": "Gee die verkleiningsvorm van hierdie woorde uit Kin se e-pos."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51,
+    "item": "verkleinwoorde"
+   },
+   "answer": {
+    "1": [
+     "aardbewinkie"
+    ],
+    "2": [
+     "laerskooltjie"
+    ],
+    "3": [
+     "neefie",
+     "nefie"
+    ],
+    "4": [
+     "parkie"
+    ],
+    "5": [
+     "gesinnetjie",
+     "gesinnie"
+    ],
+    "6": [
+     "swaaitjie"
+    ],
+    "7": [
+     "maatjies",
+     "maatjie"
+    ],
+    "8": [
+     "boekie"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Kyk na die reëls vir -jie, -tjie, -kie, -etjie, -pie en -ie."
+   },
+   "answer_status": "needs_review",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Jy het ’n e-posadres en toegang tot die internet nodig om ’n e-pos te stuur."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê dit in die nota oor e-posse."
+   },
+   "answer_status": "official",
+   "key": "act-09",
+   "sort_order": 90
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "By wie bly Kin?",
+   "explanation": "Hy het by sy neef in Suid-Japan kom woon.",
+   "options": [
+    {
+     "key": "a",
+     "text": "By sy neef in Suid-Japan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "By sy ouma in Tokio"
+    },
+    {
+     "key": "c",
+     "text": "By sy maats by die skool"
+    },
+    {
+     "key": "d",
+     "text": "By sy onderwyser"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50,
+    "item": "1"
+   },
+   "key": "q01",
+   "supporting": [
+    5
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom is Kin nie by die huis nie?",
+   "explanation": "Hy bly by sy neef totdat die situasie tuis verbeter.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Daar was ’n geweldige aardbewing in Japan.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy is op vakansie."
+    },
+    {
+     "key": "c",
+     "text": "Sy skool is gesluit."
+    },
+    {
+     "key": "d",
+     "text": "Hy is verlore."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50,
+    "item": "2"
+   },
+   "key": "q02",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Op watter datum het Kin die e-pos geskryf?",
+   "explanation": "Die datum staan bo-aan die e-pos.",
+   "options": [
+    {
+     "key": "a",
+     "text": "13 Augustus 2015",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "15 Augustus 2015"
+    },
+    {
+     "key": "c",
+     "text": "13 Julie 2015"
+    },
+    {
+     "key": "d",
+     "text": "3 Augustus 2015"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 46,
+    "pdf_page": 50,
+    "item": "3"
+   },
+   "key": "q03",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe oud is Kin se neef?",
+   "explanation": "Die e-pos sê: “Hy is ook 12.”",
+   "options": [
+    {
+     "key": "a",
+     "text": "12 jaar",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "10 jaar"
+    },
+    {
+     "key": "c",
+     "text": "14 jaar"
+    },
+    {
+     "key": "d",
+     "text": "16 jaar"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    8
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is Kin se gunstelingstokperdjies?",
+   "explanation": "Dit staan in die derde paragraaf.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Lees en rekenaarspeletjies",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sokker en swem"
+    },
+    {
+     "key": "c",
+     "text": "Kook en teken"
+    },
+    {
+     "key": "d",
+     "text": "Sing en dans"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    11
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat beteken “homofone”?",
+   "explanation": "Dit is die werkboek se verduideliking.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Woorde wat dieselfde klink, maar verskillend gespel word",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Woorde wat dieselfde lyk en klink"
+    },
+    {
+     "key": "c",
+     "text": "Woorde met teenoorgestelde betekenis"
+    },
+    {
+     "key": "d",
+     "text": "Woorde met dieselfde betekenis"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter paar is homofone?",
+   "explanation": "Reis en rys klink dieselfde maar word verskillend gespel.",
+   "options": [
+    {
+     "key": "a",
+     "text": "reis en rys",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "berg en berg"
+    },
+    {
+     "key": "c",
+     "text": "bly en bly"
+    },
+    {
+     "key": "d",
+     "text": "brak en brak"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51,
+    "item": "homonieme"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die verkleiningsvorm van “boek”?",
+   "explanation": "Boek eindig op -k: ons voeg -ie by.",
+   "options": [
+    {
+     "key": "a",
+     "text": "boekie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "boekje"
+    },
+    {
+     "key": "c",
+     "text": "boektjie"
+    },
+    {
+     "key": "d",
+     "text": "boekpie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51,
+    "item": "verkleinwoorde"
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die verkleiningsvorm van “aardbewing”?",
+   "explanation": "Meerlettergrepige woorde op -ng: gooi die g weg en voeg -kie by.",
+   "options": [
+    {
+     "key": "a",
+     "text": "aardbewinkie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "aardbewingie"
+    },
+    {
+     "key": "c",
+     "text": "aardbewingetjie"
+    },
+    {
+     "key": "d",
+     "text": "aardbewingjie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 47,
+    "pdf_page": 51,
+    "item": "verkleinwoorde"
+   },
+   "key": "q09"
+  }
+ ],
+ "passage": {
+  "title": "’n E-pos van ’n maat",
+  "language": "af",
+  "sentences": [
+   "Aan: anita@skool.com; danie@skool.com",
+   "Van: kin@biblioteek.com",
+   "13 Augustus 2015 11:56",
+   "Liewe Anita en Danie,",
+   "Ek veronderstel julle het die nuus gelees oor die geweldige aardbewing in Japan.",
+   "Na die gebeure het ek by my neef in Suid-Japan kom woon, en ek sal hier bly totdat die situasie tuis in Tokio verbeter.",
+   "Alhoewel ek dankbaar is dat ek nou ver van die episentrum af is, mis ek my gesin en my maats by ons Internasionale Laerskool baie.",
+   "Ek geniet dit om by my neef te kuier.",
+   "Hy is ook 12 en ons is albei in graad 6.",
+   "My nefie woon gelukkig naby die sentrale park, waar ons op die rondomtalie en swaaie kan speel.",
+   "As dit net nie so koud was nie!",
+   "Tussen ons speeltye bestee ek tyd aan my gunstelingstokperdjies – lees en rekenaarspeletjies.",
+   "Ek lees ook nou die Oerwoudboek, en ek wens ek kon in Afrika woon.",
+   "Ek is amper halfpad deur die boek.",
+   "Ek hoop ek hoor gou van julle.",
+   "Julle maat",
+   "Kin Hosh"
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   7,
+   10,
+   14,
+   15,
+   16
+  ],
+  "glossary": [
+   {
+    "term": "episentrum",
+    "definition": "Die punt op die aarde direk bo die plek waar ’n aardbewing begin.",
+    "sentence_index": 6
+   },
+   {
+    "term": "situasie",
+    "definition": "Hoe dinge op ’n bepaalde tyd is.",
+    "sentence_index": 5
+   },
+   {
+    "term": "rondomtalie",
+    "definition": "’n Draaiende speeltoestel waarop kinders ry.",
+    "sentence_index": 9
+   },
+   {
+    "term": "gunstelingstokperdjies",
+    "definition": "Die stokperdjies (tydverdryf) wat jy die liefste het.",
+    "sentence_index": 11
+   },
+   {
+    "term": "Internasionale",
+    "definition": "Van baie lande; tussen lande.",
+    "sentence_index": 6
+   }
+  ]
+ }
+}

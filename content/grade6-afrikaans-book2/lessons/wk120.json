@@ -1,0 +1,841 @@
+{
+ "key": "gr6-afr-b2-wk120",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 120,
+ "title_af": "Nog ’n kykie na taal",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 8,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  116,
+  117
+ ],
+ "pdf_pages": [
+  120,
+  121
+ ],
+ "reference_pages": [
+  {
+   "pdf": 120,
+   "printed": 116,
+   "src": "/workbook/gr6-afr-b2/p120.webp"
+  },
+  {
+   "pdf": 121,
+   "printed": 117,
+   "src": "/workbook/gr6-afr-b2/p121.webp"
+  }
+ ],
+ "intro_af": "Nog ’n kykie na taal: werkwoorde saam met die regte prentjies, vier soorte bywoorde en die intensiewe vorme van kleure.",
+ "objectives_af": [
+  "Werkwoorde by die regte woorde laat pas.",
+  "Vier soorte bywoorde uitken.",
+  "Intensiewe vorme van byvoeglike naamwoorde verbind en gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Bywoorde",
+   "payload": {
+    "paragraphs": [
+     "Bywoorde vertel ons meer van ander woorde. Daar word vier tipes onderskei:"
+    ],
+    "bullets": [
+     "**Bywoorde van tyd:** wanneer en hoe dikwels iets gedoen word, bv. nou, vandag, nooit.",
+     "**Bywoorde van wyse:** hoe iets gedoen word, bv. pragtig, grasieus, swak, duidelik.",
+     "**Bywoorde van plek:** waar iets gedoen word, bv. bokant, onderkant, hier, daar, binnenshuis.",
+     "**Bywoorde van graad:** hoeveel of hoe min iets gedoen word, bv. baie, genoeg, byna."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Intensiewe vorme",
+   "payload": {
+    "text": "**Intensiewe vorme** is byvoeglike naamwoorde waarmee ons meer gevoel as gewoonlik wil oordra, bv. bloedrooi."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Werkwoorde (1)",
+   "payload": {
+    "prompt": "Verbind elke prentjie-frase met die werkwoord wat daarby pas. Elke werkwoord word net een keer gebruik.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "’n fiets"
+     },
+     {
+      "key": "l2",
+      "text": "na ’n teater"
+     },
+     {
+      "key": "l3",
+      "text": "televisie"
+     },
+     {
+      "key": "l4",
+      "text": "koffie"
+     },
+     {
+      "key": "l5",
+      "text": "aandete"
+     },
+     {
+      "key": "l6",
+      "text": "huiswerk"
+     },
+     {
+      "key": "l7",
+      "text": "brille"
+     },
+     {
+      "key": "l8",
+      "text": "blokkies"
+     },
+     {
+      "key": "l9",
+      "text": "kitskos"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "gaan"
+     },
+     {
+      "key": "r3",
+      "text": "kyk"
+     },
+     {
+      "key": "r4",
+      "text": "drink"
+     },
+     {
+      "key": "r5",
+      "text": "kook"
+     },
+     {
+      "key": "r6",
+      "text": "doen"
+     },
+     {
+      "key": "r7",
+      "text": "dra"
+     },
+     {
+      "key": "r8",
+      "text": "bou"
+     },
+     {
+      "key": "r9",
+      "text": "eet"
+     },
+     {
+      "key": "r1",
+      "text": "ry"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 116,
+    "pdf_page": 120,
+    "item": "prentjies"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6",
+     "l7": "r7",
+     "l8": "r8",
+     "l9": "r9"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dink watter werkwoord ’n mens met elke ding gebruik."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Werkwoorde (2)",
+   "payload": {
+    "prompt": "Verbind die res van die prentjie-frases met die werkwoorde.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "tennis"
+     },
+     {
+      "key": "l2",
+      "text": "die kersies uit"
+     },
+     {
+      "key": "l3",
+      "text": "na die radio"
+     },
+     {
+      "key": "l4",
+      "text": "’n Volkswagen"
+     },
+     {
+      "key": "l5",
+      "text": "in ’n woonstel"
+     },
+     {
+      "key": "l6",
+      "text": "Duits"
+     },
+     {
+      "key": "l7",
+      "text": "’n koerant"
+     },
+     {
+      "key": "l8",
+      "text": "’n koek"
+     },
+     {
+      "key": "l9",
+      "text": "van my hond"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "blaas"
+     },
+     {
+      "key": "r3",
+      "text": "luister"
+     },
+     {
+      "key": "r4",
+      "text": "bestuur"
+     },
+     {
+      "key": "r5",
+      "text": "woon"
+     },
+     {
+      "key": "r6",
+      "text": "praat"
+     },
+     {
+      "key": "r7",
+      "text": "lees"
+     },
+     {
+      "key": "r8",
+      "text": "bak"
+     },
+     {
+      "key": "r9",
+      "text": "hou"
+     },
+     {
+      "key": "r1",
+      "text": "speel"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 116,
+    "pdf_page": 120,
+    "item": "prentjies"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6",
+     "l7": "r7",
+     "l8": "r8",
+     "l9": "r9"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Elke werkwoord pas by net een prentjie-frase."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter soort bywoord?",
+   "payload": {
+    "prompt": "Dui die soort bywoord aan.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Jy moet daagliks jou huiswerk doen.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "wyse"
+       },
+       {
+        "key": "c",
+        "text": "plek"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Ek voel baie tevrede met die gedig.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "wyse"
+       },
+       {
+        "key": "c",
+        "text": "plek"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Sit jou boek daar op die tafel neer.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "wyse"
+       },
+       {
+        "key": "c",
+        "text": "plek"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Skryf jou gedig netjies in jou boek.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "wyse"
+       },
+       {
+        "key": "c",
+        "text": "plek"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Jy moet soggens vroeg genoeg opstaan.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "wyse"
+       },
+       {
+        "key": "c",
+        "text": "plek"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Jy moet soggens vroeg genoeg opstaan.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "wyse"
+       },
+       {
+        "key": "c",
+        "text": "plek"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121,
+    "item": "bywoorde"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "d",
+     "q3": "c",
+     "q4": "b",
+     "q5": "a",
+     "q6": "d"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Tyd = wanneer; wyse = hoe; plek = waar; graad = hoeveel."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Intensiewe vorme",
+   "payload": {
+    "prompt": "Verbind elke kleur met sy intensiewe vorm.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "geel"
+     },
+     {
+      "key": "l2",
+      "text": "blou"
+     },
+     {
+      "key": "l3",
+      "text": "groen"
+     },
+     {
+      "key": "l4",
+      "text": "wit"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "potblou"
+     },
+     {
+      "key": "r3",
+      "text": "grasgroen"
+     },
+     {
+      "key": "r4",
+      "text": "spierwit"
+     },
+     {
+      "key": "r1",
+      "text": "goudgeel"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121,
+    "item": "intensiewe vorme"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die intensiewe vorm sê hoe sterk of suiwer die kleur is."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Sinne met intensiewe vorme",
+   "payload": {
+    "prompt": "Gebruik die intensiewe vorme in sinne.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121,
+    "item": "sinne"
+   },
+   "suggested_answer": "Die gras was grasgroen.\nDie hemp was spierwit.\nDie lig was goudgeel.\nDie see was potblou.",
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "“Nooit” is ’n bywoord van tyd."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121,
+    "item": "feit"
+   },
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek gee “nooit” as voorbeeld van ’n bywoord van tyd."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter soort bywoord is “nou”?",
+   "explanation": "Nou, vandag, nooit is bywoorde van tyd.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tyd",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Plek"
+    },
+    {
+     "key": "c",
+     "text": "Graad"
+    },
+    {
+     "key": "d",
+     "text": "Wyse"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter soort bywoord is “pragtig”?",
+   "explanation": "Pragtig is ’n bywoord van wyse.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wyse",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Tyd"
+    },
+    {
+     "key": "c",
+     "text": "Plek"
+    },
+    {
+     "key": "d",
+     "text": "Graad"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter soort bywoord is “binnenshuis”?",
+   "explanation": "Binnenshuis is ’n bywoord van plek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Plek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Tyd"
+    },
+    {
+     "key": "c",
+     "text": "Wyse"
+    },
+    {
+     "key": "d",
+     "text": "Graad"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter soort bywoord is “byna”?",
+   "explanation": "Byna is ’n bywoord van graad.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Graad",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Tyd"
+    },
+    {
+     "key": "c",
+     "text": "Wyse"
+    },
+    {
+     "key": "d",
+     "text": "Plek"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is die intensiewe vorm van “wit”?",
+   "explanation": "Spierwit is die sterk vorm van wit.",
+   "options": [
+    {
+     "key": "a",
+     "text": "spierwit",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "grasgroen"
+    },
+    {
+     "key": "c",
+     "text": "goudgeel"
+    },
+    {
+     "key": "d",
+     "text": "potblou"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121,
+    "item": "intensiewe vorme"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is die intensiewe vorm van “blou”?",
+   "explanation": "Potblou is die sterk vorm van blou.",
+   "options": [
+    {
+     "key": "a",
+     "text": "potblou",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "spierwit"
+    },
+    {
+     "key": "c",
+     "text": "goudgeel"
+    },
+    {
+     "key": "d",
+     "text": "grasgroen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121,
+    "item": "intensiewe vorme"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter werkwoord pas by “televisie”?",
+   "explanation": "Ons kyk televisie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "kyk",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "eet"
+    },
+    {
+     "key": "c",
+     "text": "ry"
+    },
+    {
+     "key": "d",
+     "text": "bou"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 116,
+    "pdf_page": 120,
+    "item": "prentjies"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n intensiewe vorm?",
+   "explanation": "Bv. bloedrooi.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Byvoeglike naamwoord wat meer gevoel as gewoonlik oordra",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Soort werkwoord"
+    },
+    {
+     "key": "c",
+     "text": "’n Bywoord van tyd"
+    },
+    {
+     "key": "d",
+     "text": "’n Voorsetsel"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 117,
+    "pdf_page": 121
+   },
+   "key": "q08"
+  }
+ ]
+}

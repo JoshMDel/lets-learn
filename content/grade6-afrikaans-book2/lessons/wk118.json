@@ -1,0 +1,594 @@
+{
+ "key": "gr6-afr-b2-wk118",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 118,
+ "title_af": "’n Veldavontuur",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 6,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  112,
+  113
+ ],
+ "pdf_pages": [
+  116,
+  117
+ ],
+ "reference_pages": [
+  {
+   "pdf": 116,
+   "printed": 112,
+   "src": "/workbook/gr6-afr-b2/p116.webp"
+  },
+  {
+   "pdf": 117,
+   "printed": 113,
+   "src": "/workbook/gr6-afr-b2/p117.webp"
+  }
+ ],
+ "intro_af": "Terug by die veldlikkewaan! Beantwoord vrae oor die storie, leer oor oorsaak en gevolg en skryf vier paragrawe oor ’n kampeerervaring.",
+ "objectives_af": [
+  "Vrae oor die storie beantwoord.",
+  "Oorsake met hul gevolge verbind en voegwoorde gebruik.",
+  "Vier paragrawe oor ’n kampeerervaring skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Oorsaak en gevolg",
+   "payload": {
+    "paragraphs": [
+     "Baiekeer wil ons oor die oorsaak en gevolg van iets praat. Om dit te kan doen, gebruik ons woorde soos **omdat**, **daarom**, **want** of **dus**."
+    ],
+    "bullets": [
+     "Die kinders het nie die tentvloer vasgemaak nie, **daarom** het die likkewaan ingekom. (oorsaak → gevolg)",
+     "Die likkewaan het ingekom, **omdat** die tentvloer nie vasgemaak was nie. (gevolg ← oorsaak)"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "In watter volgorde loop die kinders na die tent toe?",
+   "payload": {
+    "prompt": "Sit die kinders in die volgorde waarin hulle loop: 1ste, 2de, 3de.",
+    "items": [
+     {
+      "key": "e2",
+      "text": "Vusi"
+     },
+     {
+      "key": "e3",
+      "text": "Bongi"
+     },
+     {
+      "key": "e1",
+      "text": "Kallie"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "1"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Vusi loop net agter Kallie en Bongi staan agter Vusi."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Dink jy Vusi het al ooit ’n veldlikkewaan gesien?",
+   "payload": {
+    "prompt": "Dink jy Vusi het al ooit ’n veldlikkewaan gesien? Waarom sê jy so?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "2"
+   },
+   "suggested_answer": "Nee, waarskynlik nie, want hy vra: “Wat is ’n veldlikkewaan, Pa?” en hy dink eers dis ’n akkedis/slang.",
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Waarom bots Vusi met Bongi?",
+   "payload": {
+    "prompt": "Waarom bots Vusi met Bongi?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "3"
+   },
+   "suggested_answer": "Omdat hy skrik toe Kallie ’n bloedstollende gil uiter, en Bongi agter hom staan.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Is mnr. Mosoma bang vir reptiele?",
+   "payload": {
+    "prompt": "Is mnr. Mosoma bang vir reptiele? Gee redes vir jou antwoord.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "4"
+   },
+   "suggested_answer": "Nee. Hy glimlag, bly kalm, haal ’n flits en graaf, stap voor en lig self die tentflap op.",
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoe weet ons die kinders is bang?",
+   "payload": {
+    "prompt": "Hoe weet ons die kinders is bang vir reptiele?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "5"
+   },
+   "suggested_answer": "Hulle is bewend, Kallie skree en retireer, hulle bly op ’n veilige afstand en Kallie sê “Jek!”.",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoe het die likkewaan ingekom?",
+   "payload": {
+    "prompt": "Hoe het die likkewaan in die tent ingekom?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "6"
+   },
+   "suggested_answer": "Die kinders het die tentvloer aan die sykante nie vasgemaak nie.",
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Oorsaak en gevolg",
+   "payload": {
+    "prompt": "Verbind elke oorsaak met sy gevolg.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Die kinders het die tentvloer nie vasgemaak nie."
+     },
+     {
+      "key": "l2",
+      "text": "Mnr. Mosoma wou ’n flitslig hê."
+     },
+     {
+      "key": "l3",
+      "text": "Kallie het gedink hy sien ’n slang."
+     },
+     {
+      "key": "l4",
+      "text": "Die likkewaan het vasgekeer gevoel."
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Hy het na die motor toe gegaan."
+     },
+     {
+      "key": "r3",
+      "text": "Hy het ’n groot tree agteruit gegee."
+     },
+     {
+      "key": "r4",
+      "text": "Hy het sisgeluide gemaak en sy tong in en uit beweeg."
+     },
+     {
+      "key": "r1",
+      "text": "Die likkewaan het in die tent ingekom."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "oorsaak-gevolg"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die storie gee die oorsake; die gevolge staan regs."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf saamgestelde sinne",
+   "payload": {
+    "prompt": "Skryf die sinne wat jy verbind het oor as een saamgestelde sin met omdat, daarom, want of dus.",
+    "lines": 6,
+    "checklist": [
+     "Ek het omdat/daarom/want/dus gebruik.",
+     "Elke sin maak sin."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 113,
+    "pdf_page": 117,
+    "item": "saamgestelde sinne"
+   },
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "My kampervaring: beplan en skryf",
+   "payload": {
+    "prompt": "Skryf vier paragrawe oor ’n keer toe jy gaan kamp het. (As jy nog nooit gaan kamp het nie, skryf hoe jy jou dit voorstel.) Paragraaf 1: waar is die kampeerplek en hoe lyk dit? Paragraaf 2: ’n onverwagte gebeurtenis. Paragraaf 3: hoe die gebeurtenis hanteer is. Paragraaf 4: die oplossing van die gebeurtenis. Woorde wat kan help: tent, graaf, emmer, water, hout, vuur, driebeenpot, muskiete, boom, rooibok, reptiel, hiëna, alleen, bang, krieke, grondpaaie, wildpark, plaas, band, vars lug, voëls, kwetter.",
+    "lines": 16,
+    "checklist": [
+     "Paragraaf 1: waar is die kampeerplek en hoe lyk dit?",
+     "Paragraaf 2: ’n onverwagte gebeurtenis",
+     "Paragraaf 3: hoe die gebeurtenis hanteer is",
+     "Paragraaf 4: die oplossing",
+     "Ek het ’n maat my werk laat hersien.",
+     "Ek het gekorrigeer en netjies oorgeskryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 113,
+    "pdf_page": 117,
+    "item": "My kampervaring"
+   },
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "“Want” kan ’n oorsaak aandui, bv. Kallie het agteruit gegee, want hy het gedink hy sien ’n slang."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Voegwoorde soos want, omdat, daarom en dus verbind oorsaak en gevolg."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-10",
+   "sort_order": 100
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "sequencing",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie loop eerste na die tent toe?",
+   "explanation": "Vusi loop net agter Kallie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kallie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Vusi"
+    },
+    {
+     "key": "c",
+     "text": "Bongi"
+    },
+    {
+     "key": "d",
+     "text": "Mnr. Mosoma"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "1"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom bots Vusi met Bongi?",
+   "explanation": "Hy skrik en bots met Bongi, wat agter hom staan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Omdat hy skrik toe Kallie gil",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Omdat hy hardloop"
+    },
+    {
+     "key": "c",
+     "text": "Omdat hy kwaad is"
+    },
+    {
+     "key": "d",
+     "text": "Omdat dit donker is"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "3"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe het die likkewaan in die tent ingekom?",
+   "explanation": "Mnr. Mosoma sê hulle moes die tentvloer vasmaak.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die tentvloer was nie vasgemaak nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het oor die tent geklim"
+    },
+    {
+     "key": "c",
+     "text": "Iemand het hom ingedra"
+    },
+    {
+     "key": "d",
+     "text": "Die tent was oop"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116,
+    "item": "6"
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter woord dui ’n oorsaak aan?",
+   "explanation": "Die werkboek noem omdat, daarom, want en dus.",
+   "options": [
+    {
+     "key": "a",
+     "text": "omdat",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "maar"
+    },
+    {
+     "key": "c",
+     "text": "en"
+    },
+    {
+     "key": "d",
+     "text": "of"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 112,
+    "pdf_page": 116
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Kies die korrekte sin.",
+   "explanation": "“Want” gee die rede.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy het agteruit gegee, want hy het gedink hy sien ’n slang.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het agteruit gegee, maar hy het gedink hy sien ’n slang."
+    },
+    {
+     "key": "c",
+     "text": "Hy het agteruit gegee, of hy het gedink hy sien ’n slang."
+    },
+    {
+     "key": "d",
+     "text": "Hy het agteruit gegee, en hy het gedink hy sien ’n slang."
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel paragrawe skryf jy oor jou kampeerervaring?",
+   "explanation": "Skryf vier paragrawe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vier",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een"
+    },
+    {
+     "key": "c",
+     "text": "Twee"
+    },
+    {
+     "key": "d",
+     "text": "Tien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 113,
+    "pdf_page": 117
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat skryf jy in paragraaf 2?",
+   "explanation": "Paragraaf 2 is ’n onverwagte gebeurtenis.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Onverwagte gebeurtenis",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Waar die kampeerplek is"
+    },
+    {
+     "key": "c",
+     "text": "Die oplossing"
+    },
+    {
+     "key": "d",
+     "text": "Jou naam"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 113,
+    "pdf_page": 117
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter paragraaf skryf oor die oplossing van die gebeurtenis?",
+   "explanation": "Paragraaf 4 is die oplossing.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Paragraaf 4",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Paragraaf 1"
+    },
+    {
+     "key": "c",
+     "text": "Paragraaf 2"
+    },
+    {
+     "key": "d",
+     "text": "Paragraaf 3"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 113,
+    "pdf_page": 117
+   },
+   "key": "q08"
+  }
+ ]
+}

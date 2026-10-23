@@ -1,0 +1,717 @@
+{
+ "key": "gr6-afr-b2-wk106",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 106,
+ "title_af": "Die sewe kontinente",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 2,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  86,
+  87
+ ],
+ "pdf_pages": [
+  90,
+  91
+ ],
+ "reference_pages": [
+  {
+   "pdf": 90,
+   "printed": 86,
+   "src": "/workbook/gr6-afr-b2/p090.webp"
+  },
+  {
+   "pdf": 91,
+   "printed": 87,
+   "src": "/workbook/gr6-afr-b2/p091.webp"
+  }
+ ],
+ "intro_af": "Op die wêreldkaart sien ons kontinente en oseane. Vandag leer jy waar hulle is en hoe die denkbeeldige lyne op die kaart plekke vir ons vind.",
+ "objectives_af": [
+  "Die sewe kontinente en die groot oseane op ’n wêreldkaart uitken.",
+  "Verstaan wat lengte- en breedtegrade is.",
+  "Die ewenaar, die keerkringe en die poolsirkels met hul grade verbind."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Lengte- en breedtegrade",
+   "payload": {
+    "paragraphs": [
+     "Die lengte- en breedtegrade wat op die kaart aangedui word, is denkbeeldige lyne wat ons gebruik om plekke op die aarde te kry."
+    ],
+    "bullets": [
+     "Die **breedtegrade** loop van oos na wes (of van links na regs).",
+     "Die **lengtegrade** loop van die noordpool na die suidpool (van bo na onder).",
+     "Hulle kruis mekaar dus."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Belangrike breedtegrade",
+   "payload": {
+    "headers": [
+     "Lyn",
+     "Ligging"
+    ],
+    "rows": [
+     [
+      "Ewenaar",
+      "0° – ’n denkbeeldige lyn om die aarde se middellyn"
+     ],
+     [
+      "Kreefskeerkring",
+      "23° noord van die ewenaar (23° N)"
+     ],
+     [
+      "Steenbokskeerkring",
+      "23° suid van die ewenaar (23° S)"
+     ],
+     [
+      "Noordpoolsirkel",
+      "ongeveer 66° noord van die ewenaar (66° N)"
+     ],
+     [
+      "Suidpoolsirkel",
+      "66° suid van die ewenaar (66° S)"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Kyk op die kaart",
+   "payload": {
+    "paragraphs": [
+     "Die kaart agter in die werkboek (bl. 88–89) wys die sewe kontinente en die groot oseane. Gebruik dit om die name op bladsy 86 in te vul."
+    ],
+    "bullets": [
+     "Kontinente op die kaart: Noord-Amerika, Suid-Amerika, Afrika, Europa, Asië, Oseanië en Antarktika.",
+     "Oseane op die kaart: die Noordelike en Suidelike Stille Oseaan, die Noord- en Suid-Atlantiese Oseaan, die Indiese Oseaan en die Arktiese See."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Op watter kontinent?",
+   "payload": {
+    "text": "Suid-Afrika lê in {{1}}.\nBrasilië lê in {{2}}.\nKanada lê in {{3}}.\nChina en Indië lê in {{4}}.\nFrankryk en Duitsland lê in {{5}}.\nDie koue kontinent by die Suidpool is {{6}}.\nAustralië en Nieu-Seeland lê in {{7}}.",
+    "prompt": "Vul die sewe kontinente in.",
+    "word_bank": [
+     "Afrika",
+     "Suid-Amerika",
+     "Noord-Amerika",
+     "Asië",
+     "Europa",
+     "Antarktika",
+     "Oseanië"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90,
+    "item": "kontinente"
+   },
+   "answer": {
+    "1": [
+     "Afrika"
+    ],
+    "2": [
+     "Suid-Amerika"
+    ],
+    "3": [
+     "Noord-Amerika"
+    ],
+    "4": [
+     "Asië"
+    ],
+    "5": [
+     "Europa"
+    ],
+    "6": [
+     "Antarktika"
+    ],
+    "7": [
+     "Oseanië",
+     "Australië"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Kyk op die wêreldkaart agter in die werkboek: elke land lê op die kontinent met sy naam langsaan."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter oseaan?",
+   "payload": {
+    "prompt": "Kies die regte oseaan of see.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Die oseaan wat jy oorkruis om van Suid-Afrika na Australië te kom.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Indiese Oseaan"
+       },
+       {
+        "key": "b",
+        "text": "Arktiese See"
+       },
+       {
+        "key": "c",
+        "text": "Noordelike Stille Oseaan"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die oseaan aan Suid-Afrika se westekant.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Suid-Atlantiese Oseaan"
+       },
+       {
+        "key": "b",
+        "text": "Indiese Oseaan"
+       },
+       {
+        "key": "c",
+        "text": "Arktiese See"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Die see in die verre noorde, bokant Kanada en Groenland.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Arktiese See"
+       },
+       {
+        "key": "b",
+        "text": "Suidelike Stille Oseaan"
+       },
+       {
+        "key": "c",
+        "text": "Suid-Atlantiese Oseaan"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90,
+    "item": "oseane"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die name staan op die wêreldkaart op bladsy 88–89 van die werkboek."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die lyn by sy ligging",
+   "payload": {
+    "prompt": "Verbind elke lyn op die kaart met sy ligging.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "ewenaar"
+     },
+     {
+      "key": "l2",
+      "text": "Kreefskeerkring"
+     },
+     {
+      "key": "l3",
+      "text": "Steenbokskeerkring"
+     },
+     {
+      "key": "l4",
+      "text": "Noordpoolsirkel"
+     },
+     {
+      "key": "l5",
+      "text": "Suidpoolsirkel"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "23° N"
+     },
+     {
+      "key": "r3",
+      "text": "23° S"
+     },
+     {
+      "key": "r4",
+      "text": "66° N"
+     },
+     {
+      "key": "r5",
+      "text": "66° S"
+     },
+     {
+      "key": "r1",
+      "text": "0°"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91,
+    "item": "byskrifte"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is die inligting in die blokkie op bladsy 87."
+   },
+   "answer_status": "official",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Lengte- of breedtegrade?",
+   "payload": {
+    "prompt": "Watter soort lyne is dit?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Hulle loop van oos na wes (van links na regs).",
+      "options": [
+       {
+        "key": "a",
+        "text": "breedtegrade"
+       },
+       {
+        "key": "b",
+        "text": "lengtegrade"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hulle loop van die noordpool na die suidpool.",
+      "options": [
+       {
+        "key": "a",
+        "text": "breedtegrade"
+       },
+       {
+        "key": "b",
+        "text": "lengtegrade"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Die ewenaar is een van hierdie lyne.",
+      "options": [
+       {
+        "key": "a",
+        "text": "breedtegrade"
+       },
+       {
+        "key": "b",
+        "text": "lengtegrade"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90,
+    "item": "grade"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Breedtegrade loop links na regs; lengtegrade loop bo na onder."
+   },
+   "answer_status": "official",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Skryf byskrifte op die kaart",
+   "payload": {
+    "prompt": "Neem die kaart op bladsy 87 en skryf by elke lyn die regte naam en gradetal. Gebruik die inligting uit die blokkie. (Dit is ’n kaartaktiwiteit: werk in jou werkboek.)"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91,
+    "item": "Ons doen"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die Kreefskeerkring lê 23° suid van die ewenaar."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91,
+    "item": "feit"
+   },
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit is die Steenbokskeerkring wat 23° suid lê; die Kreefskeerkring lê 23° noord."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel kontinente is daar?",
+   "explanation": "Die werkkaart se opskrif is “Die sewe kontinente”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sewe",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Vyf"
+    },
+    {
+     "key": "c",
+     "text": "Nege"
+    },
+    {
+     "key": "d",
+     "text": "Twaalf"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Die breedtegrade loop van ...",
+   "explanation": "Breedtegrade loop van oos na wes (links na regs).",
+   "options": [
+    {
+     "key": "a",
+     "text": "oos na wes",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "noord na suid"
+    },
+    {
+     "key": "c",
+     "text": "bo na onder"
+    },
+    {
+     "key": "d",
+     "text": "wes na noord"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Die lengtegrade loop van ...",
+   "explanation": "Lengtegrade loop van bo na onder.",
+   "options": [
+    {
+     "key": "a",
+     "text": "die noordpool na die suidpool",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "oos na wes"
+    },
+    {
+     "key": "c",
+     "text": "links na regs"
+    },
+    {
+     "key": "d",
+     "text": "die ewenaar na die oseaan"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 86,
+    "pdf_page": 90
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die ewenaar?",
+   "explanation": "Dit is die beskrywing op bladsy 87.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Denkbeeldige lyn om die aarde se middellyn",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Berg op die kaart"
+    },
+    {
+     "key": "c",
+     "text": "’n Oseaan"
+    },
+    {
+     "key": "d",
+     "text": "’n Land in Afrika"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar lê die Kreefskeerkring?",
+   "explanation": "Die Kreefskeerkring lê 23° noord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "23° noord van die ewenaar",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "23° suid van die ewenaar"
+    },
+    {
+     "key": "c",
+     "text": "66° noord van die ewenaar"
+    },
+    {
+     "key": "d",
+     "text": "Op die ewenaar"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar loop die Steenbokskeerkring?",
+   "explanation": "Die Steenbokskeerkring loop 23° suid van die ewenaar.",
+   "options": [
+    {
+     "key": "a",
+     "text": "23° suid van die ewenaar",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "23° noord van die ewenaar"
+    },
+    {
+     "key": "c",
+     "text": "66° suid van die ewenaar"
+    },
+    {
+     "key": "d",
+     "text": "By die noordpool"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel grade noord van die ewenaar is die Noordpoolsirkel ongeveer?",
+   "explanation": "Die Noordpoolsirkel is ongeveer 66° noord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "66°",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "23°"
+    },
+    {
+     "key": "c",
+     "text": "0°"
+    },
+    {
+     "key": "d",
+     "text": "90°"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 87,
+    "pdf_page": 91
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe kom ons by die kontinent Oseanië?",
+   "explanation": "Op die wêreldkaart is Australië en Nieu-Seeland in Oseanië.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dit is die kontinent met Australië en Nieu-Seeland",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit is die kontinent met Brasilië"
+    },
+    {
+     "key": "c",
+     "text": "Dit is die kontinent met Frankryk"
+    },
+    {
+     "key": "d",
+     "text": "Dit lê by die Noordpool"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93,
+    "item": "kaart"
+   },
+   "key": "q08"
+  }
+ ]
+}

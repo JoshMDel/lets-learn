@@ -128,3 +128,63 @@ export function useUnreadCount(myId: string | null, conversationIds: string[]) {
 
   return count
 }
+
+export interface ChatSummary {
+  last: Pick<Message, 'sender_id' | 'body' | 'created_at'> | null
+  unread: number
+}
+
+/** For the parent's "Messages" list: each child's latest message and unread
+ * count, keyed by child id. Children with no conversation yet are simply
+ * absent. Looks at the 500 newest messages, which is plenty for a preview. */
+export function useChatSummaries(myId: string | null, childIds: string[]) {
+  const queryClient = useQueryClient()
+
+  const query = useQuery({
+    queryKey: ['chatSummaries', myId, childIds],
+    enabled: !!myId && childIds.length > 0,
+    queryFn: async () => {
+      const { data: convs, error: cErr } = await supabase
+        .from('conversations')
+        .select('id, child_id')
+        .in('child_id', childIds)
+      if (cErr) throw cErr
+      const result = new Map<string, ChatSummary>()
+      const childByConv = new Map((convs ?? []).map((c) => [c.id as string, c.child_id as string]))
+      if (childByConv.size === 0) return result
+
+      const { data: msgs, error: mErr } = await supabase
+        .from('messages')
+        .select('conversation_id, sender_id, body, created_at, read_at')
+        .in('conversation_id', [...childByConv.keys()])
+        .order('created_at', { ascending: false })
+        .limit(500)
+      if (mErr) throw mErr
+
+      for (const childId of childByConv.values()) result.set(childId, { last: null, unread: 0 })
+      for (const m of msgs ?? []) {
+        const summary = result.get(childByConv.get(m.conversation_id) as string)
+        if (!summary) continue
+        if (!summary.last) summary.last = { sender_id: m.sender_id, body: m.body, created_at: m.created_at }
+        if (m.sender_id !== myId && !m.read_at) summary.unread += 1
+      }
+      return result
+    },
+  })
+
+  useEffect(() => {
+    if (!myId || childIds.length === 0) return
+    const channel = supabase
+      .channel(`chatSummaries:${myId}`)
+      .on('postgres_changes', { event: '*', schema: 'public', table: 'messages' }, () => {
+        queryClient.invalidateQueries({ queryKey: ['chatSummaries'] })
+      })
+      .subscribe()
+    return () => {
+      supabase.removeChannel(channel)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [myId, childIds.join(',')])
+
+  return query
+}

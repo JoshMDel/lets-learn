@@ -1,0 +1,558 @@
+{
+ "key": "gr6-afr-b2-wk114",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 114,
+ "title_af": "Wie eet ons boeke?",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 2,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Lees en kyk",
+  "Luister en praat",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  104,
+  105
+ ],
+ "pdf_pages": [
+  108,
+  109
+ ],
+ "reference_pages": [
+  {
+   "pdf": 108,
+   "printed": 104,
+   "src": "/workbook/gr6-afr-b2/p108.webp"
+  },
+  {
+   "pdf": 109,
+   "printed": 105,
+   "src": "/workbook/gr6-afr-b2/p109.webp"
+  }
+ ],
+ "intro_af": "Wie vreet die biblioteek se boeke? Lees verder in die storie, soek byvoeglike naamwoorde, bedink ’n einde en voer dit as ’n rolspel op.",
+ "objectives_af": [
+  "’n Fiktiewe teks lees en verstaan.",
+  "Byvoeglike naamwoorde uitken.",
+  "Saam ’n einde vir die storie bedink en opvoer.",
+  "Die beste einde neerskryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Feite oor die iguanodon",
+   "payload": {
+    "text": "Die iguanodon het ongeveer 130 miljoen jaar gelede geleef, het plante geëet en het ongeveer 2 000 kg geweeg. Hy was byna 3 meter breed by sy heupe en 6 tot 10 meter hoog. Hy het sy naam gekry omdat sy tande soos dié van die iguana-akkedis gelyk het."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 104,
+    "pdf_page": 108
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Byvoeglike naamwoorde",
+   "payload": {
+    "text": "’n **Byvoeglike naamwoord** vertel ons meer van ’n selfstandige naamwoord, bv. ’n skubberige kop, die helderkleurige buiteblaaie."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 104,
+    "pdf_page": 108
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Byvoeglike naamwoorde",
+   "payload": {
+    "prompt": "Omkring die byvoeglike naamwoorde in die leesstuk met blou. Skryf vyf neer.",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 104,
+    "pdf_page": 108,
+    "item": "Ons doen"
+   },
+   "suggested_answer": "skubberige (kop)\nbeste (kostuum)\neienaardigste (geluide)\nhelderkleurige (buiteblaaie)\nnuwe (stapel)",
+   "answer_status": "needs_review",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Bedink ’n einde (groepwerk)",
+   "payload": {
+    "prompt": "Niemand wil hê dat hulle biblioteek deur ’n dinosourus opgevreet moet word nie. Wat kan die kinders in hierdie storie doen om die dinosourus van hulle biblioteek af weg te lok? Bespreek dit in groepverband en voer julle idees voor die klas op."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 105,
+    "pdf_page": 109,
+    "item": "Ons doen"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf die beste einde",
+   "payload": {
+    "prompt": "Nadat julle almal se idees gesien het, besluit wie s’n die beste is en skryf die oplossing neer. Nou het julle ’n slot vir die storie “Die Biblioteekmonster”.",
+    "lines": 8,
+    "checklist": [
+     "Ek het die beste idee gekies.",
+     "My einde los die probleem op.",
+     "Ek het spelling en punktuasie nagegaan."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 105,
+    "pdf_page": 109,
+    "item": "Ons skryf"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Wat gebeur in die storie?",
+   "payload": {
+    "prompt": "Sit die gebeure in die regte volgorde.",
+    "items": [
+     {
+      "key": "e2",
+      "text": "Die dinosourus raak aan die slaap en snork."
+     },
+     {
+      "key": "e4",
+      "text": "Die dinosourus begin boeke vreet."
+     },
+     {
+      "key": "e1",
+      "text": "’n Dinosourus stap in en skud Tumi se hand."
+     },
+     {
+      "key": "e3",
+      "text": "Die skoolhoof sê hy het nie die kostuum aan nie."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Dit is die volgorde in die storie."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Tumi weet reg van die begin af dat dit ’n regte dinosourus is."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Sy sê: “Ek het geweet dis nie iemand wat soos ’n dinosourus aangetrek is nie.”"
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie skud Tumi se hand?",
+   "explanation": "Hy hop na Tumi toe en skud haar hand.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die dinosourus",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die ysbeer"
+    },
+    {
+     "key": "c",
+     "text": "Mevrou Roos"
+    },
+    {
+     "key": "d",
+     "text": "Die skoolhoof"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    8
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat doen die dinosourus nadat hy langs Tumi gaan sit?",
+   "explanation": "Hy gaap en raak aan die slaap.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy raak aan die slaap",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy dans"
+    },
+    {
+     "key": "c",
+     "text": "Hy eet ’n boek"
+    },
+    {
+     "key": "d",
+     "text": "Hy loop weg"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    12
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter eienaardige geluid maak die dinosourus?",
+   "explanation": "Die dinosourus snork!",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy snork",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy sing"
+    },
+    {
+     "key": "c",
+     "text": "Hy brul"
+    },
+    {
+     "key": "d",
+     "text": "Hy fluit"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    15
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie is die stem agter mevrou Botha?",
+   "explanation": "Dis die skoolhoof.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die skoolhoof",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Tumi"
+    },
+    {
+     "key": "c",
+     "text": "Die onderwyser"
+    },
+    {
+     "key": "d",
+     "text": "Bongi"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    22
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter boek vreet die dinosourus?",
+   "explanation": "Hy vreet ’n boek oor oseane.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Groot oseane en riviere van die wêreld",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Boeke oor voëls"
+    },
+    {
+     "key": "c",
+     "text": "Boeke oor diere"
+    },
+    {
+     "key": "d",
+     "text": "Storieboeke vir kleuters"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    32
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom hou die dinosourus van papier?",
+   "explanation": "Tumi verduidelik: bome is plante.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Papier kom van hout, en hout van bome, en bome is plante",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit is sag"
+    },
+    {
+     "key": "c",
+     "text": "Dit is sout"
+    },
+    {
+     "key": "d",
+     "text": "Dit is warm"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    35
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waarom het die iguanodon sy naam gekry?",
+   "explanation": "Dit staan in die inligtingsblokkie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sy tande het soos dié van die iguana-akkedis gelyk",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het soos ’n akkedis geloop"
+    },
+    {
+     "key": "c",
+     "text": "Hy het in die see gewoon"
+    },
+    {
+     "key": "d",
+     "text": "Hy was groen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 104,
+    "pdf_page": 108
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat dink mevrou Botha eers van die dinosourus?",
+   "explanation": "Sy sê: “Ek dag dis jy wat die dinosouruskostuum aanhet, Meneer.”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dat dit die skoolhoof in ’n kostuum is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dat dit ’n regte dinosourus is"
+    },
+    {
+     "key": "c",
+     "text": "Dat dit Tumi se pa is"
+    },
+    {
+     "key": "d",
+     "text": "Dat dit ’n robot is"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    27
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Wie eet ons boeke?",
+  "language": "af",
+  "sentences": [
+   "Mevrou Botha maak haar net gereed om te begin lees toe die deur weer oopgaan en nog ’n figuur met ’n skubberige kop wat heen en weer swaai, ingestap kom.",
+   "“Is dit nie wonderlik nie!” sê een van die onderwysers.",
+   "“Dis die heel beste kostuum van almal!”",
+   "“O, kyk,” sê die kinders, “dis ’n iguanodon!”",
+   "“Wel!” sê mevrou Botha, “’n dinosourus!”",
+   "Sy is ’n bietjie verbaas, want sy kan nie onthou dat sy ’n dinosouruskostuum bestel het nie.",
+   "Die dinosourus hop na die kinders toe asof hy na iemand soek.",
+   "Toe merk hy vir Tumi heel agter op.",
+   "Hy hop na Tumi toe en skud haar hand.",
+   "“Hallo!” sê Tumi.",
+   "Al die kinders wil nou die dinosourus se hand skud, en hy stap rond en gee sy skubberige poot vir almal om te skud.",
+   "Toe gaan hy langs Tumi sit.",
+   "Hy gaap, sit sy kop op sy pote neer en raak aan die slaap.",
+   "Tumi probeer om mevrou Botha van die dinosourus te vertel, maar sy wil hê dat Tumi moet wag totdat sy die storie van die ysbeer klaar gelees het.",
+   "Tumi kan nie met aandag na die storie luister nie, want die eienaardigste geluide kom van die kreatuur langs haar.",
+   "Die dinosourus snork!",
+   "Die klanke word harder en harder.",
+   "Almal kyk om om te sien wat aangaan.",
+   "“Ignoreer hom net,” sê mevrou Botha.",
+   "Die storie is klaar en steeds slaap die dinosourus voort.",
+   "Al die kinders staan op en begin na die boeke kyk.",
+   "Mevrou Botha is besig om vir die kinders ’n boek oor voëls te wys, toe sy ’n stem agter haar hoor.",
+   "Dis die skoolhoof.",
+   "“Jammer,” sê die skoolhoof.",
+   "“Ek het gemeen om vroeër in te loer.",
+   "Het alles goed gegaan?",
+   "Ek sien die kostuums het opgedaag.”",
+   "“Maar ek dag dis jy wat die dinosouruskostuum aanhet, Meneer,” sê mevrou Botha verward.",
+   "“As dit nie jy is nie, wie is dit?”",
+   "“Ek het probeer om julle te sê,” sê Tumi.",
+   "“Ek het geweet dis nie iemand wat soos ’n dinosourus aangetrek is nie.”",
+   "“O aarde!” sê iemand anders en wys na die boekrakke.",
+   "Die dinosourus is besig om ’n boek, Groot oseane en riviere van die wêreld, op te vreet.",
+   "Tumi probeer verduidelik.",
+   "“Dis ’n iguanodon,” sê sy aan mevrou Botha.",
+   "“Hulle eet plante, en papier kom natuurlik van hout en hout van bome en bome is plante.",
+   "Dis waarom hy van papier hou.”",
+   "Die kinders kyk hoe die dinosourus hoofstuk ses van die boek oor oseane vreet.",
+   "“O genade,” sê mevrou Botha, “dis glad nie goed nie.”",
+   "Die dinosourus sien ’n nuwe stapel boeke.",
+   "Die helderkleurige buiteblaaie is blink en hard.",
+   "“Kraak!” hap die dinosourus.",
+   "“Kraak!” en die eerste storieboek verdwyn tussen sy reusekake.",
+   "Almal probeer dink aan ’n manier om die honger dinosourus van die boeke weg te lok."
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   10,
+   14,
+   19,
+   23,
+   27,
+   29,
+   31,
+   33,
+   37,
+   39,
+   43
+  ],
+  "glossary": [
+   {
+    "term": "figuur",
+    "definition": "Die vorm van iemand of iets wat jy nie goed kan sien nie.",
+    "sentence_index": 0
+   },
+   {
+    "term": "skubberig",
+    "definition": "Met skubbe soos ’n vis of reptiel.",
+    "sentence_index": 0
+   },
+   {
+    "term": "ignoreer",
+    "definition": "Nie aandag aan iets gee nie.",
+    "sentence_index": 18
+   },
+   {
+    "term": "eienaardigste",
+    "definition": "Die vreemdste.",
+    "sentence_index": 14
+   },
+   {
+    "term": "verward",
+    "definition": "Deurmekaar; nie verstaan nie.",
+    "sentence_index": 27
+   },
+   {
+    "term": "reusekake",
+    "definition": "Baie groot kake.",
+    "sentence_index": 42
+   },
+   {
+    "term": "verduidelik",
+    "definition": "Maak duidelik hoe iets werk.",
+    "sentence_index": 33
+   },
+   {
+    "term": "loer",
+    "definition": "Vinnig en stilletjies kyk.",
+    "sentence_index": 24
+   }
+  ]
+ }
+}

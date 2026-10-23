@@ -1,0 +1,725 @@
+{
+ "key": "gr6-afr-b2-wk077",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 77,
+ "title_af": "Dink na oor die karakters",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 5,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  26,
+  27
+ ],
+ "pdf_pages": [
+  30,
+  31
+ ],
+ "reference_pages": [
+  {
+   "pdf": 30,
+   "printed": 26,
+   "src": "/workbook/gr6-afr-b2/p030.webp"
+  },
+  {
+   "pdf": 31,
+   "printed": 27,
+   "src": "/workbook/gr6-afr-b2/p031.webp"
+  }
+ ],
+ "intro_af": "Hoe leer ons ’n karakter ken? Vandag beskryf jy Jabu, die leeu en iemand wat jy self ken – met byvoeglike naamwoorde.",
+ "objectives_af": [
+  "Byvoeglike naamwoorde gebruik om karakters te beskryf.",
+  "’n Karakterskets van Jabu skryf.",
+  "Die leeu in ’n paragraaf beskryf.",
+  "’n Persoon wat jy ken, beskryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Hoe leer ons karakters ken?",
+   "payload": {
+    "text": "Ons leer die karakters in ’n storie ken uit wat hulle sê of doen of wat ander ons van hulle vertel."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Byvoeglike naamwoorde",
+   "payload": {
+    "paragraphs": [
+     "Byvoeglike naamwoorde is beskrywende woorde. Hulle sê meer van ’n persoon of ding, bv. ’n **dapper** seun, ’n **slim** jakkals."
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die skryfproses",
+   "payload": {
+    "bullets": [
+     "**Beplan** jou karakterskets deur byvoeglike naamwoorde in die raampies in te vul.",
+     "Skryf jou **eerste weergawe** in jou klaswerkboek.",
+     "Laat ’n maat jou werk **hersien**.",
+     "**Korrigeer** spelfoute en punktuasie.",
+     "Skryf jou **finale weergawe** vir publikasie."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Dinkskrum oor Jabu",
+   "payload": {
+    "prompt": "Hou ’n dinkskrum saam met jou maats om soveel beskrywende woorde moontlik te kry wat Jabu se karakter beskryf."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30,
+    "item": "dinkskrum"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Jabu se naam en ouderdom",
+   "payload": {
+    "text": "Naam: {{1}}\nOuderdom: {{2}}"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30,
+    "item": "raampies"
+   },
+   "answer": {
+    "1": [
+     "Jabu"
+    ],
+    "2": [
+     "14",
+     "14 jaar",
+     "veertien"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die storie sê: Jabu was ’n 14-jarige veewagter."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Wat beskryf Jabu?",
+   "payload": {
+    "prompt": "Pas die woord by Jabu se karakter? Kies Ja of Nee.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "verantwoordelik",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "dapper",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "lui",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "gulsig",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "meelewend (hy het jammer gevoel vir die leeu)",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "oneerlik",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30,
+    "item": "karaktertrekke"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "b",
+     "q5": "a",
+     "q6": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Jabu pas sy pa se vee goed op, stap dapper na die geluid en voel jammer vir die leeu."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Karakterskets van Jabu",
+   "payload": {
+    "prompt": "Gebruik jou byvoeglike naamwoorde om ’n karakterskets van Jabu te skryf.",
+    "lines": 8,
+    "checklist": [
+     "Ek het sy naam en ouderdom genoem.",
+     "Ek het minstens vier byvoeglike naamwoorde gebruik.",
+     "Ek het gesê wat hy doen of sê wat wys hoe hy is.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jou skryfwerk.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30,
+    "item": "Jabu"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Ses woorde oor die leeu",
+   "payload": {
+    "prompt": "Vul ses byvoeglike naamwoorde in wat die leeu beskryf.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30,
+    "item": "leeu"
+   },
+   "suggested_answer": "sterk, gulsig, oneerlik, desperaat, magtig, slinks",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Paragraaf oor die leeu",
+   "payload": {
+    "prompt": "Gebruik die byvoeglike naamwoorde om ’n paragraaf te skryf waarin jy die leeu beskryf. Skryf jou eerste weergawe in jou klaswerkboek, vra ’n maat om dit te hersien en skryf dan die finale weergawe.",
+    "lines": 8,
+    "checklist": [
+     "Ek het die ses byvoeglike naamwoorde gebruik.",
+     "My paragraaf het ’n begin, ’n middel en ’n einde.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jou skryfwerk.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30,
+    "item": "paragraaf"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beplan jou eie karakter",
+   "payload": {
+    "prompt": "Kies ’n karakter wat jy ken en vul die inligting in.",
+    "lines": 8,
+    "checklist": [
+     "Volle naam en van",
+     "Vroulik of manlik",
+     "Ouderdom",
+     "Beroep",
+     "Fisiese voorkoms",
+     "Talente of vaardighede",
+     "Waarom ek hom of haar gekies het"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 27,
+    "pdf_page": 31,
+    "item": "raampies"
+   },
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beskryf die persoon wat jy ken",
+   "payload": {
+    "prompt": "Beskryf nou die karakter van ’n persoon wat jy ken. Kies iemand oor wie jy wil skryf. Die persoon kan ’n held of heldin wees, hy of sy kan vandag lewe of kan reeds oorlede wees.",
+    "lines": 10,
+    "checklist": [
+     "Ek het byvoeglike naamwoorde op die breinkaart ingevul.",
+     "Ek het my eerste weergawe laat hersien.",
+     "Ek het spel- en punktuasiefoute reggemaak."
+    ],
+    "tips": [
+     "Beplan jou skryfwerk.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 27,
+    "pdf_page": 31,
+    "item": "persoon"
+   },
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die woord by sy betekenis",
+   "payload": {
+    "prompt": "Verbind elke byvoeglike naamwoord met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "verantwoordelik"
+     },
+     {
+      "key": "l2",
+      "text": "dapper"
+     },
+     {
+      "key": "l3",
+      "text": "gulsig"
+     },
+     {
+      "key": "l4",
+      "text": "oneerlik"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "nie bang om gevaar te trotseer nie"
+     },
+     {
+      "key": "r3",
+      "text": "wil altyd meer eet of hê"
+     },
+     {
+      "key": "r4",
+      "text": "praat of doen nie wat reg is nie"
+     },
+     {
+      "key": "r1",
+      "text": "kan vertrou word om sy werk te doen"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Byvoeglike naamwoorde beskryf mense en diere."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Kies die byvoeglike naamwoord",
+   "payload": {
+    "text": "Die {{1}} jakkals het die leeu uitoorlê. Die {{2}} leeu was vasgevang.",
+    "word_bank": [
+     "slim",
+     "sterk",
+     "lui"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "slim",
+     "slu",
+     "slinkse"
+    ],
+    "2": [
+     "sterk",
+     "desperate",
+     "magtige",
+     "gulsige"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Slim, slu en slinks beskryf die jakkals; die leeu was sterk maar desperaat."
+   },
+   "answer_status": "needs_review",
+   "key": "act-10",
+   "sort_order": 100
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n byvoeglike naamwoord?",
+   "explanation": "Byvoeglike naamwoorde beskryf selfstandige naamwoorde, soos “dapper” in “’n dapper seun”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Woord wat ’n persoon of ding beskryf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Woord wat ’n aksie aandui"
+    },
+    {
+     "key": "c",
+     "text": "’n Woord wat twee sinne verbind"
+    },
+    {
+     "key": "d",
+     "text": "’n Woord wat ’n naam is"
+    }
+   ],
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord in die sin is ’n byvoeglike naamwoord: “Die slim jakkals het die leeu gevang”?",
+   "explanation": "Slim beskryf die jakkals.",
+   "options": [
+    {
+     "key": "a",
+     "text": "slim",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "jakkals"
+    },
+    {
+     "key": "c",
+     "text": "gevang"
+    },
+    {
+     "key": "d",
+     "text": "leeu"
+    }
+   ],
+   "key": "q02"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoe leer ons die karakters in ’n storie ken?",
+   "explanation": "Die werkboek verduidelik dit in die blou nota.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Uit wat hulle sê of doen of wat ander ons van hulle vertel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net uit die titel"
+    },
+    {
+     "key": "c",
+     "text": "Net uit die prente"
+    },
+    {
+     "key": "d",
+     "text": "Net uit die einde van die storie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 26,
+    "pdf_page": 30
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter woord beskryf Jabu die beste?",
+   "explanation": "Jabu pas sy pa se vee goed op.",
+   "options": [
+    {
+     "key": "a",
+     "text": "verantwoordelik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "gulsig"
+    },
+    {
+     "key": "c",
+     "text": "oneerlik"
+    },
+    {
+     "key": "d",
+     "text": "lui"
+    }
+   ],
+   "key": "q04"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Watter woord beskryf die leeu wat sy belofte verbreek het?",
+   "explanation": "Hy het belowe om nie Jabu op te vreet nie, maar het sy belofte verbreek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "oneerlik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "betroubaar"
+    },
+    {
+     "key": "c",
+     "text": "verantwoordelik"
+    },
+    {
+     "key": "d",
+     "text": "bedeesd"
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “dapper”?",
+   "explanation": "Jabu het dapper na die leeu se geluid toe gestap.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Nie bang om gevaar te trotseer nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Baie moeg"
+    },
+    {
+     "key": "c",
+     "text": "Baie honger"
+    },
+    {
+     "key": "d",
+     "text": "Baie slim"
+    }
+   ],
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “gulsig”?",
+   "explanation": "Die leeu wou Jabu opvreet al het hy belowe om dit nie te doen nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Iemand wat altyd meer wil eet of hê",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Iemand wat baie lui is"
+    },
+    {
+     "key": "c",
+     "text": "Iemand wat baie bang is"
+    },
+    {
+     "key": "d",
+     "text": "Iemand wat baie vriendelik is"
+    }
+   ],
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin bevat twee byvoeglike naamwoorde?",
+   "explanation": "Sterk en slim beskryf albei die leeu.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die sterk, slim leeu het die jakkals gesien.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die leeu het die jakkals gesien."
+    },
+    {
+     "key": "c",
+     "text": "Jabu stap huis toe."
+    },
+    {
+     "key": "d",
+     "text": "Sipho hardloop vinnig."
+    }
+   ],
+   "key": "q08"
+  }
+ ]
+}

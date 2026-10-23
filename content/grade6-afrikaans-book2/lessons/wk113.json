@@ -1,0 +1,630 @@
+{
+ "key": "gr6-afr-b2-wk113",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 113,
+ "title_af": "Die biblioteekmonster",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 1,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Lees en kyk",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  102,
+  103
+ ],
+ "pdf_pages": [
+  106,
+  107
+ ],
+ "reference_pages": [
+  {
+   "pdf": 106,
+   "printed": 102,
+   "src": "/workbook/gr6-afr-b2/p106.webp"
+  },
+  {
+   "pdf": 107,
+   "printed": 103,
+   "src": "/workbook/gr6-afr-b2/p107.webp"
+  }
+ ],
+ "intro_af": "Dis Boekeweek by Tumi se skool! Lees ’n storie oor ’n spesiale verrassing in die biblioteek en leer hoe om hoofwerkwoorde en hulpwerkwoorde te herken.",
+ "objectives_af": [
+  "’n Fiktiewe teks lees en verstaan.",
+  "Vooruit voorspel en vluglees as leesstrategie gebruik.",
+  "Hoofwerkwoorde en hulpwerkwoorde uitken.",
+  "Vrae oor die teks bespreek."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Voordat en terwyl jy lees",
+   "payload": {
+    "bullets": [
+     "Kyk na die prente en opskrifte en probeer voorspel waaroor die teks handel.",
+     "Vluglees die bladsy om vinnig meer te wete te kom.",
+     "Kyk terwyl jy lees of jou voorspellings korrek was.",
+     "Lees dit weer stadig en hardop as jy ’n deel nie verstaan nie."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 102,
+    "pdf_page": 106
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Werkwoorde",
+   "payload": {
+    "text": "**Werkwoorde** is die aksie- of doenwoorde in ’n sin. **Hulpwerkwoorde** (bv. het, sal, moet, kan, mag, sou, moes, wou, kon) help ons om meer omtrent die werkwoord te sê. Die **hoofwerkwoord** sê wat gebeur."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 103,
+    "pdf_page": 107
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Bespreek die storie",
+   "payload": {
+    "prompt": "Bespreek hierdie vrae: Het julle ’n Boekeweek by julle skool of op julle dorp? Hoe werk dit? / Tumi het twee redes gegee waarom diere uitsterf. Noem hulle. / Het die dodo en die kwagga reeds uitgesterf, of is hulle nog bedreigde spesies? / Van watter aspek van Boekeweek hou Tumi die meeste? / Watter soort dinosourus het die kinders reeds geken? / Is die leeu ’n bedreigde spesie? Motiveer jou antwoord. / Wat beteken die vetgedrukte woorde?"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 103,
+    "pdf_page": 107,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Hoofwerkwoord of hulpwerkwoord?",
+   "payload": {
+    "prompt": "Dui aan wat die gemerkte woord in die sin is.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Ons gaan plakkate maak. (gaan)",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoofwerkwoord"
+       },
+       {
+        "key": "b",
+        "text": "hulpwerkwoord"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Ons gaan plakkate maak. (maak)",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoofwerkwoord"
+       },
+       {
+        "key": "b",
+        "text": "hulpwerkwoord"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Die kinders het plakkate geteken. (het)",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoofwerkwoord"
+       },
+       {
+        "key": "b",
+        "text": "hulpwerkwoord"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die kinders het plakkate geteken. (geteken)",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoofwerkwoord"
+       },
+       {
+        "key": "b",
+        "text": "hulpwerkwoord"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Die plakkate sal na die biblioteek gestuur word. (sal)",
+      "options": [
+       {
+        "key": "a",
+        "text": "hoofwerkwoord"
+       },
+       {
+        "key": "b",
+        "text": "hulpwerkwoord"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 103,
+    "pdf_page": 107,
+    "item": "Ons doen"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die hulpwerkwoord help; die hoofwerkwoord sê wat gebeur."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Werkwoorde in die leesstuk",
+   "payload": {
+    "prompt": "Onderstreep al die hoofwerkwoorde in die leesstuk met groen en die hulpwerkwoorde met oranje. Skryf vyf hoofwerkwoorde en drie hulpwerkwoorde neer.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 103,
+    "pdf_page": 107,
+    "item": "Ons doen"
+   },
+   "suggested_answer": "Hoofwerkwoorde (bv.): sit, teken, klim, ry, gaan, soek\nHulpwerkwoorde (bv.): gaan (gaan plakkate maak), sal (sal gestuur word), het (het geteken)",
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Wat het gebeur?",
+   "payload": {
+    "prompt": "Sit die gebeure in die regte volgorde.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Die klas ry met die bus na die biblioteek."
+     },
+     {
+      "key": "e1",
+      "text": "Mevrou Roos kondig die Boekeweektema aan."
+     },
+     {
+      "key": "e4",
+      "text": "Mevrou Botha wys hulle ’n verrassing: diere in kostuums."
+     },
+     {
+      "key": "e2",
+      "text": "Die kinders teken plakkate en skryf stories."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Dit is die volgorde in die storie."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die iguanodon eet vleis."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die iguanodon eet plante – en enigiets wat van plante gemaak is."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is die Boekeweektema?",
+   "explanation": "Mevrou Roos sê dit.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wilde diere",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Ruimtereise"
+    },
+    {
+     "key": "c",
+     "text": "Die see"
+    },
+    {
+     "key": "d",
+     "text": "Sprokies"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    3
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie is die klas se onderwyser?",
+   "explanation": "Sy kondig die Boekeweek aan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Mevrou Roos",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Mevrou Botha"
+    },
+    {
+     "key": "c",
+     "text": "Mnr. Mosoma"
+    },
+    {
+     "key": "d",
+     "text": "Tumi"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat teken die meeste kinders?",
+   "explanation": "Die meeste teken die dinosourus.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die dinosourus",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die leeu"
+    },
+    {
+     "key": "c",
+     "text": "Die ysbeer"
+    },
+    {
+     "key": "d",
+     "text": "Die jakkals"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    13
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat eet die iguanodon?",
+   "explanation": "Die iguanodon eet plante.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Plante",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Vleis"
+    },
+    {
+     "key": "c",
+     "text": "Vis"
+    },
+    {
+     "key": "d",
+     "text": "Insekte"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    19
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter weer is dit op die dag by die biblioteek?",
+   "explanation": "Die storie sê dit is ’n koue wintersdag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Koue wintersdag",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Warm somersdag"
+    },
+    {
+     "key": "c",
+     "text": "’n Reënerige lentedag"
+    },
+    {
+     "key": "d",
+     "text": "’n Mistige oggend"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    23
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie is mevrou Botha?",
+   "explanation": "Sy is die bibliotekaresse.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die bibliotekaresse",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die skoolhoof"
+    },
+    {
+     "key": "c",
+     "text": "Tumi se ma"
+    },
+    {
+     "key": "d",
+     "text": "Die onderwyseres"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    29
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter diere kom in die biblioteek in?",
+   "explanation": "Die ysbeer word gevolg deur ’n leeu en ’n pandabeer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die ysbeer, die leeu en die pandabeer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die dodo en die kwagga"
+    },
+    {
+     "key": "c",
+     "text": "Die jakkals en die renoster"
+    },
+    {
+     "key": "d",
+     "text": "Net ’n hond"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    31
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat toon die prent op Tumi se plakkaat?",
+   "explanation": "Die blom wys dat die dinosourus plante eet.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Dinosourus met ’n blom in sy bek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Leeu"
+    },
+    {
+     "key": "c",
+     "text": "’n Renoster"
+    },
+    {
+     "key": "d",
+     "text": "’n Boek"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    26
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Die biblioteekmonster",
+  "language": "af",
+  "sentences": [
+   "“Dis Boekeweek, kinders!” sê mevrou Roos.",
+   "Tumi en die res van die klas sit regop, in hulle skik.",
+   "Boekeweek beteken kompetisies en uitstappies na die biblioteek op die dorp – en baie stories.",
+   "“Hierdie jaar se Boekeweektema is wilde diere,” sê mevrou Roos.",
+   "“Ons gaan dus plakkate maak en stories skryf oor bedreigde spesies wat in gevaar verkeer om uit te sterf.",
+   "Onthou julle dat ons verlede week hieroor gepraat het?”",
+   "Sy wys na prente wat teen die muur opgesit is.",
+   "“Sommige diere verkeer in gevaar omdat mense hulle jag vir hulle pels, ivoor of horings,” sê Tumi, wat altyd alles weet.",
+   "“En soms sterf hulle uit omdat hulle nie die regte kos kan kry om te eet nie.”",
+   "“Jy’s reg, Tumi,” sê mevrou Roos.",
+   "“Dus, kinders,” gaan sy voort, “begin solank aan plakkate en stories oor hierdie soorte diere dink.”",
+   "Sommige kinders in die klas teken luiperds en pelsdiere soos jakkalse.",
+   "Party teken renosters en olifante, en ander teken die dodo en die kwagga.",
+   "Maar die meeste van hulle – Tumi ook – teken die dinosourus.",
+   "Nie enige dinosourus nie, maar ’n baie spesiale een – die iguanodon, waarvan hulle die vorige week geleer het.",
+   "Tumi onthou die prentjie van die monster baie goed.",
+   "Hy het twee kort voorbene en ’n kort, baie dik stert.",
+   "Aan sy pote is vyf stomp tone.",
+   "Hy het vyf vingers aan elke hand en ’n kort, horingagtige duim.",
+   "Die iguanodon eet plante – en enigiets wat van plante gemaak is.",
+   "Al die skole van die omgewing neem aan die dorpsbiblioteek se Boekeweek deel.",
+   "Die afgelope weke het die kinders reeds plakkate geteken en geverf, en dit sal na die biblioteek gestuur word.",
+   "Toe die dag aanbreek waarop die plakkate en stories by die biblioteek uitgestal gaan word, klim Tumi se klas in die bus en ry biblioteek toe.",
+   "Dis ’n koue wintersdag en die wind waai.",
+   "Toe hulle daar aankom, gaan hulle heel eerste hulle plakkate soek.",
+   "“Hier’s myne!” sê Tumi.",
+   "Op die plakkaat is ’n glimlaggende dinosourus met ’n blom in sy bek, om te wys dat hy plante eet.",
+   "“Hier’s my storie oor die ysbeer!” sê Bongi.",
+   "“En hier’s myne oor die renoster!” sê Christo trots.",
+   "Toe al die kinders daar is, sê mevrou Botha, die bibliotekaresse, “Ek het vir julle ’n verrassing.”",
+   "Die kinders gaan op die vloer sit en wonder wat die verrassing kan wees.",
+   "Toe gaan die deur oop en ’n ysbeer met ’n pragtige laslaponderbaadjie kom ingestap, gevolg deur ’n leeu en ’n pandabeer.",
+   "“Dis regte diere!” skree een kind.",
+   "“Nee, nee,” sê ’n ander een.",
+   "“Dis mense wat soos diere aangetrek is.”",
+   "Die ysbeer doen ’n klein dansie en huppel heen en weer.",
+   "Toe doen sy ’n rondte en groet al die kinders met die hand."
+  ],
+  "paragraph_starts": [
+   0,
+   3,
+   7,
+   9,
+   11,
+   15,
+   20,
+   22,
+   24,
+   29,
+   30,
+   35
+  ],
+  "glossary": [
+   {
+    "term": "in hulle skik",
+    "definition": "baie bly en opgewonde",
+    "sentence_index": 1
+   },
+   {
+    "term": "bedreigde spesies",
+    "definition": "Diere of plante wat in gevaar is om uit te sterf.",
+    "sentence_index": 4
+   },
+   {
+    "term": "uitsterf",
+    "definition": "Nie meer bestaan nie – almal van die soort is dood."
+   },
+   {
+    "term": "ivoor",
+    "definition": "Die harde wit tand van ’n olifant.",
+    "sentence_index": 7
+   },
+   {
+    "term": "iguanodon",
+    "definition": "’n Plantvretende dinosourus van baie lank gelede.",
+    "sentence_index": 14
+   },
+   {
+    "term": "uitgestal",
+    "definition": "Op ’n plek gesit sodat almal dit kan sien.",
+    "sentence_index": 22
+   },
+   {
+    "term": "bibliotekaresse",
+    "definition": "Die vrou wat in ’n biblioteek werk.",
+    "sentence_index": 29
+   },
+   {
+    "term": "verrassing",
+    "definition": "Iets onverwags en lekkers.",
+    "sentence_index": 29
+   }
+  ]
+ }
+}

@@ -1,0 +1,766 @@
+{
+ "key": "gr6-afr-b2-wk081",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 81,
+ "title_af": "Hasie maak alarm",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk5-6",
+  "name_af": "Tema 6 · Week 5–6: Stories en briewe",
+  "name_en": "Theme 6 · Weeks 5–6: Stories and letters",
+  "sort": 103
+ },
+ "tier_number": 1,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk"
+ ],
+ "printed_pages": [
+  36,
+  37
+ ],
+ "pdf_pages": [
+  40,
+  41
+ ],
+ "reference_pages": [
+  {
+   "pdf": 40,
+   "printed": 36,
+   "src": "/workbook/gr6-afr-b2/p040.webp"
+  },
+  {
+   "pdf": 41,
+   "printed": 37,
+   "src": "/workbook/gr6-afr-b2/p041.webp"
+  }
+ ],
+ "intro_af": "Hasie is bang vir ’n aardbewing – en toe val daar iets van ’n boom af! Lees die storie en dink na oor vriendskap en vrees.",
+ "objectives_af": [
+  "Na ’n kortverhaal luister en dit self lees.",
+  "Die kenmerke van ’n verhaal bespreek (soos die tydvorm).",
+  "Oordrywing en stereotipes in ’n storie uitken.",
+  "Jou eie mening gee oor vriendskap tussen verskillende groepe."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Pre-lees, lees en post-lees",
+   "payload": {
+    "bullets": [
+     "**Voor jy lees (pre-lees):** bespreek die kenmerke van die verhaal, soos die tydvorm waarin dit geskryf is.",
+     "**Terwyl jy lees:** luister aandagtig terwyl jou onderwyser dit voorlees, en lees dan self in groepverband.",
+     "**Ná jy gelees het (post-lees):** praat oor wat die storie vir jou leer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 36,
+    "pdf_page": 40
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Bron van die storie",
+   "payload": {
+    "text": "Bron (soos in die werkboek): Aangepas uit “Rabbit Heralds the Earth Quake” deur Rosalind Kerven in PIRLS Reader, The Natural World, Main Survey 2001. IEA."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 37,
+    "pdf_page": 41
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister aandagtig",
+   "payload": {
+    "prompt": "Luister aandagtig na die kortverhaal terwyl jou onderwyser dit vir jou voorlees. (Of druk die knoppie.) Lees dit daarna self in groepverband.",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 36,
+    "pdf_page": 40,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Pre-lees: die tydvorm",
+   "payload": {
+    "prompt": "Bespreek die kenmerke van die verhaal: die tydvorm waarin die verhaal geskryf is."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 36,
+    "pdf_page": 40,
+    "item": "Pre-lees"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "In watter tyd is die storie geskryf?",
+   "payload": {
+    "prompt": "In watter tyd is hierdie storie geskryf?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Teenwoordige tyd"
+     },
+     {
+      "key": "B",
+      "text": "Verlede tyd"
+     },
+     {
+      "key": "C",
+      "text": "Toekomende tyd"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Die storie gebruik woorde soos “was”, “het … gesê” en “hardloop … het”: dit vertel van iets wat gebeur het – die verlede tyd.",
+    "per_option": {
+     "A": "Die storie sê “Daar was eenmaal …” – dit het reeds gebeur.",
+     "C": "Niks in die storie gaan oor wat nog sal gebeur nie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Post-lees: praat daaroor",
+   "payload": {
+    "prompt": "Bespreek hierdie vrae in jou groep.",
+    "points": [
+     "Die haas en die leeu behoort aan verskillende spesies, en tog is hulle maats. Wat leer jy uit jou vriendskap met kinders uit ander kultuurgroepe?",
+     "Watter positiewe sosiale eienskap leer die leeu ons aan die einde van die storie?",
+     "Bespreek of daar enige stereotipe gedrag in die storie voorkom, en hoe dit die luisteraar beïnvloed.",
+     "Bespreek of daar oordrywing in die storie plaasvind."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 36,
+    "pdf_page": 40,
+    "item": "Post-lees"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die gebeure in volgorde",
+   "payload": {
+    "prompt": "Sit die gebeure in die volgorde waarin hulle in die storie gebeur het.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Die leeu vra wie die aardbewing gesien het."
+     },
+     {
+      "key": "e6",
+      "text": "Hasie besef dit was nie ’n aardbewing nie."
+     },
+     {
+      "key": "e2",
+      "text": "Hasie skree “Aardbewing!” en waarsku sy familie."
+     },
+     {
+      "key": "e1",
+      "text": "Die vrug val van die boom en die aarde skud."
+     },
+     {
+      "key": "e5",
+      "text": "Die leeu laat die kokosneut weer val."
+     },
+     {
+      "key": "e3",
+      "text": "Die olifant en die kameelperde hardloop saam."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5",
+     "e6"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die storie begin met die val van die kokosneut en eindig by Hasie se besef."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die woord by sy betekenis",
+   "payload": {
+    "prompt": "Verbind elke woord met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "bekommerd"
+     },
+     {
+      "key": "l2",
+      "text": "yslike"
+     },
+     {
+      "key": "l3",
+      "text": "waarsku"
+     },
+     {
+      "key": "l4",
+      "text": "skamerig"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "baie groot"
+     },
+     {
+      "key": "r3",
+      "text": "sê dat daar gevaar is"
+     },
+     {
+      "key": "r4",
+      "text": "effens skaam"
+     },
+     {
+      "key": "r1",
+      "text": "bang of ongelukkig oor iets wat dalk kan gebeur"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Tik op ’n woord in die storie om sy betekenis te sien."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die sin",
+   "payload": {
+    "text": "Die {{1}} was altyd bekommerd, maar die {{2}} het hom gewys dat dit net ’n kokosneut was.",
+    "word_bank": [
+     "hasie",
+     "leeu",
+     "olifant"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "hasie",
+     "haas"
+    ],
+    "2": [
+     "leeu"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Hasie is die bekommerde een; die leeu is die dapper vriend."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die leeu het die hasie uitgelag en laat voel dat hy dom was."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die leeu het vriendelik geglimlag en gesê almal is partykeer bang vir dinge wat hulle nie verstaan nie."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat was die hasie se grootste bekommernis?",
+   "explanation": "Sy grootste bekommernis was dat daar ’n aardbewing sou kom.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dat daar ’n aardbewing sou kom",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dat ’n leeu hom sou vang"
+    },
+    {
+     "key": "c",
+     "text": "Dat hy sy huis sou verloor"
+    },
+    {
+     "key": "d",
+     "text": "Dat dit sou reën"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het werklik die aarde laat skud?",
+   "explanation": "Die yslike vrug wat van die boom afval, het die aarde laat bewe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Kokosneut wat van die boom afgeval het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Aardbewing"
+    },
+    {
+     "key": "c",
+     "text": "Die olifant"
+    },
+    {
+     "key": "d",
+     "text": "Die leeu"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie het die hase op die berg gekry?",
+   "explanation": "Terwyl die voorste haas hyg, kom die leeu aan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die leeu",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die olifant"
+    },
+    {
+     "key": "c",
+     "text": "Die kameelperde"
+    },
+    {
+     "key": "d",
+     "text": "Die apie"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    21
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom het die leeu die kokosneut op die grond laat val?",
+   "explanation": "Die leeu wou hê die hasie moet self sien dat dit net ’n kokosneut was.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om die hasie te wys wat gebeur het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om die hasie te laat weghol"
+    },
+    {
+     "key": "c",
+     "text": "Om die hasie te help om die vrug te eet"
+    },
+    {
+     "key": "d",
+     "text": "Om die hasie te laat lag"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    43
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Hoe het die hasie gevoel nadat die leeu die kokosneut laat val het?",
+   "explanation": "Hy sê: “Was ek nie ’n simpel hasie nie!”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Verleë",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Kwaad"
+    },
+    {
+     "key": "c",
+     "text": "Teleurgesteld"
+    },
+    {
+     "key": "d",
+     "text": "Bekommerd"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    54
+   ]
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die verskuilde boodskap van die storie?",
+   "explanation": "Die hasie het paniekerig geraak sonder om uit te vind wat die slag was.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Maak seker van die feite voordat jy paniekerig word.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hardloop weg van moeilikheid."
+    },
+    {
+     "key": "c",
+     "text": "Hase hardloop die vinnigste."
+    },
+    {
+     "key": "d",
+     "text": "Leeus is altyd gevaarlik."
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    52
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “bekommerd”?",
+   "explanation": "Die hasie was altyd bekommerd oor ’n aardbewing.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Bang of ongelukkig oor iets wat dalk kan gebeur",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Baie bly"
+    },
+    {
+     "key": "c",
+     "text": "Baie moeg"
+    },
+    {
+     "key": "d",
+     "text": "Baie sterk"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Watter positiewe eienskap het die leeu aan die einde gewys?",
+   "explanation": "Hy het vriendelik geglimlag en gesê almal is partykeer bang.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vriendelikheid en begrip",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Koppigheid"
+    },
+    {
+     "key": "c",
+     "text": "Gierigheid"
+    },
+    {
+     "key": "d",
+     "text": "Humeurigheid"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    56
+   ]
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het EERSTE gebeur?",
+   "explanation": "Die slag (KABOEM) het alles laat begin.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die vrug het van die boom afgeval.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die leeu het by die hase aangekom."
+    },
+    {
+     "key": "c",
+     "text": "Die olifant het begin hardloop."
+    },
+    {
+     "key": "d",
+     "text": "Die hasie het op die leeu se rug geklim."
+    }
+   ],
+   "key": "q09",
+   "supporting": [
+    4
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Hasie maak alarm",
+  "language": "af",
+  "sentences": [
+   "Daar was eenmaal ’n hasie wat altyd bekommerd was.",
+   "“Ag tog,” het hy heeldag gemompel, “Ag toggie, tog, tog.”",
+   "Sy grootste bekommernis was dat daar ’n aardbewing sou kom.",
+   "“Want as dit gebeur,” het hy vir homself gesê, “wat op aarde word dan van my?”",
+   "Hy was een oggend juis besonder bekommerd hieroor toe ’n yslike vrug skielik van ’n boom naby hom afval – KABOEM – en die hele aarde laat skud.",
+   "“Aardbewing!” skree hy.",
+   "En hy hardloop oor die veld om sy neefs en niggies te gaan waarsku.",
+   "“Aardbewing!",
+   "Hardloop vir die vale!”",
+   "Al die hase peul uit die lande en hardloop verwoed agter hom aan.",
+   "Hulle snel oor vlaktes, deur woude en riviere tot in die heuwels en waarsku nog neefs en niggies sover hulle gaan.",
+   "Net toe kom hasie ’n olifant teë.",
+   "“Aardbewing!” roep hy.",
+   "“Hardloop vir die vale!”",
+   "Die olifant begin agter die hase aanhardloop, en die aarde bewe van sy swaar stampende pote.",
+   "Hulle hardloop by ’n groep kameelperde verby.",
+   "“Aardbewing!” roep die hasie.",
+   "“Hardloop vir die vale!”",
+   "Die kameelperde begin aanhardloop agter die olifant, wat die hase volg.",
+   "Teen die tyd dat hulle die berg bereik, klink die tien duisend hase, die olifant en ’n hele klomp kameelperde soos donderweer teen die berghange.",
+   "Die voorste haas kyk om of die aardbewing al nader kom, maar al wat hy kan sien, is ’n groot trop stormende diere.",
+   "Terwyl hy staan en hyg, kom daar ’n leeu aan.",
+   "“Wat is aan die gang?” vra die leeu.",
+   "“Aardbewing, aardbewing!” babbel die hasie.",
+   "“’n Aardbewing?” vra die leeu.",
+   "“Wie het dit gesien?",
+   "Wie het dit gehoor?”",
+   "“Nie ek nie,” antwoord die olifant.",
+   "“Vra hom, vra hom!” gil al die hasies, en hulle wys na die eerste hasie.",
+   "Die leeu kyk na die hasie.",
+   "“Asseblief, Meneer,” sê die hasie skamerig, “ek het rustig by my huis gesit toe daar ’n vreeslike slag was.",
+   "Die aarde het geskud, en ek het geweet dit moet ’n aardbewing wees, Meneer.",
+   "Toe hardloop ek so vining as wat my bene my kon dra om die ander te waarsku om te hardloop dat hulle klein word.”",
+   "“My boetie, sal jy dapper genoeg kan wees om my te wys waar hierdie vreeslike ramp hom afgespeel het?” vra die leeu.",
+   "“Oe, ek kan nooit weer soontoe teruggaan nie!” sê die hasie.",
+   "“Spring op my rug dan neem ek jou soontoe.",
+   "Ek sal jou oppas,” sê die leeu.",
+   "Baie skrikkerig spring die hasie toe op die leeu se rug en daar trek hulle, oor berge en dale, deur riviere en woude, oor grasvelde en vlaktes, totdat hulle by die hasie se huis kom.",
+   "“Dit is waar ek dit gehoor het, Meneer.",
+   "En ook gevoel het.",
+   "Die grond het gebewe.”",
+   "Die leeu kyk rond – en baie gou sien hy die enorme kokosneut wat met ’n slag van die boom afgeval het.",
+   "Hy sien ook ’n apie in die boom sit.",
+   "Die leeu tel die kokosneut op, klim op ’n rotsblok en laat die neut op die grond val.",
+   "KABOEM!",
+   "Die hasie wip ’n meter hoog.",
+   "“Aardbewing!",
+   "Daar gebeur dit weer!",
+   "Gou-gou – ons moet maak dat ons wegkom!”",
+   "Hasie sien die oopgebarste kokosneut voor sy voete en hoor hoe lekker die leeu uit sy maag lag.",
+   "Hasie besef toe wat gebeur het.",
+   "“O,” fluister hy.",
+   "“Dit was toe nie regtig ’n aardbewing nie, of hoe?”",
+   "“Nee,” sê die leeu, “dit was nie, en jy hoef nie bang te gewees het nie.”",
+   "“Was ek nie ’n simpel hasie nie!”",
+   "Die leeu glimlag vriendelik.",
+   "“Toe maar, my ou boetie.",
+   "Almal van ons – selfs ek ook – is partykeer bang vir die dinge wat ons nie verstaan nie.”",
+   "En met daardie woorde loop hy terug na die tien duisend hase, die olifant en die kameelperde wat nog steeds bo-op die berg staan en wag, om vir hulle te vertel dat alles heeltemal veilig is om huis toe te kan gaan."
+  ],
+  "paragraph_starts": [
+   0,
+   2,
+   4,
+   5,
+   6,
+   7,
+   9,
+   11,
+   14,
+   15,
+   18,
+   19,
+   21,
+   22,
+   23,
+   24,
+   27,
+   28,
+   29,
+   30,
+   33,
+   34,
+   35,
+   37,
+   38,
+   41,
+   44,
+   45,
+   49,
+   51,
+   53,
+   54,
+   55,
+   58
+  ],
+  "glossary": [
+   {
+    "term": "bekommerd",
+    "definition": "Bang of ongelukkig oor iets wat dalk kan gebeur.",
+    "sentence_index": 0
+   },
+   {
+    "term": "yslike",
+    "definition": "Baie groot.",
+    "sentence_index": 4
+   },
+   {
+    "term": "verwoed",
+    "definition": "Baie wild en haastig, soos in woede.",
+    "sentence_index": 9
+   },
+   {
+    "term": "waarsku",
+    "definition": "Vir iemand sê dat daar gevaar is.",
+    "sentence_index": 6
+   },
+   {
+    "term": "skamerig",
+    "definition": "Effens skaam.",
+    "sentence_index": 30
+   },
+   {
+    "term": "skrikkerig",
+    "definition": "Maklik bang.",
+    "sentence_index": 37
+   },
+   {
+    "term": "kokosneut",
+    "definition": "’n Groot, harde vrug van die kokospalm.",
+    "sentence_index": 41
+   },
+   {
+    "term": "ramp",
+    "definition": "’n Groot ongeluk of verskriklike gebeurtenis.",
+    "sentence_index": 33
+   },
+   {
+    "term": "simpel",
+    "definition": "Dwaas of onnosel.",
+    "sentence_index": 54
+   }
+  ]
+ }
+}

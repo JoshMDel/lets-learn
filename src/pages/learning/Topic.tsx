@@ -5,6 +5,7 @@ import { LumiSays } from '../../components/Lumi'
 import { useLocale } from '../../i18n/LocaleContext'
 import { useAuth } from '../../auth/AuthContext'
 import { useTiers, useChildProgress } from '../../content/queries'
+import { useLessonsForTiers } from '../../content/lessons'
 import { supabase } from '../../lib/supabaseClient'
 import type { Topic as TopicRow } from '../../types/content'
 
@@ -27,6 +28,7 @@ export default function Topic() {
   const { data: tiers, isLoading } = useTiers(topicId ?? null)
   const tierIds = (tiers ?? []).map((tr) => tr.id)
   const { data: progress } = useChildProgress(activeChildId, tierIds)
+  const { data: lessonByTier } = useLessonsForTiers(tierIds)
 
   const progressByTier = new Map((progress ?? []).map((p) => [p.tier_id, p]))
   const topicName = topic ? (locale === 'af' ? topic.name_af : topic.name_en) : ''
@@ -58,12 +60,14 @@ export default function Topic() {
           {(tiers ?? []).map((tier, i) => {
             const prevMastered = i === 0 || progressByTier.get((tiers ?? [])[i - 1].id)?.mastered
             const mastered = progressByTier.get(tier.id)?.mastered
-            const locked = !prevMastered
+            const lesson = lessonByTier?.get(tier.id)
+            // Workbook topics are free-order (topics.sequential = false).
+            const locked = (topic?.sequential ?? true) && !prevMastered
             return (
               <button
                 key={tier.id}
                 disabled={locked}
-                onClick={() => navigate(`/read/${tier.id}`)}
+                onClick={() => navigate(lesson ? `/lesson/${tier.id}` : `/read/${tier.id}`)}
                 className={`flex items-center justify-between rounded-[var(--radius-lg)] border p-5 text-left transition-colors ${
                   locked
                     ? 'cursor-not-allowed border-subtle bg-surface-2 opacity-60'
@@ -72,7 +76,9 @@ export default function Topic() {
               >
                 <div>
                   <div className="font-heading font-semibold">
-                    {t('learning.tier')} {tier.tier_number}: {tier.label}
+                    {lesson?.werkkaart != null
+                      ? `${t('lesson.werkkaart', { n: lesson.werkkaart })}: ${lesson.title_af}`
+                      : `${t('learning.tier')} ${tier.tier_number}: ${tier.label}`}
                   </div>
                   {mastered && <div className="text-sm text-success">{t('learning.mastered')}</div>}
                 </div>

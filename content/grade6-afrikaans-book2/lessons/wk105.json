@@ -1,0 +1,795 @@
+{
+ "key": "gr6-afr-b2-wk105",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 105,
+ "title_af": "Taalstrukture en -konvensies",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 1,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Taalstrukture en -konvensies",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  84,
+  85
+ ],
+ "pdf_pages": [
+  88,
+  89
+ ],
+ "reference_pages": [
+  {
+   "pdf": 88,
+   "printed": 84,
+   "src": "/workbook/gr6-afr-b2/p088.webp"
+  },
+  {
+   "pdf": 89,
+   "printed": 85,
+   "src": "/workbook/gr6-afr-b2/p089.webp"
+  }
+ ],
+ "intro_af": "Spelling, meervoude, verkleinwoorde, direkte rede en leestekens – vandag hersien jy belangrike taalreëls.",
+ "objectives_af": [
+  "Die korrekte spelling kies met die hulp van spelreëls.",
+  "Meervoude en verkleinwoorde vorm.",
+  "Sinne in die direkte rede skryf.",
+  "Hoofletters en lees- en skryftekens korrek gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Spelreëls en spelpatrone",
+   "payload": {
+    "bullets": [
+     "As jy nie seker is of ’n woord met ’n -d of ’n -t eindig nie, sê die meervoud of vorm ’n ander woord, bv. hond – honde, goed – goedere.",
+     "V staan nooit aan die einde van ’n woord of lettergreep nie.",
+     "**y/ei:** alles wat met tyd te doen het, word met ’n “lang” y geskryf.",
+     "**Kort klanke:** die medeklinker verdubbel + e, bv. kat – katte. **Lang klanke:** een klinker val weg + e, bv. boom – bome. **Tweeklanke:** voeg -e of -s by, bv. dier – diere."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Verkleinwoorde",
+   "payload": {
+    "headers": [
+     "Agtervoegsel",
+     "Reël",
+     "Voorbeeld"
+    ],
+    "rows": [
+     [
+      "-jie",
+      "woorde op -t of -d",
+      "hond – hondjie"
+     ],
+     [
+      "-tjie",
+      "",
+      "venster – venstertjie"
+     ],
+     [
+      "-kie",
+      "meerlettergrepige woorde op -ng: gooi die g weg",
+      "doring – dorinkie"
+     ],
+     [
+      "-etjie",
+      "eenlettergrepige woorde op -ng",
+      "wang – wangetjie"
+     ],
+     [
+      "-pie",
+      "woorde op -m",
+      "arm – armpie"
+     ],
+     [
+      "-ie",
+      "",
+      "oog – ogie"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Lees- en skryftekens",
+   "payload": {
+    "bullets": [
+     "Die ^ (kappie) kom net op klinkers en dui ’n lang klank aan.",
+     "Die deelteken (¨) op aangrensende klinkers van verskillende lettergrepe.",
+     "Die afkappingsteken (’): pa – pa’s; impi – impi’s; balju – balju’s; hobo – hobo’s; Roux – Roux’s.",
+     "Aanhalingstekens dui direkte spraak aan: Piet sê: “Ek hou van jou.” Die aanhalingsteken sluit ná die laaste leesteken.",
+     "Die aksentteken beklemtoon iets, bv. ongelóóflik."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 85,
+    "pdf_page": 89
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Omkring die korrekte spelling",
+   "payload": {
+    "prompt": "Kies die korrekte woord in elke sin.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Ons ___ elke Vrydagaand brood en konfyt.",
+      "options": [
+       {
+        "key": "a",
+        "text": "eet"
+       },
+       {
+        "key": "b",
+        "text": "eed"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Ons eet elke ___ brood en konfyt.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Vrydagaand"
+       },
+       {
+        "key": "b",
+        "text": "Frydagaant"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Ons eet ___ en konfyt.",
+      "options": [
+       {
+        "key": "a",
+        "text": "brood"
+       },
+       {
+        "key": "b",
+        "text": "broot"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Ons eet brood en ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "konfyt"
+       },
+       {
+        "key": "b",
+        "text": "konvyt"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Ons ___ hou van vinnige feetjies.",
+      "options": [
+       {
+        "key": "a",
+        "text": "familie"
+       },
+       {
+        "key": "b",
+        "text": "vamilie"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Ons familie hou van ___ feetjies.",
+      "options": [
+       {
+        "key": "a",
+        "text": "finnige"
+       },
+       {
+        "key": "b",
+        "text": "vinnige"
+       }
+      ]
+     },
+     {
+      "key": "q7",
+      "text": "Ons familie hou van vinnige ___ en kleurvolle flaminke.",
+      "options": [
+       {
+        "key": "a",
+        "text": "veetjies"
+       },
+       {
+        "key": "b",
+        "text": "feetjies"
+       }
+      ]
+     },
+     {
+      "key": "q8",
+      "text": "Hulle hou van ___ flaminke.",
+      "options": [
+       {
+        "key": "a",
+        "text": "kleurvolle"
+       },
+       {
+        "key": "b",
+        "text": "kleurfolle"
+       }
+      ]
+     },
+     {
+      "key": "q9",
+      "text": "Hulle hou van kleurvolle ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "flaminke"
+       },
+       {
+        "key": "b",
+        "text": "vlaminke"
+       }
+      ]
+     },
+     {
+      "key": "q10",
+      "text": "Die ___ kyk altyd na die dolfyne.",
+      "options": [
+       {
+        "key": "a",
+        "text": "kaptein"
+       },
+       {
+        "key": "b",
+        "text": "kaptyn"
+       }
+      ]
+     },
+     {
+      "key": "q11",
+      "text": "Die kaptein ___ altyd na die dolfyne.",
+      "options": [
+       {
+        "key": "a",
+        "text": "keik"
+       },
+       {
+        "key": "b",
+        "text": "kyk"
+       }
+      ]
+     },
+     {
+      "key": "q12",
+      "text": "Die kaptein kyk ___ na die dolfyne.",
+      "options": [
+       {
+        "key": "a",
+        "text": "alteid"
+       },
+       {
+        "key": "b",
+        "text": "altyd"
+       }
+      ]
+     },
+     {
+      "key": "q13",
+      "text": "Die kaptein kyk altyd na die ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "dolfeine"
+       },
+       {
+        "key": "b",
+        "text": "dolfyne"
+       }
+      ]
+     },
+     {
+      "key": "q14",
+      "text": "Hy ___ op die see.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vaar"
+       },
+       {
+        "key": "b",
+        "text": "faar"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88,
+    "item": "spelling"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a",
+     "q4": "a",
+     "q5": "a",
+     "q6": "b",
+     "q7": "b",
+     "q8": "a",
+     "q9": "a",
+     "q10": "a",
+     "q11": "b",
+     "q12": "b",
+     "q13": "b",
+     "q14": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Onthou: v staan nooit aan die einde van ’n lettergreep nie en alles wat met tyd te doen het, kry ’n lang y."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Meervoud en verkleining (1)",
+   "payload": {
+    "text": "atleet: {{1}} / {{2}}\ndogter: {{3}} / {{4}}\nfee: {{5}} / {{6}}\nhemp: {{7}} / {{8}}",
+    "prompt": "Voltooi die tabel."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88,
+    "item": "tabel 1"
+   },
+   "answer": {
+    "1": [
+     "atlete"
+    ],
+    "2": [
+     "atleetjie",
+     "atletie"
+    ],
+    "3": [
+     "dogters"
+    ],
+    "4": [
+     "dogtertjie"
+    ],
+    "5": [
+     "feë",
+     "fees"
+    ],
+    "6": [
+     "feetjie",
+     "feëtjie"
+    ],
+    "7": [
+     "hemde"
+    ],
+    "8": [
+     "hempie",
+     "hempie"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Skryf die meervoud (voor die skuinsstreep) en die verkleining (daarna)."
+   },
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Meervoud en verkleining (2)",
+   "payload": {
+    "text": "orkes: {{1}} / {{2}}\nplakkaat: {{3}} / {{4}}\nstad: {{5}} / {{6}}",
+    "prompt": "Voltooi die tabel."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88,
+    "item": "tabel 2"
+   },
+   "answer": {
+    "1": [
+     "orkeste",
+     "orkeste"
+    ],
+    "2": [
+     "orkesjie",
+     "orkestjie"
+    ],
+    "3": [
+     "plakkate"
+    ],
+    "4": [
+     "plakkaatjie"
+    ],
+    "5": [
+     "stede",
+     "stad’s"
+    ],
+    "6": [
+     "stadjie"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Kyk na die reëls vir kort klanke, lang klanke en tweeklanke."
+   },
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Direkte rede",
+   "payload": {
+    "prompt": "Herskryf hierdie sin in die direkte rede: Danie sê dat hy ongelóóflik opgewonde is oor sy onderhoud wat hy met Bobby van Jaarsveld gaan voer.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 85,
+    "pdf_page": 89,
+    "item": "direk"
+   },
+   "suggested_answer": "Danie sê: “Ek is ongelóóflik opgewonde oor my onderhoud wat ek met Bobby van Jaarsveld gaan voer.”",
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Dialoogformaat",
+   "payload": {
+    "prompt": "Herskryf die gesprek tussen Danie en een van sy kollegas in dialoogformaat en vul die nodige hoofletters en lees- en skryftekens in: is jy reg vir jou onderhoud met die beroemde sanger vanmiddag vra my kollega toe ek by die ateljee instap … ja ek dink so maar ’n mens bly maar ’n bietjie senuweeagtig antwoord ek haar … (die res: Danie se voorbereiding en sy vraag om aanbevelings).",
+    "lines": 8
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 85,
+    "pdf_page": 89,
+    "item": "dialoog"
+   },
+   "suggested_answer": "KOLLEGA: Is jy reg vir jou onderhoud met die beroemde sanger vanmiddag?\nDANIE: Ja, ek dink so, maar ’n mens bly maar ’n bietjie senuweeagtig.\nDANIE: Ek het lank voorberei en my onderhoudsvrae goed deurdink. Dit is vir my belangrik dat die vrae aan die verwagtinge van die tieners moet voldoen. Ek poog egter ook om die mas en pas se aandag vas te vang. Sal jy asseblief die vrae vir my deurgaan en aanbevelings doen voordat ek met die onderhoud moet begin?",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Alles wat met tyd te doen het, word met ’n “lang” y geskryf."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê dit by die spelreëls (bv. altyd, tyd)."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "Alles wat met tyd te doen het, kry ’n lang y.",
+   "options": [
+    {
+     "key": "a",
+     "text": "altyd",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "alteid"
+    },
+    {
+     "key": "c",
+     "text": "altijd"
+    },
+    {
+     "key": "d",
+     "text": "alteyd"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "V staan nooit aan die einde van ’n lettergreep nie; hier is dit aan die begin: vinnige.",
+   "options": [
+    {
+     "key": "a",
+     "text": "vinnige",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "finnige"
+    },
+    {
+     "key": "c",
+     "text": "vinige"
+    },
+    {
+     "key": "d",
+     "text": "fienige"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88,
+    "item": "spelling"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "Dolfyn word met ’n y geskryf; meervoud dolfyne.",
+   "options": [
+    {
+     "key": "a",
+     "text": "dolfyne",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "dolfeine"
+    },
+    {
+     "key": "c",
+     "text": "dolfyne-"
+    },
+    {
+     "key": "d",
+     "text": "dolfyn’e"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88,
+    "item": "spelling"
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die meervoud van “stad”?",
+   "explanation": "Lang klank: een klinker val weg + e, maar stad – stede is ’n uitsondering.",
+   "options": [
+    {
+     "key": "a",
+     "text": "stede",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "stads"
+    },
+    {
+     "key": "c",
+     "text": "stadde"
+    },
+    {
+     "key": "d",
+     "text": "stadte"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88,
+    "item": "tabel 2"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die verkleinwoord van “atleet”?",
+   "explanation": "Woorde op -t kry -jie: atleetjie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "atleetjie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "atleetie"
+    },
+    {
+     "key": "c",
+     "text": "atleetjie’s"
+    },
+    {
+     "key": "d",
+     "text": "atlete"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 84,
+    "pdf_page": 88,
+    "item": "tabel 1"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar sluit die aanhalingsteken in direkte spraak?",
+   "explanation": "Die werkboek sê dit by die lees- en skryftekens.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ná die laaste leesteken",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Voor die laaste woord"
+    },
+    {
+     "key": "c",
+     "text": "Voor die eerste woord"
+    },
+    {
+     "key": "d",
+     "text": "Dit sluit nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 85,
+    "pdf_page": 89
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die meervoud van “pa”?",
+   "explanation": "Die afkappingsteken word by die meervoud gebruik: pa – pa’s.",
+   "options": [
+    {
+     "key": "a",
+     "text": "pa’s",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "pas"
+    },
+    {
+     "key": "c",
+     "text": "pa-e"
+    },
+    {
+     "key": "d",
+     "text": "pa’e"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 85,
+    "pdf_page": 89
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waarvoor word die aksentteken gebruik?",
+   "explanation": "Voorbeeld: ongelóóflik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om iets te beklemtoon",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om klinkers te verdubbel"
+    },
+    {
+     "key": "c",
+     "text": "Om woorde te verbind"
+    },
+    {
+     "key": "d",
+     "text": "Om ’n vraag te vra"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 85,
+    "pdf_page": 89
+   },
+   "key": "q08"
+  }
+ ]
+}

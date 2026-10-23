@@ -1,0 +1,1019 @@
+{
+ "key": "gr6-afr-b2-wk071",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 71,
+ "title_af": "Nelson Mandela gaan hoërskool toe",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk1-2",
+  "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+  "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+  "sort": 101
+ },
+ "tier_number": 7,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  14,
+  15
+ ],
+ "pdf_pages": [
+  18,
+  19
+ ],
+ "reference_pages": [
+  {
+   "pdf": 18,
+   "printed": 14,
+   "src": "/workbook/gr6-afr-b2/p018.webp"
+  },
+  {
+   "pdf": 19,
+   "printed": 15,
+   "src": "/workbook/gr6-afr-b2/p019.webp"
+  }
+ ],
+ "intro_af": "Nelson Mandela het ook eens ’n skoolkind gewees. Lees hoe sy lewe verander het toe hy nege jaar oud was en wat hy op skool beleef het.",
+ "objectives_af": [
+  "Voorspel waaroor ’n teks gaan en ’n uittreksel uit ’n outobiografie lees.",
+  "Die outobiografie hervertel en ’n tydlyn van die gebeure opstel.",
+  "Woorddele (basiswoorde, afleidings en samestellings) uitken.",
+  "Afkortings, akronieme en verkortings verstaan."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is ’n outobiografie?",
+   "payload": {
+    "text": "’n Outobiografie is ’n storie wat iemand oor sy of haar eie lewe skryf. Hierdie storie is gebaseer op die outobiografie deur Nelson Mandela. Ons het dit verkort en makliker gemaak om te lees."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 14,
+    "pdf_page": 18
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Woorde word só gevorm",
+   "payload": {
+    "bullets": [
+     "**Basiswoorde**",
+     "**Afleidings** (basis + voorvoegsel en/of agtervoegsel, en/of verbindingsklank)",
+     "**Samestellings** (basis + basis)"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "’n Lettergreep",
+   "payload": {
+    "paragraphs": [
+     "’n Lettergreep is ’n deeltjie van ’n woord. Indien woorde aan die einde van ’n reël afgebreek moet word, moet dit tussen twee lettergrepe gedoen word."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Drie soorte afkortings",
+   "payload": {
+    "bullets": [
+     "**Gewone afkortings**: ons spreek die oorspronklike woord volledig uit (“bl.” word “bladsy”).",
+     "**Akronieme (letterwoorde)**: die letters van verskeie woorde word as een woord uitgespreek, bv. Sasol.",
+     "**Verkortings**: ons spreek oorspronklike lettergrepe of dele van verskeie woorde as een woord uit, bv. “Australasië” vir Australië en Asië."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19
+   },
+   "key": "learn-04",
+   "sort_order": 40
+  },
+  {
+   "section": "example",
+   "kind": "table",
+   "title_af": "Voorbeelde van woorddele",
+   "payload": {
+    "headers": [
+     "Woord",
+     "Lettergrepe",
+     "Soort"
+    ],
+    "rows": [
+     [
+      "huiswerk",
+      "huis-werk",
+      "samestelling (huis + werk)"
+     ],
+     [
+      "longsiekte",
+      "long-siek-te",
+      "samestelling (long + siekte)"
+     ]
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19
+   },
+   "key": "ex-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat: Voorspel",
+   "payload": {
+    "prompt": "Voorspel volgens die opskrif en illustrasies waaroor hierdie teks handel."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 14,
+    "pdf_page": 18,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die teks",
+   "payload": {
+    "prompt": "Druk die knoppie en luister terwyl jy die teks saamlees.",
+    "speak_passage": true
+   },
+   "source": "supplementary",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat: Hervertel",
+   "payload": {
+    "prompt": "Bespreek met ’n maat.",
+    "points": [
+     "Hervertel die outobiografie vir jou maat.",
+     "Beskryf Nelson Mandela se kinderdae na die dood van sy vader.",
+     "Hoe het sy lewe verander?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19,
+    "item": "Ons praat"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Gebeure op 9, 16 en 21",
+   "payload": {
+    "prompt": "Lees weer die outobiografie. Skryf neer watter gebeure plaasgevind het toe Nelson Mandela 9, 16 en 21 jaar oud was (jou tydlyn).",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19,
+    "item": "tydlyn"
+   },
+   "suggested_answer": "9 jaar: Sy pa is oorlede en hy het by sy oom Jongi in Mqhekezweni gaan bly.\n16 jaar: Oom Jongi het hom na die Clarkebury-skool gestuur.\n21 jaar: Hy het by die Fort Hare-universiteitskollege gaan studeer.",
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Tydlyn",
+   "payload": {
+    "prompt": "Sit die gebeure in die volgorde waarin hulle in die teks gebeur het.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Hy voltooi die junior sertifikaat binne twee jaar."
+     },
+     {
+      "key": "e1",
+      "text": "Mandela se pa is oorlede."
+     },
+     {
+      "key": "e5",
+      "text": "Op 21 gaan hy studeer by Fort Hare."
+     },
+     {
+      "key": "e3",
+      "text": "Oom Jongi stuur hom na die Clarkebury-skool."
+     },
+     {
+      "key": "e2",
+      "text": "Hy gaan bly by oom Jongi in Mqhekezweni."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die teks vertel sy lewe in die volgorde van sy ouderdom: 9, 16, daarna die junior sertifikaat, en op 21 Fort Hare."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Afkortings en hulle betekenisse",
+   "payload": {
+    "prompt": "Gebruik jou woordeboek: verbind elke afkorting met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "a.g.v."
+     },
+     {
+      "key": "l2",
+      "text": "d.m.v."
+     },
+     {
+      "key": "l3",
+      "text": "e-pos"
+     },
+     {
+      "key": "l4",
+      "text": "i.v.m."
+     },
+     {
+      "key": "l5",
+      "text": "ESKOM"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "deur middel van"
+     },
+     {
+      "key": "r3",
+      "text": "elektroniese pos"
+     },
+     {
+      "key": "r4",
+      "text": "in verband met"
+     },
+     {
+      "key": "r5",
+      "text": "Elektrisiteitsvoorsieningskommissie"
+     },
+     {
+      "key": "r1",
+      "text": "as gevolg van"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19,
+    "item": "afkortings"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Hierdie is uit die tabel in die werkboek (bladsy 15)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter soort afkorting?",
+   "payload": {
+    "prompt": "Is dit ’n gewone afkorting, ’n akroniem of ’n verkorting?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "a.g.v.",
+      "options": [
+       {
+        "key": "a",
+        "text": "gewone afkorting"
+       },
+       {
+        "key": "b",
+        "text": "akroniem"
+       },
+       {
+        "key": "c",
+        "text": "verkorting"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "d.m.v.",
+      "options": [
+       {
+        "key": "a",
+        "text": "gewone afkorting"
+       },
+       {
+        "key": "b",
+        "text": "akroniem"
+       },
+       {
+        "key": "c",
+        "text": "verkorting"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "e-pos",
+      "options": [
+       {
+        "key": "a",
+        "text": "gewone afkorting"
+       },
+       {
+        "key": "b",
+        "text": "akroniem"
+       },
+       {
+        "key": "c",
+        "text": "verkorting"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "i.v.m.",
+      "options": [
+       {
+        "key": "a",
+        "text": "gewone afkorting"
+       },
+       {
+        "key": "b",
+        "text": "akroniem"
+       },
+       {
+        "key": "c",
+        "text": "verkorting"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "ESKOM",
+      "options": [
+       {
+        "key": "a",
+        "text": "gewone afkorting"
+       },
+       {
+        "key": "b",
+        "text": "akroniem"
+       },
+       {
+        "key": "c",
+        "text": "verkorting"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19,
+    "item": "afkortings"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "c",
+     "q4": "a",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Gewone afkortings word voluit gelees; ’n akroniem word as een woord uitgespreek; ’n verkorting plak dele van woorde saam."
+   },
+   "answer_status": "needs_review",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Afleiding of samestelling?",
+   "payload": {
+    "prompt": "Hierdie woorde kom uit die teks. Is dit ’n afleiding of ’n samestelling?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "beroering",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "longsiekte",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "omgedraai",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "huiswerk",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19,
+    "item": "woorddele"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Samestelling = basis + basis (long + siekte, huis + werk). Afleiding = basis + voor- of agtervoegsel (be-roer-ing, om-ge-draai)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Lettergrepe",
+   "payload": {
+    "text": "beroering: {{1}}\nlongsiekte: {{2}}\nomgedraai: {{3}}\nhuiswerk: {{4}}",
+    "prompt": "Verdeel elke woord in lettergrepe (skei met ’n koppelteken)."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19,
+    "item": "woorddele"
+   },
+   "answer": {
+    "1": [
+     "be-roe-ring",
+     "be roe ring"
+    ],
+    "2": [
+     "long-siek-te",
+     "long siek te"
+    ],
+    "3": [
+     "om-ge-draai",
+     "om ge draai"
+    ],
+    "4": [
+     "huis-werk",
+     "huis werk"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Skryf die lettergrepe met koppeltekens, bv. huis-werk."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Nelson Mandela se pa het hom na die Clarkebury-skool gestuur."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Sy pa was reeds oorlede; oom Jongi het hom na Clarkebury gestuur."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-10",
+   "sort_order": 100
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe oud was Nelson Mandela toe sy pa oorlede is?",
+   "explanation": "Die teks begin: “Een nag toe ek nege jaar oud was …”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Nege jaar oud",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sestien jaar oud"
+    },
+    {
+     "key": "c",
+     "text": "Een-en-twintig jaar oud"
+    },
+    {
+     "key": "d",
+     "text": "Twaalf jaar oud"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Aan watter siekte het sy pa gely?",
+   "explanation": "Hy het aan ’n ernstige longsiekte gely.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Ernstige longsiekte",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Malaria"
+    },
+    {
+     "key": "c",
+     "text": "’n Beenbreuk"
+    },
+    {
+     "key": "d",
+     "text": "Griep"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "By wie het Nelson gaan bly?",
+   "explanation": "Sy oom Jongi, sy pa se beste vriend.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sy oom Jongi",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sy tante"
+    },
+    {
+     "key": "c",
+     "text": "Sy ouma"
+    },
+    {
+     "key": "d",
+     "text": "Sy vriend Justice"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    4,
+    13
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarheen het oom Jongi hom op sestien gestuur?",
+   "explanation": "Toe hy sestien was, het oom Jongi hom na Clarkebury gestuur.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Na die Clarkebury-skool",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Na Fort Hare"
+    },
+    {
+     "key": "c",
+     "text": "Na Qunu"
+    },
+    {
+     "key": "d",
+     "text": "Na ’n eenvertrekskooltjie"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    20
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe lank het hy oor die junior sertifikaat gedoen?",
+   "explanation": "Hy het dit binne twee jaar in plaas van die gebruiklike drie voltooi.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Twee jaar",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Drie jaar"
+    },
+    {
+     "key": "c",
+     "text": "Vyf jaar"
+    },
+    {
+     "key": "d",
+     "text": "Een jaar"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    32
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom het Nelson die reputasie gekry dat hy ’n goeie geheue het?",
+   "explanation": "Die teks sê hy was “net ’n harde werker”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Omdat hy vinnig geleer het, maar eintlik net hard gewerk het.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Omdat hy nooit huiswerk gedoen het nie."
+    },
+    {
+     "key": "c",
+     "text": "Omdat hy die beste sportman was."
+    },
+    {
+     "key": "d",
+     "text": "Omdat hy by Fort Hare was."
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    33
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken die afkorting “a.g.v.”?",
+   "explanation": "Dit is ’n gewone afkorting wat as “as gevolg van” gelees word.",
+   "options": [
+    {
+     "key": "a",
+     "text": "as gevolg van",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "aan die gang van"
+    },
+    {
+     "key": "c",
+     "text": "altyd goed vir"
+    },
+    {
+     "key": "d",
+     "text": "agter die gebou van"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n samestelling?",
+   "explanation": "Huiswerk = huis + werk (twee basiswoorde).",
+   "options": [
+    {
+     "key": "a",
+     "text": "huiswerk",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "beroering"
+    },
+    {
+     "key": "c",
+     "text": "omgedraai"
+    },
+    {
+     "key": "d",
+     "text": "radikaal"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19,
+    "item": "woorddele"
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "ESKOM is ’n …",
+   "explanation": "Die letters van die woorde word as een woord uitgespreek: ’n akroniem (soos Sasol).",
+   "options": [
+    {
+     "key": "a",
+     "text": "akroniem",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "gewone afkorting"
+    },
+    {
+     "key": "c",
+     "text": "samestelling"
+    },
+    {
+     "key": "d",
+     "text": "basiswoord"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 15,
+    "pdf_page": 19
+   },
+   "key": "q09"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Waaroor gaan hierdie uittreksel hoofsaaklik?",
+   "explanation": "Dit vertel van sy kinderdae en skoolgang tot op 21.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hoe Nelson Mandela se lewe en skoolgang ná sy pa se dood verander het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hoe om sokker te speel"
+    },
+    {
+     "key": "c",
+     "text": "Hoe hy president geword het"
+    },
+    {
+     "key": "d",
+     "text": "Hoe hy ’n huis gebou het"
+    }
+   ],
+   "key": "q10"
+  }
+ ],
+ "passage": {
+  "title": "Nelson Mandela gaan hoërskool toe",
+  "language": "af",
+  "sentences": [
+   "Een nag toe ek nege jaar oud was het ek ’n beroering in ons huishouding gehoor.",
+   "Ek het my pa in my ma se hut aangetref waar hy besig was om onophoudelike te hoes.",
+   "Later het ek uitgevind dat hy aan ’n ernstige longsiekte gely het.",
+   "Kort hierna is my pa oorlede, en het my lewe radikaal verander.",
+   "Ek moes by my oom gaan bly.",
+   "Hy sou vir my sorg en toesien dat ek skoolgaan.",
+   "Ek het my paar besittings ingepak, en saam met my ma na my nuwe huis toe geloop.",
+   "Dit was vir my swaar om Qunu te verlaat.",
+   "Ek het omgedraai en vir oulaas gekyk na die huis waar ek so gelukkig was.",
+   "Ek het na die hutte gekyk, en na die mense wat met hulle dagtake voortgegaan het.",
+   "Ek het die stroompie gesien, waar ek saam met die ander seuns geplas en gespeel het.",
+   "My oë het tot rus gekom op die drie hutte waaruit ons tuiste bestaan het.",
+   "Ek kon myself glad nie voorstel hoe my nuwe toekoms gaan wees nie.",
+   "Ek het by my oom Jongi in Mqhekezweni, ’n dorpie daar naby, gaan woon.",
+   "Hy was ook my pa se beste vriend.",
+   "Ek het Qunu en my familie gemis, maar ek het ’n goeie lewe by oom Jongi gelei.",
+   "Ek het met sy seun, Justice, gespeel, en ons het baie pret saam gehad.",
+   "My oom het my soos sy eie kind behandel.",
+   "Ek het ’n eenvertrekskooltjie daar naby bygewoon en Engels, Xhosa, Wiskunde, Geskiedenis en Aardrykskunde geleer.",
+   "Ek het goed gevaar op skool, omdat ek baie hard gewerk het en my tante saans my huiswerk nagegaan het.",
+   "Toe ek sestien geword het, het Oom Jongi my na die Clarkebury-skool toe gestuur.",
+   "Net soos my pa het my oom geglo dat opvoeding baie belangrik is.",
+   "Clarkebury was ’n baie groter en beter skool as Mqhekezweni.",
+   "Die skool het bestaan uit ’n groep van ongeveer twee dosyn geboue in die koloniale styl.",
+   "Op my eerste skooldag het ek my nuwe stewels aangetrek.",
+   "Terwyl ek oor die blink houtvloer van die klaskamer ingekletter het, het ek opgemerk dat twee meisies in die voorste ry my flou vertoning geamuseerd dophou.",
+   "Later het ek een van daardie meisies goed leer ken, en het sy my beste vriendin by Clarkebury geword.",
+   "Ek het gou by my nuwe lewe by Clarkebury aangepas.",
+   "Ek het so dikwels as moontlik aan sport deelgeneem, alhoewel ek gemiddelde prestasies behaal het.",
+   "Die meeste van my klasmaats kon vinniger as ek hardloop en het beter as ek in die klas presteer.",
+   "Ek het baie gehad om in te haal.",
+   "Ná my wankelrige begin het ek agtergekom hoe dinge werk en kon ek vinniger begin vorder.",
+   "Ek het die junior sertifikaat (graad agt tot tien) binne twee jaar, in plaas van die gebruiklike drie jaar, voltooi.",
+   "Ek het die reputasie gekry dat ek ’n uitstekende geheue het, maar eintlik was ek net ’n harde werker.",
+   "Op die ouderdom van een-en-twintig het ek by die Fort Hare-universiteitskollege gaan studeer.",
+   "Dit is egter stories vir ’n ander keer."
+  ],
+  "paragraph_starts": [
+   0,
+   7,
+   13,
+   20,
+   22,
+   24,
+   27,
+   31,
+   34
+  ],
+  "glossary": [
+   {
+    "term": "beroering",
+    "definition": "Onrus of ’n harde geraas.",
+    "sentence_index": 0
+   },
+   {
+    "term": "longsiekte",
+    "definition": "’n Siekte van die longe.",
+    "sentence_index": 2
+   },
+   {
+    "term": "oorlede",
+    "definition": "Dood (’n beleefde woord).",
+    "sentence_index": 3
+   },
+   {
+    "term": "radikaal",
+    "definition": "Heeltemal of baie groot.",
+    "sentence_index": 3
+   },
+   {
+    "term": "besittings",
+    "definition": "Dinge wat jy besit, soos klere en speelgoed.",
+    "sentence_index": 6
+   },
+   {
+    "term": "koloniale",
+    "definition": "Van die tyd toe ’n ander land oor Suid-Afrika regeer het.",
+    "sentence_index": 23
+   },
+   {
+    "term": "prestasies",
+    "definition": "Resultate wat jy behaal het, soos in sport of op skool.",
+    "sentence_index": 28
+   },
+   {
+    "term": "wankelrige",
+    "definition": "Onseker of nie stewig nie.",
+    "sentence_index": 31
+   }
+  ]
+ }
+}

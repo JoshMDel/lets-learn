@@ -57,6 +57,8 @@ export interface Topic {
   name_af: string
   name_en: string
   sort_order: number
+  /** false = lessons can be opened in any order (workbook topics). */
+  sequential: boolean
 }
 
 export interface Tier {
@@ -78,6 +80,8 @@ export interface PassageSentence {
   passage_id: string
   sentence_index: number
   text: string
+  /** false = continues the previous sentence's paragraph (defaults to true) */
+  new_paragraph?: boolean
 }
 
 export interface GlossaryTerm {

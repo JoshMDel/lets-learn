@@ -1,0 +1,560 @@
+{
+ "key": "gr6-afr-b2-wk085",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 85,
+ "title_af": "Kom ons skryf ook ’n brief",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk5-6",
+  "name_af": "Tema 6 · Week 5–6: Stories en briewe",
+  "name_en": "Theme 6 · Weeks 5–6: Stories and letters",
+  "sort": 103
+ },
+ "tier_number": 5,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  44,
+  45
+ ],
+ "pdf_pages": [
+  48,
+  49
+ ],
+ "reference_pages": [
+  {
+   "pdf": 48,
+   "printed": 44,
+   "src": "/workbook/gr6-afr-b2/p048.webp"
+  },
+  {
+   "pdf": 49,
+   "printed": 45,
+   "src": "/workbook/gr6-afr-b2/p049.webp"
+  }
+ ],
+ "intro_af": "Jan het vir Danie geskryf – nou skryf jy ook ’n brief aan jou maat! Die werkboek gee vir jou idees vir elke paragraaf.",
+ "objectives_af": [
+  "’n Brief met die korrekte uitleg skryf (adres, datum, aanhef, paragrawe, slot).",
+  "’n Maat vir sy of haar brief bedank.",
+  "Skryf oor gebeure en aktiwiteite van nou en van die toekoms."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Idees vir elke paragraaf",
+   "payload": {
+    "bullets": [
+     "**Paragraaf 1:** bedank jou maat vir haar of sy brief.",
+     "**Paragraaf 2:** skryf oor jou eerste gebeurtenis of aktiwiteit.",
+     "**Paragraaf 3:** skryf oor jou tweede gebeurtenis of aktiwiteit.",
+     "**Paragraaf 4:** sluit af deur te verwys na iets wat in die toekoms gaan gebeur."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 44,
+    "pdf_page": 48
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Die uitleg van jou brief",
+   "payload": {
+    "headers": [
+     "Deel",
+     "Wat jy skryf"
+    ],
+    "rows": [
+     [
+      "Adres",
+      "Jou adres (bo-aan)"
+     ],
+     [
+      "Datum",
+      "Die datum"
+     ],
+     [
+      "Aanhef",
+      "Liewe … (jou maat se naam)"
+     ],
+     [
+      "Inhoud",
+      "Die vier paragrawe"
+     ],
+     [
+      "Slot",
+      "Sluit jou brief af; “Jou maat” en jou naam"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 45,
+    "pdf_page": 49
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Beplan jou brief",
+   "payload": {
+    "prompt": "Skryf ’n brief aan jou maat waarin jy hom of haar vertel van die dinge waarmee jy tuis en by die skool besig is, of van aktiwiteite wat in die toekoms gaan plaasvind. Praat eers met ’n maat daaroor."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 44,
+    "pdf_page": 48,
+    "item": "Ons skryf"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die paragrawe in volgorde",
+   "payload": {
+    "prompt": "Sit die dele van jou brief in die regte volgorde.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Skryf oor jou tweede gebeurtenis of aktiwiteit."
+     },
+     {
+      "key": "e1",
+      "text": "Aanhef: Liewe … (jou maat se naam)"
+     },
+     {
+      "key": "e5",
+      "text": "Sluit af met iets wat in die toekoms gaan gebeur."
+     },
+     {
+      "key": "e2",
+      "text": "Bedank jou maat vir sy of haar brief."
+     },
+     {
+      "key": "e3",
+      "text": "Skryf oor jou eerste gebeurtenis of aktiwiteit."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 44,
+    "pdf_page": 48,
+    "item": "paragrawe"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die werkboek gee die volgorde van die idees vir elke paragraaf."
+   },
+   "answer_status": "official",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jou brief",
+   "payload": {
+    "prompt": "Skryf ’n brief aan jou maat. Gebruik die uitleg wat die werkboek vir jou voorsien.",
+    "lines": 14,
+    "checklist": [
+     "Ek het my adres bo-aan geskryf.",
+     "Ek het die datum geskryf.",
+     "Ek het begin met “Liewe …” en my maat se naam.",
+     "Paragraaf 1: ek het my maat bedank vir sy of haar brief.",
+     "Paragraaf 2 en 3: ek het oor twee gebeurtenisse of aktiwiteite geskryf.",
+     "Paragraaf 4: ek het verwys na iets wat in die toekoms gaan gebeur.",
+     "Ek het “Jou maat” en my naam onderaan geskryf.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe vir publikasie."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 45,
+    "pdf_page": 49,
+    "item": "brief"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter paragraaf is dit?",
+   "payload": {
+    "prompt": "Watter paragraaf pas by watter idee?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Dankie vir jou brief!",
+      "options": [
+       {
+        "key": "a",
+        "text": "Paragraaf 1"
+       },
+       {
+        "key": "b",
+        "text": "Paragraaf 2"
+       },
+       {
+        "key": "c",
+        "text": "Paragraaf 4"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Môre gaan ek saam met my ouma na die mark.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Paragraaf 1"
+       },
+       {
+        "key": "b",
+        "text": "Paragraaf 2"
+       },
+       {
+        "key": "c",
+        "text": "Paragraaf 4"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Verlede week het ek ’n sokkerwedstryd gewen.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Paragraaf 1"
+       },
+       {
+        "key": "b",
+        "text": "Paragraaf 2"
+       },
+       {
+        "key": "c",
+        "text": "Paragraaf 4"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "c",
+     "q3": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Paragraaf 1 bedank; paragrawe 2 en 3 vertel gebeure; paragraaf 4 verwys na die toekoms."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die aanhef van jou brief is “Liewe” gevolg deur jou maat se naam."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek gee “Liewe ________” as die aanhef."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Waarmee begin jou brief direk onder die datum?",
+   "explanation": "Die werkboek sê: begin met ’n aanhef.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met ’n aanhef (“Liewe …”)",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Met die groet"
+    },
+    {
+     "key": "c",
+     "text": "Met ’n prent"
+    },
+    {
+     "key": "d",
+     "text": "Met jou handtekening"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 45,
+    "pdf_page": 49
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Waaroor gaan paragraaf 1 van die brief?",
+   "explanation": "Die werkboek sê: bedank jou maat vir haar of sy brief.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om jou maat vir sy of haar brief te bedank",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om te kla"
+    },
+    {
+     "key": "c",
+     "text": "Om die toekoms te beplan"
+    },
+    {
+     "key": "d",
+     "text": "Om jou adres te gee"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 44,
+    "pdf_page": 48
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Waaroor gaan die laaste paragraaf?",
+   "explanation": "Sluit af deur te verwys na iets wat in die toekoms gaan gebeur.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Iets wat in die toekoms gaan gebeur",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die verlede"
+    },
+    {
+     "key": "c",
+     "text": "Net die weer"
+    },
+    {
+     "key": "d",
+     "text": "Die datum"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 44,
+    "pdf_page": 48
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat skryf jy bo-aan jou brief?",
+   "explanation": "Die uitleg wys eers die adres en datum.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jou adres en die datum",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net jou naam"
+    },
+    {
+     "key": "c",
+     "text": "Die aanhef en handtekening"
+    },
+    {
+     "key": "d",
+     "text": "Die sedeles"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 45,
+    "pdf_page": 49
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Hoe sluit jy jou vriendskaplike brief af?",
+   "explanation": "Die werkboek se uitleg het “Jou maat” onderaan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met “Jou maat” en jou naam",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Met “Hoogagtend”"
+    },
+    {
+     "key": "c",
+     "text": "Met “Geagte meneer”"
+    },
+    {
+     "key": "d",
+     "text": "Met niks nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 45,
+    "pdf_page": 49
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin verwys na die toekoms?",
+   "explanation": "“gaan + werkwoord” of “sal” wys die toekoms.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Volgende week gaan ek jou besoek.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Gister het ek jou gebel."
+    },
+    {
+     "key": "c",
+     "text": "Ek was by die skool."
+    },
+    {
+     "key": "d",
+     "text": "Ek het nie gebel nie."
+    }
+   ],
+   "key": "q06"
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat doen jy ná jou eerste weergawe?",
+   "explanation": "Die werkboek sê: laat ’n maat jou werk hersien en korrigeer spelfoute.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Laat ’n maat jou werk hersien",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Gooi dit weg"
+    },
+    {
+     "key": "c",
+     "text": "Stuur dit sonder om dit te lees"
+    },
+    {
+     "key": "d",
+     "text": "Skryf dit nie oor nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 44,
+    "pdf_page": 48
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Oor wat kan jy in paragraaf 2 en 3 skryf?",
+   "explanation": "Die opdrag sê jy skryf oor gebeurtenisse of aktiwiteite.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dinge waarmee jy tuis en by die skool besig is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net die weer"
+    },
+    {
+     "key": "c",
+     "text": "Net jou naam"
+    },
+    {
+     "key": "d",
+     "text": "Net jou adres"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 44,
+    "pdf_page": 48
+   },
+   "key": "q08"
+  }
+ ]
+}

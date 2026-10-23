@@ -1,0 +1,825 @@
+{
+ "key": "gr6-afr-b2-wk078",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 78,
+ "title_af": "Werk met sinne",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 6,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  28,
+  29
+ ],
+ "pdf_pages": [
+  32,
+  33
+ ],
+ "reference_pages": [
+  {
+   "pdf": 32,
+   "printed": 28,
+   "src": "/workbook/gr6-afr-b2/p032.webp"
+  },
+  {
+   "pdf": 33,
+   "printed": 29,
+   "src": "/workbook/gr6-afr-b2/p033.webp"
+  }
+ ],
+ "intro_af": "Sinne is soos legkaarte: onderwerp, gesegde, voorwerp en bepaling. Vandag oefen jy verskillende soorte sinne en werkwoordvorme.",
+ "objectives_af": [
+  "Onderwerp, gesegde, voorwerp en bepaling in ’n enkelvoudige sin uitwys.",
+  "Die hoofsin en bysin in ’n veelvoudige sin uitken.",
+  "Gesegdes in ’n saamgestelde sin vind.",
+  "Die korrekte vorm van werkwoorde skryf (teenwoordige, verlede en toekomende tyd)."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Drie soorte sinne",
+   "payload": {
+    "bullets": [
+     "’n **Enkelvoudige sin** het net een gesegde (werkwoord/-stuk). Dit kan ook bepalings hê.",
+     "’n **Saamgestelde sin** het altyd twee of meer gesegdes (werkwoorde/-stukke) en bestaan uit meer as een hoofsin.",
+     "’n **Veelvoudige sin** het ’n hoofsin en ’n bysin."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Bepaling",
+   "payload": {
+    "text": "Indien die selfstandige naamwoord of die werkwoord beskryf word, word die beskrywende woord die **bepaling** genoem."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Voorbeeld van ’n enkelvoudige sin",
+   "payload": {
+    "headers": [
+     "Onderwerp",
+     "Gesegde",
+     "Voorwerp"
+    ],
+    "rows": [
+     [
+      "Jabu",
+      "bevry",
+      "die groot leeu"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Werkwoordvorme",
+   "payload": {
+    "bullets": [
+     "**Teenwoordige tyd:** Ek help.",
+     "**Verlede tyd:** Ek het ge**help** (het + ge + werkwoord).",
+     "**Toekomende tyd:** Ek sal / gaan help.",
+     "**Infinitief:** te + werkwoord, bv. om te help."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 29,
+    "pdf_page": 33
+   },
+   "key": "learn-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Onderwerp en gesegde (enkelvoudige sinne)",
+   "payload": {
+    "text": "1. Die leeu pleit jammerlik by Jabu.  Onderwerp: {{1}} · Gesegde: {{2}}\n2. Die slim jakkals het hulle afgeluister.  Onderwerp: {{3}} · Gesegde: {{4}}\n3. Jakkals klap die valstrik vinnig toe.  Onderwerp: {{5}} · Gesegde: {{6}}\n4. Jabu bedank die slim jakkals.  Onderwerp: {{7}} · Gesegde: {{8}}\n5. Sipho luister aandagtig na die jagters.  Onderwerp: {{9}} · Gesegde: {{10}}",
+    "prompt": "Skryf die onderwerp en die gesegde van elke sin."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32,
+    "item": "1–5"
+   },
+   "answer": {
+    "1": [
+     "Die leeu"
+    ],
+    "2": [
+     "pleit"
+    ],
+    "3": [
+     "Die slim jakkals",
+     "jakkals"
+    ],
+    "4": [
+     "het afgeluister",
+     "afgeluister"
+    ],
+    "5": [
+     "Jakkals"
+    ],
+    "6": [
+     "klap toe",
+     "klap … toe",
+     "klap"
+    ],
+    "7": [
+     "Jabu"
+    ],
+    "8": [
+     "bedank"
+    ],
+    "9": [
+     "Sipho"
+    ],
+    "10": [
+     "luister"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Wie doen iets? (onderwerp). Wat doen hy? (gesegde)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Veelvoudige sinne: kies die bysin",
+   "payload": {
+    "prompt": "Elke sin het ’n hoofsin en ’n bysin. Kies die bysin.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Jabu, die getroue veewagter, het die leeu vertrou.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jabu het die leeu vertrou"
+       },
+       {
+        "key": "b",
+        "text": "die getroue veewagter"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Jakkals, wat hul afgeluister het, kom nader gestap.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jakkals kom nader gestap"
+       },
+       {
+        "key": "b",
+        "text": "wat hul afgeluister het"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Jakkals, die slinkse dier van die oerwoud, het Leeu uitoorlê.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Jakkals het Leeu uitoorlê"
+       },
+       {
+        "key": "b",
+        "text": "die slinkse dier van die oerwoud"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Leeu, wat nie sy belofte nagekom het nie, moes leer dat verbreekte beloftes jou altyd inhaal.",
+      "options": [
+       {
+        "key": "a",
+        "text": "wat nie sy belofte nagekom het nie"
+       },
+       {
+        "key": "b",
+        "text": "Leeu moes leer dat verbreekte beloftes jou altyd inhaal"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32,
+    "item": "veelvoudig"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "b",
+     "q3": "b",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die bysin is die deel wat by die hoofsin “ingevoeg” word en meer vertel."
+   },
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Gesegdes in saamgestelde sinne",
+   "payload": {
+    "text": "1. Hy lig die balk wat die leeu se kop vashou.  Gesegdes: {{1}} en {{2}}\n2. Die leeu spring los en skud sy maanhare.  Gesegdes: {{3}} en {{4}}\n3. Jabu bedank die jakkals en hardloop terug na sy beeste toe.  Gesegdes: {{5}} en {{6}}\n4. Sipho sien vir Jabu en roep hom nader.  Gesegdes: {{7}} en {{8}}\n5. Die leeu brul van woede toe die valstrik hom vastrek.  Gesegdes: {{9}} en {{10}}",
+    "prompt": "Skryf die twee gesegdes (werkwoorde) van elke saamgestelde sin."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32,
+    "item": "saamgestel"
+   },
+   "answer": {
+    "1": [
+     "lig"
+    ],
+    "2": [
+     "vashou"
+    ],
+    "3": [
+     "spring los",
+     "spring"
+    ],
+    "4": [
+     "skud"
+    ],
+    "5": [
+     "bedank"
+    ],
+    "6": [
+     "hardloop terug",
+     "hardloop"
+    ],
+    "7": [
+     "sien"
+    ],
+    "8": [
+     "roep",
+     "roep … nader",
+     "roep nader"
+    ],
+    "9": [
+     "brul"
+    ],
+    "10": [
+     "vastrek",
+     "rek vas"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Soek die werkwoorde: elke werkwoord (of werkwoordstuk) is ’n gesegde."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Kom ons speel met werkwoorde (1)",
+   "payload": {
+    "text": "Vul die korrekte vorm van die werkwoord in.\n3. Moenie vergeet om vanaand my boek saam {{1}} nie. (bring)\n4. {{2}} hy saam met ons? (kom)\n5. Hy hou daarvan om sy toebroodjies saam met sy maats {{3}}. (eet)\n7. Ek {{4}} gister baie lank vir hulle {{5}}. (wag)\n9. Ek leer hoe om Xitsonga {{6}}. (praat)\n11. Ek het die ete klaar {{7}}. (kook)\n14. {{8}} sy vandag saam met julle? (werk)\n16. Ons juffrou {{9}} ons altyd mooi hoe om alles te doen. (wys)\n18. Die tier {{10}} verlede week op die jakkals {{11}}. (spring)\n19. Ons is almal baie lief daarvoor om {{12}}. (skryf)"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 29,
+    "pdf_page": 33,
+    "item": "1–20 (a)"
+   },
+   "answer": {
+    "1": [
+     "te bring"
+    ],
+    "2": [
+     "Kom"
+    ],
+    "3": [
+     "te eet"
+    ],
+    "4": [
+     "het"
+    ],
+    "5": [
+     "gewag"
+    ],
+    "6": [
+     "te praat"
+    ],
+    "7": [
+     "gekook"
+    ],
+    "8": [
+     "Werk"
+    ],
+    "9": [
+     "wys"
+    ],
+    "10": [
+     "het"
+    ],
+    "11": [
+     "gespring"
+    ],
+    "12": [
+     "te skryf"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Verlede tyd: het + ge + werkwoord. Infinitief: te + werkwoord. Teenwoordige tyd: die gewone vorm."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Kom ons speel met werkwoorde (2)",
+   "payload": {
+    "text": "Vul die korrekte vorm van die werkwoord in.\n6. Volgende week {{1}} ons per bus see toe {{2}}. (reis)\n8. Ek {{3}} nie vanaand kan {{4}} nie. (gaan)\n10. Ek {{5}} nie nou al {{6}} nie. (vertrek)\n12. Ek {{7}} moet {{8}} om my boek môre saam te neem. (onthou)\n13. Ek {{9}} probeer om sokker {{10}}. (speel)\n15. As die weer volgende vakansie lekker is, {{11}} ons baie {{12}}. (swem)\n17. Hulle {{13}} vanaand baie stil moet {{14}} om nie die ander mense te steur nie. (sit)\n20. Die vleuel {{15}} verlede Saterdag tydens die wedstryd soos die wind {{16}}. (hardloop)"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 29,
+    "pdf_page": 33,
+    "item": "1–20 (b)"
+   },
+   "answer": {
+    "1": [
+     "sal",
+     "gaan"
+    ],
+    "2": [
+     "reis"
+    ],
+    "3": [
+     "sal",
+     "gaan",
+     "kan"
+    ],
+    "4": [
+     "gaan"
+    ],
+    "5": [
+     "sal",
+     "gaan",
+     "wil"
+    ],
+    "6": [
+     "vertrek"
+    ],
+    "7": [
+     "sal",
+     "gaan"
+    ],
+    "8": [
+     "onthou"
+    ],
+    "9": [
+     "gaan",
+     "sal"
+    ],
+    "10": [
+     "te speel"
+    ],
+    "11": [
+     "sal",
+     "gaan"
+    ],
+    "12": [
+     "swem"
+    ],
+    "13": [
+     "sal",
+     "gaan"
+    ],
+    "14": [
+     "sit"
+    ],
+    "15": [
+     "het"
+    ],
+    "16": [
+     "gehardloop"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Toekomende tyd: sal/gaan + werkwoord. Verlede tyd: het + ge + werkwoord. Daar is soms meer as een korrekte antwoord."
+   },
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "’n Saamgestelde sin het net een gesegde."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: ’n saamgestelde sin het altyd twee of meer gesegdes."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter soort sin?",
+   "payload": {
+    "prompt": "Is die sin enkelvoudig of saamgestel?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Jabu bedank die jakkals.",
+      "options": [
+       {
+        "key": "a",
+        "text": "enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "saamgestel"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Jabu bedank die jakkals en hardloop huis toe.",
+      "options": [
+       {
+        "key": "a",
+        "text": "enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "saamgestel"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Die leeu brul.",
+      "options": [
+       {
+        "key": "a",
+        "text": "enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "saamgestel"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Tel die gesegdes: een = enkelvoudig; twee of meer = saamgestel."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die onderwerp in: “Die leeu pleit jammerlik by Jabu”?",
+   "explanation": "Wie pleit? Die leeu.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die leeu",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "pleit"
+    },
+    {
+     "key": "c",
+     "text": "jammerlik"
+    },
+    {
+     "key": "d",
+     "text": "Jabu"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32,
+    "item": "1"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die gesegde in: “Jabu bedank die slim jakkals”?",
+   "explanation": "Die gesegde is die werkwoord: bedank.",
+   "options": [
+    {
+     "key": "a",
+     "text": "bedank",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jabu"
+    },
+    {
+     "key": "c",
+     "text": "slim"
+    },
+    {
+     "key": "d",
+     "text": "jakkals"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32,
+    "item": "4"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die bepaling in: “Die leeu pleit jammerlik by Jabu”?",
+   "explanation": "Jammerlik beskryf hoe die leeu pleit (die werkwoord).",
+   "options": [
+    {
+     "key": "a",
+     "text": "jammerlik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die leeu"
+    },
+    {
+     "key": "c",
+     "text": "pleit"
+    },
+    {
+     "key": "d",
+     "text": "by"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel gesegdes het ’n enkelvoudige sin?",
+   "explanation": "Die werkboek sê ’n enkelvoudige sin het net een gesegde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Net een",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Twee"
+    },
+    {
+     "key": "c",
+     "text": "Drie"
+    },
+    {
+     "key": "d",
+     "text": "Geen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin is saamgestel?",
+   "explanation": "Twee gesegdes: spring los en skud.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die leeu spring los en skud sy maanhare.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die leeu spring los."
+    },
+    {
+     "key": "c",
+     "text": "Jabu bedank die jakkals."
+    },
+    {
+     "key": "d",
+     "text": "Sipho luister aandagtig."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32,
+    "item": "saamgestel"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die verlede tyd van “wag”?",
+   "explanation": "Verlede tyd: het + ge + werkwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "het gewag",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "sal wag"
+    },
+    {
+     "key": "c",
+     "text": "wag"
+    },
+    {
+     "key": "d",
+     "text": "gaan wag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 29,
+    "pdf_page": 33,
+    "item": "7"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter vorm is korrek: “Ek leer hoe om Xitsonga …”?",
+   "explanation": "Na “om” gebruik ons die infinitief: te + werkwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "te praat",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "praat"
+    },
+    {
+     "key": "c",
+     "text": "gepraat"
+    },
+    {
+     "key": "d",
+     "text": "het praat"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 29,
+    "pdf_page": 33,
+    "item": "9"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n veelvoudige sin?",
+   "explanation": "Dit is die werkboek se verduideliking.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Sin met ’n hoofsin en ’n bysin",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Sin met net een werkwoord"
+    },
+    {
+     "key": "c",
+     "text": "’n Sin met net een woord"
+    },
+    {
+     "key": "d",
+     "text": "’n Vraag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 28,
+    "pdf_page": 32
+   },
+   "key": "q08"
+  }
+ ]
+}

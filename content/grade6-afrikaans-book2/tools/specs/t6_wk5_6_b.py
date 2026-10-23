@@ -1,0 +1,81 @@
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+from lessonkit import *
+
+# ============================================================== 87 Meer oor taal
+L87 = lesson(87,
+  skills=[LANG, WRITE],
+  intro='Byvoeglike naamwoorde, sinonieme, antonieme en voegwoorde – vandag kyk ons nog ’n bietjie meer na taal!',
+  objectives=['Selfstandige naamwoorde en byvoeglike naamwoorde in sinne uitken.', 'Woorde met hul sinonieme en antonieme verbind.', 'Voegwoorde gebruik om sinne saam te voeg.', 'Sinne in die bedrywende vorm in die lydende vorm skryf.'],
+  learn=[
+    text('Meer oor byvoeglike naamwoorde', 'Byvoeglike naamwoorde vertel ons meer oor selfstandige naamwoorde (persone, plekke of dinge). Gewoonlik kom byvoeglike naamwoorde voor selfstandige naamwoorde, maar soms kom hulle daarna. Hulle beskryf egter steeds die selfstandige naamwoorde.',
+         bullets=['Die vorm van die byvoeglike naamwoord bly nie altyd dieselfde nie: Die meisie is **jonk**, maar die **jong** meisie.', 'Wanneer die byvoeglike naamwoord voor aan staan, voeg ons dikwels ’n **-e** by.'], page=48),
+    note('Die bedrywende vorm is die sin in sy basiese vorm: onderwerp + gesegde + voorwerp. In die lydende vorm word die onderwerp en die voorwerp omgeruil.', title='Ons hersien', page=48),
+    table('Voorbeelde: voor of ná die selfstandige naamwoord', ['Voor (met -e)', 'Na (sonder -e)'], [['interessante nuus', 'Die nuus is interessant.'], ['’n geweldige aardbewing', 'Die aardbewing was geweldig.'], ['’n gawe neef', 'Die neef is gaaf.'], ['’n koue dag', 'Die dag is koud.'], ['’n goeie boek', 'Die boek is goed.']], src='workbook', page=48),
+  ],
+  acts=[
+    choices('Kies die byvoeglike naamwoord', 'Watter woord in die sin is die byvoeglike naamwoord?',
+            [('Dit is interessante nuus.', ['Dit', 'interessante', 'nuus'], 1), ('Die nuus is interessant.', ['nuus', 'is', 'interessant'], 2), ('Dit was ’n geweldige aardbewing.', ['geweldige', 'aardbewing', 'was'], 0),
+             ('Die aardbewing was geweldig.', ['aardbewing', 'was', 'geweldig'], 2), ('Dis ’n gawe neef.', ['Dis', 'gawe', 'neef'], 1), ('Hy is ’n vriendelike maat.', ['Hy', 'vriendelike', 'maat'], 1)],
+            'Die byvoeglike naamwoord beskryf ’n persoon, plek of ding (die selfstandige naamwoord).', src='workbook', page=48, item='pare sinne', status='derived_from_rule'),
+    fill('Onderwerp, voorwerp en gesegde', 'Kin lees die nuus oor die aardbewing.  Onderwerp: {{1}} · Gesegde: {{2}} · Voorwerp: {{3}}\nKin mis sy gesin en sy maats baie.  Onderwerp: {{4}} · Gesegde: {{5}} · Voorwerp: {{6}}\nOns speel sokker in die park.  Onderwerp: {{7}} · Gesegde: {{8}} · Voorwerp: {{9}}\nKin lees ’n boek.  Onderwerp: {{10}} · Gesegde: {{11}} · Voorwerp: {{12}}\nHy speel rekenaarspeletjies.  Onderwerp: {{13}} · Gesegde: {{14}} · Voorwerp: {{15}}',
+         {1: 'Kin', 2: 'lees', 3: ['die nuus', 'die nuus oor die aardbewing'], 4: 'Kin', 5: 'mis', 6: ['sy gesin en sy maats', 'sy gesin'], 7: 'Ons', 8: 'speel', 9: 'sokker', 10: 'Kin', 11: 'lees', 12: ['’n boek', 'boek'], 13: 'Hy', 14: 'speel', 15: 'rekenaarspeletjies'},
+         'Wie doen iets? (onderwerp) Wat doen hy? (gesegde) Wie of wat ontvang die aksie? (voorwerp)', src='workbook', page=48, item='onderwerp/voorwerp', status='derived_from_rule'),
+    sa('Skryf in die lydende vorm', 'Skryf die vyf sinne in die lydende vorm oor.', 'Die nuus oor die aardbewing word deur Kin gelees.\nSy gesin en sy maats word baie deur Kin gemis.\nSokker word deur ons in die park gespeel.\n’n Boek word deur Kin gelees.\nRekenaarspeletjies word deur hom gespeel.', lines=6, page=48, item='lydende vorm', status='derived_from_rule'),
+    match('Verbind die sinonieme (1)', 'Verbind elke woord met sy sinoniem (woorde met dieselfde betekenis).', [('stokperdjie', 'tydverdryf'), ('enorm', 'massief'), ('halfpad', 'middel'), ('indrukwekkend', 'buitengewoon'), ('koel', 'koud')],
+          'Sinonieme het amper dieselfde betekenis.', src='workbook', page=49, item='sinonieme', status='derived_from_rule'),
+    match('Verbind die antonieme', 'Verbind elke woord met sy antoniem (woorde met die teenoorgestelde betekenis).', [('hard', 'sag'), ('enorm', 'piepklein'), ('gejaagd', 'rustig'), ('versleg', 'verbeter'), ('koel', 'warm')],
+          'Antonieme is teenoorgesteld: hard – sag, enorm – piepklein.', src='workbook', page=49, item='antonieme', status='derived_from_rule'),
+    sa('Verbind met voegwoorde', 'Verbind die sinne met die voegwoord tussen hakies:\n1. Ek sal hier bly. Dit gaan beter tuis. (totdat)\n2. Ek is gelukkig hier. Ek mis my eie skool. (alhoewel)\n3. Ek het haar gevra om vir ons te wag. Ons was laat. (omdat)\n4. Ek het toestemming gevra om die internet te gebruik. Ek het die e-pos geskryf. (voordat)\n5. Skryf asseblief terug. Dit is vir julle moontlik. (indien)\n6. Ek het hom gevra om nie weer laat te wees nie. Hy was weer laat. (egter)',
+       'Ek sal hier bly totdat dit beter gaan tuis.\nEk is gelukkig hier alhoewel ek my eie skool mis.\nEk het haar gevra om vir ons te wag omdat ons laat was.\nEk het toestemming gevra om die internet te gebruik voordat ek die e-pos geskryf het.\nSkryf asseblief terug indien dit vir julle moontlik is.\nEk het hom gevra om nie weer laat te wees nie, egter hy was weer laat.', lines=8, page=49, item='voegwoorde', status='needs_review'),
+    fill('Voltooi met die regte vorm', 'Dis ’n {{1}} dag. Die dag is {{2}}. (koud)  Dit is ’n {{3}} boek. Die boek is {{4}}. (goed)', {1: 'koue', 2: 'koud', 3: 'goeie', 4: 'goed'}, 'Voor die selfstandige naamwoord voeg ons dikwels -e by: koue, goeie.', src='supplementary', status='derived_from_rule'),
+    tf('Waar of onwaar?', 'In “Die dag is koud” staan die byvoeglike naamwoord ná die selfstandige naamwoord.', True, 'Koud staan ná “dag”, maar beskryf steeds die dag.', src='supplementary', status='derived_from_rule'),
+  ],
+  quiz=[
+    q('grammar', 'Watter woord is die byvoeglike naamwoord: “Dit was ’n geweldige aardbewing”?', 'geweldige', ['aardbewing', 'was', 'Dit'], 'Geweldige beskryf die aardbewing.', status='derived_from_rule', src='workbook', page=48),
+    q('grammar', 'Wat gebeur dikwels met ’n byvoeglike naamwoord wat voor die selfstandige naamwoord staan?', 'Ons voeg ’n -e by.', ['Dit verdwyn.', 'Dit verander in ’n werkwoord.', 'Dit kry ’n -s.'], 'Die werkboek sê: ons voeg dikwels ’n -e by (jong meisie, koue dag).', status='official', src='workbook', page=48),
+    q('grammar', 'Watter vorm is korrek: “Die dag is ___”?', 'koud', ['koue', 'kouere', 'koudde'], 'Ná die selfstandige naamwoord staan die byvoeglike naamwoord sonder -e.', status='derived_from_rule', src='workbook', page=48),
+    q('vocabulary', 'Watter woord is ’n sinoniem vir “stokperdjie”?', 'tydverdryf', ['skoolwerk', 'speelgoed', 'gereedskap'], 'Stokperdjie en tydverdryf het amper dieselfde betekenis.', status='derived_from_rule', src='workbook', page=49, item='sinonieme'),
+    q('vocabulary', 'Watter woord is ’n antoniem vir “enorm”?', 'piepklein', ['massief', 'groot', 'reusagtig'], 'Antoniem = teenoorgestelde: enorm – piepklein.', status='derived_from_rule', src='workbook', page=49, item='antonieme'),
+    q('grammar', 'Watter voegwoord pas: “Ek is gelukkig hier ___ ek mis my eie skool”?', 'alhoewel', ['omdat', 'totdat', 'indien'], 'Alhoewel wys ’n teenstelling: ek is gelukkig, maar ek mis my skool.', status='derived_from_rule', src='workbook', page=49, item='voegwoorde'),
+    q('grammar', 'Wat is die lydende vorm van “Kin lees ’n boek”?', '’n Boek word deur Kin gelees.', ['Kin word deur ’n boek gelees.', 'Kin het ’n boek gelees.', '’n Boek lees Kin.'], 'In die lydende vorm word die voorwerp die onderwerp.', status='derived_from_rule', src='workbook', page=48, item='lydende vorm'),
+    q('grammar', 'Watter woord is die onderwerp: “Ons speel sokker in die park”?', 'Ons', ['speel', 'sokker', 'park'], 'Wie speel? Ons.', status='derived_from_rule', src='workbook', page=48, item='onderwerp/voorwerp'),
+  ])
+
+# ============================================================== 88 Werk met sinne
+L88 = lesson(88,
+  skills=[LANG, WRITE],
+  intro='Sinne kan kort of lank wees. Vandag skryf jy verskillende tipes sinne, verander die tyd en leer jy ontkennings en afkortings.',
+  objectives=['Voorbeelde van enkelvoudige, saamgestelde en veelvoudige sinne skryf.', 'Sinne in die verlede en toekomende tyd oorskryf.', 'Sinne in die ontkennende vorm skryf.', 'Afkortings en akronieme gebruik.'],
+  learn=[
+    text('Sinsleer', 'Onthou, ’n sin begin met ’n hoofletter en eindig met ’n punt, ’n vraagteken of ’n uitroepteken.', bullets=['Sin = onderwerp (wie) + gesegde (werkwoord/-stuk) + voorwerp (wie/wat).', '**Werkwoordstuk:** die hoofwerkwoord en die hulpwerkwoord vorm saam die werkwoordstuk.',
+         '’n **Saamgestelde sin** het altyd twee of meer gesegdes en bestaan uit meer as een hoofsin.', '’n **Veelvoudige sin** het ’n hoofsin en ’n bysin.'], page=50),
+    note('In die ontkennende vorm word sake in die negatiewe vorm gestel, bv. Sy het nie gebel nie. Let daarop dat die woord “nie” twee keer in die sin verskyn.', title='Ontkennings', page=51),
+    text('Drie soorte afkortings', bullets=['**Gewone afkortings:** ons spreek die oorspronklike woord volledig uit (“bl.” = “bladsy”).', '**Akronieme (letterwoorde):** die letters van verskeie woorde word as een woord uitgespreek, bv. Sasol.', '**Verkortings:** ons spreek oorspronklike lettergrepe of dele van verskeie woorde as een woord uit (bv. “Australasië”).'], page=51),
+  ],
+  acts=[
+    sa('Voorbeelde van sinne', 'Skryf 2 voorbeelde van elke tipe sin neer: enkelvoudige sinne, saamgestelde sinne, veelvoudige sinne.',
+       'Enkelvoudig: Kin skryf ’n e-pos. Die hasie hardloop.\nSaamgestel: Kin skryf ’n e-pos en Danie lees dit. Die leeu lag en die hasie wip.\nVeelvoudig: Kin, wat in Japan bly, skryf ’n e-pos. Die hasie, wat bang was, het gehardloop.', lines=8, page=50, item='sinsleer', status='needs_review'),
+    sa('Verlede en toekomende tyd', 'Skryf hierdie sinne in die verlede en toekomende tyd oor: Kin skryf ’n e-pos. / Hy lees ’n boek en speel rekenaarspeletjies. / Danie en Anita lees Kin se e-pos.',
+       'Gister het Kin ’n e-pos geskryf. Môre sal Kin ’n e-pos skryf.\nGister het hy ’n boek gelees en rekenaarspeletjies gespeel. Môre sal hy ’n boek lees en rekenaarspeletjies speel.\nGister het Danie en Anita Kin se e-pos gelees. Môre sal Danie en Anita Kin se e-pos lees.', lines=7, page=50, item='tye', status='derived_from_rule'),
+    sa('Skryf in die ontkennende vorm', 'Herskryf hierdie sinne in die ontkennende vorm: Tegnologiese vooruitgang is altyd voordelig. / Die aardbewing het groot verwoesting gesaai. / Kin verlang baie na sy ouers en sy maats.',
+       'Tegnologiese vooruitgang is nie altyd voordelig nie.\nDie aardbewing het nie groot verwoesting gesaai nie.\nKin verlang nie baie na sy ouers en sy maats nie.', lines=4, page=51, item='ontkennings', status='derived_from_rule'),
+    match('Afkortings en akronieme', 'Verbind elke woord of frase met sy afkorting of akroniem.', [('afdeling', 'afd.'), ('algemeen', 'alg.'), ('biblioteek', 'bibl.'), ('persoonlike identifikasienommer', 'PIN'), ('Dierebeskermingsvereniging', 'DBV')],
+          'Afkortings: afd., alg., bibl.; akroniem: PIN. (Gebruik jou woordeboek om te kyk.)', src='workbook', page=51, item='afkortings', status='needs_review'),
+    choices('Watter tipe sin?', 'Is die sin enkelvoudig, saamgestel of veelvoudig?',
+            [('Kin skryf ’n e-pos.', ['enkelvoudig', 'saamgestel', 'veelvoudig'], 0), ('Kin skryf ’n e-pos en Danie lees dit.', ['enkelvoudig', 'saamgestel', 'veelvoudig'], 1), ('Kin, wat in Japan bly, skryf ’n e-pos.', ['enkelvoudig', 'saamgestel', 'veelvoudig'], 2)],
+            'Een gesegde = enkelvoudig; twee of meer gesegdes = saamgestel; hoofsin + bysin = veelvoudig.', src='supplementary', status='derived_from_rule'),
+    choices('Ontkenning: kies die korrekte sin', 'Watter sin is in die ontkennende vorm?', [('Sy het nie gebel nie. / Sy het gebel.', ['Eerste sin', 'Tweede sin'], 0), ('Ek speel nie sokker nie. / Ek speel sokker.', ['Eerste sin', 'Tweede sin'], 0)],
+            'In die ontkenning kom “nie” twee keer voor.', src='supplementary', status='official'),
+    tf('Waar of onwaar?', 'In die ontkennende vorm kom die woord “nie” net een keer voor.', False, 'Die werkboek sê: die woord nie verskyn twee keer in die sin.', src='supplementary', status='official'),
+  ],
+  quiz=[
+    q('grammar', 'Waarmee begin ’n sin altyd?', '’n Hoofletter', ['’n Punt', '’n Werkwoord', '’n Voegwoord'], 'Die werkboek sê: ’n sin begin met ’n hoofletter.', status='official', src='workbook', page=50),
+    q('grammar', 'Watter sin is in die verlede tyd?', 'Gister het Kin ’n e-pos geskryf.', ['Kin skryf ’n e-pos.', 'Môre sal Kin ’n e-pos skryf.', 'Kin gaan ’n e-pos skryf.'], 'Verlede tyd: het + ge-vorm.', status='derived_from_rule', src='workbook', page=50, item='tye'),
+    q('grammar', 'Wat is die toekomende tyd van “Hy lees ’n boek”?', 'Hy sal ’n boek lees.', ['Hy het ’n boek gelees.', 'Hy lees ’n boek.', 'Hy is besig om te lees.'], 'Toekomende tyd: sal + werkwoord.', status='derived_from_rule', src='workbook', page=50, item='tye'),
+    q('grammar', 'Watter sin is in die ontkennende vorm?', 'Kin verlang nie baie na sy ouers nie.', ['Kin verlang baie na sy ouers.', 'Kin het baie verlang.', 'Kin sal baie verlang.'], 'In die ontkenning kom “nie” voor.', status='derived_from_rule', src='workbook', page=51, item='ontkennings'),
+    q('grammar', 'Hoeveel keer verskyn “nie” in ’n ontkennende sin, volgens die werkboek?', 'Twee keer', ['Een keer', 'Drie keer', 'Nooit'], 'Die werkboek sê dit in die nota oor ontkennings.', status='official', src='workbook', page=51),
+    q('grammar', 'Wat is ’n saamgestelde sin?', '’n Sin met twee of meer gesegdes', ['’n Sin met net een werkwoord', '’n Sin sonder onderwerp', '’n Vraag'], 'Die werkboek sê: saamgestelde sin het altyd twee of meer gesegdes.', status='official', src='workbook', page=50),
+    q('vocabulary', 'Wat is ’n akroniem (letterwoord)?', 'Letters van verskeie woorde wat as een woord uitgespreek word, soos Sasol', ['’n Woord met dieselfde betekenis', '’n Kort sin', '’n Woord met ’n teenoorgestelde betekenis'], 'Die werkboek gee Sasol as voorbeeld.', status='official', src='workbook', page=51),
+    q('vocabulary', 'Wat is die afkorting vir “persoonlike identifikasienommer”?', 'PIN', ['PIE', 'PIK', 'PIS'], 'PIN is ’n akroniem van persoonlike identifikasienommer.', status='derived_from_rule', src='workbook', page=51, item='afkortings'),
+  ])

@@ -1,0 +1,1074 @@
+{
+ "key": "gr6-afr-b2-wk070",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 70,
+ "title_af": "Spelling en spelpatrone",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk1-2",
+  "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+  "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+  "sort": 101
+ },
+ "tier_number": 6,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  12,
+  13
+ ],
+ "pdf_pages": [
+  16,
+  17
+ ],
+ "reference_pages": [
+  {
+   "pdf": 16,
+   "printed": 12,
+   "src": "/workbook/gr6-afr-b2/p016.webp"
+  },
+  {
+   "pdf": 17,
+   "printed": 13,
+   "src": "/workbook/gr6-afr-b2/p017.webp"
+  }
+ ],
+ "intro_af": "Vandag speel ons die spelreëlspeletjie! Jy hersien hoe meervoude gevorm word en kies elke keer die korrekte spelling.",
+ "objectives_af": [
+  "Hersien hoe meervoude gevorm word.",
+  "Die korrekte spelling van meervoude kies.",
+  "Spelreëls vir kort klanke, lang klanke en tweeklanke gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Kom ons kyk weer na hoe meervoude gevorm word",
+   "payload": {
+    "paragraphs": [
+     "Onthou: daar is altyd uitsonderings op elke reël."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Meervoudsreëls",
+   "payload": {
+    "headers": [
+     "Klank",
+     "Reël",
+     "Voorbeeld"
+    ],
+    "rows": [
+     [
+      "Kort klanke",
+      "Die medeklinker aan die einde van die woord verdubbel en die woord kry ’n “-e” by.",
+      "kat – katte"
+     ],
+     [
+      "Lang klanke",
+      "Een van die klinkers in die middel val weg en die woord kry ’n “-e” by.",
+      "boom – bome"
+     ],
+     [
+      "Tweeklanke",
+      "Ons voeg ’n -e of ’n -s by.",
+      "boek – boeke, seun – seuns"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die spelreëls van die speletjie",
+   "payload": {
+    "bullets": [
+     "Plaas jou merker aan die begin.",
+     "Gooi die dobbelsteen en skuif die aantal plekke.",
+     "Omkring die korrekte spelling van die meervoud.",
+     "Gaan jou antwoord na.",
+     "Verkeerd? Jy slaan ’n beurt oor.",
+     "Die eerste een by nommer 35 is die wenner."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "example",
+   "kind": "table",
+   "title_af": "Kyk hoe die reëls werk",
+   "payload": {
+    "headers": [
+     "Enkelvoud",
+     "Meervoud",
+     "Reël"
+    ],
+    "rows": [
+     [
+      "hond",
+      "honde",
+      "voeg -e by"
+     ],
+     [
+      "kat",
+      "katte",
+      "kort klank: verdubbel + e"
+     ],
+     [
+      "boom",
+      "bome",
+      "lang klank: een klinker val weg + e"
+     ],
+     [
+      "kind",
+      "kinders",
+      "uitsondering: -ers"
+     ]
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16
+   },
+   "key": "ex-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Spelreëlspeletjie (1 van 4)",
+   "payload": {
+    "prompt": "Kies die korrekte spelling van die meervoud.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Matthew het saam met sy ___ gaan stap.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hondde"
+       },
+       {
+        "key": "b",
+        "text": "honde"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hy het oor ___ geval.",
+      "options": [
+       {
+        "key": "a",
+        "text": "stompe"
+       },
+       {
+        "key": "b",
+        "text": "stomps"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Ek het ___ gekry.",
+      "options": [
+       {
+        "key": "a",
+        "text": "fossiele"
+       },
+       {
+        "key": "b",
+        "text": "fossiels"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Matthew het oorblyfsels in sy ___ gehad.",
+      "options": [
+       {
+        "key": "a",
+        "text": "handde"
+       },
+       {
+        "key": "b",
+        "text": "hande"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Die ___ hou daarvan om in die veld te stap.",
+      "options": [
+       {
+        "key": "a",
+        "text": "seune"
+       },
+       {
+        "key": "b",
+        "text": "seuns"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Hy het twee ___ vasgehou.",
+      "options": [
+       {
+        "key": "a",
+        "text": "sleutelbene"
+       },
+       {
+        "key": "b",
+        "text": "sleutelbenne"
+       }
+      ]
+     },
+     {
+      "key": "q7",
+      "text": "Hulle het nog dele van die ___ gekry.",
+      "options": [
+       {
+        "key": "a",
+        "text": "skelete"
+       },
+       {
+        "key": "b",
+        "text": "skelette"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16,
+    "item": "speletjie 1"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "a",
+     "q3": "a",
+     "q4": "b",
+     "q5": "b",
+     "q6": "a",
+     "q7": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Probeer weer – kyk watter spelling die reël volg.",
+    "explanation": "Onthou die reëls: kort klank – verdubbel die medeklinker + e; lang klank – een klinker val weg + e; tweeklank – voeg -e of -s by. Daar is altyd uitsonderings."
+   },
+   "answer_status": "official",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Spelreëlspeletjie (2 van 4)",
+   "payload": {
+    "prompt": "Kies die korrekte spelling van die meervoud.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Daar word vermoed ___ het hulle gejaag.",
+      "options": [
+       {
+        "key": "a",
+        "text": "diere"
+       },
+       {
+        "key": "b",
+        "text": "dierre"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die wetenskaplike ___ sê die fossiel behoort tot die hominiede spesie.",
+      "options": [
+       {
+        "key": "a",
+        "text": "spane"
+       },
+       {
+        "key": "b",
+        "text": "spanne"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hulle het kleinerige ___ gehad.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tande"
+       },
+       {
+        "key": "b",
+        "text": "tandde"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die ___ het die spesie Sediba gedoop.",
+      "options": [
+       {
+        "key": "a",
+        "text": "wetenskaplikes"
+       },
+       {
+        "key": "b",
+        "text": "wetenskaplikkes"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Die spesie het nog in ___ gelewe.",
+      "options": [
+       {
+        "key": "a",
+        "text": "bomme"
+       },
+       {
+        "key": "b",
+        "text": "bome"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Die Sediba-spesie se ___ was primitief.",
+      "options": [
+       {
+        "key": "a",
+        "text": "voette"
+       },
+       {
+        "key": "b",
+        "text": "voete"
+       }
+      ]
+     },
+     {
+      "key": "q7",
+      "text": "Hulle het regop op hulle lang ___ geloop.",
+      "options": [
+       {
+        "key": "a",
+        "text": "beene"
+       },
+       {
+        "key": "b",
+        "text": "bene"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16,
+    "item": "speletjie 2"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "a",
+     "q5": "b",
+     "q6": "b",
+     "q7": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Probeer weer – kyk watter spelling die reël volg.",
+    "explanation": "Onthou die reëls: kort klank – verdubbel die medeklinker + e; lang klank – een klinker val weg + e; tweeklank – voeg -e of -s by. Daar is altyd uitsonderings."
+   },
+   "answer_status": "official",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Spelreëlspeletjie (3 van 4)",
+   "payload": {
+    "prompt": "Kies die korrekte spelling van die meervoud.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Hulle het nie ___ gedra nie.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hemde"
+       },
+       {
+        "key": "b",
+        "text": "hempte"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Daar was nie ___ nie.",
+      "options": [
+       {
+        "key": "a",
+        "text": "padde"
+       },
+       {
+        "key": "b",
+        "text": "paaie"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hulle het baie ___ gehad.",
+      "options": [
+       {
+        "key": "a",
+        "text": "kindere"
+       },
+       {
+        "key": "b",
+        "text": "kinders"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die Sediba-spesie was ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "boere"
+       },
+       {
+        "key": "b",
+        "text": "boerre"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Hulle het ___ aangehou.",
+      "options": [
+       {
+        "key": "a",
+        "text": "skaape"
+       },
+       {
+        "key": "b",
+        "text": "skape"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Die Sediba-spesie het nie in ___ gewoon nie.",
+      "options": [
+       {
+        "key": "a",
+        "text": "huisse"
+       },
+       {
+        "key": "b",
+        "text": "huise"
+       }
+      ]
+     },
+     {
+      "key": "q7",
+      "text": "Saans het hulle om ___ gekuier.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vuure"
+       },
+       {
+        "key": "b",
+        "text": "vure"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16,
+    "item": "speletjie 3"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b",
+     "q6": "b",
+     "q7": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Probeer weer – kyk watter spelling die reël volg.",
+    "explanation": "Onthou die reëls: kort klank – verdubbel die medeklinker + e; lang klank – een klinker val weg + e; tweeklank – voeg -e of -s by. Daar is altyd uitsonderings."
+   },
+   "answer_status": "official",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Spelreëlspeletjie (4 van 4)",
+   "payload": {
+    "prompt": "Kies die korrekte spelling van die meervoud.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Die Sediba-spesie het 2 ___ gehad.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ooge"
+       },
+       {
+        "key": "b",
+        "text": "oë"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hulle het daarvan gehou om in die ___ te sit.",
+      "options": [
+       {
+        "key": "a",
+        "text": "skadus"
+       },
+       {
+        "key": "b",
+        "text": "skadu’s"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hulle was bang vir ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "wolfe"
+       },
+       {
+        "key": "b",
+        "text": "wolwe"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Hulle het nie geweet van ___ nie.",
+      "options": [
+       {
+        "key": "a",
+        "text": "skepe"
+       },
+       {
+        "key": "b",
+        "text": "skippe"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Hulle het uit groot ___ bestaan.",
+      "options": [
+       {
+        "key": "a",
+        "text": "families"
+       },
+       {
+        "key": "b",
+        "text": "familieë"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Hulle het ___ gejag vir voedsel.",
+      "options": [
+       {
+        "key": "a",
+        "text": "bokke"
+       },
+       {
+        "key": "b",
+        "text": "boks"
+       }
+      ]
+     },
+     {
+      "key": "q7",
+      "text": "___ is op die werklikheid gebaseer.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Koerantberigte"
+       },
+       {
+        "key": "b",
+        "text": "Koerantberigtte"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16,
+    "item": "speletjie 4"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "b",
+     "q3": "b",
+     "q4": "a",
+     "q5": "a",
+     "q6": "a",
+     "q7": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Probeer weer – kyk watter spelling die reël volg.",
+    "explanation": "Onthou die reëls: kort klank – verdubbel die medeklinker + e; lang klank – een klinker val weg + e; tweeklank – voeg -e of -s by. Daar is altyd uitsonderings."
+   },
+   "answer_status": "official",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Maak die meervoud",
+   "payload": {
+    "text": "Een kat, twee {{1}}. Een boom, drie {{2}}. Een boek, vier {{3}}.",
+    "word_bank": [
+     "katte",
+     "bome",
+     "boeke"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "katte"
+    ],
+    "2": [
+     "bome"
+    ],
+    "3": [
+     "boeke"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "kat: kort klank → katte; boom: lang klank → bome; boek: tweeklank → boeke."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die meervoud van “kind” is “kinde”."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die meervoud van kind is kinders – ’n uitsondering op die reël."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die korrekte meervoud van “hond”?",
+   "explanation": "Tweeklank-reël: voeg -e by.",
+   "options": [
+    {
+     "key": "a",
+     "text": "honde",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "hondde"
+    },
+    {
+     "key": "c",
+     "text": "honds"
+    },
+    {
+     "key": "d",
+     "text": "hondjes"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "1"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die meervoud van “fossiel”?",
+   "explanation": "Die werkboek gee die antwoord: fossiele.",
+   "options": [
+    {
+     "key": "a",
+     "text": "fossiele",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "fossiels"
+    },
+    {
+     "key": "c",
+     "text": "fossielle"
+    },
+    {
+     "key": "d",
+     "text": "fossielen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "3"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter spelling van die meervoud van “skelet” is korrek?",
+   "explanation": "Kort klank: verdubbel die medeklinker + e → skelette.",
+   "options": [
+    {
+     "key": "a",
+     "text": "skelette",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "skelete"
+    },
+    {
+     "key": "c",
+     "text": "skelettes"
+    },
+    {
+     "key": "d",
+     "text": "skeletten"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "8"
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die meervoud van “boom”?",
+   "explanation": "Lang klank: een klinker val weg + e → bome.",
+   "options": [
+    {
+     "key": "a",
+     "text": "bome",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "bomme"
+    },
+    {
+     "key": "c",
+     "text": "booms"
+    },
+    {
+     "key": "d",
+     "text": "boome"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "14"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "Kind – kinders is ’n uitsondering.",
+   "options": [
+    {
+     "key": "a",
+     "text": "kinders",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "kindere"
+    },
+    {
+     "key": "c",
+     "text": "kinderen"
+    },
+    {
+     "key": "d",
+     "text": "kindes"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "21"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die meervoud van “oog”?",
+   "explanation": "Die werkboek gee die antwoord: oë.",
+   "options": [
+    {
+     "key": "a",
+     "text": "oë",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "ooge"
+    },
+    {
+     "key": "c",
+     "text": "oogs"
+    },
+    {
+     "key": "d",
+     "text": "ogen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "27"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "Die f verander in w: wolf – wolwe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "wolwe",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "wolfe"
+    },
+    {
+     "key": "c",
+     "text": "wolfs"
+    },
+    {
+     "key": "d",
+     "text": "wolvve"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "29"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die meervoud van “skaap”?",
+   "explanation": "Lang klank: een a val weg + e → skape.",
+   "options": [
+    {
+     "key": "a",
+     "text": "skape",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "skaape"
+    },
+    {
+     "key": "c",
+     "text": "skaaps"
+    },
+    {
+     "key": "d",
+     "text": "skapen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "23"
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "Die werkboek gee die antwoord: skadu’s.",
+   "options": [
+    {
+     "key": "a",
+     "text": "skadu’s",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "skadus"
+    },
+    {
+     "key": "c",
+     "text": "skaduwe"
+    },
+    {
+     "key": "d",
+     "text": "skadue"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 13,
+    "pdf_page": 17,
+    "item": "28"
+   },
+   "key": "q09"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter reël pas by “kat – katte”?",
+   "explanation": "Die werkboek gee hierdie voorbeeld by die reël vir kort klanke.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kort klank: verdubbel die medeklinker en voeg -e by",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Lang klank: een klinker val weg"
+    },
+    {
+     "key": "c",
+     "text": "Net ’n -s byvoeg"
+    },
+    {
+     "key": "d",
+     "text": "Die woord bly dieselfde"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 12,
+    "pdf_page": 16
+   },
+   "key": "q10"
+  }
+ ]
+}

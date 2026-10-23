@@ -1,0 +1,686 @@
+{
+ "key": "gr6-afr-b2-wk119",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 119,
+ "title_af": "Blindheid het my nie gekeer nie",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 7,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  114,
+  115
+ ],
+ "pdf_pages": [
+  118,
+  119
+ ],
+ "reference_pages": [
+  {
+   "pdf": 118,
+   "printed": 114,
+   "src": "/workbook/gr6-afr-b2/p118.webp"
+  },
+  {
+   "pdf": 119,
+   "printed": 115,
+   "src": "/workbook/gr6-afr-b2/p119.webp"
+  }
+ ],
+ "intro_af": "Dr. Obert Maguvhe het op sesjarige ouderdom blind geword – en tog het hy ’n professor geword! Lees sy outobiografie, stel ’n tydlyn op en leer jou naam in Braille skryf.",
+ "objectives_af": [
+  "’n Outobiografie lees en verstaan.",
+  "’n Tydlyn van gebeure opstel.",
+  "Die boodskap van die skrywer verstaan.",
+  "Jou naam in Braille skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Outobiografie en biografie",
+   "payload": {
+    "text": "’n **Outobiografie** is ’n storie wat iemand oor sy of haar eie lewe skryf. ’n **Biografie** word deur iemand anders geskryf. Obert het hierdie outobiografie spesiaal vir jou geskryf."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat is Braille?",
+   "payload": {
+    "paragraphs": [
+     "Braille is ’n stelsel wat deur blinde mense gebruik word om met hulle vingers te lees en skryf. Elke letter van die alfabet word verteenwoordig deur ’n patroon van opgehewe kolletjies wat hulle met hul vingerpunte kan voel en herken."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "image",
+   "title_af": "Die Braille-alfabet",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/figures/braille-alphabet.webp",
+    "alt": "Die Braille-alfabet: elke letter van A tot Z met sy patroon van kolletjies.",
+    "caption": "Die tabel wys die kolletjiepatroon vir elke letter."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat",
+   "payload": {
+    "prompt": "Bespreek: Het jy al ooit gevoel dat jy moed wil opgee – dat dinge net eenvoudig te moeilik raak? Het jy probleme wat jou aandag van jou skoolwerk aftrek?"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 114,
+    "pdf_page": 118,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Obert se tydlyn",
+   "payload": {
+    "prompt": "Verbind elke jaar met wat toe in Obert se lewe gebeur het.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "1973"
+     },
+     {
+      "key": "l2",
+      "text": "1987"
+     },
+     {
+      "key": "l3",
+      "text": "1991"
+     },
+     {
+      "key": "l4",
+      "text": "1997"
+     },
+     {
+      "key": "l5",
+      "text": "2008"
+     },
+     {
+      "key": "l6",
+      "text": "2013"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Hy studeer aan die Universiteit van die Noorde."
+     },
+     {
+      "key": "r3",
+      "text": "Hy doen nagraadse studie aan Wits."
+     },
+     {
+      "key": "r4",
+      "text": "Hy ontvang ’n Fullbright-beurs."
+     },
+     {
+      "key": "r5",
+      "text": "Hy sluit by die Kha Ri Gude-veldtog aan."
+     },
+     {
+      "key": "r6",
+      "text": "Hy word Medeprofessor aan Unisa."
+     },
+     {
+      "key": "r1",
+      "text": "Hy gaan skool by die Boseleskool vir Blindes."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119,
+    "item": "tabel"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die jaartalle en gebeure staan in die outobiografie."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die jaar 2004",
+   "payload": {
+    "prompt": "Die tabel vra ook vir 2004. Wat het in daardie tydperk in Obert se lewe gebeur? (Werk self die jaartal uit.)",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119,
+    "item": "2004"
+   },
+   "suggested_answer": "Hy het sy doktorsgraad aan die Universiteit van Pretoria verwerf (sewe jaar nadat hy uit die VSA teruggekeer het).",
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Obert se boodskap",
+   "payload": {
+    "prompt": "Watter spesiale boodskap het Obert vir alle jongmense?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119,
+    "item": "boodskap"
+   },
+   "suggested_answer": "Leer alles wat jy kan terwyl jy op skool is; moenie toelaat dat moeilike tye of hartseer jou onderkry nie; almal verdien hulle drome en harde werk bring dit.",
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Skryf jou naam in Braille",
+   "payload": {
+    "prompt": "Skryf nou jou naam in Braille. Plaas die letters van jou naam in die onderste ry en die kolletjies vir elke letter in die boonste ry. Gebruik die Braille-alfabet hierbo. (Dit is ’n teken-/skryfaktiwiteit: werk in jou werkboek.)"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119,
+    "item": "Ons doen"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Outobiografie of biografie?",
+   "payload": {
+    "prompt": "Watter soort teks is dit?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Ek is in 1967 in Venda gebore.",
+      "options": [
+       {
+        "key": "a",
+        "text": "outobiografie"
+       },
+       {
+        "key": "b",
+        "text": "biografie"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Obert is in 1967 in Venda gebore.",
+      "options": [
+       {
+        "key": "a",
+        "text": "outobiografie"
+       },
+       {
+        "key": "b",
+        "text": "biografie"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Ek het my doktorsgraad verwerf.",
+      "options": [
+       {
+        "key": "a",
+        "text": "outobiografie"
+       },
+       {
+        "key": "b",
+        "text": "biografie"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "In ’n outobiografie skryf iemand self oor sy of haar lewe (“ek”)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Obert het op die ouderdom van ses blind geword nadat hy masels gekry het."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit staan in die eerste paragraaf."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "In watter jaar is Obert gebore?",
+   "explanation": "Hy is in 1967 gebore.",
+   "options": [
+    {
+     "key": "a",
+     "text": "1967",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "1973"
+    },
+    {
+     "key": "c",
+     "text": "1987"
+    },
+    {
+     "key": "d",
+     "text": "1997"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom het Obert blind geword?",
+   "explanation": "Op ses het hy masels gekry met komplikasies.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy het masels gekry en daar was komplikasies",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het ’n ongeluk gehad"
+    },
+    {
+     "key": "c",
+     "text": "Hy is blind gebore"
+    },
+    {
+     "key": "d",
+     "text": "Hy het te veel gelees"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter skool het Obert bygewoon?",
+   "explanation": "Sy ouers het hom daar ingeskryf.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die Boseleskool vir Blindes",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Gewone dorpskool"
+    },
+    {
+     "key": "c",
+     "text": "Wits"
+    },
+    {
+     "key": "d",
+     "text": "Universiteit van Pretoria"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    5
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het Obert op skool geleer?",
+   "explanation": "Hy het geleer om Braille te lees.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om Braille te lees",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om vingertaal te gebruik"
+    },
+    {
+     "key": "c",
+     "text": "Om te sing"
+    },
+    {
+     "key": "d",
+     "text": "Om te swem"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter beurs het Obert in 1997 ontvang?",
+   "explanation": "Dit het hom gehelp om Amerika toe te gaan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Fullbright-beurs",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Sportbeurs"
+    },
+    {
+     "key": "c",
+     "text": "’n Skoolbeurs"
+    },
+    {
+     "key": "d",
+     "text": "’n Pretoriabeurs"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    14
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat was Obert se beste vriend by Vhufuli?",
+   "explanation": "Hy noem dat sy beste vriend ’n dowe seun was.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Dowe seun",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Blinde meisie"
+    },
+    {
+     "key": "c",
+     "text": "’n Onderwyser"
+    },
+    {
+     "key": "d",
+     "text": "’n Hond"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    27
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is Obert se boodskap?",
+   "explanation": "Hy moedig jongmense aan om hard te werk.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Leer alles wat jy kan en moenie opgee nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Los skool vroeg"
+    },
+    {
+     "key": "c",
+     "text": "Wag vir hulp"
+    },
+    {
+     "key": "d",
+     "text": "Volg ander na"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    37
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n outobiografie?",
+   "explanation": "Dit staan in die blokkie op bladsy 115.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Storie wat iemand oor sy of haar eie lewe skryf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Storie oor iemand anders"
+    },
+    {
+     "key": "c",
+     "text": "’n Gedig"
+    },
+    {
+     "key": "d",
+     "text": "’n Brief"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 115,
+    "pdf_page": 119
+   },
+   "key": "q08"
+  }
+ ],
+ "passage": {
+  "title": "Blindheid het my nie gekeer nie",
+  "language": "af",
+  "sentences": [
+   "Ek is in 1967 op ’n plattelandse dorpie in Venda, in die Limpopoprovinsie, gebore.",
+   "Op die ouderdom van ses het ek masels gekry – ’n alledaagse kindersiekte.",
+   "Ek was ongelukkig – daar was komplikasies en ek het blind geword.",
+   "Ek het hopeloos, magteloos en verlore gevoel.",
+   "Hoe kon ek ooit met my lewe voortgaan?",
+   "In 1973 het my ouers my by die Boseleskool vir Blindes ingeskryf.",
+   "Daar het ek geleer om Braille te lees.",
+   "Ek het die gehalte-onderrig wat ek daar ontvang het, ten volle benut.",
+   "Ek het besef ek moet goed vaar in matriek.",
+   "Skoolkinders besef nie altyd hoe belangrik dit is om hard te werk op skool nie, en dan kry hulle later in hulle lewens baie spyt.",
+   "Na skool, in 1987, het ek aan die Universiteit van die Noorde in Limpopo gaan studeer, en in 1991 het ek nagraadse studie aan die Universiteit van die Witwatersrand in Johannesburg aangepak.",
+   "Ek wou aanvanklik ’n prokureur word.",
+   "My ouma wou egter hê dat ek ’n onderwyser moes word.",
+   "Sy was reg, want dit is eintlik my voorliefde.",
+   "In 1997 het ek ’n Fullbright-beurs ontvang.",
+   "Dit het beteken dat ek Amerika toe kon gaan om ’n meestersgraad aan die Bostonse Kollege te verwerf.",
+   "Ek was in die wolke.",
+   "Ek, Obert Maguvhe, op ’n vliegtuig op pad na ’n plek wat baie ver weg was van my huis op ’n plattelandse dorpie in Venda!",
+   "Die volgende stop sou Amerika wees!",
+   "Ek kon my dit nie indink nie.",
+   "Maar ek het op die vliegtuig geklim en die reis aangepak.",
+   "In die VSA het ek alleen gewoon, en die tweejaarprogram binne slegs twaalf maande afgehandel.",
+   "My professore het gedink ek is ’n uitsonderlike student en ek kon ’n hele jaar vroeër huis toe kom as wat ons almal verwag het.",
+   "Sewe jaar nadat ek van die VSA teruggekeer het, het ek my doktorsgraad aan die Universiteit van Pretoria verwerf.",
+   "Enigiets is moontlik as jy in jouself glo en bereid is om hard te werk.",
+   "Niks is onmoontlik nie!",
+   "Iets wat my gehelp het om van jongs af in myself te glo, was die feit dat my pa van my verwag het om alles te doen wat siende kinders kon doen, soos om die beeste en bokke op te pas en onkruid in ons mielieland uit te trek.",
+   "Snaaks genoeg, my beste vriend by Vhufuli was ’n dowe seun.",
+   "Alhoewel ons nie vingertaal kon gebruik om te kommunikeer nie, het ons mekaar verstaan en het ons saam gespeel soos alle ander kinders.",
+   "Ons het diere en voëls gemaak van klei, ons het geswem, ons het die bokke gemelk en boom geklim.",
+   "Al kon ek nie sien nie en kon my maat nie hoor nie, het dit nooit by my opgekom dat hierdie dinge ons enigsins minderwaardig maak nie.",
+   "In 2008 het ek by die Department van Basiese Onderwys aangesluit om ’n afdeling van die Kha Ri Gude-geletterdheidsveldtog te lei.",
+   "Die veldtog is daarop gemik om 3,5 miljoen Suid-Afrikaanse volwassenes te leer lees en skryf, en my afdeling is in beheer daarvan om blindes in Braille te leer lees.",
+   "Ons kan nie ons oë gebruik om te lees nie, ons gebruik ons vingers!",
+   "Ek was baie opgewonde toe ek in 2013 as Medeprofessor aan die Universiteit van Suid-Afrika aangestel is.",
+   "In my nuwe pos word daar van my verwag om onderwysers op te lei om kinders met gestremdhede te onderrig.",
+   "Dit is vir my wonderlik om ander mense te kan help.",
+   "My boodskap aan elke jongmens is om alles te leer wat jy kan terwyl jy op skool is.",
+   "Moenie toelaat dat moeilike tye of hartseer jou onderkry nie.",
+   "Almal van ons verdien ons drome, en al wat dit verg om hulle te verwesenlik, is harde werk!"
+  ],
+  "paragraph_starts": [
+   0,
+   5,
+   10,
+   14,
+   23,
+   25,
+   31,
+   34,
+   37
+  ],
+  "glossary": [
+   {
+    "term": "outobiografie",
+    "definition": "’n Storie wat iemand oor sy of haar eie lewe skryf."
+   },
+   {
+    "term": "komplikasies",
+    "definition": "Moeilikhede wat by ’n siekte bykom.",
+    "sentence_index": 2
+   },
+   {
+    "term": "Braille",
+    "definition": "’n Stelsel van opgehewe kolletjies waarmee blinde mense met hul vingers lees.",
+    "sentence_index": 6
+   },
+   {
+    "term": "nagraadse",
+    "definition": "Studie ná die eerste universiteitsgraad.",
+    "sentence_index": 10
+   },
+   {
+    "term": "beurs",
+    "definition": "Geld wat jy kry om te kan studeer.",
+    "sentence_index": 14
+   },
+   {
+    "term": "uitsonderlike",
+    "definition": "Besonder goed.",
+    "sentence_index": 22
+   },
+   {
+    "term": "geletterdheid",
+    "definition": "Die vermoë om te lees en te skryf.",
+    "sentence_index": 31
+   },
+   {
+    "term": "minderwaardig",
+    "definition": "Nie so goed soos ander nie.",
+    "sentence_index": 30
+   }
+  ]
+ }
+}

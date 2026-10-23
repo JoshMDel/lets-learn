@@ -1,0 +1,783 @@
+{
+ "key": "gr6-afr-b2-wk107",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 107,
+ "title_af": "Vasvra oor die wêreldkaart",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 3,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Lees en kyk",
+  "Luister en praat"
+ ],
+ "printed_pages": [
+  88,
+  89
+ ],
+ "pdf_pages": [
+  92,
+  93
+ ],
+ "reference_pages": [
+  {
+   "pdf": 92,
+   "printed": 88,
+   "src": "/workbook/gr6-afr-b2/p092.webp"
+  },
+  {
+   "pdf": 93,
+   "printed": 89,
+   "src": "/workbook/gr6-afr-b2/p093.webp"
+  }
+ ],
+ "intro_af": "Speel die wêreldkaart-speletjie met ’n maat! Skiet ’n muntstuk op, skuif vorentoe en beantwoord die vrae met die hulp van die kaart.",
+ "objectives_af": [
+  "Inligting op ’n wêreldkaart opspoor.",
+  "Vrae oor lande, hoofstede, oseane en kompasrigtings beantwoord.",
+  "’n Bordspeletjie met ’n maat speel."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Hoe speel jy?",
+   "payload": {
+    "bullets": [
+     "Speel die speletjie saam met ’n maat.",
+     "Skiet ’n muntstuk op. As jy **kop** kry, skuif jy **twee plekke** vorentoe. As jy **munt** kry, skuif jy **net een plek** vorentoe.",
+     "Beantwoord elke vraag waarop jy land.",
+     "Kyk na die kaart om die antwoorde te kry."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Kompasrigtings",
+   "payload": {
+    "text": "Die kompas op die kaart wys vir ons die vier hoofrigtings: noord (bo), suid (onder), oos (regs) en wes (links)."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Speel die speletjie",
+   "payload": {
+    "prompt": "Speel die speletjie saam met ’n maat deur die vrae op die kaart (bl. 88–89) te beantwoord. Die vrae wissel van “In watter land woon jy?” tot “Hoekom word Somalië die horing van Afrika genoem?”"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92,
+    "item": "speletjie"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Kompasrigtings op die kaart",
+   "payload": {
+    "prompt": "Waar op die kaart?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Waar is noord op die kaart?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Bo"
+       },
+       {
+        "key": "b",
+        "text": "Onder"
+       },
+       {
+        "key": "c",
+        "text": "Links"
+       },
+       {
+        "key": "d",
+        "text": "Regs"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Waar is suid op die kaart?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Bo"
+       },
+       {
+        "key": "b",
+        "text": "Onder"
+       },
+       {
+        "key": "c",
+        "text": "Links"
+       },
+       {
+        "key": "d",
+        "text": "Regs"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Waar is oos op die kaart?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Bo"
+       },
+       {
+        "key": "b",
+        "text": "Onder"
+       },
+       {
+        "key": "c",
+        "text": "Links"
+       },
+       {
+        "key": "d",
+        "text": "Regs"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Waar is wes op die kaart?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Bo"
+       },
+       {
+        "key": "b",
+        "text": "Onder"
+       },
+       {
+        "key": "c",
+        "text": "Links"
+       },
+       {
+        "key": "d",
+        "text": "Regs"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92,
+    "item": "kompas"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "d",
+     "q4": "c"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die kompas op die kaart wys: Noord bo, Suid onder, Oos regs, Wes links."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Lande en kontinente",
+   "payload": {
+    "prompt": "Kyk op die kaart.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Waar kom die piramides voor?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Egipte"
+       },
+       {
+        "key": "b",
+        "text": "Brasilië"
+       },
+       {
+        "key": "c",
+        "text": "Kanada"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Waar is die Eiffeltoring?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Parys, Frankryk"
+       },
+       {
+        "key": "b",
+        "text": "Tokio, Japan"
+       },
+       {
+        "key": "c",
+        "text": "Washington, VSA"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Watter oseaan oorkruis jy om van Suid-Afrika na Australië te kom?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Indiese Oseaan"
+       },
+       {
+        "key": "b",
+        "text": "Arktiese See"
+       },
+       {
+        "key": "c",
+        "text": "Noord-Atlantiese Oseaan"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Noem ’n land in die suidelike deel van Afrika.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Namibië"
+       },
+       {
+        "key": "b",
+        "text": "Egipte"
+       },
+       {
+        "key": "c",
+        "text": "Marokko"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93,
+    "item": "kaart"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die kaart wys hierdie plekke en lande."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Hoofstad en land",
+   "payload": {
+    "prompt": "Verbind elke hoofstad met sy land.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Windhoek"
+     },
+     {
+      "key": "l2",
+      "text": "Brasília"
+     },
+     {
+      "key": "l3",
+      "text": "Washington D.C."
+     },
+     {
+      "key": "l4",
+      "text": "Parys"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Brasilië"
+     },
+     {
+      "key": "r3",
+      "text": "VSA"
+     },
+     {
+      "key": "r4",
+      "text": "Frankryk"
+     },
+     {
+      "key": "r1",
+      "text": "Namibië"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Hierdie hoofstede kom uit algemene kennis; die werkboek laat jou die antwoorde op die kaart of in ’n atlas opsoek."
+   },
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Algemene kennis",
+   "payload": {
+    "prompt": "Kies die beste antwoord.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Wat is die geldeenheid van die VSA?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Dollar"
+       },
+       {
+        "key": "b",
+        "text": "Rand"
+       },
+       {
+        "key": "c",
+        "text": "Euro"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Wat is die geldeenheid van baie lande in Europa?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Euro"
+       },
+       {
+        "key": "b",
+        "text": "Dollar"
+       },
+       {
+        "key": "c",
+        "text": "Pond"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Watter taal word in China gepraat?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Chinees (Mandaryns)"
+       },
+       {
+        "key": "b",
+        "text": "Frans"
+       },
+       {
+        "key": "c",
+        "text": "Japannees"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Watter taal word in Australië gepraat?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Engels"
+       },
+       {
+        "key": "b",
+        "text": "Portugees"
+       },
+       {
+        "key": "c",
+        "text": "Duits"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Wat is die grootste land in die wêreld?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Rusland"
+       },
+       {
+        "key": "b",
+        "text": "Kanada"
+       },
+       {
+        "key": "c",
+        "text": "Brasilië"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93,
+    "item": "vrae"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a",
+     "q4": "a",
+     "q5": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Hierdie feite kom uit algemene kennis (nie uit ’n amptelike antwoordsleutel nie). Kyk jou antwoorde na in ’n atlas."
+   },
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Dink na",
+   "payload": {
+    "prompt": "Dink aan die vrae: Waarom verkluim ysbere en pikkewyne nie? Waarvan word ’n igloe gemaak? Woon pikkewyne net by die Suidpool? Bespreek met jou maat en kyk dan in ’n boek of op die internet."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92,
+    "item": "dink"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel plekke skuif jy vorentoe as jy “kop” kry?",
+   "explanation": "Kop: twee plekke. Munt: een plek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Twee",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een"
+    },
+    {
+     "key": "c",
+     "text": "Drie"
+    },
+    {
+     "key": "d",
+     "text": "Vier"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel plekke skuif jy vorentoe as jy “munt” kry?",
+   "explanation": "Munt: net een plek vorentoe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Een",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Twee"
+    },
+    {
+     "key": "c",
+     "text": "Drie"
+    },
+    {
+     "key": "d",
+     "text": "Geen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat doen jy as jy op ’n vierkant land?",
+   "explanation": "Beantwoord elke vraag waarop jy land.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Beantwoord die vraag",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Gaan terug na BEGIN"
+    },
+    {
+     "key": "c",
+     "text": "Skuif nog drie plekke"
+    },
+    {
+     "key": "d",
+     "text": "Laat jou maat antwoord"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar is noord op die kaart?",
+   "explanation": "Op die kompas wys noord boontoe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Bo",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Onder"
+    },
+    {
+     "key": "c",
+     "text": "Links"
+    },
+    {
+     "key": "d",
+     "text": "Regs"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92,
+    "item": "kompas"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar is oos op die kaart?",
+   "explanation": "Oos is regs op die kompas.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Regs",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Links"
+    },
+    {
+     "key": "c",
+     "text": "Bo"
+    },
+    {
+     "key": "d",
+     "text": "Onder"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92,
+    "item": "kompas"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter oseaan oorkruis jy van Suid-Afrika na Australië?",
+   "explanation": "Suid-Afrika en Australië lê aan weerskante van die Indiese Oseaan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Indiese Oseaan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Noordelike Stille Oseaan"
+    },
+    {
+     "key": "c",
+     "text": "Arktiese See"
+    },
+    {
+     "key": "d",
+     "text": "Noord-Atlantiese Oseaan"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93,
+    "item": "kaart"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "In watter kontinent is die piramides?",
+   "explanation": "Die piramides kom in Egipte voor – dit lê in Afrika.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Afrika",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Asië"
+    },
+    {
+     "key": "c",
+     "text": "Europa"
+    },
+    {
+     "key": "d",
+     "text": "Oseanië"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 89,
+    "pdf_page": 93,
+    "item": "kaart"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "In watter land staan die Eiffeltoring?",
+   "explanation": "Die kaart wys die Eiffeltoring by Parys in Frankryk.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Frankryk",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Brasilië"
+    },
+    {
+     "key": "c",
+     "text": "Japan"
+    },
+    {
+     "key": "d",
+     "text": "Kanada"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 88,
+    "pdf_page": 92,
+    "item": "kaart"
+   },
+   "key": "q08"
+  }
+ ]
+}

@@ -1,0 +1,608 @@
+{
+ "key": "gr6-afr-b2-wk117",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 117,
+ "title_af": "Die kinders gaan kampeer",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 5,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Lees en kyk",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  110,
+  111
+ ],
+ "pdf_pages": [
+  114,
+  115
+ ],
+ "reference_pages": [
+  {
+   "pdf": 114,
+   "printed": 110,
+   "src": "/workbook/gr6-afr-b2/p114.webp"
+  },
+  {
+   "pdf": 115,
+   "printed": 111,
+   "src": "/workbook/gr6-afr-b2/p115.webp"
+  }
+ ],
+ "intro_af": "Iets kruip in die tent! Lees hoe Vusi, Kallie en Bongi vir ’n skrikgeleentheid te staan kom, en soek sinonieme in die storie.",
+ "objectives_af": [
+  "’n Fiktiewe teks lees en verstaan.",
+  "Vrae oor die teks beantwoord.",
+  "Sinonieme vir woorde en frases uit die teks opspoor."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Sinonieme",
+   "payload": {
+    "text": "**Sinonieme** is woorde met min of meer dieselfde betekenis, soos praat en gesels."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 111,
+    "pdf_page": 115
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat",
+   "payload": {
+    "prompt": "Bespreek: Wat is die groot verskil tussen soogdiere en reptiele? Hoeveel reptiele kan jy opnoem? Indien jy ’n onverwagte ontmoeting met ’n reptiel gehad het, vertel die klas daarvan."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 110,
+    "pdf_page": 114,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Sinonieme in die storie",
+   "payload": {
+    "prompt": "Lees die storie weer. Verbind elke woord of frase met ’n sinoniem uit die storie.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "agteruit beweeg"
+     },
+     {
+      "key": "l2",
+      "text": "enorme"
+     },
+     {
+      "key": "l3",
+      "text": "mompel"
+     },
+     {
+      "key": "l4",
+      "text": "moeilikheid soek"
+     },
+     {
+      "key": "l5",
+      "text": "skree"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "yslike"
+     },
+     {
+      "key": "r3",
+      "text": "brom"
+     },
+     {
+      "key": "r4",
+      "text": "skoorsoek"
+     },
+     {
+      "key": "r5",
+      "text": "gil"
+     },
+     {
+      "key": "r1",
+      "text": "retireer"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 111,
+    "pdf_page": 115,
+    "item": "Ons skryf"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die storie gebruik retireer, yslike, brom en skoorsoek vir die eerste vier; vir “skree” kan ’n mens “gil” gebruik."
+   },
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Is dit waar volgens die storie?",
+   "payload": {
+    "prompt": "Lees die sinne en kies reg of verkeerd.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Kallie skree “slang!”.",
+      "options": [
+       {
+        "key": "a",
+        "text": "reg"
+       },
+       {
+        "key": "b",
+        "text": "verkeerd"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Mnr. Mosoma haal ’n graaf en ’n flits.",
+      "options": [
+       {
+        "key": "a",
+        "text": "reg"
+       },
+       {
+        "key": "b",
+        "text": "verkeerd"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Die tentvloer was aan die sykante vasgemaak.",
+      "options": [
+       {
+        "key": "a",
+        "text": "reg"
+       },
+       {
+        "key": "b",
+        "text": "verkeerd"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die likkewaan het ’n patroon van wit blokkies op sy vel.",
+      "options": [
+       {
+        "key": "a",
+        "text": "reg"
+       },
+       {
+        "key": "b",
+        "text": "verkeerd"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die tentvloer was nie vasgemaak nie – dit is hoe die likkewaan ingekom het."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Wat het jy geleer?",
+   "payload": {
+    "prompt": "Skryf een ding wat jy uit die storie geleer het oor veldlikkewane.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 111,
+    "pdf_page": 115,
+    "item": "geleer"
+   },
+   "suggested_answer": "Veldlikkewane het skubberige swart vel met wit blokkies, lang naels, sis en byt; hulle laat nie maklik los nie.",
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie gil toe die tent oopgemaak word?",
+   "explanation": "Kallie uiter ’n bloedstollende gil.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kallie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Bongi"
+    },
+    {
+     "key": "c",
+     "text": "Mnr. Mosoma"
+    },
+    {
+     "key": "d",
+     "text": "Vusi"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarmee bots Vusi?",
+   "explanation": "Vusi bots met Bongi.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met Bongi",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Met Kallie"
+    },
+    {
+     "key": "c",
+     "text": "Met sy pa"
+    },
+    {
+     "key": "d",
+     "text": "Met die tent"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat dink die kinders is in die tent?",
+   "explanation": "Kallie skree “slang!”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Slang",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Hond"
+    },
+    {
+     "key": "c",
+     "text": "’n Hiëna"
+    },
+    {
+     "key": "d",
+     "text": "’n Rooibok"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat bring mnr. Mosoma saam?",
+   "explanation": "Hy keer terug met ’n flits en ’n graaf.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Flits en ’n graaf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Gewere en ’n tou"
+    },
+    {
+     "key": "c",
+     "text": "’n Emmer en water"
+    },
+    {
+     "key": "d",
+     "text": "’n Kamera"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    15
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat was in die tent?",
+   "explanation": "Mnr. Mosoma sê: “’n Veldlikkewaan”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Veldlikkewaan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Slang"
+    },
+    {
+     "key": "c",
+     "text": "’n Krokodil"
+    },
+    {
+     "key": "d",
+     "text": "’n Muis"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    26
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe het die likkewaan in die tent ingekom?",
+   "explanation": "Mnr. Mosoma vra of hulle nie die tentvloer moes vasmaak nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die tentvloer was nie aan die sykante vasgemaak nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het ’n gat gebyt"
+    },
+    {
+     "key": "c",
+     "text": "Die tent was oop"
+    },
+    {
+     "key": "d",
+     "text": "Kallie het hom ingelaat"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    28
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe weet ons Vusi probeer die onderwerp verander?",
+   "explanation": "Hy verander die onderwerp met ’n vraag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy vra “Wat is ’n veldlikkewaan, Pa?”",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy loop weg"
+    },
+    {
+     "key": "c",
+     "text": "Hy lag"
+    },
+    {
+     "key": "d",
+     "text": "Hy sê niks"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    31
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat beteken “skoorsoek”?",
+   "explanation": "Mnr. Mosoma sê: “moenie met hom skoorsoek nie”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Moeilikheid soek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hardloop"
+    },
+    {
+     "key": "c",
+     "text": "Skree"
+    },
+    {
+     "key": "d",
+     "text": "Loop"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    38
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Die kinders gaan kampeer",
+  "language": "af",
+  "sentences": [
+   "Vusi loop net agter sy maat Kallie, wat besig is om die tent se ritssluiter oop te maak.",
+   "Vusi wip soos hy skrik toe sy maat ’n bloedstollende gil uiter, en hy bots met Bongi, wat agter hom staan.",
+   "“S ... s ... slang!” skree Kallie terwyl hy vinnig retireer.",
+   "Vusi se pa, mnr.",
+   "Mosoma, kom van die kampvuur af aangehardloop.",
+   "“Hoe seker is jy dis ’n slang?” vra hy met ’n onderdrukte glimlag terwyl hy na die drie bewende kinders kyk.",
+   "“Sy tong flits in en uit, Pa, en hy lyk soos ’n yslike akkedis!” hyg Vusi.",
+   "“Wag julle almal asseblief net hier terwyl ek die flits gaan haal.",
+   "Dalk is dit nie ’n slang nie.”",
+   "Bongi raak aan Kallie se skouer.",
+   "“Hoe kan dit nie ’n slang wees nie?",
+   "Weet julle van enige ander dier wie se tong uit sy mond uitskiet?” vra sy.",
+   "Kallie en Vusi skud hul koppe.",
+   "Hulle het nie ’n verduideliking nie.",
+   "Mnr.",
+   "Mosoma keer terug met ’n flits in die hand en ’n graaf in die ander.",
+   "Hy roep vir Vusi na hom toe.",
+   "“Vusi, ek het die graaf gebring net om hom van ons weg te hou, nie om hom seer te maak nie,” sê hy.",
+   "“Hou jy net asseblief vir my die flits vas.”",
+   "“Hoekom ek, Pa?” vra Vusi met ’n klein stemmetjie.",
+   "“Moenie bekommerd wees nie,” sê sy pa, “ek sal voor stap.”",
+   "Mnr.",
+   "Mosoma lig die tentflap met een hand op, en Vusi lig met die flits in die tent in.",
+   "Die ander twee kinders kom ook ’n bietjie nader, maar hulle sorg dat hulle op ’n veilige afstand van die tent af bly.",
+   "“Ja, dis soos ek gedink het,” brom mnr.",
+   "Mosoma terwyl hy na die kinders draai.",
+   "“’n Veldlikkewaan.",
+   "Maar hoe het hy hier ingekom?",
+   "Het ek nie gesê julle moet die tentvloer aan die sykante vasmaak nie?”",
+   "Vusi kyk na sy tekkies en die ander twee kyk met ’n skouerophaling na mekaar.",
+   "Soos gewoonlik was hulle die oggend te haastig.",
+   "Vusi besluit dit is tyd om die onderwerp te verander.",
+   "“Wat is ’n veldlikkewaan, Pa?",
+   "Kan hy byt of spoeg?”",
+   "Bongi is gefassineer deur die voorkoms van die reuseakkedis.",
+   "In die flits se lig word ’n patroon van wit blokkies op sy skubberige swart vel duidelik.",
+   "Hy het lang, swart naels aan al vier beplooide pote.",
+   "Sy wip toe die dier ’n harde sisgeluid maak.",
+   "“Pasop, kinders, moenie met hom skoorsoek nie.",
+   "As hy jou byt, laat hy nie sommer weer los nie,” sê mnr.",
+   "Mosoma.",
+   "“Jek!” brom Kallie terwyl hy verder uit die ligkring retireer."
+  ],
+  "paragraph_starts": [
+   0,
+   2,
+   3,
+   6,
+   7,
+   9,
+   14,
+   19,
+   21,
+   24,
+   29,
+   34,
+   38
+  ],
+  "glossary": [
+   {
+    "term": "ritssluiter",
+    "definition": "Die toemaakding met tandjies aan ’n tent of klere.",
+    "sentence_index": 0
+   },
+   {
+    "term": "retireer",
+    "definition": "Agteruit beweeg; terugtrek.",
+    "sentence_index": 2
+   },
+   {
+    "term": "onderdrukte",
+    "definition": "Probeer wegsteek; nie heeltemal gewys nie.",
+    "sentence_index": 5
+   },
+   {
+    "term": "yslike",
+    "definition": "Baie groot.",
+    "sentence_index": 6
+   },
+   {
+    "term": "skoorsoek",
+    "definition": "Moeilikheid soek.",
+    "sentence_index": 38
+   },
+   {
+    "term": "veldlikkewaan",
+    "definition": "’n Groot reptiel met ’n lang tong wat in Afrika voorkom.",
+    "sentence_index": 26
+   },
+   {
+    "term": "gefassineer",
+    "definition": "Baie belangstellend; jy kan nie ophou kyk nie.",
+    "sentence_index": 34
+   },
+   {
+    "term": "beplooide",
+    "definition": "Met plooie (soos ou, ronde vel).",
+    "sentence_index": 36
+   }
+  ]
+ }
+}

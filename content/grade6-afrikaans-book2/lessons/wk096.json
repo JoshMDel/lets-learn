@@ -1,0 +1,958 @@
+{
+ "key": "gr6-afr-b2-wk096",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 96,
+ "title_af": "Taalstrukture en -konvensies",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk9-10",
+  "name_af": "Tema 6 · Week 9–10: Speeltyd",
+  "name_en": "Theme 6 · Weeks 9–10: Playtime",
+  "sort": 105
+ },
+ "tier_number": 4,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 9–10",
+ "skill_areas": [
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  66,
+  67
+ ],
+ "pdf_pages": [
+  70,
+  71
+ ],
+ "reference_pages": [
+  {
+   "pdf": 70,
+   "printed": 66,
+   "src": "/workbook/gr6-afr-b2/p070.webp"
+  },
+  {
+   "pdf": 71,
+   "printed": 67,
+   "src": "/workbook/gr6-afr-b2/p071.webp"
+  }
+ ],
+ "intro_af": "Sinonieme, antonieme, klank- en lettergrepe, spelling, idiome en direkte en indirekte rede – ’n groot hersiening van die tema se taalreëls!",
+ "objectives_af": [
+  "Sinonieme en antonieme in die toneelstuk vind.",
+  "Woorde in klank- en lettergrepe verdeel.",
+  "-t of -d en v- of f- korrek invul.",
+  "Idiome met hulle betekenisse verbind.",
+  "Tussen direkte en indirekte rede verander."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Indirekte rede: die vereistes",
+   "payload": {
+    "bullets": [
+     "Aanhalingstekens val weg.",
+     "Hooflettergebruik verander.",
+     "Voornaamwoorde verander.",
+     "’n Vraagsin in die direkte rede vra nie meer ’n vraag in die indirekte rede nie; die vraag word nou ’n stelsin. Die vraagteken val ook weg."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Sinonieme in die toneelstuk",
+   "payload": {
+    "prompt": "Soek in die toneelstuk sinonieme: verbind elke betekenis met die woord.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "’n vertrek in ’n huis waar daar gekuier word"
+     },
+     {
+      "key": "l2",
+      "text": "’n kind se vroulike ouer"
+     },
+     {
+      "key": "l3",
+      "text": "die werk wat jy na skool doen"
+     },
+     {
+      "key": "l4",
+      "text": "’n baie lang tydperk"
+     },
+     {
+      "key": "l5",
+      "text": "teenstanders"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "moeder"
+     },
+     {
+      "key": "r3",
+      "text": "huiswerk"
+     },
+     {
+      "key": "r4",
+      "text": "ewigheid"
+     },
+     {
+      "key": "r5",
+      "text": "opponente"
+     },
+     {
+      "key": "r1",
+      "text": "sitkamer"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 66,
+    "pdf_page": 70,
+    "item": "sinonieme"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Al hierdie woorde kom in die toneelstuk voor."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Antonieme",
+   "payload": {
+    "prompt": "Verbind elke woord met sy antoniem (teenoorgestelde).",
+    "left": [
+     {
+      "key": "l1",
+      "text": "dogter"
+     },
+     {
+      "key": "l2",
+      "text": "wen"
+     },
+     {
+      "key": "l3",
+      "text": "ontspanne"
+     },
+     {
+      "key": "l4",
+      "text": "saggies"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "verloor"
+     },
+     {
+      "key": "r3",
+      "text": "gespanne"
+     },
+     {
+      "key": "r4",
+      "text": "luidrugtig"
+     },
+     {
+      "key": "r1",
+      "text": "seun"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 66,
+    "pdf_page": 70,
+    "item": "antonieme"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Antonieme het die teenoorgestelde betekenis."
+   },
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Klankgrepe en lettergrepe",
+   "payload": {
+    "text": "opponente – klankgrepe: {{1}}  lettergrepe: {{2}}\nhulle – klankgrepe: {{3}}  lettergrepe: {{4}}\nplekke – klankgrepe: {{5}}  lettergrepe: {{6}}\nkommunikeer – klankgrepe: {{7}}  lettergrepe: {{8}}\nboeksakke – klankgrepe: {{9}}  lettergrepe: {{10}}",
+    "prompt": "Verdeel die woorde in klank- en lettergrepe (skei met koppeltekens)."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 66,
+    "pdf_page": 70,
+    "item": "tabel"
+   },
+   "answer": {
+    "1": [
+     "o-ppo-nen-te"
+    ],
+    "2": [
+     "op-po-nen-te"
+    ],
+    "3": [
+     "hu-lle"
+    ],
+    "4": [
+     "hul-le"
+    ],
+    "5": [
+     "ple-kke"
+    ],
+    "6": [
+     "plek-ke"
+    ],
+    "7": [
+     "ko-mmu-ni-keer"
+    ],
+    "8": [
+     "kom-mu-ni-keer"
+    ],
+    "9": [
+     "boek-sa-kke",
+     "boe-ksa-kke"
+    ],
+    "10": [
+     "boek-sak-ke"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Klankgrepe breek voor die dubbele medeklinker; lettergrepe tussen die twee ewe medeklinkers."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "-t of -d?",
+   "payload": {
+    "text": "Hennie dra ’n groo{{1}}, swar{{2}} hoe{{3}} by die rugbywe{{4}}stry{{5}} wan{{6}} hy is bang die son bran{{7}} hom.",
+    "prompt": "Vul -t of -d in."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "t/d"
+   },
+   "answer": {
+    "1": [
+     "t"
+    ],
+    "2": [
+     "t"
+    ],
+    "3": [
+     "d"
+    ],
+    "4": [
+     "d"
+    ],
+    "5": [
+     "d"
+    ],
+    "6": [
+     "t"
+    ],
+    "7": [
+     "d"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Sê die meervoud: groot – groot (groter), swart – swart, hoede, wedstryde, brand – brande."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "v- of f-?",
+   "payload": {
+    "text": "Die {{1}}rou ry {{2}}innig met haar {{3}}iets winkel toe om ’n {{4}}is te gaan koop.",
+    "prompt": "Vul v- of f- in."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "v/f"
+   },
+   "answer": {
+    "1": [
+     "v"
+    ],
+    "2": [
+     "v"
+    ],
+    "3": [
+     "f"
+    ],
+    "4": [
+     "v"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "vrou, vinnig, fiets, vis."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Uitdrukkings en hul betekenisse",
+   "payload": {
+    "prompt": "Verbind elke uitdrukking met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "op die planke bring"
+     },
+     {
+      "key": "l2",
+      "text": "onder die dekmantel van"
+     },
+     {
+      "key": "l3",
+      "text": "min of meer"
+     },
+     {
+      "key": "l4",
+      "text": "in die kollig wees"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "onder die masker van"
+     },
+     {
+      "key": "r3",
+      "text": "naastenby"
+     },
+     {
+      "key": "r4",
+      "text": "die middelpunt van die aandag wees"
+     },
+     {
+      "key": "r1",
+      "text": "’n nuwe toneelstuk opvoer"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "uitdrukkings"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Idiome het ’n figuurlike betekenis."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "’n Vergelyking uit die toneelstuk",
+   "payload": {
+    "prompt": "Skryf ’n vergelyking uit die toneelstuk op bladsy 60 tot 61 hier neer.",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "vergelyking"
+   },
+   "suggested_answer": "“Die bal trek soos ’n pyl uit ’n boog.”",
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Indirekte rede",
+   "payload": {
+    "prompt": "Herskryf hierdie sin in die indirekte rede: MOEDER: Hennie Havenga, gaan doen nou dadelik jou huiswerk!",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "indirek"
+   },
+   "suggested_answer": "Die moeder het vir Hennie Havenga gesê dat hy dadelik sy huiswerk moes gaan doen.",
+   "answer_status": "derived_from_rule",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Direkte rede",
+   "payload": {
+    "prompt": "Herskryf hierdie sin in die direkte rede en vul die nodige hoofletters asook lees- en skryftekens in: hennie maar pa waaroor kan ek skryf",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "direk"
+   },
+   "suggested_answer": "Hennie vra: “Maar Pa, waaroor kan ek skryf?”",
+   "answer_status": "derived_from_rule",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Kontrolelys: Ek kan …",
+   "payload": {
+    "prompt": "Merk wat jy al kan doen. Dit is net vir jou eie nagaan.",
+    "lines": 1,
+    "no_text": true,
+    "checklist": [
+     "die kenmerke van ’n verhaal bespreek.",
+     "oordrywing en stereotipes identifiseer.",
+     "’n verhalende teks lees.",
+     "idiomatiese uitdrukkings identifiseer.",
+     "die teks soeklees en spesifieke vrae beantwoord.",
+     "’n gedeelte in die teks opspoor.",
+     "beskryf hoe ’n karakter se gevoelens verander het.",
+     "die agtergrond, intrige en karakters in die storie identifiseer.",
+     "’n mening oor verhoudinge tussen kultuurgroepe lug.",
+     "’n geheuekaart oor ’n storie opstel.",
+     "die storie aan die hand van die geheuekaart oorskryf.",
+     "die eienskappe van ’n brief bespreek.",
+     "’n vriendskaplike brief lees.",
+     "die teenwoordige, verlede en toekomende tyd onderskei.",
+     "die brief soeklees om bepaalde frases en sinne te vind.",
+     "meerkeusevrae oor die brief beantwoord.",
+     "’n geheuekaart gebruik om ’n brief te beplan.",
+     "’n vriendskaplike brief skryf.",
+     "’n e-pos lees.",
+     "die e-pos soeklees om bepaalde vrae te beantwoord.",
+     "homofone en homonieme identifiseer.",
+     "woordtipes identifiseer.",
+     "verkleinings voorsien.",
+     "woordsoorte identifiseer.",
+     "die bedrywende en die lydende vorm gebruik.",
+     "woorde met hul sinonieme en antonieme verbind.",
+     "voegwoorde gebruik om sinne te verbind.",
+     "enkelvoudige, saamgestelde en veelvoudige sinne skryf.",
+     "sinne in die verlede en toekomende tyd oorskryf.",
+     "die ontkennende vorm gebruik.",
+     "afkortings en akronieme voorsien.",
+     "’n strokiesprentverhaal vluglees.",
+     "aspekte van die strokiesprentverhaal bespreek.",
+     "elke raam van die verhaal beskryf.",
+     "sinne in die direkte rede oorskryf.",
+     "’n mening oor advertensies uitspreek.",
+     "’n strokiesprent-advertensie lees.",
+     "die advertensie soeklees om bepaalde vrae te beantwoord.",
+     "’n eie advertensie beplan.",
+     "’n advertensie skryf.",
+     "’n advertensie rolspeel.",
+     "klank- en lettergrepe identifiseer.",
+     "sinonieme en antonieme voorsien.",
+     "vaste uitdrukkings met hul betekenisse verbind.",
+     "’n eie vergelyking skryf.",
+     "die korrekte spelling identifiseer.",
+     "meervoude en verkleinwoorde vorm.",
+     "hoofletters asook lees- en skryftekens in sinne invul.",
+     "’n toneelstuk lees.",
+     "die toneelstuk opvoer.",
+     "vrae oor die toneelstuk beantwoord.",
+     "die toneelstuk opsom.",
+     "tegnieke in die toneelstuk identifiseer.",
+     "’n toneelstuk in groepverband skryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 68,
+    "pdf_page": 72,
+    "item": "Kontrolelys"
+   },
+   "key": "act-10",
+   "sort_order": 100
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter woord is ’n sinoniem vir “opponente”?",
+   "explanation": "Opponente beteken teenstanders.",
+   "options": [
+    {
+     "key": "a",
+     "text": "teenstanders",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "spelers"
+    },
+    {
+     "key": "c",
+     "text": "kykers"
+    },
+    {
+     "key": "d",
+     "text": "vriende"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 66,
+    "pdf_page": 70
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die antoniem van “wen”?",
+   "explanation": "Wen en verloor is teenoorgesteld.",
+   "options": [
+    {
+     "key": "a",
+     "text": "verloor",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "speel"
+    },
+    {
+     "key": "c",
+     "text": "skop"
+    },
+    {
+     "key": "d",
+     "text": "kyk"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 66,
+    "pdf_page": 70,
+    "item": "antonieme"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Hoe word “opponente” in lettergrepe verdeel?",
+   "explanation": "Lettergrepe breek tussen die twee ewe medeklinkers.",
+   "options": [
+    {
+     "key": "a",
+     "text": "op-po-nen-te",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "o-ppo-nen-te"
+    },
+    {
+     "key": "c",
+     "text": "opp-onen-te"
+    },
+    {
+     "key": "d",
+     "text": "oppo-nen-te"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 66,
+    "pdf_page": 70,
+    "item": "tabel"
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "V staan nooit aan die einde van ’n woord of lettergreep nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "vinnig",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "finnig"
+    },
+    {
+     "key": "c",
+     "text": "vinig"
+    },
+    {
+     "key": "d",
+     "text": "fienig"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "v/f"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter spelling is korrek?",
+   "explanation": "Meervoud: wedstryde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "wedstryd",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "wedstryt"
+    },
+    {
+     "key": "c",
+     "text": "wetstryd"
+    },
+    {
+     "key": "d",
+     "text": "wetstryt"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "t/d"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “in die kollig wees”?",
+   "explanation": "Dit is die betekenis volgens die werkboek se uitdrukkingslys.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die middelpunt van die aandag wees",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In die donker wees"
+    },
+    {
+     "key": "c",
+     "text": "Naastenby wees"
+    },
+    {
+     "key": "d",
+     "text": "’n Nuwe toneelstuk opvoer"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "uitdrukkings"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat verander in die indirekte rede?",
+   "explanation": "Dit is die werkboek se vereistes vir die indirekte rede.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Aanhalingstekens val weg en voornaamwoorde verander",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Niks verander nie"
+    },
+    {
+     "key": "c",
+     "text": "Die sin kry meer aanhalingstekens"
+    },
+    {
+     "key": "d",
+     "text": "Die sin word altyd ’n vraag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat gebeur met ’n vraag in die indirekte rede?",
+   "explanation": "Die werkboek sê dit by die vereistes.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dit word ’n stelsin en die vraagteken val weg",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit bly ’n vraag"
+    },
+    {
+     "key": "c",
+     "text": "Dit word ’n uitroep"
+    },
+    {
+     "key": "d",
+     "text": "Dit kry twee vraagtekens"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “min of meer”?",
+   "explanation": "Dit is die betekenis volgens die werkboek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "naastenby",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "presies"
+    },
+    {
+     "key": "c",
+     "text": "nooit"
+    },
+    {
+     "key": "d",
+     "text": "altyd"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 67,
+    "pdf_page": 71,
+    "item": "uitdrukkings"
+   },
+   "key": "q09"
+  }
+ ],
+ "passage": {
+  "title": "Hennie is ’n rugbyster! (werkkaart 93)",
+  "language": "af",
+  "sentences": [
+   "Toneel: In Hennie se sitkamer.",
+   "Hy lê op die rusbank en kyk na ’n rugbywedstryd op TV.",
+   "Sy ma en pa kyk besorg na hom omdat hy nie sy huiswerk doen nie.",
+   "MOEDER: Hennie, het jy jou huiswerk gedoen?",
+   "HENNIE: Hm … aa … wel, min of meer.",
+   "Hm … ek het nie regtig baie huiswerk nie, Ma.",
+   "Al wat ek moet doen, is om ’n storie van 300 woorde oor iets te skryf.",
+   "Ek sal dit doen, maar ek wil net gou eers die res van die wedstryd kyk.",
+   "MOEDER: Hennie Havenga, gaan doen nou dadelik jou huiswerk! [Tel boeketas van die vloer af op en sit dit bo-op die tafel neer.]",
+   "HENNIE: Ai Ma!",
+   "Hoe kan ons onderwyser ons vra om ’n storie van 300 woorde te skryf?",
+   "Ek is nie Shakespeare nie!",
+   "Driehonderd woorde!",
+   "Dit sal ’n ewigheid duur!",
+   "Waaroor sal ek skryf?",
+   "Kan ek nie net gou eers na hierdie wedstryd tussen die Bulle en die Leeus kyk nie?",
+   "Ek sal direk ná die wedstryd my huiswerk begin doen, ek belowe!",
+   "VADER: [Haal ’n boek uit die skoolsak en maak dit oop.] Dalk sal dit jou help.",
+   "Kyk na hierdie breinkaart in jou werkboek.",
+   "Dit sê jy moet jou onderwerp in die middel skryf, en dan jou vier hoofgedagtes in elk van hierdie vier raampies.",
+   "Dis baie maklik!",
+   "Komaan, seun.",
+   "HENNIE: Maar Pa, waaroor kan ek skryf?",
+   "Ek sal begin met my naam en van.",
+   "Dan het ek reeds twee woorde.",
+   "Nog het 298 woorde!",
+   "Ek wens ek kan net die wedstryd klaar kyk.",
+   "Okei, okei, ek sal begin dink.",
+   "Waaroor sal ek skryf? [Hennie raak aan die slaap met sy kop op sy boeketas.]",
+   "VERTELLER: Hoe meer Hennie aan ’n onderwerp probeer dink, hoe vaker word hy.",
+   "Hy gaap luidrugtig en sit sy kop op sy boeketas neer.",
+   "Gou is hy vas aan die slaap.",
+   "Hy droom van die wedstryd waarna hy besig was om te kyk.",
+   "Hy sit by Loftus in die voorste ry, net agter die doelpale.",
+   "Hy hou die bal senuweeagtig dop.",
+   "Sy span verloor en daar bly nog net vyf minute oor.",
+   "Die flank loop mank, en die beseerde losskakel is pas van die veld af gedra.",
+   "Uit desperaatheid spring Hennie self op die veld en onderskep die bal by die opponente.",
+   "Hy is vinniger en ratser as enige van die ander span se spelers.",
+   "Dan span Hennie elke spier in sy liggaam in, en konsentreer hy soos nog nooit tevore nie.",
+   "Drie sekondes voordat die eindfluitjie blaas, mik hy ’n skepskop pale toe.",
+   "Die bal trek soos ’n pyl uit ’n boog en seil perfek tussen die pale deur!",
+   "Hennie se glimlaggende gesig verskyn op miljoene TV’s oor die hele land.",
+   "Die kommentator skree opgewonde: Hennie Havenga het pas die wenpunte aangeteken!",
+   "Ons het ’n nuwe rugbyster, Hennie Havenga!",
+   "Suid-Afrika, hier is julle nuwe ster!",
+   "MOEDER: [Maak vir Hennie wakker.] Hennie, word wakker!",
+   "Jy het huiswerk om te doen!",
+   "HENNIE: Wat?",
+   "Wat is aan die gang?",
+   "VADER: Hennie!",
+   "Wat dink jy doen jy?",
+   "Jy moet jou huiswerk klaarmaak!",
+   "MOEDER: Dalk het die slapie jou die energie gegee wat jy nodig het om jou storie te skryf.",
+   "Wil jy hê ek moet jou help dink aan ’n onderwerp vir jou storie?",
+   "HENNIE: [Met ’n breë glimlag.] Nee dankie, Ma.",
+   "Ek weet presies waaroor ek gaan skryf!"
+  ],
+  "paragraph_starts": [
+   0,
+   3,
+   4,
+   8,
+   9,
+   17,
+   22,
+   29,
+   46,
+   48,
+   50,
+   53,
+   55
+  ],
+  "glossary": [
+   {
+    "term": "besorg",
+    "definition": "Bekommerd en omgee.",
+    "sentence_index": 2
+   },
+   {
+    "term": "boeketas",
+    "definition": "’n Skooltas vir boeke.",
+    "sentence_index": 8
+   },
+   {
+    "term": "losskakel",
+    "definition": "’n Posisie in rugby (’n speler).",
+    "sentence_index": 36
+   },
+   {
+    "term": "flank",
+    "definition": "’n Posisie in rugby (’n speler aan die kant).",
+    "sentence_index": 36
+   },
+   {
+    "term": "opponente",
+    "definition": "Teenstanders.",
+    "sentence_index": 37
+   },
+   {
+    "term": "skepskop",
+    "definition": "’n Hoë skop in rugby wat oor die kruisbalk mik.",
+    "sentence_index": 40
+   },
+   {
+    "term": "desperaatheid",
+    "definition": "Wanhoop; ’n gevoel dat jy nie kan wag nie.",
+    "sentence_index": 37
+   },
+   {
+    "term": "Shakespeare",
+    "definition": "’n Beroemde Engelse skrywer.",
+    "sentence_index": 11
+   }
+  ]
+ }
+}

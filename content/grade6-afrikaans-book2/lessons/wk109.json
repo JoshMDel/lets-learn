@@ -1,0 +1,740 @@
+{
+ "key": "gr6-afr-b2-wk109",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 109,
+ "title_af": "Ons behoort aan een familie",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 5,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  92,
+  93
+ ],
+ "pdf_pages": [
+  96,
+  97
+ ],
+ "reference_pages": [
+  {
+   "pdf": 96,
+   "printed": 92,
+   "src": "/workbook/gr6-afr-b2/p096.webp"
+  },
+  {
+   "pdf": 97,
+   "printed": 93,
+   "src": "/workbook/gr6-afr-b2/p097.webp"
+  }
+ ],
+ "intro_af": "Mense lyk verskillend, eet verskillende kos en woon op verskillende maniere – maar ons behoort almal aan een familie! Lees die stuk en leer ses kinders van oor die wêreld ken.",
+ "objectives_af": [
+  "’n Leesstuk oor mense en kulture verstaan.",
+  "Inligting in ’n tabel invul.",
+  "Meervoude en verkleinwoorde in ’n leesstuk herken en gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Hoofgedagte",
+   "payload": {
+    "text": "Die skrywer wys dat mense baie verskillend is, maar ook in belangrike dinge eners: ons het almal kos, veiligheid, liefde en vriendskap nodig."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 92,
+    "pdf_page": 96
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Sewe soorte plekke",
+   "payload": {
+    "prompt": "Die outeur noem sewe verskillende soorte plekke waar mense woon. Maak ’n lys daarvan.",
+    "lines": 7
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 92,
+    "pdf_page": 96,
+    "item": "1"
+   },
+   "suggested_answer": "oorbevolkte stede\nklein dorpies\nwit ysvelde\ngroen, warm woude\nwoestyne\nberghange\neilande in die see",
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vier opsigte waarin ons verskil",
+   "payload": {
+    "prompt": "Noem die vier opsigte waarin mense volgens die skrywer verskil.",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 92,
+    "pdf_page": 96,
+    "item": "2"
+   },
+   "suggested_answer": "velkleur (en kleur van oë en hare)\nvorm en grootte (lank/kort, maer/mollig)\nlewenswyses, oortuigings en gewoontes (ook kos en huise)\nfamilies, groepe, stamme en nasies",
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoe is ons almal dieselfde?",
+   "payload": {
+    "prompt": "In watter opsigte is ons almal dieselfde?",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 92,
+    "pdf_page": 96,
+    "item": "3"
+   },
+   "suggested_answer": "Ons het almal kos nodig om te lewe.\nOns wil almal veilig, gemaklik en gelukkig wees.\nOns het almal liefde en vriendskap nodig.\nOns hou almal van mooi goed.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Wie is wie?",
+   "payload": {
+    "prompt": "Verbind elke kind met die regte beskrywing.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Chloe"
+     },
+     {
+      "key": "l2",
+      "text": "John"
+     },
+     {
+      "key": "l3",
+      "text": "Rut"
+     },
+     {
+      "key": "l4",
+      "text": "Adel"
+     },
+     {
+      "key": "l5",
+      "text": "Kwi"
+     },
+     {
+      "key": "l6",
+      "text": "Kofi"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "13 jaar, Engeland, mal oor sokker"
+     },
+     {
+      "key": "r3",
+      "text": "11 jaar, kibboets in Israel"
+     },
+     {
+      "key": "r4",
+      "text": "13 jaar, “lang huis” in Maleisië"
+     },
+     {
+      "key": "r5",
+      "text": "7 jaar, Sanmense in Botswana"
+     },
+     {
+      "key": "r6",
+      "text": "11 jaar, Asjanti-huis in Ghana"
+     },
+     {
+      "key": "r1",
+      "text": "Inuïet, 12 jaar, noorde van Kanada"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 93,
+    "pdf_page": 97,
+    "item": "tabel"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is die inligting uit die beskrywings op bladsy 93."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Naam, land en kultuur",
+   "payload": {
+    "prompt": "Kies die regte antwoord.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "In watter land woon Chloe?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Kanada"
+       },
+       {
+        "key": "b",
+        "text": "Engeland"
+       },
+       {
+        "key": "c",
+        "text": "Ghana"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hoe oud is Kwi?",
+      "options": [
+       {
+        "key": "a",
+        "text": "7"
+       },
+       {
+        "key": "b",
+        "text": "11"
+       },
+       {
+        "key": "c",
+        "text": "13"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Waarvan maak Chloe se mense klere?",
+      "options": [
+       {
+        "key": "a",
+        "text": "dierevelle"
+       },
+       {
+        "key": "b",
+        "text": "katoen"
+       },
+       {
+        "key": "c",
+        "text": "plastiek"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Wat is ’n kibboets?",
+      "options": [
+       {
+        "key": "a",
+        "text": "’n soort gemeenskaplike plaas"
+       },
+       {
+        "key": "b",
+        "text": "’n tipe kos"
+       },
+       {
+        "key": "c",
+        "text": "’n skool"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Hoeveel gesinne kan in Adel se “lang huis” woon?",
+      "options": [
+       {
+        "key": "a",
+        "text": "tot 50"
+       },
+       {
+        "key": "b",
+        "text": "net 2"
+       },
+       {
+        "key": "c",
+        "text": "tot 5"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 93,
+    "pdf_page": 97,
+    "item": "tabel"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a",
+     "q4": "a",
+     "q5": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Elke antwoord staan in die beskrywings van die kinders."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Meervoude en verkleinwoorde",
+   "payload": {
+    "prompt": "Omkring 5 meervoudswoorde in die leesstuk. Skryf hulle en langs elke meervoud die verkleinwoord. Gebruik die verkleinwoorde in beskrywende sinne.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 92,
+    "pdf_page": 96,
+    "item": "4"
+   },
+   "suggested_answer": "eilande – eilandjies\nvelle – velletjies\nhare – haartjies\nhuise – huisies\nstede – stedies (of: dorpies)\nVoorbeeldsin: Die klein huisie op die eilandjie was baie gesellig.",
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die skrywer sê ons behoort almal aan een groot familie."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit staan in die laaste paragraaf van die leesstuk."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waaroor gaan die leesstuk hoofsaaklik?",
+   "explanation": "Die skrywer sê ons is verskillend maar ook eners.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Mense is verskillend, maar behoort almal aan een familie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hoe om ’n huis te bou"
+    },
+    {
+     "key": "c",
+     "text": "Waar die ysvelde is"
+    },
+    {
+     "key": "d",
+     "text": "Hoe om kos te kook"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    26
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoeveel mense is daar volgens die skrywer in die menslike familie?",
+   "explanation": "Dit staan in die laaste paragraaf.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Meer as 7 biljoen",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Meer as 1 miljoen"
+    },
+    {
+     "key": "c",
+     "text": "Honderd"
+    },
+    {
+     "key": "d",
+     "text": "Presies 20"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    26
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar woon Chloe?",
+   "explanation": "Sy woon in die noorde van Kanada.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In die noorde van Kanada",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In Engeland"
+    },
+    {
+     "key": "c",
+     "text": "In Ghana"
+    },
+    {
+     "key": "d",
+     "text": "In Botswana"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    35
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom eet die Inuïet walvisvet?",
+   "explanation": "Die ryk vet help hulle om warm te bly.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die vet help hulle om hul liggaamshitte te behou",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit is goedkoop"
+    },
+    {
+     "key": "c",
+     "text": "Dit smaak soet"
+    },
+    {
+     "key": "d",
+     "text": "Dit groei in sneeu"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    38
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarmee ry John in die somer skool toe?",
+   "explanation": "Hy ry in die somer per fiets skool toe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Per fiets",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Per bus"
+    },
+    {
+     "key": "c",
+     "text": "Per trein"
+    },
+    {
+     "key": "d",
+     "text": "Te voet"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    44
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe leer Kwi sy geskiedenis?",
+   "explanation": "Hy leer sy geskiedenis deur liedjies en stories.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Deur liedjies en stories van sy familielede",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Uit boeke"
+    },
+    {
+     "key": "c",
+     "text": "Op die internet"
+    },
+    {
+     "key": "d",
+     "text": "Op skool"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    60
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is ’n kibboets?",
+   "explanation": "Rut woon op ’n kibboets, ’n soort gemeenskaplike plaas.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Soort gemeenskaplike plaas",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Tipe kos"
+    },
+    {
+     "key": "c",
+     "text": "’n Stam in Afrika"
+    },
+    {
+     "key": "d",
+     "text": "’n Soort klere"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    46
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "In watter opsig is alle mense eners?",
+   "explanation": "Die skrywer noem dat ons almal liefde en vriendskap nodig het.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ons het almal liefde en vriendskap nodig",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Ons eet dieselfde kos"
+    },
+    {
+     "key": "c",
+     "text": "Ons dra dieselfde klere"
+    },
+    {
+     "key": "d",
+     "text": "Ons het dieselfde kleur hare"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    24
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Ons behoort aan een familie",
+  "language": "af",
+  "sentences": [
+   "Ons woon almal op die planeet Aarde",
+   "Ons is almal aardbewoners.",
+   "Ons woon orals, in oorbevolkte stede en op klein dorpies.",
+   "Ons woon op wit ysvelde en in groen, warm woude.",
+   "Ons lewe in woestyne, teen berghange en op eilande in die see.",
+   "Ons het vele verskillende kleure.",
+   "Party van ons het warm, ligbruin velle soos sonlig op sand.",
+   "Party van ons het donkerbruin velle soos ryk sjokolade.",
+   "Ander het rosige pienk velle soos die lug teen dagbreek.",
+   "En party van ons se velle wys ’n tikkie rooi.",
+   "Ons oë en hare het ook verskillende kleure.",
+   "Ons het blou oë, bruin oë, grou oë of groen oë.",
+   "Ons hare is blond of bruin of rooi of swart.",
+   "Dit kan reguit wees of krullerig.",
+   "Ons het allerhande vorms en groottes.",
+   "Party van ons is lank en ander is kort.",
+   "Daar is dié wat maer is en ander wat mollig is.",
+   "Ons het verskillende lewenswyses en baie uiteenlopende oortuigings en gewoontes.",
+   "Ons hou van verskillende soorte kos.",
+   "Ons bou ons huise op verskillende maniere.",
+   "Ons behoort aan baie verskillende families, groepe, stamme en nasies.",
+   "Maar ons is ook eners in baie belangrike opsigte.",
+   "Ons het almal kos nodig om te lewe.",
+   "Ons wil almal veilig, gemaklik en gelukkig wees.",
+   "Ons het almal liefde en vriendskap nodig.",
+   "Ons hou almal van mooi goed.",
+   "En ons behoort almal aan een groot familie – die menslike familie van meer as 7 biljoen mense.",
+   "Ons het almal dieselfde voorouers.",
+   "Ja, ons is almal inwoners van die planeet Aarde, en ons het ons oorsprong hier, in Suid-Afrika, gehad.",
+   "Alle mense het kos, klere en skuiling nodig om aan die lewe te bly.",
+   "Ons eet egter nie dieselfde soorte kos nie.",
+   "Ons dra nie dieselfde klere nie, en ons woon ook nie in dieselfde soorte huise nie.",
+   "Ons gesinne en families verskil ook.",
+   "Chloe behoort aan die Inuïetstam.",
+   "(Tevore is hulle die Eskimo’s genoem.) Sy is 12 jaar oud.",
+   "Sy woon in die noorde van Kanada.",
+   "Sy en haar gesin woon in die koudste deel van die wêreld, en hulle dra klere wat van dierevelle gemaak is om warm te bly.",
+   "Hulle eet walvisvet en die vleis van bere en robbe.",
+   "Die ryk vet in hierdie kosse help hulle om hul liggaamshitte te behou.",
+   "In die verlede het die Inuïet in sneeu-igloes of tente van dierevelle gewoon.",
+   "Vandag woon hulle in verhitte huise.",
+   "John woon in Engeland.",
+   "Hy is nou 13, en hy gaan al skool vandat hy 3 jaar oud was.",
+   "Hy hou van vis en skyfies.",
+   "Hy dra skooldrag en ry in die somer per fiets skool toe.",
+   "Hy is mal oor sokker.",
+   "Rut woon in Israel, op ’n kibboets, ’n soort gemeenskaplike plaas.",
+   "Sy is 11 jaar oud.",
+   "Op ’n kibboets woon die ouers en kinders nie saam nie.",
+   "Die ouers woon in ’n huis vir volwassenes en die kinders bly in ’n kinderhuis.",
+   "Rut gaan op die plaas skool en eet middagete by die skool.",
+   "Adel is 13 en woon op ’n dorp in Maleisië.",
+   "Die dorp het net een huis.",
+   "Hulle noem dit ’n “lang huis”, en dit kan tot 50 gesinne huisves.",
+   "Die gesinne kies ’n hoof vir hulle lang huis.",
+   "Kwi is 7 jaar oud.",
+   "Hy woon in die woestyn in Botswana.",
+   "Hy is ’n lid van die Sanmense.",
+   "Sy pa jag wilde diere vir voedsel.",
+   "Wanneer Kwi ouer is, sal hy na ’n koshuis toe gaan.",
+   "Op die oomblik leer hy sy geskiedenis deur die liedjies en stories wat sy familielede hom vertel.",
+   "Kofi is 11 jaar oud en kom van ’n dorpie in Ghana.",
+   "Hy woon saam met sy ma en sy ma se ma in ’n Asjanti-huis.",
+   "In hierdie huis noem Kofi al die vroue “ma”, en is al die kinders sy broers en susters."
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   5,
+   14,
+   21,
+   26,
+   29,
+   33,
+   41,
+   46,
+   51,
+   55,
+   61
+  ],
+  "glossary": [
+   {
+    "term": "aardbewoners",
+    "definition": "Mense wat op die aarde woon.",
+    "sentence_index": 1
+   },
+   {
+    "term": "oorbevolkte",
+    "definition": "Met te veel mense.",
+    "sentence_index": 2
+   },
+   {
+    "term": "uiteenlopende",
+    "definition": "Baie verskillend.",
+    "sentence_index": 17
+   },
+   {
+    "term": "oortuigings",
+    "definition": "Dinge waarin iemand sterk glo.",
+    "sentence_index": 17
+   },
+   {
+    "term": "kibboets",
+    "definition": "’n Gemeenskaplike plaas in Israel.",
+    "sentence_index": 46
+   },
+   {
+    "term": "huisves",
+    "definition": "Plek gee om te bly.",
+    "sentence_index": 53
+   },
+   {
+    "term": "voorouers",
+    "definition": "Mense uit wie se geslag ons afstam.",
+    "sentence_index": 27
+   },
+   {
+    "term": "skuiling",
+    "definition": "’n Plek om te bly en beskerming te hê.",
+    "sentence_index": 29
+   }
+  ]
+ }
+}

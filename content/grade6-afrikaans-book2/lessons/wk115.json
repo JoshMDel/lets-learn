@@ -1,0 +1,725 @@
+{
+ "key": "gr6-afr-b2-wk115",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 115,
+ "title_af": "Boekeweek",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk5-6",
+  "name_af": "Tema 8 · Week 5–6: Storietyd",
+  "name_en": "Theme 8 · Weeks 5–6: Story time",
+  "sort": 108
+ },
+ "tier_number": 3,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  106,
+  107
+ ],
+ "pdf_pages": [
+  110,
+  111
+ ],
+ "reference_pages": [
+  {
+   "pdf": 110,
+   "printed": 106,
+   "src": "/workbook/gr6-afr-b2/p110.webp"
+  },
+  {
+   "pdf": 111,
+   "printed": 107,
+   "src": "/workbook/gr6-afr-b2/p111.webp"
+  }
+ ],
+ "intro_af": "Terug by die Boekeweek-storie: soeklees vir inligting, teken die iguanodon, skryf ’n dagboekinskrywing en kyk weer na woordvorming en idiome.",
+ "objectives_af": [
+  "Soekleesvaardighede toepas.",
+  "Uit ’n beskrywing ’n dinosourus teken.",
+  "’n Dagboekinskrywing in die eerste persoon en verlede tyd skryf.",
+  "Basiswoorde, afleidings en samestellings herken.",
+  "Idiome met hul betekenisse verbind."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Soek-lees",
+   "payload": {
+    "paragraphs": [
+     "Soek-lees beteken jy soek vinnig na ’n spesifieke antwoord in ’n teks. Jy lees nie elke woord nie."
+    ],
+    "bullets": [
+     "Kyk watter woorde in die vraag belangrik is.",
+     "Soek daardie woorde in die teks.",
+     "Lees net daar noukeurig."
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Letterlike en figuurlike taal",
+   "payload": {
+    "bullets": [
+     "**Letterlike taalgebruik** verwys na die letterlike betekenis van woorde of uitdrukkings.",
+     "**Figuurlike taalgebruik** beteken om woorde te gebruik wat beelde (in konteks/sinsverband) in die gedagtes oproep.",
+     "**Beeldspraak** is die gebruik van vergelykings, metafore, personifikasie, idiomatiese uitdrukkings, ens."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Woordvorming",
+   "payload": {
+    "bullets": [
+     "**Basiswoorde**",
+     "**Afleidings** = basis + voorvoegsel en/of agtervoegsel",
+     "**Samestellings** = basis + basis"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Dagboekinskrywing",
+   "payload": {
+    "bullets": [
+     "Skryf in die **eerste persoon** (gebruik “ek”).",
+     "Skryf in die **verlede tyd**.",
+     "Begin met “Liewe Dagboek”."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110
+   },
+   "key": "learn-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Soek-lees",
+   "payload": {
+    "prompt": "Pas soekleesvaardighede toe en beantwoord hierdie vraag: Watter gebeure is vir Boekeweek beplan?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110,
+    "item": "Ons skryf"
+   },
+   "suggested_answer": "Kompetisies, uitstappies na die biblioteek op die dorp, en baie stories; ook plakkate en stories oor bedreigde diere.",
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Teken die iguanodon",
+   "payload": {
+    "prompt": "Lees die beskrywing in die storie en teken die dinosourus. Merk af wat jou prent bevat.",
+    "lines": 1,
+    "no_text": true,
+    "checklist": [
+     "twee kort voorbene",
+     "’n kort, baie dik stert",
+     "vyf stomp tone aan die pote",
+     "vyf vingers aan elke hand",
+     "’n kort, horingagtige duim"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110,
+    "item": "Ons skryf"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf ’n dagboekinskrywing",
+   "payload": {
+    "prompt": "Verbeel jou dat jy een van die kinders in die storie is. Skryf ’n opsomming in die vorm van ’n dagboekinskrywing oor wat vandag in die biblioteek gebeur het. Begin: “Liewe Dagboek, Vandag het ’n monster in die biblioteek ingekom ...”",
+    "lines": 10,
+    "checklist": [
+     "Ek het in die eerste persoon geskryf (“ek”).",
+     "Ek het die verlede tyd gebruik.",
+     "Ek het die belangrikste gebeure genoem."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110,
+    "item": "dagboek"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Afleiding of samestelling?",
+   "payload": {
+    "prompt": "Dui aan of die woord ’n afleiding of ’n samestelling is.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "geweet",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "boekrak",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "reusekake",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "ontslae",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "storieboek",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111,
+    "item": "tabel"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Samestelling = basis + basis; afleiding = basis + voor- of agtervoegsel."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Idiome en hul betekenisse",
+   "payload": {
+    "prompt": "Verbind elke idioom met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "As die kat weg is, is die muis baas."
+     },
+     {
+      "key": "l2",
+      "text": "Hond se gedagtes kry."
+     },
+     {
+      "key": "l3",
+      "text": "Iemand laat bokspring."
+     },
+     {
+      "key": "l4",
+      "text": "Oor koeitjies en kalfies gesels."
+     },
+     {
+      "key": "l5",
+      "text": "Jou kop in ’n bynes steek."
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Agterdogtig raak."
+     },
+     {
+      "key": "r3",
+      "text": "Iemand afransel."
+     },
+     {
+      "key": "r4",
+      "text": "Oor alledaagse dinge praat."
+     },
+     {
+      "key": "r5",
+      "text": "Jou met iets bemoei wat groot probleme kan veroorsaak."
+     },
+     {
+      "key": "r1",
+      "text": "Wanneer die baas weg is, doen die onderhoriges wat hulle wil."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111,
+    "item": "idiome"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Idiome is figuurlik: hulle beteken nie wat die woorde letterlik sê nie."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Letterlik of figuurlik?",
+   "payload": {
+    "prompt": "Is die taalgebruik letterlik of figuurlik?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Die dinosourus het ’n blom in sy bek.",
+      "options": [
+       {
+        "key": "a",
+        "text": "letterlik"
+       },
+       {
+        "key": "b",
+        "text": "figuurlik"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hy het sy kop in ’n bynes gesteek.",
+      "options": [
+       {
+        "key": "a",
+        "text": "letterlik"
+       },
+       {
+        "key": "b",
+        "text": "figuurlik"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Sy het oor koeitjies en kalfies gesels.",
+      "options": [
+       {
+        "key": "a",
+        "text": "letterlik"
+       },
+       {
+        "key": "b",
+        "text": "figuurlik"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Idiome en beelde is figuurlik; wat werklik gebeur, is letterlik."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Jy skryf ’n dagboekinskrywing in die derde persoon."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110,
+    "item": "dagboek"
+   },
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit moet in die eerste persoon (“ek”) en verlede tyd wees."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "In watter persoon skryf jy die dagboekinskrywing?",
+   "explanation": "Die werkboek sê: eerste persoon.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Eerste persoon (“ek”)",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Tweede persoon (“jy”)"
+    },
+    {
+     "key": "c",
+     "text": "Derde persoon (“hy/sy”)"
+    },
+    {
+     "key": "d",
+     "text": "Enige persoon"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "In watter tyd skryf jy die dagboekinskrywing?",
+   "explanation": "Die werkboek sê: verlede tyd.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Verlede tyd",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Teenwoordige tyd"
+    },
+    {
+     "key": "c",
+     "text": "Toekomende tyd"
+    },
+    {
+     "key": "d",
+     "text": "Enige tyd"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoeveel vingers het die iguanodon aan elke hand?",
+   "explanation": "Hy het vyf vingers aan elke hand.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vyf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Twee"
+    },
+    {
+     "key": "c",
+     "text": "Drie"
+    },
+    {
+     "key": "d",
+     "text": "Tien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe lyk die iguanodon se stert?",
+   "explanation": "Dit staan in die storie (Die biblioteekmonster).",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kort en baie dik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Lank en dun"
+    },
+    {
+     "key": "c",
+     "text": "Gepunt"
+    },
+    {
+     "key": "d",
+     "text": "Skubberig en kort"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 106,
+    "pdf_page": 110
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n samestelling?",
+   "explanation": "Boek + rak.",
+   "options": [
+    {
+     "key": "a",
+     "text": "boekrak",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "geweet"
+    },
+    {
+     "key": "c",
+     "text": "ontslae"
+    },
+    {
+     "key": "d",
+     "text": "gebou"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111,
+    "item": "tabel"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “oor koeitjies en kalfies gesels”?",
+   "explanation": "Dit is ’n idioom.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Oor alledaagse dinge praat",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Oor diere skryf"
+    },
+    {
+     "key": "c",
+     "text": "Oor boerdery lees"
+    },
+    {
+     "key": "d",
+     "text": "Hard praat"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111,
+    "item": "idiome"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “hond se gedagtes kry”?",
+   "explanation": "Dit is die betekenis van die idioom.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Agterdogtig raak",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Honger kry"
+    },
+    {
+     "key": "c",
+     "text": "Slaperig word"
+    },
+    {
+     "key": "d",
+     "text": "Bly word"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111,
+    "item": "idiome"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is figuurlike taalgebruik?",
+   "explanation": "Dit is die verduideliking op bladsy 107.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Woorde wat beelde in die gedagtes oproep",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net die letterlike betekenis van woorde"
+    },
+    {
+     "key": "c",
+     "text": "Spelling"
+    },
+    {
+     "key": "d",
+     "text": "Punktuasie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 107,
+    "pdf_page": 111
+   },
+   "key": "q08"
+  }
+ ]
+}

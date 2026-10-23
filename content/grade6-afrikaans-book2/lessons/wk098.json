@@ -1,0 +1,801 @@
+{
+ "key": "gr6-afr-b2-wk098",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 98,
+ "title_af": "Ons dink na oor die onderhoud",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 2,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Lees en kyk",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  72,
+  73
+ ],
+ "pdf_pages": [
+  76,
+  77
+ ],
+ "reference_pages": [
+  {
+   "pdf": 76,
+   "printed": 72,
+   "src": "/workbook/gr6-afr-b2/p076.webp"
+  },
+  {
+   "pdf": 77,
+   "printed": 73,
+   "src": "/workbook/gr6-afr-b2/p077.webp"
+  }
+ ],
+ "intro_af": "Wat het ons uit die onderhoud geleer? Soeklees die onderhoud, gee jou mening en werk met antonieme, sinonieme, homofone en homonieme.",
+ "objectives_af": [
+  "Soeklees ’n onderhoud en vrae daaroor beantwoord.",
+  "Jou eie mening uitspreek en stereotipering uitken.",
+  "Antonieme en sinonieme gebruik.",
+  "Homofone en homonieme in sinne gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Homofone en homonieme",
+   "payload": {
+    "text": "**Homofone** klink dieselfde, maar word verskillend gespel en het verskillende betekenisse. **Homonieme** is woorde wat dieselfde lyk en klink, maar wat verskillende betekenisse het."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 1",
+   "payload": {
+    "prompt": "Wie het die onderhoud met Bobby van Jaarsveld gevoer?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "1"
+   },
+   "suggested_answer": "Danie Swanepoel.",
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 2",
+   "payload": {
+    "prompt": "Tydens watter program is die onderhoud uitgesaai?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "2"
+   },
+   "suggested_answer": "Tienertyd.",
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 3",
+   "payload": {
+    "prompt": "Hoe het hy sy sangloopbaan begin?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "3"
+   },
+   "suggested_answer": "Hy het op hoërskool aan talentkompetisies begin deelneem, en daar het sy liefde vir die musiekbedryf begin.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 4: Is sy loopbaan suksesvol?",
+   "payload": {
+    "prompt": "Dink jy sy loopbaan is suksesvol? Motiveer jou antwoord.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "4"
+   },
+   "feedback": {},
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 5: Waardeer hy sy ondersteuners?",
+   "payload": {
+    "prompt": "Dink jy Bobby waardeer sy ondersteuners? Gebruik ’n aanhaling uit die teks om jou antwoord te motiveer.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "5"
+   },
+   "suggested_answer": "Ja: “Ek waardeer julle uit my hart uit.”",
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 6: ’n Voorbeeld?",
+   "payload": {
+    "prompt": "Voel jy dat Bobby vir jongmense ’n voorbeeld van positiewe sosiale waardes is? Motiveer jou antwoord.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "6"
+   },
+   "feedback": {},
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 7: Die vrae",
+   "payload": {
+    "prompt": "Dink jy die onderhoudvoerder se keuse van vrae was doeltreffend? Motiveer jou antwoord.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "7"
+   },
+   "feedback": {},
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 8: Jou eie vraag",
+   "payload": {
+    "prompt": "Watter ander vraag sou jy nog gestel het?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "8"
+   },
+   "feedback": {},
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 9: Stereotipe stelling",
+   "payload": {
+    "prompt": "Stereotiepe stelling: Alle suksesvolle mense het ryk grootgeword. Dui aan of hierdie stelling waar of onwaar is. Motiveer jou antwoord.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "9"
+   },
+   "suggested_answer": "Onwaar: dit is ’n veralgemening; baie suksesvolle mense het nie ryk grootgeword nie. (Bobby self sê besittings is nie die belangrikste ding nie.)",
+   "answer_status": "needs_review",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Vervang met antonieme",
+   "payload": {
+    "text": "Gisteraand voer ons ’n onderhoud met die {{1}} sanger, Bobby van Jaarsveld. (Vanaand → antoniem; onbekende → antoniem)\nDaar is baie {{2}} bewonderaars wat {{3}} oor jou te wete wil kom. (bejaarde; minder)\nEk het {{4}} in my lewe besef dat besittings nie die {{5}} ding is nie. (laat; onbelangrikste)"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77,
+    "item": "antonieme"
+   },
+   "answer": {
+    "1": [
+     "beroemde",
+     "bekende"
+    ],
+    "2": [
+     "jong"
+    ],
+    "3": [
+     "meer"
+    ],
+    "4": [
+     "vroeg"
+    ],
+    "5": [
+     "belangrikste"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Antonieme is teenoorgesteld: onbekend – beroemd, bejaard – jong, minder – meer, laat – vroeg, onbelangrikste – belangrikste."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Sinonieme",
+   "payload": {
+    "prompt": "Verbind die sinonieme met mekaar.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "deelnemer"
+     },
+     {
+      "key": "l2",
+      "text": "oorreed"
+     },
+     {
+      "key": "l3",
+      "text": "positief"
+     },
+     {
+      "key": "l4",
+      "text": "imponeer"
+     },
+     {
+      "key": "l5",
+      "text": "loopbaan"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "oortuig"
+     },
+     {
+      "key": "r3",
+      "text": "optimisties"
+     },
+     {
+      "key": "r4",
+      "text": "beïndruk"
+     },
+     {
+      "key": "r5",
+      "text": "beroep"
+     },
+     {
+      "key": "r1",
+      "text": "mededinger"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77,
+    "item": "sinonieme"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Sinonieme het amper dieselfde betekenis."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-11",
+   "sort_order": 110
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Homofone in sinne",
+   "payload": {
+    "prompt": "Gebruik die volgende homofone in sinne sodat hulle betekenis duidelik word: ryk / reik / peil / pyl.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77,
+    "item": "homofone"
+   },
+   "suggested_answer": "bv. Die ryk man het ’n groot huis. Ek kan nie so hoog reik nie. Die peil van die rivier styg. Die jagter skiet ’n pyl.",
+   "answer_status": "needs_review",
+   "key": "act-12",
+   "sort_order": 120
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Homonieme in sinne",
+   "payload": {
+    "prompt": "Gebruik die volgende homonieme in sinne sodat hulle betekenis duidelik word: bloei (werkwoord, twee betekenisse) en berg (selfstandige naamwoord en werkwoord).",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77,
+    "item": "homonieme"
+   },
+   "suggested_answer": "bv. Die roos sal môre bloei. Die seun se neus bloei. Ons klim teen die berg uit. Hulle berg die oes in die skuur.",
+   "answer_status": "needs_review",
+   "key": "act-13",
+   "sort_order": 130
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie het die onderhoud met Bobby gevoer?",
+   "explanation": "Dit staan aan die begin van die onderhoud.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Danie Swanepoel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Anna Rheeders"
+    },
+    {
+     "key": "c",
+     "text": "Baboo"
+    },
+    {
+     "key": "d",
+     "text": "Pieter"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "1"
+   },
+   "key": "q01",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Tydens watter program is die onderhoud uitgesaai?",
+   "explanation": "Danie is van Tienertyd.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tienertyd",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Skouspel"
+    },
+    {
+     "key": "c",
+     "text": "Afrikaans is Groot"
+    },
+    {
+     "key": "d",
+     "text": "Spieëltjie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "2"
+   },
+   "key": "q02",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe het Bobby sy sangloopbaan begin?",
+   "explanation": "Op hoërskool het hy aan talentkompetisies begin deelneem.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met talentkompetisies op hoërskool",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "As ’n kind in die kerk"
+    },
+    {
+     "key": "c",
+     "text": "Deur ’n advertensie"
+    },
+    {
+     "key": "d",
+     "text": "By ’n sokkerwedstryd"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "3"
+   },
+   "key": "q03",
+   "supporting": [
+    27
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe weet ons dat Bobby sy ondersteuners waardeer?",
+   "explanation": "Hy bedank almal wat hom ondersteun.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy sê: “Ek waardeer julle uit my hart uit.”",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy sing vir hulle."
+    },
+    {
+     "key": "c",
+     "text": "Hy skryf aan hulle."
+    },
+    {
+     "key": "d",
+     "text": "Hy gee hulle geskenke."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "5"
+   },
+   "key": "q04",
+   "supporting": [
+    32
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n sinoniem vir “oorreed”?",
+   "explanation": "Oorreed en oortuig beteken amper dieselfde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "oortuig",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "uitsluit"
+    },
+    {
+     "key": "c",
+     "text": "verloor"
+    },
+    {
+     "key": "d",
+     "text": "hardloop"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77,
+    "item": "sinonieme"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n sinoniem vir “loopbaan”?",
+   "explanation": "Loopbaan en beroep het amper dieselfde betekenis.",
+   "options": [
+    {
+     "key": "a",
+     "text": "beroep",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "probleem"
+    },
+    {
+     "key": "c",
+     "text": "skool"
+    },
+    {
+     "key": "d",
+     "text": "vakansie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77,
+    "item": "sinonieme"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die antoniem van “bejaarde”?",
+   "explanation": "Bejaard beteken oud; die teenoorgestelde is jong.",
+   "options": [
+    {
+     "key": "a",
+     "text": "jong",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "oud"
+    },
+    {
+     "key": "c",
+     "text": "ryk"
+    },
+    {
+     "key": "d",
+     "text": "siek"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77,
+    "item": "antonieme"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n stereotiepe stelling?",
+   "explanation": "Voorbeeld: Alle suksesvolle mense het ryk grootgeword.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Veralgemening oor ’n groep mense",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Waar feit"
+    },
+    {
+     "key": "c",
+     "text": "’n Vraag"
+    },
+    {
+     "key": "d",
+     "text": "’n Lang antwoord"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 72,
+    "pdf_page": 76,
+    "item": "9"
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is homonieme?",
+   "explanation": "Dit is die werkboek se verduideliking.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Woorde wat dieselfde lyk en klink, maar verskillende betekenisse het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Woorde met teenoorgestelde betekenis"
+    },
+    {
+     "key": "c",
+     "text": "Woorde wat dieselfde klink maar anders gespel word"
+    },
+    {
+     "key": "d",
+     "text": "Woorde met dieselfde betekenis"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 73,
+    "pdf_page": 77
+   },
+   "key": "q09"
+  }
+ ],
+ "passage": {
+  "title": "Onderhoud met ’n musiekster (werkkaart 97)",
+  "language": "af",
+  "sentences": [
+   "Welkom by ons program, Tienertyd!",
+   "Dit is Danie Swanepoel van Tienertyd, en vandag voer ons ’n onderhoud met die beroemde sanger, Bobby van Jaarsveld.",
+   "Welkom by ons program, Bobby!",
+   "Baie dankie, dit is ’n voorreg om vandag met die luisteraars te kan gesels.",
+   "Daar is baie jong bewonderaars wat meer oor jou te wete wil kom.",
+   "Vertel vir ons waar en wanneer jy gebore is?",
+   "Ek is op die 6de Maart 1987 in Paarl in die Wes-Kaap gebore.",
+   "Vertel vir ons meer van jou familie en jou lewe voordat jy ’n musiekster geword het.",
+   "My doopnaam is Pieter.",
+   "Ek het my bynaam Bobby by my pa gekry.",
+   "Ek is die middelste van 3 kinders, en ek het twee sussies: Karlien en Cara.",
+   "Ons moes baie verhuis a.g.v. my pa se werksomstandighede – ek was in 7 verskillende laerskole!",
+   "Ek het egter net een hoërskool bygewoon, naamlik die Hoërskool Brits, waar ek ook gematrikuleer het.",
+   "Op 7 Januarie 2011 is ek met Anna Rheeders getroud, en vandag het ons twee seuns: Sion en Leben, wat ons groot vreugde verskaf.",
+   "Van watter sportsoorte en ander ontspanningsaktiwiteite hou jy?",
+   "Op skool het ek aan hokkie, rugby, krieket en atletiek deelgeneem.",
+   "Ek hou daarvan om te gaan fliek en is baie lief vir springmielies.",
+   "Ek is mal oor duik, en wanneer ek die kans kry om te gaan diepseeduik, doen ek dit.",
+   "Andersins moet ek liedjies skryf en babas oppas.",
+   "Op hierdie stadium is dit my stokperdjie: kinders grootmaak.",
+   "Het julle enige troeteldiere?",
+   "Ek is baie lief vir alle diere.",
+   "Een van my troeteldiere op skool was ’n slang, alhoewel hy darem nie giftig was nie.",
+   "Later het ek ook ’n iguana aangeskaf.",
+   "My lieflinghond se naam was Baboo, wat ’n steekhaar-terriër was.",
+   "As ek nie ’n sanger geword het nie, sou ek beslis ’n veearts geword het.",
+   "Hoe het jou loopbaan begin?",
+   "Ek het op hoërskool aan talentkompetisies begin deelneem, en daar het my liefde vir die musiekbedryf begin.",
+   "Ek het my eerste CD-kontrak in Graad 11 gekry, en my eerste solo-CD is vroeg in my matriekjaar uitgereik.",
+   "Daarna het ek professioneel begin optree.",
+   "Vertel vir ons meer van jou loopbaan.",
+   "Eerstens wil ek dankie sê aan elkeen wat my altyd ondersteun.",
+   "Ek waardeer julle uit my hart uit.",
+   "Ek sê dit altyd en sal dit weer en weer sê – ons kan net doen wat ons doen solank julle ons CD’s en DVD’s koop en ons konserte bywoon.",
+   "Deur genade kon ek al 3 albums vrystel, nl.",
+   "Duisende Ure, Net Vir Jou en Wat Geld Nie Kan Koop Nie.",
+   "Ek het ook reeds verskeie musiekvideo’s vrygestel, o.a.",
+   "“Spieëltjie”, “’n Vrou wil dit Hoor”, “Net vir Jou” en “Kyk waar is ons Nou”.",
+   "Ek het ook opgetree in die rolprente Liefling en As Jy Sing.",
+   "Afgesien van my alleenoptredes sedert 2001 het ek ook van 2007 tot 2011 aan die Skouspeloptredes deelgeneem, en sedert 2012 neem ek aan die “Afrikaans is Groot”-opvoerings deel.",
+   "Wat is jou boodskap aan ander jongmense?",
+   "Ek wil jongmense aanmoedig om hulle droom uit te lewe en altyd te weet waar hulle krag en sukses vandaan kom.",
+   "Die feit dat ek my droom kan uitleef is pure genade.",
+   "Ek dank my hemelse Vader vir sy liefde en genade, want dit is waar my krag vandaan kom."
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   7,
+   8,
+   14,
+   15,
+   20,
+   21,
+   26,
+   27,
+   30,
+   31,
+   40,
+   41
+  ],
+  "glossary": [
+   {
+    "term": "bewonderaars",
+    "definition": "Mense wat baie van iemand hou en hom of haar bewonder.",
+    "sentence_index": 4
+   },
+   {
+    "term": "voorreg",
+    "definition": "’n Spesiale geleentheid waarvoor jy dankbaar is.",
+    "sentence_index": 3
+   },
+   {
+    "term": "doopnaam",
+    "definition": "Die naam wat jy by jou doop gekry het.",
+    "sentence_index": 8
+   },
+   {
+    "term": "gematrikuleer",
+    "definition": "Matriek geslaag (die laaste skooljaar voltooi).",
+    "sentence_index": 12
+   },
+   {
+    "term": "verskaf",
+    "definition": "Gee of bring.",
+    "sentence_index": 13
+   },
+   {
+    "term": "iguana",
+    "definition": "’n Groot akkedis.",
+    "sentence_index": 23
+   },
+   {
+    "term": "loopbaan",
+    "definition": "Die beroep of werk wat jy oor baie jare doen.",
+    "sentence_index": 26
+   },
+   {
+    "term": "professioneel",
+    "definition": "Soos ’n beroep: vir geld en met vaardigheid.",
+    "sentence_index": 29
+   }
+  ]
+ }
+}

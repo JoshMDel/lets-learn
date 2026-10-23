@@ -1,0 +1,916 @@
+{
+ "key": "gr6-afr-b2-wk082",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 82,
+ "title_af": "Ons dink na oor die storie",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk5-6",
+  "name_af": "Tema 6 · Week 5–6: Stories en briewe",
+  "name_en": "Theme 6 · Weeks 5–6: Stories and letters",
+  "sort": 103
+ },
+ "tier_number": 2,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  38,
+  39
+ ],
+ "pdf_pages": [
+  42,
+  43
+ ],
+ "reference_pages": [
+  {
+   "pdf": 42,
+   "printed": 38,
+   "src": "/workbook/gr6-afr-b2/p042.webp"
+  },
+  {
+   "pdf": 43,
+   "printed": 39,
+   "src": "/workbook/gr6-afr-b2/p043.webp"
+  }
+ ],
+ "intro_af": "Wat het in die storie gebeur en wat leer dit ons? Gebruik soekleesvaardighede, kyk na idiome en dink na oor die hasie se gevoelens.",
+ "objectives_af": [
+  "Soeklees om vrae oor ’n storie te beantwoord.",
+  "Idiomatiese uitdrukkings in ’n storie uitken.",
+  "Die intrige en die verskuilde boodskap van ’n storie uitwys.",
+  "Jou eie mening motiveer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is idiome?",
+   "payload": {
+    "text": "Idiomatiese uitdrukkings is uitdrukkings wat eie aan die taal is. Idiome sluit in: spreekwoorde, segswyses, gesegdes en spreuke."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is die intrige?",
+   "payload": {
+    "text": "Die intrige van ’n verhaal is die verwikkelinge van gebeure wat ’n skrywer uitdink waarop die verhaal gebaseer is."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 39,
+    "pdf_page": 43
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 1",
+   "payload": {
+    "prompt": "Wat was die hasie se grootste bekommernis?",
+    "options": [
+     {
+      "key": "A",
+      "text": "’n Leeu"
+     },
+     {
+      "key": "B",
+      "text": "’n Slag"
+     },
+     {
+      "key": "C",
+      "text": "’n Aardbewing"
+     },
+     {
+      "key": "D",
+      "text": "’n Vallende boom"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "1"
+   },
+   "answer": {
+    "choice": "C"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Die storie sê sy grootste bekommernis was dat daar ’n aardbewing sou kom.",
+    "per_option": {
+     "A": "Die leeu het eers later in die storie opgedaag.",
+     "B": "Die slag was ’n gevolg van die kokosneut.",
+     "D": "Dit was ’n kokosneut wat die slag veroorsaak het – nie sy grootste bekommernis nie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 2",
+   "payload": {
+    "prompt": "Wat het die hele aarde laat skud?",
+    "options": [
+     {
+      "key": "A",
+      "text": "’n Aardbewing"
+     },
+     {
+      "key": "B",
+      "text": "’n Enorme kokosneut"
+     },
+     {
+      "key": "C",
+      "text": "Die vlugtende hasies"
+     },
+     {
+      "key": "D",
+      "text": "’n Vallende boom"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "2"
+   },
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Die storie sê ’n yslike vrug (’n kokosneut) het van die boom afgeval – KABOEM – en die aarde laat skud.",
+    "per_option": {
+     "A": "Dit was nie ’n regte aardbewing nie.",
+     "C": "Hulle het eers gehardloop ná die slag.",
+     "D": "Dit was die vrug, nie die boom nie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 3",
+   "payload": {
+    "prompt": "Waarom het die leeu die kokosneut op die grond laat val?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Om die hasie te laat weghol"
+     },
+     {
+      "key": "B",
+      "text": "Om die hasie te help om die vrug te eet"
+     },
+     {
+      "key": "C",
+      "text": "Om die hasie te wys wat gebeur het"
+     },
+     {
+      "key": "D",
+      "text": "Om die hasie te laat lag"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "3"
+   },
+   "answer": {
+    "choice": "C"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Die leeu wou die hasie wys dat die slag net van die kokosneut af gekom het."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 4",
+   "payload": {
+    "prompt": "Hoe het die hasie gevoel nadat die leeu die kokosneut op die grond laat val het?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Kwaad"
+     },
+     {
+      "key": "B",
+      "text": "Teleurgesteld"
+     },
+     {
+      "key": "C",
+      "text": "Verleë"
+     },
+     {
+      "key": "D",
+      "text": "Bekommerd"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "4"
+   },
+   "answer": {
+    "choice": "C"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Hy het besef hy was dwaas om so te skrik en gesê: “Was ek nie ’n simpel hasie nie!”",
+    "per_option": {
+     "A": "Hy was nie kwaad vir die leeu nie.",
+     "B": "Hy is nie teleurgesteld nie – hy skaam hom.",
+     "D": "Hy is nie meer bekommerd nie, want hy weet nou wat gebeur het."
+    }
+   },
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Die verskuilde boodskap",
+   "payload": {
+    "prompt": "Wat is die verskuilde boodskap van die storie?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Hardloop weg van moeilikheid."
+     },
+     {
+      "key": "B",
+      "text": "Maak seker van die feite voordat jy paniekerig word."
+     },
+     {
+      "key": "C",
+      "text": "Hase hardloop die vinnigste."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "5"
+   },
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Hasie het gehardloop sonder om uit te vind wat die slag was."
+   },
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Dinge het vinnig gebeur",
+   "payload": {
+    "prompt": "Dinge het vinnig gebeur nadat die hasie “Aardbewing!” geskree het. Kopieer twee woorde uit die storie wat dit vir ons sê.",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "6"
+   },
+   "suggested_answer": "verwoed, snel (ook: stormende, donderweer)",
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Waarheen?",
+   "payload": {
+    "prompt": "Waarheen het die leeu die hasie versoek om hom te neem?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "7"
+   },
+   "suggested_answer": "Na die plek waar die “ramp” gebeur het – by die hasie se huis.",
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Idiome",
+   "payload": {
+    "prompt": "Onderstreep drie idiomatiese uitdrukkings in die storie “Hasie maak alarm”. Skryf hulle hier neer.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "8"
+   },
+   "suggested_answer": "bv. “Hardloop vir die vale”, “uit sy maag lag”, “soos donderweer”, “so vining as wat my bene my kon dra”",
+   "answer_status": "needs_review",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die leeu se woorde",
+   "payload": {
+    "prompt": "Aan die einde van die storie het die leeu iets gesê om hasie beter te laat voel. Skryf die aanhaling uit die teks neer.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "9"
+   },
+   "suggested_answer": "“Toe maar, my ou boetie. Almal van ons – selfs ek ook – is partykeer bang vir die dinge wat ons nie verstaan nie.”",
+   "answer_status": "derived_from_text",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Hoe het die hasie se gevoelens verander?",
+   "payload": {
+    "prompt": "Voltooi die sinne: Aan die begin van die storie het die hasie … gevoel want … Aan die einde van die storie het die hasie … gevoel want … Aan die einde was dit duidelik dat die leeu van die hasie hou want …",
+    "lines": 6,
+    "checklist": [
+     "Ek het ’n gevoel by die begin genoem en gesê hoekom.",
+     "Ek het ’n gevoel by die einde genoem en gesê hoekom.",
+     "Ek het gewys hoe die leeu gewys het dat hy van die hasie hou."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 39,
+    "pdf_page": 43,
+    "item": "gevoelens"
+   },
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Waar speel die storie af?",
+   "payload": {
+    "prompt": "Waar speel die storie hom af?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 39,
+    "pdf_page": 43,
+    "item": "tabel 1"
+   },
+   "suggested_answer": "In die veld en in die natuur, by ’n boom naby die hasie se huis, en op die pad na die berg.",
+   "answer_status": "needs_review",
+   "key": "act-11",
+   "sort_order": 110
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die twee hoofkarakters",
+   "payload": {
+    "prompt": "Wie is die 2 hoofkarakters van die storie?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 39,
+    "pdf_page": 43,
+    "item": "tabel 2"
+   },
+   "suggested_answer": "Die hasie en die leeu.",
+   "answer_status": "derived_from_text",
+   "key": "act-12",
+   "sort_order": 120
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die intrige",
+   "payload": {
+    "prompt": "Omskryf die intrige van die verhaal in jou eie woorde.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 39,
+    "pdf_page": 43,
+    "item": "tabel 3"
+   },
+   "feedback": {},
+   "key": "act-13",
+   "sort_order": 130
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Jou mening",
+   "payload": {
+    "prompt": "Dink en motiveer jou antwoord.",
+    "points": [
+     "Dink jy dit is goed dat die hasie en die leeu vriende is, al behoort hulle aan verskillende spesies? Motiveer jou antwoord.",
+     "Dink jy dit is goed om maats te wees met iemand uit ’n ander kultuurgroep? Motiveer jou antwoord.",
+     "Watter sosiale waardes kan ons aan die einde van die storie by die leeu leer?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 39,
+    "pdf_page": 43,
+    "item": "mening"
+   },
+   "key": "act-14",
+   "sort_order": 140
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die intrige van ’n storie is die boodskap wat die skrywer wil oordra."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die intrige is die gebeure (die storielyn). Die boodskap is die tema."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-15",
+   "sort_order": 150
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat was die hasie se grootste bekommernis?",
+   "explanation": "Dit staan duidelik aan die begin van die storie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dat daar ’n aardbewing sou kom",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Leeu"
+    },
+    {
+     "key": "c",
+     "text": "’n Slag"
+    },
+    {
+     "key": "d",
+     "text": "’n Vallende boom"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "1"
+   },
+   "key": "q01",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het die hele aarde laat skud?",
+   "explanation": "Die yslike vrug (kokosneut) het die aarde laat skud.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Enorme kokosneut",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Aardbewing"
+    },
+    {
+     "key": "c",
+     "text": "Die vlugtende hasies"
+    },
+    {
+     "key": "d",
+     "text": "’n Vallende boom"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "2"
+   },
+   "key": "q02",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom het die leeu die kokosneut op die grond laat val?",
+   "explanation": "Die leeu wou die hasie die waarheid wys.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om die hasie te wys wat gebeur het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om die hasie te laat weghol"
+    },
+    {
+     "key": "c",
+     "text": "Om die hasie te help om die vrug te eet"
+    },
+    {
+     "key": "d",
+     "text": "Om die hasie te laat lag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "3"
+   },
+   "key": "q03",
+   "supporting": [
+    43
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Hoe het die hasie gevoel nadat die leeu die kokosneut laat val het?",
+   "explanation": "Hy het besef dat hy dwaas was.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Verleë",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Kwaad"
+    },
+    {
+     "key": "c",
+     "text": "Teleurgesteld"
+    },
+    {
+     "key": "d",
+     "text": "Bekommerd"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "4"
+   },
+   "key": "q04",
+   "supporting": [
+    54
+   ]
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die verskuilde boodskap van die storie?",
+   "explanation": "Hasie het paniek gemaak sonder om uit te vind wat werklik gebeur het.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Maak seker van die feite voordat jy paniekerig word.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hardloop weg van moeilikheid."
+    },
+    {
+     "key": "c",
+     "text": "Hase hardloop die vinnigste."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42,
+    "item": "5"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is idiome?",
+   "explanation": "Die werkboek verduidelik: idiomatiese uitdrukkings is uitdrukkings wat eie aan die taal is.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Uitdrukkings wat eie aan die taal is, soos spreekwoorde en segswyses",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Woorde met dieselfde betekenis"
+    },
+    {
+     "key": "c",
+     "text": "Lang stories"
+    },
+    {
+     "key": "d",
+     "text": "Woorde wat dieselfde klink"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 38,
+    "pdf_page": 42
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die “intrige” van ’n verhaal?",
+   "explanation": "Die werkboek sê dit in die nota op bladsy 39.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die verwikkelinge van gebeure waarop die verhaal gebaseer is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die plek van die verhaal"
+    },
+    {
+     "key": "c",
+     "text": "Die karakters"
+    },
+    {
+     "key": "d",
+     "text": "Die titel"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 39,
+    "pdf_page": 43
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat dink die leeu van die hasie se vrees?",
+   "explanation": "Hy sê: “Almal van ons … is partykeer bang vir die dinge wat ons nie verstaan nie.”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dis normaal om partykeer bang te wees vir dinge wat ons nie verstaan nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit is dom om bang te wees."
+    },
+    {
+     "key": "c",
+     "text": "Net hasies word bang."
+    },
+    {
+     "key": "d",
+     "text": "Bang wees is verkeerd."
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    57
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Hasie maak alarm (werkkaart 81)",
+  "language": "af",
+  "sentences": [
+   "Daar was eenmaal ’n hasie wat altyd bekommerd was.",
+   "“Ag tog,” het hy heeldag gemompel, “Ag toggie, tog, tog.”",
+   "Sy grootste bekommernis was dat daar ’n aardbewing sou kom.",
+   "“Want as dit gebeur,” het hy vir homself gesê, “wat op aarde word dan van my?”",
+   "Hy was een oggend juis besonder bekommerd hieroor toe ’n yslike vrug skielik van ’n boom naby hom afval – KABOEM – en die hele aarde laat skud.",
+   "“Aardbewing!” skree hy.",
+   "En hy hardloop oor die veld om sy neefs en niggies te gaan waarsku.",
+   "“Aardbewing!",
+   "Hardloop vir die vale!”",
+   "Al die hase peul uit die lande en hardloop verwoed agter hom aan.",
+   "Hulle snel oor vlaktes, deur woude en riviere tot in die heuwels en waarsku nog neefs en niggies sover hulle gaan.",
+   "Net toe kom hasie ’n olifant teë.",
+   "“Aardbewing!” roep hy.",
+   "“Hardloop vir die vale!”",
+   "Die olifant begin agter die hase aanhardloop, en die aarde bewe van sy swaar stampende pote.",
+   "Hulle hardloop by ’n groep kameelperde verby.",
+   "“Aardbewing!” roep die hasie.",
+   "“Hardloop vir die vale!”",
+   "Die kameelperde begin aanhardloop agter die olifant, wat die hase volg.",
+   "Teen die tyd dat hulle die berg bereik, klink die tien duisend hase, die olifant en ’n hele klomp kameelperde soos donderweer teen die berghange.",
+   "Die voorste haas kyk om of die aardbewing al nader kom, maar al wat hy kan sien, is ’n groot trop stormende diere.",
+   "Terwyl hy staan en hyg, kom daar ’n leeu aan.",
+   "“Wat is aan die gang?” vra die leeu.",
+   "“Aardbewing, aardbewing!” babbel die hasie.",
+   "“’n Aardbewing?” vra die leeu.",
+   "“Wie het dit gesien?",
+   "Wie het dit gehoor?”",
+   "“Nie ek nie,” antwoord die olifant.",
+   "“Vra hom, vra hom!” gil al die hasies, en hulle wys na die eerste hasie.",
+   "Die leeu kyk na die hasie.",
+   "“Asseblief, Meneer,” sê die hasie skamerig, “ek het rustig by my huis gesit toe daar ’n vreeslike slag was.",
+   "Die aarde het geskud, en ek het geweet dit moet ’n aardbewing wees, Meneer.",
+   "Toe hardloop ek so vining as wat my bene my kon dra om die ander te waarsku om te hardloop dat hulle klein word.”",
+   "“My boetie, sal jy dapper genoeg kan wees om my te wys waar hierdie vreeslike ramp hom afgespeel het?” vra die leeu.",
+   "“Oe, ek kan nooit weer soontoe teruggaan nie!” sê die hasie.",
+   "“Spring op my rug dan neem ek jou soontoe.",
+   "Ek sal jou oppas,” sê die leeu.",
+   "Baie skrikkerig spring die hasie toe op die leeu se rug en daar trek hulle, oor berge en dale, deur riviere en woude, oor grasvelde en vlaktes, totdat hulle by die hasie se huis kom.",
+   "“Dit is waar ek dit gehoor het, Meneer.",
+   "En ook gevoel het.",
+   "Die grond het gebewe.”",
+   "Die leeu kyk rond – en baie gou sien hy die enorme kokosneut wat met ’n slag van die boom afgeval het.",
+   "Hy sien ook ’n apie in die boom sit.",
+   "Die leeu tel die kokosneut op, klim op ’n rotsblok en laat die neut op die grond val.",
+   "KABOEM!",
+   "Die hasie wip ’n meter hoog.",
+   "“Aardbewing!",
+   "Daar gebeur dit weer!",
+   "Gou-gou – ons moet maak dat ons wegkom!”",
+   "Hasie sien die oopgebarste kokosneut voor sy voete en hoor hoe lekker die leeu uit sy maag lag.",
+   "Hasie besef toe wat gebeur het.",
+   "“O,” fluister hy.",
+   "“Dit was toe nie regtig ’n aardbewing nie, of hoe?”",
+   "“Nee,” sê die leeu, “dit was nie, en jy hoef nie bang te gewees het nie.”",
+   "“Was ek nie ’n simpel hasie nie!”",
+   "Die leeu glimlag vriendelik.",
+   "“Toe maar, my ou boetie.",
+   "Almal van ons – selfs ek ook – is partykeer bang vir die dinge wat ons nie verstaan nie.”",
+   "En met daardie woorde loop hy terug na die tien duisend hase, die olifant en die kameelperde wat nog steeds bo-op die berg staan en wag, om vir hulle te vertel dat alles heeltemal veilig is om huis toe te kan gaan."
+  ],
+  "paragraph_starts": [
+   0,
+   2,
+   4,
+   5,
+   6,
+   7,
+   9,
+   11,
+   14,
+   15,
+   18,
+   19,
+   21,
+   22,
+   23,
+   24,
+   27,
+   28,
+   29,
+   30,
+   33,
+   34,
+   35,
+   37,
+   38,
+   41,
+   44,
+   45,
+   49,
+   51,
+   53,
+   54,
+   55,
+   58
+  ],
+  "glossary": [
+   {
+    "term": "bekommerd",
+    "definition": "Bang of ongelukkig oor iets wat dalk kan gebeur.",
+    "sentence_index": 0
+   },
+   {
+    "term": "yslike",
+    "definition": "Baie groot.",
+    "sentence_index": 4
+   },
+   {
+    "term": "verwoed",
+    "definition": "Baie wild en haastig, soos in woede.",
+    "sentence_index": 9
+   },
+   {
+    "term": "waarsku",
+    "definition": "Vir iemand sê dat daar gevaar is.",
+    "sentence_index": 6
+   },
+   {
+    "term": "skamerig",
+    "definition": "Effens skaam.",
+    "sentence_index": 30
+   },
+   {
+    "term": "skrikkerig",
+    "definition": "Maklik bang.",
+    "sentence_index": 37
+   },
+   {
+    "term": "kokosneut",
+    "definition": "’n Groot, harde vrug van die kokospalm.",
+    "sentence_index": 41
+   },
+   {
+    "term": "ramp",
+    "definition": "’n Groot ongeluk of verskriklike gebeurtenis.",
+    "sentence_index": 33
+   },
+   {
+    "term": "simpel",
+    "definition": "Dwaas of onnosel.",
+    "sentence_index": 54
+   }
+  ]
+ }
+}

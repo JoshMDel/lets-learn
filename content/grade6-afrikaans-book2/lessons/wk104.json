@@ -1,0 +1,521 @@
+{
+ "key": "gr6-afr-b2-wk104",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 104,
+ "title_af": "Ontwerp ’n onderhoudvraelys",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 8,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  82,
+  83
+ ],
+ "pdf_pages": [
+  86,
+  87
+ ],
+ "reference_pages": [
+  {
+   "pdf": 86,
+   "printed": 82,
+   "src": "/workbook/gr6-afr-b2/p086.webp"
+  },
+  {
+   "pdf": 87,
+   "printed": 83,
+   "src": "/workbook/gr6-afr-b2/p087.webp"
+  }
+ ],
+ "intro_af": "Nou is dit jou beurt om jou eie onderhoudsvraelys te ontwerp! Kies ’n onderwerp, skryf ses stellings, vra tien maats en skryf ’n verslag.",
+ "objectives_af": [
+  "’n Eie onderhoudsvraelys op ’n templaat ontwerp.",
+  "Tien maats ondervra en die bevindinge aanteken.",
+  "’n Verslag oor die bevindinge skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Ontwerp jou vraelys",
+   "payload": {
+    "bullets": [
+     "Kies ’n **onderwerp** wat jy wil navors en skryf dit boaan die onderhoudsvraelys.",
+     "Stel **6 stellings of vrae** saam en vul dit in die eerste kolom by nommer 1 tot 6 in.",
+     "Vra **tien maats** om ja of nee op hierdie stellings of vrae te antwoord.",
+     "Vul ’n regmerkie vir ja en ’n kruisie vir nee in die kolomme langs die vrae.",
+     "Vul die totale getal regmerkies of kruisies in."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "My onderwerp en ses stellings",
+   "payload": {
+    "prompt": "Kies ’n onderwerp wat jy wil navors en skryf dit neer. Stel dan ses stellings of vrae saam.",
+    "lines": 8,
+    "checklist": [
+     "Ek het ’n onderwerp gekies.",
+     "Ek het ses stellings of vrae geskryf.",
+     "Elke stelling kan met ja of nee beantwoord word."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86,
+    "item": "onderwerp"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Is dit ’n goeie stelling vir ja of nee?",
+   "payload": {
+    "prompt": "Kan jy hierdie stelling met ja of nee beantwoord?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Ons behoort meer pouses te kry.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hoe voel jy oor pouses?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Skoolwerk moet minder wees.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Waarom hou jy van sokker?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "By ’n ja/nee-vraelys is die stellings sodat mens saam kan stem of nie."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ondervra tien maats",
+   "payload": {
+    "prompt": "Vra tien maats om ja of nee te antwoord op jou stellings. Maak ’n regmerkie of kruisie. Tel die totale ja’s en nee’s."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86,
+    "item": "Ons doen"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf die bevindinge",
+   "payload": {
+    "prompt": "Skryf by elke vraag (vraag 1 tot 6) wat jou maats geantwoord het.",
+    "lines": 10,
+    "checklist": [
+     "Ek het by elke vraag geskryf wat my maats gesê het."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 83,
+    "pdf_page": 87,
+    "item": "vrae 1–6"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Hoe voel jy self?",
+   "payload": {
+    "prompt": "Noudat jy uitgevind het hoe hulle oor hierdie sake voel, som op hoe jy self daaroor voel.",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 83,
+    "pdf_page": 87,
+    "item": "self"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jou verslag",
+   "payload": {
+    "prompt": "Skryf nou ’n verslag oor jou bevindinge. Skryf minstens twee sinne oor elke vraag.",
+    "lines": 14,
+    "checklist": [
+     "Ek het minstens twee sinne oor elke vraag geskryf.",
+     "Ek het gesê hoeveel maats ja en hoeveel nee gesê het.",
+     "Ek het my eie mening bygevoeg.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 83,
+    "pdf_page": 87,
+    "item": "verslag"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Jy moet ses stellings of vrae in jou vraelys skryf."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: stel 6 stellings/vrae saam."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel stellings of vrae stel jy saam?",
+   "explanation": "Die werkboek sê: 6 stellings/vrae.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ses",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een"
+    },
+    {
+     "key": "c",
+     "text": "Drie"
+    },
+    {
+     "key": "d",
+     "text": "Twintig"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel maats ondervra jy?",
+   "explanation": "Vra tien maats.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tien",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Twee"
+    },
+    {
+     "key": "c",
+     "text": "Ses"
+    },
+    {
+     "key": "d",
+     "text": "Honderd"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar skryf jy die onderwerp?",
+   "explanation": "Skryf dit boaan die onderhoudsvraelys.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Boaan die onderhoudsvraelys",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Onder die antwoorde"
+    },
+    {
+     "key": "c",
+     "text": "In die kantlyn"
+    },
+    {
+     "key": "d",
+     "text": "Nêrens nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat gebruik jy om ja te antwoord?",
+   "explanation": "Regmerkie vir ja; kruisie vir nee.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Regmerkie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Kruisie"
+    },
+    {
+     "key": "c",
+     "text": "’n Sterretjie"
+    },
+    {
+     "key": "d",
+     "text": "’n Vraagteken"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "sequencing",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat doen jy EERSTE?",
+   "explanation": "Die eerste stap in die werkboek is om ’n onderwerp te kies.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kies ’n onderwerp",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Skryf die verslag"
+    },
+    {
+     "key": "c",
+     "text": "Tel die ja’s"
+    },
+    {
+     "key": "d",
+     "text": "Vra tien maats"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat doen jy ná jy tien maats gevra het?",
+   "explanation": "Vul die totale getal in en skryf ’n verslag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vul die totale ja’s en nee’s in en skryf ’n verslag",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Begin oor"
+    },
+    {
+     "key": "c",
+     "text": "Gooi die vraelys weg"
+    },
+    {
+     "key": "d",
+     "text": "Stuur dit per e-pos"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 82,
+    "pdf_page": 86
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter een is ’n goeie stelling vir ’n ja/nee-vraelys?",
+   "explanation": "Op ’n stelling kan mens ja of nee antwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Skoolwerk moet minder wees.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hoe voel jy oor skool?"
+    },
+    {
+     "key": "c",
+     "text": "Waarom hou jy van pouses?"
+    },
+    {
+     "key": "d",
+     "text": "Wat is jou gunstelingvak?"
+    }
+   ],
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel sinne skryf jy minstens per vraag in die verslag?",
+   "explanation": "Skryf minstens twee sinne oor elke vraag.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Twee",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een"
+    },
+    {
+     "key": "c",
+     "text": "Agt"
+    },
+    {
+     "key": "d",
+     "text": "Geen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 83,
+    "pdf_page": 87
+   },
+   "key": "q08"
+  }
+ ]
+}

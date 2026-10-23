@@ -1,0 +1,689 @@
+{
+ "key": "gr6-afr-b2-wk110",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 110,
+ "title_af": "Mevrou Ples en Little Foot",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk3-4",
+  "name_af": "Tema 7 · Week 3–4: Lees om inligting te bekom",
+  "name_en": "Theme 7 · Weeks 3–4: Reading for information",
+  "sort": 107
+ },
+ "tier_number": 6,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Lees en kyk",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  94,
+  95
+ ],
+ "pdf_pages": [
+  98,
+  99
+ ],
+ "reference_pages": [
+  {
+   "pdf": 98,
+   "printed": 94,
+   "src": "/workbook/gr6-afr-b2/p098.webp"
+  },
+  {
+   "pdf": 99,
+   "printed": 95,
+   "src": "/workbook/gr6-afr-b2/p099.webp"
+  }
+ ],
+ "intro_af": "Ontmoet Mev. Ples en Little Foot – twee baie ou skelette! Lees die internetverslag oor die Wieg van die Mensdom en leer wat ’n erfenisterrein is.",
+ "objectives_af": [
+  "’n Internetverslag lees en verstaan.",
+  "Belangrike feite oor die Wieg van die Mensdom noem.",
+  "Afkortings, akronieme, samestellings en afleidings herken."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Afkortings en akronieme",
+   "payload": {
+    "text": "’n **Afkorting** is ’n verkorte woord (bv. Mev., dr). ’n **Akroniem** is ’n afkorting wat as een woord uitgespreek word (bv. UNESCO)."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 95,
+    "pdf_page": 99
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Samestellings en afleidings",
+   "payload": {
+    "text": "**Samestelling** = basis + basis (bv. goudmynwerkers). **Afleiding** = basis + voor-/agtervoegsel (bv. wetenskaplikes)."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 95,
+    "pdf_page": 99
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Wanneer het dit gebeur?",
+   "payload": {
+    "prompt": "Verbind elke gebeurtenis met die regte jaar.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Wetenskaplikes begin fossiele opgrawe"
+     },
+     {
+      "key": "l2",
+      "text": "Dr Robert Broom vind Mev. Ples"
+     },
+     {
+      "key": "l3",
+      "text": "Ronald Clarke ontdek Little Foot"
+     },
+     {
+      "key": "l4",
+      "text": "UNESCO verklaar die gebied ’n Wêrelderfenisterrein"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "1947"
+     },
+     {
+      "key": "r3",
+      "text": "1995"
+     },
+     {
+      "key": "r4",
+      "text": "2000"
+     },
+     {
+      "key": "r1",
+      "text": "1890"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 94,
+    "pdf_page": 98,
+    "item": "verslag"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die jare staan in die internetverslag."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Wie of wat?",
+   "payload": {
+    "prompt": "Kies die regte antwoord.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Hoeveel Wêrelderfenisterreine het Suid-Afrika?",
+      "options": [
+       {
+        "key": "a",
+        "text": "agt"
+       },
+       {
+        "key": "b",
+        "text": "drie"
+       },
+       {
+        "key": "c",
+        "text": "twaalf"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hoekom is Mev. Ples se bynaam so genoem?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Die wetenskaplike naam was moeilik om te onthou"
+       },
+       {
+        "key": "b",
+        "text": "Sy was baie ryk"
+       },
+       {
+        "key": "c",
+        "text": "Sy het by Ples gewoon"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hoekom is Little Foot so genoem?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Voetbeentjies was die eerste dele wat ontdek is"
+       },
+       {
+        "key": "b",
+        "text": "Sy voete was baie klein"
+       },
+       {
+        "key": "c",
+        "text": "Hy kon vinnig hardloop"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Waar is die fossiele ontdek?",
+      "options": [
+       {
+        "key": "a",
+        "text": "In ’n grot naby Krugersdorp"
+       },
+       {
+        "key": "b",
+        "text": "In Kaapstad"
+       },
+       {
+        "key": "c",
+        "text": "Op Robbeneiland"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 94,
+    "pdf_page": 98,
+    "item": "verslag"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die verslag gee hierdie inligting."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Afkortings en akroniem",
+   "payload": {
+    "text": "In die leesstukke is die afkortings {{1}} en {{2}}, en die akroniem is {{3}}.",
+    "prompt": "Omkring die afkortings met blou en die akroniem met rooi."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 95,
+    "pdf_page": 99,
+    "item": "kleur"
+   },
+   "answer": {
+    "1": [
+     "Mev.",
+     "dr"
+    ],
+    "2": [
+     "dr",
+     "Mev."
+    ],
+    "3": [
+     "UNESCO"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Afkortings: Mev. (Mevrou), dr (doktor). Akroniem: UNESCO – uitgespreek as een woord."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Samestellings en afleidings",
+   "payload": {
+    "prompt": "Onderstreep 5 samestellings (groen) en 5 afleidings (oranje) in die leesstukke. Skryf hulle hier neer.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 95,
+    "pdf_page": 99,
+    "item": "kleur"
+   },
+   "suggested_answer": "Samestellings: erfenisterrein, goudmynwerkers, ampermense, ystergereedskap, Wêrelderfenisterreine\nAfleidings: wetenskaplikes, veranderinge, ontdekkings, belangrikheid, besoedel",
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf in jou eie woorde",
+   "payload": {
+    "prompt": "Skryf in een sin waarom die Wieg van die Mensdom belangrik is.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 95,
+    "pdf_page": 99,
+    "item": "belang"
+   },
+   "suggested_answer": "Wetenskaplikes glo die menslike ras het in hierdie omgewing ontstaan, want daar is baie fossiele van die vroegste ampermense gevind.",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Mev. Ples is in 1995 gevind."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 95,
+    "pdf_page": 99,
+    "item": "feit"
+   },
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Mev. Ples is in 1947 gevind; Little Foot in 1995."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarvoor staan UNESCO se werk?",
+   "explanation": "UNESCO evalueer terreine.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dit evalueer belangrike terreine en verklaar hulle tot Wêrelderfenisterreine",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit bou mense se huise"
+    },
+    {
+     "key": "c",
+     "text": "Dit maak fossiele"
+    },
+    {
+     "key": "d",
+     "text": "Dit verkoop kos"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoeveel Wêrelderfenisterreine het Suid-Afrika?",
+   "explanation": "Die verslag sê agt.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Agt",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Drie"
+    },
+    {
+     "key": "c",
+     "text": "Een"
+    },
+    {
+     "key": "d",
+     "text": "Dertig"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    3
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar is die fossiele ontdek?",
+   "explanation": "Dit is in ’n grot naby Krugersdorp ontdek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In ’n grot naby Krugersdorp",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Op Robbeneiland"
+    },
+    {
+     "key": "c",
+     "text": "In die Kalahari"
+    },
+    {
+     "key": "d",
+     "text": "By ’n rivier in Natal"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie het Mev. Ples se skedel gevind?",
+   "explanation": "Dr Robert Broom het dit in 1947 gevind.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dr Robert Broom",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Ronald Clarke"
+    },
+    {
+     "key": "c",
+     "text": "UNESCO"
+    },
+    {
+     "key": "d",
+     "text": "Goudmynwerkers"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    11
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom het die skedel die bynaam “Mev. Ples” gekry?",
+   "explanation": "Die naam Plesianthropus transvaalensis was moeilik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die wetenskaplike naam was moeilik om te onthou",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sy was mevrou"
+    },
+    {
+     "key": "c",
+     "text": "Dit is ’n grap"
+    },
+    {
+     "key": "d",
+     "text": "Sy naam was Ples"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    12
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie het Little Foot ontdek?",
+   "explanation": "In 1995 het Ronald Clarke dit ontdek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ronald Clarke",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Robert Broom"
+    },
+    {
+     "key": "c",
+     "text": "UNESCO"
+    },
+    {
+     "key": "d",
+     "text": "Mev. Ples"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    20
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom word die gebied die “Wieg van die Mensdom” genoem?",
+   "explanation": "Die menslike ras het in hierdie omgewing ontstaan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wetenskaplikes glo die menslike ras het daar ontstaan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Daar word baie babas gebore"
+    },
+    {
+     "key": "c",
+     "text": "Dit lyk soos ’n wieg"
+    },
+    {
+     "key": "d",
+     "text": "Dit is ’n kinderhuis"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    17
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat moet ons met ons erfenis doen?",
+   "explanation": "Ons moet ons erfenis bewaar.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dit bewaar vir toekomstige generasies",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit verkoop"
+    },
+    {
+     "key": "c",
+     "text": "Dit vergeet"
+    },
+    {
+     "key": "d",
+     "text": "Dit afbreek"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    28
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Mevrou Ples en Little Foot",
+  "language": "af",
+  "sentences": [
+   "Wat is ’n erfenisterrein?",
+   "Die Verenigde Nasies se Organisasie vir Wetenskap en Kultuur (UNESCO) vra dat regerings hulle moet laat weet watter terreine in hulle lande belangrik is, sodat die terreine bewaar kan word.",
+   "UNESCO evalueer die terreine, en indien hulle belangrik genoeg is, word hulle tot Wêrelderfenisterreine verklaar.",
+   "Suid-Afrika het agt Wêrelderfenisterreine, waarvan Robbeneiland een is.",
+   "Nog ’n belangrike terrein is die Wieg van die Mensdom, wat wetenskaplikes as die oorsprong van die mens beskou.",
+   "Waarom is hierdie terrein belangrik?",
+   "In ’n grot wat aan Gauteng en Noordwes grens, naby Krugersdorp, is daar fossiele ontdek.",
+   "Daar word geglo dat hierdie geraamtes behoort het aan party van die vroegste ampermense wat op die aarde geleef het.",
+   "Hoe is die fossiele ontdek?",
+   "Wetenskaplikes het in 1890 begin om die oorblyfsels van prehistoriese liggame op te grawe toe goudmynwerkers berig het dat hulle baie fossiele ondergronds kry.",
+   "Die wetenskaplikes het fossiele gekry van die skelette van ampermense wat die aarde miljoene jare gelede bewandel het.",
+   "In 1947 het dr Robert Broom die skedel van ’n volwasse vrou, ’n prehistoriese ampermens wat Plesianthropus transvaalensis genoem is, in die Sterkfonteingrot gevind.",
+   "Hierdie naam was moeilik om te onthou, daarom het die skedel ’n bynaam gekry, naamlik Mev.",
+   "Ples.",
+   "Wanneer het sy geleef?",
+   "Mev.",
+   "Ples het miljoene jare gelede gelewe, voordat vuur ontdek of die eerste ystergereedskap gemaak is.",
+   "Wetenskaplikes glo dat die eerste hominiede die voorsate van die moderne mens was, en dat die menslike ras in hierdie omgewing ontstaan het.",
+   "Dit is waarom dit die Wieg van die Mensdom genoem word.",
+   "Watter ander bewyse het ons dat die eerste mense uit Afrika gekom het?",
+   "In 1995 het ’n ander wetenskaplike, Ronald Clarke, die oorblyfsels van nog ’n hominied in dieselfde gebied ontdek.",
+   "Hierdie skelet is Little Foot genoem, omdat voetbeentjies die eerste dele van die skelet was wat die navorsers ontdek het.",
+   "Weens die belangrikheid van hierdie ontdekkings het UNESCO die gebied rondom die grotte in 2000 tot Wêrelderfenisterrein verklaar.",
+   "Beskerm ons Erfenis!",
+   "Ons woon op ’n planeet wat gedurig besig is om te verander.",
+   "Partykeer word die veranderinge deur natuurkragte soos aardbewings en die beweging van die oseane veroorsaak.",
+   "Soms word die skade egter deur mense aangerig deurdat ons riviere en oseane besoedel en reënwoude verwoes.",
+   "Al hierdie veranderinge veroorsaak dat ons iets verloor wat jou kinders dalk nooit sal sien nie, soos die reënwoude of koninklike diere soos die Bengaalse tier, wat byna uitgesterf het.",
+   "Ons moet ons erfenis vir toekomstige generasies bewaar – vir jou kinders en kleinkinders."
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   8,
+   9,
+   11,
+   14,
+   15,
+   19,
+   20,
+   22,
+   23,
+   24,
+   28
+  ],
+  "glossary": [
+   {
+    "term": "erfenisterrein",
+    "definition": "’n Plek wat belangrik is vir die geskiedenis of natuur en bewaar moet word.",
+    "sentence_index": 0
+   },
+   {
+    "term": "fossiele",
+    "definition": "Oorblyfsels van plante of diere uit baie lank gelede.",
+    "sentence_index": 6
+   },
+   {
+    "term": "ampermense",
+    "definition": "Wesens wat amper soos mense was.",
+    "sentence_index": 7
+   },
+   {
+    "term": "prehistoriese",
+    "definition": "Van voor die geskiedenis geskryf is.",
+    "sentence_index": 9
+   },
+   {
+    "term": "hominiede",
+    "definition": "Mensagtige wesens uit die vroegste tye.",
+    "sentence_index": 17
+   },
+   {
+    "term": "oorsprong",
+    "definition": "Waar iets begin het.",
+    "sentence_index": 4
+   },
+   {
+    "term": "evalueer",
+    "definition": "Beoordeel of iets goed of belangrik genoeg is.",
+    "sentence_index": 2
+   },
+   {
+    "term": "uitgesterf",
+    "definition": "Nie meer op die aarde bestaan nie.",
+    "sentence_index": 27
+   }
+  ]
+ }
+}

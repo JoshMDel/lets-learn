@@ -137,21 +137,23 @@ export function useQuizPool(tierId: string | null) {
     queryKey: ['quizPool', tierId],
     enabled: !!tierId,
     queryFn: async () => {
-      const [{ data: questions, error: qErr }, { data: options, error: oErr }] = await Promise.all([
-        supabase
-          .from('v_quiz_questions')
-          .select('*')
-          .eq('tier_id', tierId as string)
-          .order('sort_order'),
-        supabase.from('v_quiz_options').select('*'),
-      ])
+      const { data: questions, error: qErr } = await supabase
+        .from('v_quiz_questions')
+        .select('*')
+        .eq('tier_id', tierId as string)
+        .order('sort_order')
       if (qErr) throw qErr
+
+      // Only this tier's options -- fetching every option in the database would
+      // silently hit the API's 1,000-row cap once the workbook lessons exist.
+      const questionIds = (questions as QuizQuestion[]).map((q) => q.id)
+      const { data: options, error: oErr } =
+        questionIds.length > 0
+          ? await supabase.from('v_quiz_options').select('*').in('question_id', questionIds)
+          : { data: [] as QuizOption[], error: null }
       if (oErr) throw oErr
 
-      const questionIds = new Set((questions as QuizQuestion[]).map((q) => q.id))
-      const filteredOptions = (options as QuizOption[]).filter((o) => questionIds.has(o.question_id))
-
-      return { questions: questions as QuizQuestion[], options: filteredOptions }
+      return { questions: questions as QuizQuestion[], options: options as QuizOption[] }
     },
   })
 }

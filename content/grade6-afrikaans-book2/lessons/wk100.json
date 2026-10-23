@@ -1,0 +1,898 @@
+{
+ "key": "gr6-afr-b2-wk100",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 100,
+ "title_af": "Ons hersien bywoorde",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 4,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  76,
+  76
+ ],
+ "pdf_pages": [
+  80,
+  80
+ ],
+ "reference_pages": [
+  {
+   "pdf": 80,
+   "printed": 76,
+   "src": "/workbook/gr6-afr-b2/p080.webp"
+  }
+ ],
+ "intro_af": "Bywoorde vertel ons wanneer, waar, hoe en hoeveel iets gedoen word. Vandag hersien ons die soorte bywoorde.",
+ "objectives_af": [
+  "Bywoorde in sinne uitken.",
+  "Die tipe bywoord aandui (tyd, plek, wyse of graad).",
+  "Die woord uitwys wat deur die bywoord beskryf word."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "’n Kykie na bywoorde",
+   "payload": {
+    "paragraphs": [
+     "Soos jy in vorige werkkaarte geleer het, sê bywoorde vir ons **wanneer** (tyd), **waar** (plek), **hoe** (wyse) en **hoeveel** of in watter mate (graad) iets gedoen word. Bywoorde gee meer inligting oor werkwoorde, byvoeglike naamwoorde, ander bywoorde, sinsdele ens."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Die vier soorte bywoorde",
+   "payload": {
+    "headers": [
+     "Soort",
+     "Vraag",
+     "Voorbeeld"
+    ],
+    "rows": [
+     [
+      "Tyd",
+      "wanneer?",
+      "gister, môre, elke dag"
+     ],
+     [
+      "Plek",
+      "waar?",
+      "in die swembad, winkel toe"
+     ],
+     [
+      "Wyse",
+      "hoe?",
+      "saggies, mooi, vinnig"
+     ],
+     [
+      "Graad",
+      "hoeveel?",
+      "baie, geweldig"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat beskryf bywoorde?",
+   "payload": {
+    "bullets": [
+     "Ons sing **mooi**. (Dit beskryf die werkwoord.)",
+     "Ons sing **baie** mooi. (Dit beskryf die bywoord.)",
+     "Ons sing ’n **vrolike**, tradisionele liedjie. (Dit beskryf die byvoeglike naamwoord.)"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Nomsa swem …",
+   "payload": {
+    "prompt": "Verbind elke bywoord(frase) met die soort bywoord: Nomsa swem elke dag baie geesdriftig in die swembad.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "elke dag"
+     },
+     {
+      "key": "l2",
+      "text": "baie"
+     },
+     {
+      "key": "l3",
+      "text": "geesdriftig"
+     },
+     {
+      "key": "l4",
+      "text": "in die swembad"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "graad"
+     },
+     {
+      "key": "r3",
+      "text": "wyse"
+     },
+     {
+      "key": "r4",
+      "text": "plek"
+     },
+     {
+      "key": "r1",
+      "text": "tyd"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80,
+    "item": "tabel 1"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Tyd = wanneer; graad = hoeveel; wyse = hoe; plek = waar."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "My ma ry …",
+   "payload": {
+    "prompt": "Verbind elke bywoord(frase) met die soort bywoord: My ma ry soggens geweldig vinnig werk toe.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "soggens"
+     },
+     {
+      "key": "l2",
+      "text": "geweldig"
+     },
+     {
+      "key": "l3",
+      "text": "vinnig"
+     },
+     {
+      "key": "l4",
+      "text": "werk toe"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "graad"
+     },
+     {
+      "key": "r3",
+      "text": "wyse"
+     },
+     {
+      "key": "r4",
+      "text": "plek"
+     },
+     {
+      "key": "r1",
+      "text": "tyd"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80,
+    "item": "tabel 3"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Soggens = wanneer; geweldig = hoeveel; vinnig = hoe; werk toe = waar."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter soort bywoord?",
+   "payload": {
+    "prompt": "Dui die soort bywoord aan (die onderstreepte deel):",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Hy praat saggies. (saggies)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Bobby woon in Suid-Afrika. (in Suid-Afrika)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Ons vertrek môre Sun City toe. (môre)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Hy sing mooi omdat hy hard oefen. (mooi)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Die koor sing pragtig. (pragtig)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Hulle sal môreoggend ’n onderhoud voer. (môreoggend)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q7",
+      "text": "Die kinders het aandagtig na die onderhoud geluister. (aandagtig)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q8",
+      "text": "Hulle het per bus huis toe gekom. (huis toe)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q9",
+      "text": "Hulle sing nou. (nou)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     },
+     {
+      "key": "q10",
+      "text": "Ek het gister radiostasie toe gegaan. (gister)",
+      "options": [
+       {
+        "key": "a",
+        "text": "tyd"
+       },
+       {
+        "key": "b",
+        "text": "plek"
+       },
+       {
+        "key": "c",
+        "text": "wyse"
+       },
+       {
+        "key": "d",
+        "text": "graad"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80,
+    "item": "sinne"
+   },
+   "answer": {
+    "answers": {
+     "q1": "c",
+     "q2": "b",
+     "q3": "a",
+     "q4": "c",
+     "q5": "c",
+     "q6": "a",
+     "q7": "c",
+     "q8": "b",
+     "q9": "a",
+     "q10": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Vra jou af: wanneer? waar? hoe? hoeveel?"
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Wat beskryf die bywoord?",
+   "payload": {
+    "prompt": "Wat word deur die onderstreepte bywoord beskryf?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Ons sing mooi.  (mooi)",
+      "options": [
+       {
+        "key": "a",
+        "text": "werkwoord"
+       },
+       {
+        "key": "b",
+        "text": "bywoord"
+       },
+       {
+        "key": "c",
+        "text": "byvoeglike naamwoord"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Ons sing baie mooi.  (baie)",
+      "options": [
+       {
+        "key": "a",
+        "text": "werkwoord"
+       },
+       {
+        "key": "b",
+        "text": "bywoord"
+       },
+       {
+        "key": "c",
+        "text": "byvoeglike naamwoord"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Ons sing ’n baie vrolike liedjie.  (baie)",
+      "options": [
+       {
+        "key": "a",
+        "text": "werkwoord"
+       },
+       {
+        "key": "b",
+        "text": "bywoord"
+       },
+       {
+        "key": "c",
+        "text": "byvoeglike naamwoord"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "c"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Bywoorde kan werkwoorde, ander bywoorde en byvoeglike naamwoorde beskryf."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die sin",
+   "payload": {
+    "text": "Bywoorde beantwoord vrae oor wanneer, {{1}}, hoe en in watter {{2}} iets gedoen word.",
+    "word_bank": [
+     "waar",
+     "mate",
+     "wie"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "waar"
+    ],
+    "2": [
+     "mate",
+     "graad"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die werkboek sê: Bywoorde beantwoord dus vrae oor wanneer, waar, hoe en in watter mate iets gedoen word."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "“Nou” in “Hulle sing nou” is ’n bywoord van tyd."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Nou vertel wanneer hulle sing."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter vraag beantwoord ’n bywoord van tyd?",
+   "explanation": "Die werkboek sê tyd = wanneer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wanneer?",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Waar?"
+    },
+    {
+     "key": "c",
+     "text": "Hoe?"
+    },
+    {
+     "key": "d",
+     "text": "Wie?"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter vraag beantwoord ’n bywoord van plek?",
+   "explanation": "Plek = waar.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Waar?",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Wanneer?"
+    },
+    {
+     "key": "c",
+     "text": "Hoe?"
+    },
+    {
+     "key": "d",
+     "text": "Hoeveel?"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter vraag beantwoord ’n bywoord van wyse?",
+   "explanation": "Wyse = hoe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hoe?",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Wanneer?"
+    },
+    {
+     "key": "c",
+     "text": "Waar?"
+    },
+    {
+     "key": "d",
+     "text": "Wie?"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter vraag beantwoord ’n bywoord van graad?",
+   "explanation": "Graad = hoeveel of in watter mate.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hoeveel (in watter mate)?",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Wanneer?"
+    },
+    {
+     "key": "c",
+     "text": "Waar?"
+    },
+    {
+     "key": "d",
+     "text": "Wie?"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter soort bywoord is “saggies” in “Hy praat saggies”?",
+   "explanation": "Saggies vertel hoe hy praat.",
+   "options": [
+    {
+     "key": "a",
+     "text": "wyse",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "tyd"
+    },
+    {
+     "key": "c",
+     "text": "plek"
+    },
+    {
+     "key": "d",
+     "text": "graad"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80,
+    "item": "sinne"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter soort bywoord is “gister” in “Ek het gister radiostasie toe gegaan”?",
+   "explanation": "Gister vertel wanneer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "tyd",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "plek"
+    },
+    {
+     "key": "c",
+     "text": "wyse"
+    },
+    {
+     "key": "d",
+     "text": "graad"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80,
+    "item": "sinne"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter soort bywoord is “in die swembad”?",
+   "explanation": "In die swembad vertel waar.",
+   "options": [
+    {
+     "key": "a",
+     "text": "plek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "tyd"
+    },
+    {
+     "key": "c",
+     "text": "wyse"
+    },
+    {
+     "key": "d",
+     "text": "graad"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80,
+    "item": "tabel 1"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat beskryf “baie” in “Ons sing baie mooi”?",
+   "explanation": "Die werkboek sê dit beskryf die bywoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die bywoord “mooi”",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die werkwoord “sing”"
+    },
+    {
+     "key": "c",
+     "text": "Die selfstandige naamwoord"
+    },
+    {
+     "key": "d",
+     "text": "Die voornaamwoord “ons”"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 76,
+    "pdf_page": 80
+   },
+   "key": "q08"
+  }
+ ]
+}

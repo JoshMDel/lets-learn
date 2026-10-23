@@ -1,0 +1,594 @@
+{
+ "key": "gr6-afr-b2-wk072",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 72,
+ "title_af": "Kom ons skryf ’n storie",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk1-2",
+  "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+  "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+  "sort": 101
+ },
+ "tier_number": 8,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  16,
+  17
+ ],
+ "pdf_pages": [
+  20,
+  21
+ ],
+ "reference_pages": [
+  {
+   "pdf": 20,
+   "printed": 16,
+   "src": "/workbook/gr6-afr-b2/p020.webp"
+  },
+  {
+   "pdf": 21,
+   "printed": 17,
+   "src": "/workbook/gr6-afr-b2/p021.webp"
+  }
+ ],
+ "intro_af": "Jy het ook ’n lewensverhaal! Vandag beplan jy ’n dagboekinskrywing oor die hoogtepunte van jou lewe.",
+ "objectives_af": [
+  "’n Geheuekaart gebruik om skryfwerk te beplan.",
+  "’n Dagboekinskrywing in die eerste persoon skryf.",
+  "Gebeure in die korrekte volgorde vertel en tydwoorde gebruik.",
+  "Jou werk hersien en foute korrigeer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Dagboekinskrywings – let op die volgende",
+   "payload": {
+    "bullets": [
+     "Dui die datum aan.",
+     "Vertel in die eerste persoon (“ek”).",
+     "Begin elke paragraaf met ’n tydwoord.",
+     "Vertel die gebeure in die korrekte volgorde."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 17,
+    "pdf_page": 21
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Só kan jy begin",
+   "payload": {
+    "text": "Liewe Dagboek\nVandag dink ek terug oor my lewenspad en besef ek hoe geseënd ek is, al was daar ook swaar tye …"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die skryfproses",
+   "payload": {
+    "bullets": [
+     "**Beplan** jou dagboekinskrywing deur die breinkaart in te vul.",
+     "Skryf jou **eerste weergawe** in jou klaswerkboek.",
+     "Laat ’n maat jou werk **hersien**.",
+     "**Korrigeer** spelfoute en punktuasie.",
+     "Skryf jou **finale weergawe** vir publikasie."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beginjare",
+   "payload": {
+    "prompt": "Skryf wanneer en waar jy gebore is, en spesiale gebeurtenisse van jou kleuterjare.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20,
+    "item": "Beginjare"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Middeljare",
+   "payload": {
+    "prompt": "Skryf spesiale gebeurtenisse in Graad 1 tot 3.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20,
+    "item": "Middeljare"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Huidige jare",
+   "payload": {
+    "prompt": "Skryf spesiale gebeurtenisse in Graad 4 tot 6.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20,
+    "item": "Huidige jare"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Dele van jou dagboekinskrywing",
+   "payload": {
+    "prompt": "Sit die dele van die dagboekinskrywing in die regte volgorde.",
+    "items": [
+     {
+      "key": "e2",
+      "text": "Beginjare"
+     },
+     {
+      "key": "e3",
+      "text": "Middeljare"
+     },
+     {
+      "key": "e4",
+      "text": "Huidige jare"
+     },
+     {
+      "key": "e1",
+      "text": "Aanhef: “Liewe Dagboek”"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Jy begin met die aanhef en vertel dan die gebeure van jonk na ouer."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "My dagboekinskrywing (finale weergawe)",
+   "payload": {
+    "prompt": "Skryf die finale weergawe van jou dagboekinskrywing: “Liewe Dagboek, vandag dink ek terug oor my lewenspad …”",
+    "lines": 14,
+    "checklist": [
+     "Ek het die datum aangedui.",
+     "Ek het in die eerste persoon (“ek”) vertel.",
+     "Elke paragraaf begin met ’n tydwoord.",
+     "Die gebeure is in die korrekte volgorde.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jou skryfwerk met ’n breinkaart.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 17,
+    "pdf_page": 21,
+    "item": "Finale weergawe"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Hoort dit in ’n dagboekinskrywing?",
+   "payload": {
+    "prompt": "Kies Ja of Nee.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Die datum",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "“Ek” (eerste persoon)",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Gebeure deurmekaar sonder volgorde",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "’n Tydwoord aan die begin van ’n paragraaf",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die werkboek sê: dui die datum aan, vertel in die eerste persoon, begin elke paragraaf met ’n tydwoord en gebruik die korrekte volgorde."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die reël",
+   "payload": {
+    "text": "Ek skryf ’n dagboekinskrywing in die {{1}} persoon. Elke paragraaf begin met ’n {{2}}.",
+    "word_bank": [
+     "eerste",
+     "tweede",
+     "tydwoord",
+     "naamwoord"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "eerste"
+    ],
+    "2": [
+     "tydwoord"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Eerste persoon = “ek”. ’n Tydwoord soos eers, toe, daarna of later."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Watter aanhef begin ’n dagboekinskrywing?",
+   "explanation": "Die werkboek se voorbeeld begin met “Liewe Dagboek”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Liewe Dagboek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Geagte Meneer"
+    },
+    {
+     "key": "c",
+     "text": "Beste vriend"
+    },
+    {
+     "key": "d",
+     "text": "Aan wie dit mag aangaan"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "In watter persoon word ’n dagboekinskrywing geskryf?",
+   "explanation": "Vertel in die eerste persoon (“ek”).",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die eerste persoon (“ek”)",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die tweede persoon (“jy”)"
+    },
+    {
+     "key": "c",
+     "text": "Die derde persoon (“hy/sy”)"
+    },
+    {
+     "key": "d",
+     "text": "Dit maak nie saak nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 17,
+    "pdf_page": 21
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Waarmee begin elke paragraaf in ’n dagboekinskrywing?",
+   "explanation": "Begin elke paragraaf met ’n tydwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Tydwoord",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Vraag"
+    },
+    {
+     "key": "c",
+     "text": "’n Prent"
+    },
+    {
+     "key": "d",
+     "text": "’n Rympie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 17,
+    "pdf_page": 21
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "In watter volgorde vertel jy die gebeure?",
+   "explanation": "Vertel die gebeure in die korrekte volgorde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In die korrekte (tyd)volgorde",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Van die einde na die begin"
+    },
+    {
+     "key": "c",
+     "text": "Deurmekaar"
+    },
+    {
+     "key": "d",
+     "text": "Net die ergste gebeure"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 17,
+    "pdf_page": 21
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n tydwoord?",
+   "explanation": "Tydwoorde wys wanneer iets gebeur: eers, toe, daarna, later, uiteindelik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Daarna",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Mooi"
+    },
+    {
+     "key": "c",
+     "text": "Hond"
+    },
+    {
+     "key": "d",
+     "text": "Groot"
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat is die eerste stap van die skryfproses?",
+   "explanation": "Die skryfproses begin met beplanning.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Beplan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Publiseer"
+    },
+    {
+     "key": "c",
+     "text": "Korrigeer"
+    },
+    {
+     "key": "d",
+     "text": "Skryf die finale weergawe"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat doen jy ná jou eerste weergawe?",
+   "explanation": "Volgens die skryfproses hersien ’n maat jou werk en jy korrigeer spelfoute en punktuasie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Laat ’n maat dit hersien en korrigeer die foute",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Gooi dit weg"
+    },
+    {
+     "key": "c",
+     "text": "Skryf dit presies so oor"
+    },
+    {
+     "key": "d",
+     "text": "Gee dit dadelik vir die onderwyser"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom gebruik jy ’n geheuekaart voordat jy skryf?",
+   "explanation": "Die geheuekaart help jou om jou dagboekinskrywing te beplan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om jou skryfwerk te beplan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om te teken"
+    },
+    {
+     "key": "c",
+     "text": "Om jou handskrif te oefen"
+    },
+    {
+     "key": "d",
+     "text": "Om die datum te onthou"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 16,
+    "pdf_page": 20
+   },
+   "key": "q08"
+  }
+ ]
+}

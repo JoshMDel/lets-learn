@@ -1,0 +1,797 @@
+{
+ "key": "gr6-afr-b2-wk103",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 103,
+ "title_af": "Taalstrukture en -konvensies",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 7,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Taalstrukture en -konvensies",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  80,
+  81
+ ],
+ "pdf_pages": [
+  84,
+  85
+ ],
+ "reference_pages": [
+  {
+   "pdf": 84,
+   "printed": 80,
+   "src": "/workbook/gr6-afr-b2/p084.webp"
+  },
+  {
+   "pdf": 85,
+   "printed": 81,
+   "src": "/workbook/gr6-afr-b2/p085.webp"
+  }
+ ],
+ "intro_af": "Vandag werk jy met woordvorming, die ontkennende vorm, taalverskynsels (versagting, oordrywing, dubbelsinnigheid), idiome en afkortings.",
+ "objectives_af": [
+  "Basiswoorde, afleidings en samestellings uitken.",
+  "Sinne in die ontkennende vorm skryf.",
+  "Taalverskynsels herken (versagting, oordrywing, dubbelsinnigheid).",
+  "Idiome met hulle betekenisse verbind en afkortings opspoor."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Woordvorming",
+   "payload": {
+    "bullets": [
+     "**Basiswoorde:** die kleinste sinvolle deel van ’n woord.",
+     "**Afleidings:** basis + voorvoegsel en/of agtervoegsel of verbindingsklank.",
+     "**Samestellings:** basis + basis."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 80,
+    "pdf_page": 84
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Die ontkennende vorm",
+   "payload": {
+    "paragraphs": [
+     "In die ontkennende vorm word sake in die negatiewe vorm gestel, bv. Sy het nie gebel nie."
+    ],
+    "bullets": [
+     "Ons gebruik die **dubbele nie**, bv. Ek wil nie ’n onderhoud voer nie.",
+     "As die sin net ’n onderwerp bevat, gebruik ons net **een nie**, bv. Ek sal nie.",
+     "Gebruik woorde soos **moenie** saam met die woord **nie** in bevelsinne, bv. Moenie van my verwag om ’n onderhoud te voer nie!"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 80,
+    "pdf_page": 84
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Taalverskynsels",
+   "payload": {
+    "text": "Ons kan ons taal bewustelik verryk deur sommige van hierdie tegnieke toe te pas: **versagting**, **oordrywing** en **dubbelsinnigheid**."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Idiome",
+   "payload": {
+    "text": "Idiomatiese uitdrukkings is uitdrukkings wat eie aan die taal is. Idiome sluit spreekwoorde, segswyses, gesegdes en spreuke in."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85
+   },
+   "key": "learn-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Afleiding of samestelling?",
+   "payload": {
+    "prompt": "Hierdie woorde kom uit Bobby se onderhoud. Afleiding of samestelling?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "tienertyd",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "luisteraars",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "musiekster",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "laerskole",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "musiekbedryf",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 80,
+    "pdf_page": 84,
+    "item": "tabel"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "a",
+     "q3": "b",
+     "q4": "b",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Samestelling = basis + basis (musiek + ster). Afleiding = basis + voor-/agtervoegsel (luister + -aar + -s)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die ontkennende vorm",
+   "payload": {
+    "prompt": "Skryf hierdie sinne in die ontkennende vorm: Sy onderhoud het baie goed afgeloop. / Die kinders se opnames was suksesvol. / Jy moet jou opname voltooi!",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 80,
+    "pdf_page": 84,
+    "item": "ontkenning"
+   },
+   "suggested_answer": "Sy onderhoud het nie baie goed afgeloop nie.\nDie kinders se opnames was nie suksesvol nie.\nJy moet nie jou opname voltooi nie! (of: Moenie jou opname onvoltooid laat nie!)",
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Taalverskynsels en hul betekenisse",
+   "payload": {
+    "prompt": "Verbind elke woord links met sy betekenis regs.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "versagting"
+     },
+     {
+      "key": "l2",
+      "text": "oordrywing"
+     },
+     {
+      "key": "l3",
+      "text": "dubbelsinnig"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "vergroting; verergering"
+     },
+     {
+      "key": "r3",
+      "text": "met meer as een betekenis of vertolking"
+     },
+     {
+      "key": "r1",
+      "text": "verbloeming"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "woorde"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Versagting maak iets sagter (’n eufemisme); oordrywing maak iets groter."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter taalverskynsel?",
+   "payload": {
+    "prompt": "Dui die taalverskynsel in elke sin aan.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Ek het geluister na die gesing van die voëls wat deur die venster gekom het.",
+      "options": [
+       {
+        "key": "a",
+        "text": "versagting"
+       },
+       {
+        "key": "b",
+        "text": "oordrywing"
+       },
+       {
+        "key": "c",
+        "text": "dubbelsinnig"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "As iemand dood is kan ons sê hy of sy het ontslaap.",
+      "options": [
+       {
+        "key": "a",
+        "text": "versagting"
+       },
+       {
+        "key": "b",
+        "text": "oordrywing"
+       },
+       {
+        "key": "c",
+        "text": "dubbelsinnig"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hy gil en skree altyd.",
+      "options": [
+       {
+        "key": "a",
+        "text": "versagting"
+       },
+       {
+        "key": "b",
+        "text": "oordrywing"
+       },
+       {
+        "key": "c",
+        "text": "dubbelsinnig"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Ek het my doodgelag.",
+      "options": [
+       {
+        "key": "a",
+        "text": "versagting"
+       },
+       {
+        "key": "b",
+        "text": "oordrywing"
+       },
+       {
+        "key": "c",
+        "text": "dubbelsinnig"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Jy moet jou boek op die stoel lees.",
+      "options": [
+       {
+        "key": "a",
+        "text": "versagting"
+       },
+       {
+        "key": "b",
+        "text": "oordrywing"
+       },
+       {
+        "key": "c",
+        "text": "dubbelsinnig"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "sinne"
+   },
+   "answer": {
+    "answers": {
+     "q1": "c",
+     "q2": "a",
+     "q3": "b",
+     "q4": "b",
+     "q5": "c"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Dubbelsinnig = twee moontlike betekenisse; versagting = sagter sê; oordrywing = groter maak."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Idiome en hul betekenisse",
+   "payload": {
+    "prompt": "Verbind elke idioom met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "altyd op dieselfde aambeeld hamer"
+     },
+     {
+      "key": "l2",
+      "text": "kaatjie van die baan"
+     },
+     {
+      "key": "l3",
+      "text": "in die war wees"
+     },
+     {
+      "key": "l4",
+      "text": "die gelag betaal"
+     },
+     {
+      "key": "l5",
+      "text": "te dik vir ’n daalder"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "die voorste pretmaker"
+     },
+     {
+      "key": "r3",
+      "text": "verward wees"
+     },
+     {
+      "key": "r4",
+      "text": "die gevolge dra"
+     },
+     {
+      "key": "r5",
+      "text": "onmoontlik om te glo"
+     },
+     {
+      "key": "r1",
+      "text": "altyd oor dieselfde dinge praat"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "idiome"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Idiome het ’n figuurlike betekenis."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Afkortings in die onderhoud",
+   "payload": {
+    "prompt": "Voltooi die tabel deur 3 afkortings in die onderhoud met Bobby van Jaarsveld te soek. Skryf hulle en hulle betekenisse neer.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "afkortings"
+   },
+   "suggested_answer": "a.g.v. = as gevolg van\nnl. = naamlik\no.a. = onder andere",
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In ’n ontkennende sin sonder voorwerp gebruik ons net een “nie”, bv. Ek sal nie."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: as die sin net ’n onderwerp bevat, gebruik ons net een nie."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n samestelling?",
+   "explanation": "Musiek + ster.",
+   "options": [
+    {
+     "key": "a",
+     "text": "musiekster",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "luisteraars"
+    },
+    {
+     "key": "c",
+     "text": "onderhoude"
+    },
+    {
+     "key": "d",
+     "text": "verskaf"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 80,
+    "pdf_page": 84,
+    "item": "tabel"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter sin is in die ontkennende vorm?",
+   "explanation": "Die werkboek gebruik hierdie sin as voorbeeld.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ek wil nie ’n onderhoud voer nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Ek wil ’n onderhoud voer."
+    },
+    {
+     "key": "c",
+     "text": "Ek het ’n onderhoud gevoer."
+    },
+    {
+     "key": "d",
+     "text": "Ek sal ’n onderhoud voer."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 80,
+    "pdf_page": 84
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter woord gebruik ons saam met “nie” in bevelsinne?",
+   "explanation": "Voorbeeld: Moenie van my verwag om ’n onderhoud te voer nie!",
+   "options": [
+    {
+     "key": "a",
+     "text": "moenie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "sal"
+    },
+    {
+     "key": "c",
+     "text": "het"
+    },
+    {
+     "key": "d",
+     "text": "is"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 80,
+    "pdf_page": 84
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “oordrywing”?",
+   "explanation": "Die werkboek koppel oordrywing aan vergroting; verergering.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vergroting of verergering",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Verbloeming"
+    },
+    {
+     "key": "c",
+     "text": "Met twee betekenisse"
+    },
+    {
+     "key": "d",
+     "text": "Verkleining"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "woorde"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter taalverskynsel is “Ek het my doodgelag”?",
+   "explanation": "Niemand lag werklik dood nie – dit is ’n oordrywing.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Oordrywing",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Versagting"
+    },
+    {
+     "key": "c",
+     "text": "Dubbelsinnigheid"
+    },
+    {
+     "key": "d",
+     "text": "Geen een nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "sinne"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter taalverskynsel is “hy of sy het ontslaap”?",
+   "explanation": "Ontslaap is ’n sagter manier om te sê iemand is dood.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Versagting",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Oordrywing"
+    },
+    {
+     "key": "c",
+     "text": "Dubbelsinnigheid"
+    },
+    {
+     "key": "d",
+     "text": "Beeldspraak"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "sinne"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken die idioom “die gelag betaal”?",
+   "explanation": "Dit is die betekenis volgens die werkboek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die gevolge dra",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Baie geld hê"
+    },
+    {
+     "key": "c",
+     "text": "Pret maak"
+    },
+    {
+     "key": "d",
+     "text": "Onmoontlik glo"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "idiome"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarvoor staan “a.g.v.”?",
+   "explanation": "Die afkorting kom in Bobby se onderhoud voor.",
+   "options": [
+    {
+     "key": "a",
+     "text": "as gevolg van",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "aan gaan van"
+    },
+    {
+     "key": "c",
+     "text": "alles goed vir"
+    },
+    {
+     "key": "d",
+     "text": "agter geboue van"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 81,
+    "pdf_page": 85,
+    "item": "afkortings"
+   },
+   "key": "q08"
+  }
+ ]
+}

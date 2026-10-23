@@ -1,0 +1,633 @@
+{
+ "key": "gr6-afr-b2-wk123",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 123,
+ "title_af": "Rooikappie en die wolf",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk7-8",
+  "name_af": "Tema 8 · Week 7–8: Gedigte vir kinders",
+  "name_en": "Theme 8 · Weeks 7–8: Poems for children",
+  "sort": 109
+ },
+ "tier_number": 3,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Lees en kyk",
+  "Luister en praat"
+ ],
+ "printed_pages": [
+  122,
+  123
+ ],
+ "pdf_pages": [
+  126,
+  127
+ ],
+ "reference_pages": [
+  {
+   "pdf": 126,
+   "printed": 122,
+   "src": "/workbook/gr6-afr-b2/p126.webp"
+  },
+  {
+   "pdf": 127,
+   "printed": 123,
+   "src": "/workbook/gr6-afr-b2/p127.webp"
+  }
+ ],
+ "intro_af": "Almal ken Rooikappie en die wolf – maar in hierdie gedig verdedig Rooikappie haarself met karatehoue! Lees, beantwoord vrae en voer ’n rolspel op.",
+ "objectives_af": [
+  "’n Gedig hardop in groepverband lees.",
+  "Ooreenkomste en verskille met die sprokie bespreek.",
+  "Vrae oor die gedig beantwoord.",
+  "’n Rolspel van die gedig beplan en opvoer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Strofes en verse",
+   "payload": {
+    "paragraphs": [
+     "Gedigte bestaan uit strofes of verse. Elke strofe bestaan uit ’n aantal versreëls. Sommige gedigte het net een strofe, terwyl ander uit meer strofes bestaan."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 122,
+    "pdf_page": 126
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Gee ag",
+   "payload": {
+    "text": "Jy sal opmerk dat die gedig baie met die sprokiesverhaal ooreenstem, behalwe dat die digter ’n kinkel in die gedig invoeg deurdat Rooikappie haarself teen die wolf verdedig."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 122,
+    "pdf_page": 126
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Lees hardop",
+   "payload": {
+    "prompt": "Lees hierdie gedig hardop in groepverband.",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 122,
+    "pdf_page": 126,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoeveel strofes?",
+   "payload": {
+    "prompt": "Uit hoeveel strofes bestaan die gedig?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 122,
+    "pdf_page": 126,
+    "item": "strofes"
+   },
+   "suggested_answer": "8 strofes (van 10, 6, 4, 4, 6, 5, 3 en 6 reëls).",
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Soortgelyk aan die sprokie",
+   "payload": {
+    "prompt": "Watter dele van hierdie gedig is soortgelyk aan die sprokie van Rooikappie?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 123,
+    "pdf_page": 127,
+    "item": "1"
+   },
+   "suggested_answer": "Die wolf vermom hom as Ouma; Rooikappie vra “Ouma, waarom is jou ore so groot?”; die wolf wil Rooikappie eet.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoe verskil die slot?",
+   "payload": {
+    "prompt": "Hoe verskil die slot van die gedig van dié van die sprokie? (Hoe verdedig Rooikappie haarself?)",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 123,
+    "pdf_page": 127,
+    "item": "2"
+   },
+   "suggested_answer": "Rooikappie wen met karatehoue en verslaan die wolf; in die sprokie word sy gered (deur ’n jagter).",
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die digter en Rooikappie",
+   "payload": {
+    "prompt": "Hoe weet ons dat die digter Rooikappie raakgeloop het? (Kyk na die laaste strofe.)",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 123,
+    "pdf_page": 127,
+    "item": "3"
+   },
+   "suggested_answer": "Die digter sê: “Kom ek Rooikappie teë” en gesels met haar in die woud.",
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Wie sê dit?",
+   "payload": {
+    "prompt": "Watter karakter sê dit?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "“Ouma, waarom is jou ore so groot?”",
+      "options": [
+       {
+        "key": "a",
+        "text": "Rooikappie"
+       },
+       {
+        "key": "b",
+        "text": "Die wolf"
+       },
+       {
+        "key": "c",
+        "text": "Ouma"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "“Sodat ek beter kan luister, soos dit hoort!”",
+      "options": [
+       {
+        "key": "a",
+        "text": "Rooikappie"
+       },
+       {
+        "key": "b",
+        "text": "Die wolf"
+       },
+       {
+        "key": "c",
+        "text": "Ouma"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "“Hy gaan my opeet!”",
+      "options": [
+       {
+        "key": "a",
+        "text": "Rooikappie"
+       },
+       {
+        "key": "b",
+        "text": "Die wolf"
+       },
+       {
+        "key": "c",
+        "text": "Ouma"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "“Ek hoop jy sal van my wolfbaadjie hou.”",
+      "options": [
+       {
+        "key": "a",
+        "text": "Rooikappie"
+       },
+       {
+        "key": "b",
+        "text": "Die wolf"
+       },
+       {
+        "key": "c",
+        "text": "Ouma"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "c",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Dit volg uit die gebeure in die gedig."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Rolspel",
+   "payload": {
+    "prompt": "Beplan en berei ’n rolspel van die gedig in groepverband voor. Julle sal hierdie karakters nodig hê: Rooikappie, haar ouma, die wolf en die digter."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 123,
+    "pdf_page": 127,
+    "item": "Ons rolspeel"
+   },
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie klop aan Ouma se deur?",
+   "explanation": "Wolf besluit om aan Ouma se deur te klop.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die wolf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Rooikappie"
+    },
+    {
+     "key": "c",
+     "text": "Die digter"
+    },
+    {
+     "key": "d",
+     "text": "Die jagter"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat gebeur met Ouma?",
+   "explanation": "Hy maak van haar ’n smaaklike dis.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die wolf eet haar op",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sy loop weg"
+    },
+    {
+     "key": "c",
+     "text": "Sy gaan slaap"
+    },
+    {
+     "key": "d",
+     "text": "Sy bak koek"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    9
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom is die wolf nog honger?",
+   "explanation": "Ouma was tingerig en klein.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ouma was maer en klein",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het niks geëet nie"
+    },
+    {
+     "key": "c",
+     "text": "Hy hou nie van vleis nie"
+    },
+    {
+     "key": "d",
+     "text": "Hy het te veel geëet"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    10
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat doen die wolf om Rooikappie te kul?",
+   "explanation": "Hy sê hy gaan hom vermom.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy vermom hom",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy gaan weg"
+    },
+    {
+     "key": "c",
+     "text": "Hy loop weg"
+    },
+    {
+     "key": "d",
+     "text": "Hy roep die jagter"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    19
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom vra Rooikappie oor Ouma se groot ore?",
+   "explanation": "Sy raak agterdogtig.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sy merk dat dit nie Ouma is nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sy het nie goed gesien nie"
+    },
+    {
+     "key": "c",
+     "text": "Sy wil die wolf help"
+    },
+    {
+     "key": "d",
+     "text": "Sy is bang"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    22
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe verdedig Rooikappie haarself?",
+   "explanation": "Sy laat karatehoue reën.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met karatehoue",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sy hardloop weg"
+    },
+    {
+     "key": "c",
+     "text": "Sy skree vir hulp"
+    },
+    {
+     "key": "d",
+     "text": "Sy gooi water"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    35
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie is die “ek” in die laaste strofe?",
+   "explanation": "Die digter sê hy kom Rooikappie teë.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die digter",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Ouma"
+    },
+    {
+     "key": "c",
+     "text": "Rooikappie"
+    },
+    {
+     "key": "d",
+     "text": "Die wolf"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    39
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarmee is Rooikappie aan die einde aangetrek?",
+   "explanation": "Sy lyk anders: geen rooi baadjie, maar ’n wolfbaadjie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met ’n wolfbaadjie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Met ’n rooi kappie"
+    },
+    {
+     "key": "c",
+     "text": "Met ’n pelsjas"
+    },
+    {
+     "key": "d",
+     "text": "Met ’n karatebelt net"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    43
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Rooikappie en die wolf",
+  "language": "af",
+  "sentences": [
+   "Wolf beleef ’n gevoel\n",
+   "Sy maag is aan die woel.\n",
+   "Hy besluit om aan Ouma se deur te klop.\n",
+   "Ouma maak dadelik oop, hy’t haar gefop.\n",
+   "Sy sien die skerp tande, die aaklige gryns.\n",
+   "“Mag ek inkom?” vra Wolfie geveins.\n",
+   "Arme Ouma skrik haar boeglam,\n",
+   "“Hy gaan my opeet!” roep sy bang.\n",
+   "En sy slaan die bal glad nie mis –\n",
+   "Hy maak van haar ’n smaaklike dis.",
+   "Maar Ouma was maar tingerig en klein,\n",
+   "En Wolfie kla, “Dit help nie my hongerpyn!\n",
+   "Ek het nog glad nie genoeg gehad,\n",
+   "Ek het byna niks daarby gebaat!”\n",
+   "Op en af stap hy in die huis,\n",
+   "En hy deursoek die hele kombuis.",
+   "Toe gee hy ’n harde, lelike lag.\n",
+   "“Ek gaan net hier wag\n",
+   "Tot Rooikappie kom,\n",
+   "en my intussen vermom!”",
+   "Kort daarna kom die meisie huis toe.\n",
+   "Sy stop. Sy staar. En sy sê toe:\n",
+   "“Ouma, waarom is jou ore so groot?”\n",
+   "“Sodat ek beter kan luister, soos dit hoort!”",
+   "Hy sit vir haar en kyk en dink\n",
+   "Hoe lekker sy tande weg gaan sink.\n",
+   "Vergeleke met die ou vrou\n",
+   "Gaan sy smaak soos kabeljou.\n",
+   "Rooikappie begin nader staan.\n",
+   "“Maar ouma, jy’t dan ’n pelsjas aan!”",
+   "“Nee,” roep Wolf, dis verkeerd!\n",
+   "Jy’t vergeet om te vra oor my tande so wreed!\n",
+   "Maar ag nou ja, ongeag wat jy sê,\n",
+   "Ek gaan jou nou vir aandete hê.”\n",
+   "Die dogtertjie glimlag en trek haar swart belt styf.",
+   "Sy laat reën karatehoue oor die wolf se lyf.\n",
+   "Toe mik sy na die dier se kop,\n",
+   "En baie gou is hy diep in die sop.",
+   "’n Paar weke later, daar in die woud,\n",
+   "Kom ek Rooikappie teë, en dis lekker koud.\n",
+   "Sy lyk heel anders! Geen baadjie van rooi,\n",
+   "En met geen kappie opgetooi.\n",
+   "Sy sê: “Hallo, hoe gaan dit met jou?\n",
+   "Ek hoop jy sal van my wolfbaadjie hou.”"
+  ],
+  "paragraph_starts": [
+   0,
+   10,
+   16,
+   20,
+   24,
+   30,
+   35,
+   38
+  ],
+  "glossary": [
+   {
+    "term": "gefop",
+    "definition": "Kul; mislei.",
+    "sentence_index": 3
+   },
+   {
+    "term": "geveins",
+    "definition": "Voorgee; nie opreg nie.",
+    "sentence_index": 5
+   },
+   {
+    "term": "boeglam",
+    "definition": "Heeltemal verlam van skrik.",
+    "sentence_index": 6
+   },
+   {
+    "term": "tingerig",
+    "definition": "Maer en swak.",
+    "sentence_index": 10
+   },
+   {
+    "term": "vermom",
+    "definition": "Jou lyk anders maak sodat niemand jou herken nie.",
+    "sentence_index": 19
+   },
+   {
+    "term": "opgetooi",
+    "definition": "Mooi aangetrek of versier.",
+    "sentence_index": 41
+   },
+   {
+    "term": "ongeag",
+    "definition": "Ongeag wat; maak nie saak wat nie.",
+    "sentence_index": 32
+   }
+  ]
+ }
+}

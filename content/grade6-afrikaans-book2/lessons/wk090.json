@@ -1,0 +1,647 @@
+{
+ "key": "gr6-afr-b2-wk090",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 90,
+ "title_af": "Ons skryf oor die Supa Strikas",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk7-8",
+  "name_af": "Tema 6 · Week 7–8: Strokiesprentverhale is pret",
+  "name_en": "Theme 6 · Weeks 7–8: Comic-strip stories are fun",
+  "sort": 104
+ },
+ "tier_number": 2,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  54,
+  55
+ ],
+ "pdf_pages": [
+  58,
+  59
+ ],
+ "reference_pages": [
+  {
+   "pdf": 58,
+   "printed": 54,
+   "src": "/workbook/gr6-afr-b2/p058.webp"
+  },
+  {
+   "pdf": 59,
+   "printed": 55,
+   "src": "/workbook/gr6-afr-b2/p059.webp"
+  }
+ ],
+ "intro_af": "Vandag dink jy dieper na oor die strokiesprent, skryf jy ’n opsomming en kyk jy wat ’n advertensie jou probeer laat doen.",
+ "objectives_af": [
+  "Vrae oor ’n strokiesprent beantwoord.",
+  "Die uitleg, taalgebruik en klanknabootsende woorde van ’n strokiesprent bespreek.",
+  "Die strokiesprent in jou eie woorde in paragraafvorm opsom.",
+  "Televisie-advertensies bespreek en ’n strokiesprentadvertensie ontleed."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Bespreek in die klas",
+   "payload": {
+    "bullets": [
+     "hoe die toneel beskryf word",
+     "die karakters se taalgebruik (die praatborrels)",
+     "die klanknabootsende woorde (onomatopeë) en hoe hulle geskryf is",
+     "die toepaslikheid en effektiwiteit van die grafiese voorstellings",
+     "nuwe woorde",
+     "hoe woordkeuse lyftaal beïnvloed",
+     "die gebruik van die direkte rede en die indirekte rede"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "image",
+   "title_af": "Die Supa Strikas-strokiesprent (bladsy 1)",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/p056.webp",
+    "alt": "Supa Strikas-strokiesprent, rame 1 tot 7."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 52,
+    "pdf_page": 56
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "image",
+   "title_af": "Die Supa Strikas-strokiesprent (bladsy 2)",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/p057.webp",
+    "alt": "Supa Strikas-strokiesprent, rame 8 tot 14."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 53,
+    "pdf_page": 57
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat: bespreek die strokiesprent",
+   "payload": {
+    "prompt": "Bespreek wat in elke raam van die strokiesprentverhaal gebeur. Bespreek ook die punte hierbo in klasverband."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "Ons praat"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 1",
+   "payload": {
+    "prompt": "Wat doen die Supa Strikas-verdediging net so graag as wat hulle sokker speel?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "1"
+   },
+   "feedback": {},
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 2: Die opponente",
+   "payload": {
+    "prompt": "Teen watter span speel die Supa Strikas-span?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "2"
+   },
+   "suggested_answer": "United",
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 3: Die fluitjie",
+   "payload": {
+    "prompt": "Watter klank maak die skeidsregter se fluitjie? Waarom blaas hy sy fluitjie in raam 4?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "3"
+   },
+   "suggested_answer": "PRRRRT. Hy blaas omdat daar ’n oortreding was – ’n speler het geval en gesê “Eina! Dit moet seermaak!”",
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 4: Die telling",
+   "payload": {
+    "prompt": "Wat is die telling? (Wenk: Kyk na raam 5 en 7.)",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "4"
+   },
+   "feedback": {},
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 5: Klanknabootsende woorde",
+   "payload": {
+    "prompt": "Maak ’n lys van al die klanknabootsende woorde in die strokiesprent.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "5"
+   },
+   "suggested_answer": "PRRRRT, SKARRA!, DWOOSJ",
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 6–7: Die advertensies",
+   "payload": {
+    "prompt": "Watter advertensies sien jy in die strokiesprent? Op wie is die advertensies gerig?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "6–7"
+   },
+   "suggested_answer": "Advertensies op die advertensiebords langs die veld, bv. Caltex, Metropolitan en Spur. Hulle is op sokkerkykers (die kykers by die wedstryd en voor die TV) gerig.",
+   "answer_status": "needs_review",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Som die strokiesprent op",
+   "payload": {
+    "prompt": "Som die strokiesprent in jou eie woorde in paragraafvorm op.",
+    "lines": 10,
+    "checklist": [
+     "Ek het gesê wie speel en teen wie.",
+     "Ek het die gebeure in volgorde vertel.",
+     "Ek het gesê wat Shakes se plan was.",
+     "Ek het in paragrawe geskryf.",
+     "Ek het my spelling en punktuasie gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jou skryfwerk.",
+     "Skryf jou eerste weergawe in jou klaswerkboek.",
+     "Laat ’n maat jou werk hersien.",
+     "Korrigeer spelfoute en punktuasie.",
+     "Skryf jou finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "opsomming"
+   },
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat: TV-advertensies",
+   "payload": {
+    "prompt": "Praat met jou maat.",
+    "points": [
+     "Wat is jou gunstelingadvertensie op die radio of TV?",
+     "Wat word daardeur geadverteer?",
+     "Waarom hou jy daarvan?",
+     "Sou jy die produk wat geadverteer word, koop?",
+     "Identifiseer die teikengroep wat die produk sou koop.",
+     "Gebruik die advertensie ’n slagspreuk vir die produk?",
+     "Is die grafiese voorstellings toepaslik en effektief?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59,
+    "item": "Ons praat"
+   },
+   "key": "act-11",
+   "sort_order": 110
+  },
+  {
+   "section": "activity",
+   "kind": "image",
+   "title_af": "Strokiesprente vir reklame: die Woematjor",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/p059.webp",
+    "alt": "Strokiesprentadvertensie vir die Woematjor, ’n afstandsbeheer-renmotor."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59
+   },
+   "key": "act-12",
+   "sort_order": 120
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die Woematjor: wat wil die advertensie hê jy moet doen?",
+   "payload": {
+    "prompt": "Wat probeer die advertensie jou oorreed om te doen?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59,
+    "item": "ad 1"
+   },
+   "suggested_answer": "Om die Woematjor so gou moontlik te koop (“Skaf hom so gou moontlik aan”).",
+   "answer_status": "derived_from_text",
+   "key": "act-13",
+   "sort_order": 130
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die Woematjor: oordrywing",
+   "payload": {
+    "prompt": "Oordryf of belowe die advertensie enigiets? Verduidelik jou antwoord.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59,
+    "item": "ad 2"
+   },
+   "suggested_answer": "Ja – dit sê jy sal die gewildste outjie in die suidelike halfrond wees en dat die Woematjor hom deur niks laat keer nie.",
+   "answer_status": "derived_from_text",
+   "key": "act-14",
+   "sort_order": 140
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Die Woematjor: klanknabootsende woorde",
+   "payload": {
+    "text": "Die advertensie gebruik klanknabootsende woorde soos {{1}} (oor land) en {{2}} (deur water).",
+    "word_bank": [
+     "wroem",
+     "splosj",
+     "kaboem"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59,
+    "item": "ad 3"
+   },
+   "answer": {
+    "1": [
+     "wroem",
+     "wroem wroem",
+     "wroem, wroem"
+    ],
+    "2": [
+     "splosj",
+     "woerrrrrrr"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "In die advertensie staan: “wroem, wroem!” en “splosj – woerrrrrrr!”"
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-15",
+   "sort_order": 150
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die Woematjor: teikengehoor",
+   "payload": {
+    "prompt": "Op wie is die advertensie gemik? Is die teikengehoor jongmense of bejaardes, seuns of meisies?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59,
+    "item": "ad 4"
+   },
+   "suggested_answer": "Op jongmense, veral seuns (kinders wat van afstandsbeheer-motors hou).",
+   "answer_status": "needs_review",
+   "key": "act-16",
+   "sort_order": 160
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Teen watter span speel die Supa Strikas?",
+   "explanation": "Die kommentator praat van “United se doel”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "United",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Spur"
+    },
+    {
+     "key": "c",
+     "text": "Caltex"
+    },
+    {
+     "key": "d",
+     "text": "Metropolitan"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "2"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter klank maak die skeidsregter se fluitjie in die strokiesprent?",
+   "explanation": "In raam 4 staan PRRRRT by die fluitjie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "PRRRRT",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "SKARRA!"
+    },
+    {
+     "key": "c",
+     "text": "DWOOSJ"
+    },
+    {
+     "key": "d",
+     "text": "KABOEM"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 54,
+    "pdf_page": 58,
+    "item": "3"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is die Woematjor?",
+   "explanation": "Die advertensie sê: “Die Woematjor is ’n afstandsbeheer-renmotor.”",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Afstandsbeheer-renmotor",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Sokkerbal"
+    },
+    {
+     "key": "c",
+     "text": "’n Boot"
+    },
+    {
+     "key": "d",
+     "text": "’n Vliegtuig"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter klanknabootsende woord word gebruik wanneer die Woematjor oor land ry?",
+   "explanation": "Die advertensie het “wroem, wroem!”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "wroem, wroem",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "splosj"
+    },
+    {
+     "key": "c",
+     "text": "woerrrrrrr"
+    },
+    {
+     "key": "d",
+     "text": "dwoosj"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59,
+    "item": "ad 3"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter klanknabootsende woord word gebruik wanneer die Woematjor deur water ry?",
+   "explanation": "Die advertensie het “splosj – woerrrrrrr!”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "splosj",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "wroem"
+    },
+    {
+     "key": "c",
+     "text": "skarra"
+    },
+    {
+     "key": "d",
+     "text": "prrrrt"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 55,
+    "pdf_page": 59,
+    "item": "ad 3"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die doel van ’n advertensie?",
+   "explanation": "Die advertensie sê: “Skaf hom so gou moontlik aan.”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om jou te oorreed om iets te koop of te doen",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om ’n storie te vertel"
+    },
+    {
+     "key": "c",
+     "text": "Om die nuus te lees"
+    },
+    {
+     "key": "d",
+     "text": "Om jou iets te leer teken"
+    }
+   ],
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n teikengroep (teikengehoor)?",
+   "explanation": "Dit is die groep wat die produk sou koop.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die mense vir wie die advertensie bedoel is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die mense wat die advertensie maak"
+    },
+    {
+     "key": "c",
+     "text": "Die dele van ’n strokiesprent"
+    },
+    {
+     "key": "d",
+     "text": "Die skrywers van die produk"
+    }
+   ],
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is oordrywing in ’n advertensie?",
+   "explanation": "Die Woematjor sou jou die gewildste outjie in die suidelike halfrond maak – ’n oordrywing.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om te sê iets is baie groter of beter as wat dit werklik is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om die waarheid sê"
+    },
+    {
+     "key": "c",
+     "text": "Om iets kleiner te maak"
+    },
+    {
+     "key": "d",
+     "text": "Om ’n prys te noem"
+    }
+   ],
+   "key": "q08"
+  }
+ ]
+}

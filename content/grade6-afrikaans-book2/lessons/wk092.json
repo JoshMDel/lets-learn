@@ -1,0 +1,809 @@
+{
+ "key": "gr6-afr-b2-wk092",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 92,
+ "title_af": "Taalstrukture en -konvensies",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk7-8",
+  "name_af": "Tema 6 · Week 7–8: Strokiesprentverhale is pret",
+  "name_en": "Theme 6 · Weeks 7–8: Comic-strip stories are fun",
+  "sort": 104
+ },
+ "tier_number": 4,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  58,
+  59
+ ],
+ "pdf_pages": [
+  62,
+  63
+ ],
+ "reference_pages": [
+  {
+   "pdf": 62,
+   "printed": 58,
+   "src": "/workbook/gr6-afr-b2/p062.webp"
+  },
+  {
+   "pdf": 63,
+   "printed": 59,
+   "src": "/workbook/gr6-afr-b2/p063.webp"
+  }
+ ],
+ "intro_af": "Klank of letter? Idiome en vergelykings, spelreëls en leestekens – vandag hersien ons die belangrikste taalreëls.",
+ "objectives_af": [
+  "Die verskil tussen ’n klank en ’n letter verstaan en woorde in klank- en lettergrepe verdeel.",
+  "Idiome en vaste uitdrukkings met hulle betekenisse verbind.",
+  "’n Vergelyking skryf.",
+  "Spelreëls (meervoud, verkleining) en leestekens toepas."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Klank en letter",
+   "payload": {
+    "text": "Daar is ’n verskil tussen ’n klank en ’n letter. Klanke is dit wat mense hoor, terwyl letters geskryf word. In die spreektaal verdeel ons ’n woord in klankgrepe (asemstote), maar as ons skryf, gebruik ons lettergrepe."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Gesproke taal en geskrewe taal",
+   "payload": {
+    "headers": [
+     "Gesproke taal",
+     "Geskrewe taal"
+    ],
+    "rows": [
+     [
+      "spraak",
+      "skrif"
+     ],
+     [
+      "klank",
+      "letters"
+     ],
+     [
+      "uitspraak",
+      "spelling"
+     ],
+     [
+      "plakkers → pla-kkers (klankgreep)",
+      "plakkers → plak-kers (lettergreep)"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Beeldspraak",
+   "payload": {
+    "bullets": [
+     "**Beeldspraak** beteken om iets figuurliks oor te dra deur ’n vergelyking, ’n metafoor, personifikasie, idiomatiese uitdrukkings, ens.",
+     "**Idiomatiese en vaste uitdrukkings** is uitdrukkings wat eie aan die taal is.",
+     "Dikwels beskryf ons iets deur te sê dat dit soos iets anders is: ’n **vergelyking**. Ons gebruik dikwels dierebeelde in vergelykings."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Spelreëls",
+   "payload": {
+    "bullets": [
+     "As jy nie seker is of ’n woord met ’n -d of ’n -t eindig nie, sê die meervoud of vorm ’n ander woord, bv. hond – honde, goed – goedere.",
+     "V staan nooit aan die einde van ’n woord of lettergreep nie.",
+     "**Kort klanke:** die medeklinker verdubbel + e, bv. kat – katte. **Lang klanke:** een klinker val weg + e, bv. boom – bome. **Tweeklanke:** voeg -e of -s by, bv. dier – diere."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63
+   },
+   "key": "learn-04",
+   "sort_order": 40
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Leestekens",
+   "payload": {
+    "bullets": [
+     "Die ^ (kappie) kom net op klinkers, bv. lê.",
+     "Die deelteken (¨) staan op aangrensende klinkers van verskillende lettergrepe, bv. leë.",
+     "Die afkappingsteken (’) by die meervoud of verkleining van woorde wat op ’n beklemtoonde a, i, o of u eindig, bv. pa – pa’s.",
+     "Aanhalingstekens dui direkte spraak aan: Piet sê: “Ek hou van jou.” Die aanhalingsteken sluit ná die laaste leesteken.",
+     "Die aksentteken beklemtoon iets, bv. ongelóóflik."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63
+   },
+   "key": "learn-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Klankgrepe en lettergrepe",
+   "payload": {
+    "text": "debatteer – klankgrepe: {{1}}  lettergrepe: {{2}}\nbotter – klankgrepe: {{3}}  lettergrepe: {{4}}\nbakkie – klankgrepe: {{5}}  lettergrepe: {{6}}\nbejammer – klankgrepe: {{7}}  lettergrepe: {{8}}\nspinnekop – klankgrepe: {{9}}  lettergrepe: {{10}}",
+    "prompt": "Verdeel hierdie woorde in klank- en lettergrepe (skei met koppeltekens)."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62,
+    "item": "tabel 1"
+   },
+   "answer": {
+    "1": [
+     "de-ba-tteer",
+     "de-ba-tte-er"
+    ],
+    "2": [
+     "de-bat-teer",
+     "de-bat-te-er"
+    ],
+    "3": [
+     "bo-tter"
+    ],
+    "4": [
+     "bot-ter"
+    ],
+    "5": [
+     "ba-kkie"
+    ],
+    "6": [
+     "bak-kie"
+    ],
+    "7": [
+     "be-ja-mmer"
+    ],
+    "8": [
+     "be-jam-mer"
+    ],
+    "9": [
+     "spi-nne-kop"
+    ],
+    "10": [
+     "spin-ne-kop"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Klankgrepe breek ná die klinker (voor die dubbele medeklinker); lettergrepe breek tussen die twee ewe medeklinkers (plak-kers)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Sinonieme en antonieme",
+   "payload": {
+    "prompt": "Soek sinonieme vir hierdie woorde of frases in die strokiesprent en die advertensie en gee dan jou eie antonieme: iets wat uit die lug op die aarde arriveer; hoe jy voel wanneer jy lank laas geëet het; gewild; die “onderste” helfte van die aarde.",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62,
+    "item": "tabel 2"
+   },
+   "suggested_answer": "gewild – populêr (antoniem: ongewild); die “onderste” helfte van die aarde – die suidelike halfrond (antoniem: noordelike halfrond). (Die ander twee: eie antwoord.)",
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Verbind die uitdrukkings met hul betekenisse",
+   "payload": {
+    "prompt": "Verbind elke uitdrukking met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "aan bewind kom"
+     },
+     {
+      "key": "l2",
+      "text": "baanbrekerswerk doen"
+     },
+     {
+      "key": "l3",
+      "text": "op jouself aangewese wees"
+     },
+     {
+      "key": "l4",
+      "text": "blad skud"
+     },
+     {
+      "key": "l5",
+      "text": "standvastig bly"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "as pionier optree"
+     },
+     {
+      "key": "r3",
+      "text": "op jouself moet staatmaak"
+     },
+     {
+      "key": "r4",
+      "text": "met die hand groet"
+     },
+     {
+      "key": "r5",
+      "text": "onbeweeglik bly"
+     },
+     {
+      "key": "r1",
+      "text": "beheer oorneem"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62,
+    "item": "uitdrukkings"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Idiome het ’n figuurlike betekenis wat anders is as die gewone woorde."
+   },
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Jou eie vergelyking",
+   "payload": {
+    "prompt": "Skryf jou eie vergelyking waarin jy die spoed of krag van die Woematjor met dié van ’n dier vergelyk.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62,
+    "item": "vergelyking"
+   },
+   "suggested_answer": "Die Woematjor is so vinnig soos ’n jagluiperd.",
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Omkring die korrekte spelling",
+   "payload": {
+    "prompt": "Kies die korrekte spelling.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Die ___ blaf.",
+      "options": [
+       {
+        "key": "a",
+        "text": "hont"
+       },
+       {
+        "key": "b",
+        "text": "hond"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die hond blaf ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ferskriklik"
+       },
+       {
+        "key": "b",
+        "text": "verskriklik"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hy blaf vir die ___ mense.",
+      "options": [
+       {
+        "key": "a",
+        "text": "freemde"
+       },
+       {
+        "key": "b",
+        "text": "vreemde"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die ___ word deur ’n man afgelewer.",
+      "options": [
+       {
+        "key": "a",
+        "text": "brief"
+       },
+       {
+        "key": "b",
+        "text": "briev"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Hy ry op ’n ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "pert"
+       },
+       {
+        "key": "b",
+        "text": "perd"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63,
+    "item": "spelling"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "b",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Sê die meervoud: hond – honde, perd – perde, brief – briewe. V staan nooit aan die einde van ’n woord nie."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Meervoud en verkleining",
+   "payload": {
+    "text": "laan: meervoud {{1}}, verkleining {{2}}\nspan: meervoud {{3}}, verkleining {{4}}\nenjin: meervoud {{5}}, verkleining {{6}}\nmetaal: meervoud {{7}}, verkleining {{8}}",
+    "prompt": "Voltooi die tabel."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63,
+    "item": "tabel"
+   },
+   "answer": {
+    "1": [
+     "lane"
+    ],
+    "2": [
+     "laantjie"
+    ],
+    "3": [
+     "spanne"
+    ],
+    "4": [
+     "spannetjie"
+    ],
+    "5": [
+     "enjins",
+     "enjinne"
+    ],
+    "6": [
+     "enjintjie",
+     "enjinetjie"
+    ],
+    "7": [
+     "metale",
+     "metaalsoorte"
+    ],
+    "8": [
+     "metaaltjie"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Kort klank: verdubbel + e (span – spanne). Lang klank: een klinker val weg (laan – lane)."
+   },
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Leestekens en hoofletters",
+   "payload": {
+    "prompt": "Herskryf hierdie sinne en vul die nodige hoofletters asook lees- en skryftekens in: danie vra anna sal jy asseblief die sker gaan bere / ons gesin het ’n tradisie om videos te kyk en springmielies te eet as dit reen",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63,
+    "item": "leestekens"
+   },
+   "suggested_answer": "Danie vra: “Anna, sal jy asseblief die skêr gaan bêre?”\nOns gesin het ’n tradisie om video’s te kyk en springmielies te eet as dit reën.",
+   "answer_status": "derived_from_rule",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Klanke is dit wat mense hoor, en letters is dit wat geskryf word."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Dit is presies wat die werkboek sê."
+   },
+   "answer_status": "official",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n lettergreep?",
+   "explanation": "In die skryftaal gebruik ons lettergrepe (plak-kers).",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Deeltjie van ’n woord wat ons skryf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Woord met twee betekenisse"
+    },
+    {
+     "key": "c",
+     "text": "’n Leesteken"
+    },
+    {
+     "key": "d",
+     "text": "’n Soort sin"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoe word “plakkers” in klankgrepe verdeel?",
+   "explanation": "Die werkboek gee: plakkers – pla-kkers (klankgreep).",
+   "options": [
+    {
+     "key": "a",
+     "text": "pla-kkers",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "plak-kers"
+    },
+    {
+     "key": "c",
+     "text": "pl-akkers"
+    },
+    {
+     "key": "d",
+     "text": "plakk-ers"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoe word “plakkers” in lettergrepe verdeel?",
+   "explanation": "Die werkboek gee: plakkers – plak-kers (lettergreep).",
+   "options": [
+    {
+     "key": "a",
+     "text": "plak-kers",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "pla-kkers"
+    },
+    {
+     "key": "c",
+     "text": "pl-akkers"
+    },
+    {
+     "key": "d",
+     "text": "plakk-ers"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die meervoud van “hond”?",
+   "explanation": "Sê die meervoud om te weet of die woord op -d of -t eindig: hond – honde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "honde",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "hondde"
+    },
+    {
+     "key": "c",
+     "text": "honds"
+    },
+    {
+     "key": "d",
+     "text": "hondjies"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die verkleiningsvorm van “hond”?",
+   "explanation": "Woorde wat op -t of -d eindig, kry -jie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "hondjie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "hondtjie"
+    },
+    {
+     "key": "c",
+     "text": "hondie"
+    },
+    {
+     "key": "d",
+     "text": "hondkie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n vergelyking?",
+   "explanation": "Dit is die werkboek se verduideliking.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wanneer ons iets beskryf deur te sê dit is soos iets anders",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Woord met dieselfde betekenis"
+    },
+    {
+     "key": "c",
+     "text": "’n Woord met teenoorgestelde betekenis"
+    },
+    {
+     "key": "d",
+     "text": "’n Klank"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken die idioom “aan bewind kom”?",
+   "explanation": "Die uitdrukking betrek die oorneem van beheer of regering.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Beheer oorneem",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Onbeweeglik bly"
+    },
+    {
+     "key": "c",
+     "text": "Met die hand groet"
+    },
+    {
+     "key": "d",
+     "text": "As pionier optree"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 58,
+    "pdf_page": 62,
+    "item": "uitdrukkings"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die meervoud van “pa”?",
+   "explanation": "Die werkboek gee as voorbeeld: pa – pa’s.",
+   "options": [
+    {
+     "key": "a",
+     "text": "pa’s",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "pas"
+    },
+    {
+     "key": "c",
+     "text": "pa-e"
+    },
+    {
+     "key": "d",
+     "text": "pa’e"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waar staan die aanhalingsteken wat die direkte spraak sluit?",
+   "explanation": "Die werkboek: die aanhalingsteken sluit ná die laaste leesteken.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ná die laaste leesteken",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Voor die laaste woord"
+    },
+    {
+     "key": "c",
+     "text": "In die middel van die sin"
+    },
+    {
+     "key": "d",
+     "text": "Dit staan nêrens nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 59,
+    "pdf_page": 63
+   },
+   "key": "q09"
+  }
+ ]
+}

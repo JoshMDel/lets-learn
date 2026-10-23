@@ -1,0 +1,766 @@
+{
+ "key": "gr6-afr-b2-wk080",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 80,
+ "title_af": "Voeg hulle saam",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 8,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  32,
+  33
+ ],
+ "pdf_pages": [
+  36,
+  37
+ ],
+ "reference_pages": [
+  {
+   "pdf": 36,
+   "printed": 32,
+   "src": "/workbook/gr6-afr-b2/p036.webp"
+  },
+  {
+   "pdf": 37,
+   "printed": 33,
+   "src": "/workbook/gr6-afr-b2/p037.webp"
+  }
+ ],
+ "intro_af": "Voegwoorde is die “gom” wat sinne verbind. Vandag voeg jy sinne saam, ontdek jy afkortings en oefen jy die lydende vorm.",
+ "objectives_af": [
+  "Voegwoorde gebruik om saamgestelde sinne te vorm.",
+  "Die werkwoorde in saamgestelde sinne uitwys.",
+  "Afkortings, akronieme en verkortings opsoek.",
+  "Woorddele (afleidings en samestellings) uitken.",
+  "Sinne in die lydende vorm skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Voegwoorde",
+   "payload": {
+    "paragraphs": [
+     "Ons gebruik voegwoorde om sinne te verbind. Hulle speel ’n belangrike rol, want sonder voegwoorde sou ons spraak en skryfwerk rukkerig gewees het."
+    ],
+    "bullets": [
+     "Voegwoorde in hierdie les: **en, omdat, daarom, maar, terwyl, alhoewel**.",
+     "Ons gebruik ook “**egter**” om sinne saam te voeg. Egter beteken dieselfde as maar – albei wys ’n kontras tussen twee dele van die sin."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Voorbeeld: twee sinne word een",
+   "payload": {
+    "headers": [
+     "Twee enkelvoudige sinne",
+     "Een saamgestelde sin"
+    ],
+    "rows": [
+     [
+      "Gerrie het skielik omgedraai. Gerrie het hom teen die tafel gestamp.",
+      "Gerrie het skielik omgedraai **en** hom teen die tafel gestamp."
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Onthou",
+   "payload": {
+    "text": "Gerrie is die onderwerp van albei sinne, daarom hoef jy sy naam net een keer te sê. Soms moet die woordorde aangepas word wanneer sinne saamgestel word."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Enkelvoudig of saamgestel?",
+   "payload": {
+    "text": "’n Enkelvoudige sin het een onderwerp en een werkwoord. ’n Saamgestelde sin het meer as een werkwoord en mag meer as een onderwerp hê."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "learn-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Verbind die sinne met ’n voegwoord",
+   "payload": {
+    "prompt": "Verbind elke paar enkelvoudige sinne met die voegwoord wat die beste pas.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Sipho nooi Jabu saam. Jabu moet die beeste oppas."
+     },
+     {
+      "key": "l2",
+      "text": "Leeu het ’n koei gevang. Die jagters het valstrikke gestel."
+     },
+     {
+      "key": "l3",
+      "text": "Jabu hoor ’n leeu brul. Jabu pas beeste op."
+     },
+     {
+      "key": "l4",
+      "text": "Jabu gaan stel ondersoek in. Hy sien Leeu sit vas in ’n valstrik."
+     },
+     {
+      "key": "l5",
+      "text": "Leeu het nie sy belofte nagekom nie. Jabu het leeu bevry."
+     },
+     {
+      "key": "l6",
+      "text": "Jakkals klap die valstrik toe. Leeu het nie sy belofte nagekom nie."
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "daarom"
+     },
+     {
+      "key": "r3",
+      "text": "terwyl"
+     },
+     {
+      "key": "r4",
+      "text": "en"
+     },
+     {
+      "key": "r5",
+      "text": "alhoewel"
+     },
+     {
+      "key": "r6",
+      "text": "omdat"
+     },
+     {
+      "key": "r1",
+      "text": "maar"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36,
+    "item": "voegwoorde"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Daar kan soms meer as een voegwoord pas, maar dit is die beste passing by die betekenis."
+   },
+   "answer_status": "needs_review",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf die saamgestelde sinne",
+   "payload": {
+    "prompt": "Skryf die ses saamgestelde sinne neer en onderstreep die werkwoorde.",
+    "lines": 8
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36,
+    "item": "sinne"
+   },
+   "suggested_answer": "Sipho nooi Jabu saam, maar Jabu moet die beeste oppas.\nLeeu het ’n koei gevang, daarom het die jagters valstrikke gestel.\nJabu hoor ’n leeu brul terwyl hy beeste oppas.\nJabu gaan stel ondersoek in en sien Leeu sit vas in ’n valstrik.\nAlhoewel Jabu leeu bevry het, het Leeu nie sy belofte nagekom nie.\nJakkals klap die valstrik toe omdat Leeu nie sy belofte nagekom het nie.",
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voegwoord invul",
+   "payload": {
+    "text": "Die jagters stel valstrikke {{1}} Jabu pas die beeste op. Jabu moes die beeste oppas, {{2}} hy is nie saam met Sipho nie.",
+    "word_bank": [
+     "terwyl",
+     "daarom",
+     "maar"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "terwyl",
+     "en"
+    ],
+    "2": [
+     "daarom",
+     "want",
+     "omdat"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Terwyl wys twee dinge wat gelyktydig gebeur; daarom wys ’n gevolg."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Afkortings en betekenisse",
+   "payload": {
+    "prompt": "Gebruik jou woordeboek: verbind elke afkorting met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "alg."
+     },
+     {
+      "key": "l2",
+      "text": "ens."
+     },
+     {
+      "key": "l3",
+      "text": "cm"
+     },
+     {
+      "key": "l4",
+      "text": "RSA"
+     },
+     {
+      "key": "l5",
+      "text": "NASA"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "ensovoorts"
+     },
+     {
+      "key": "r3",
+      "text": "sentimeter"
+     },
+     {
+      "key": "r4",
+      "text": "Republiek van Suid-Afrika"
+     },
+     {
+      "key": "r5",
+      "text": "Amerikaanse ruimte-agentskap (National Aeronautics and Space Administration)"
+     },
+     {
+      "key": "r1",
+      "text": "algemeen"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 33,
+    "pdf_page": 37,
+    "item": "afkortings"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Hierdie is uit die tabel in die werkboek (bladsy 33)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Afleiding of samestelling?",
+   "payload": {
+    "prompt": "Is die woord ’n afleiding of ’n samestelling?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "jammerlik",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "vashou",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "vermors",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "verskriklike",
+      "options": [
+       {
+        "key": "a",
+        "text": "afleiding"
+       },
+       {
+        "key": "b",
+        "text": "samestelling"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 33,
+    "pdf_page": 37,
+    "item": "woorddele"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Samestelling = basis + basis (vas + hou). Afleiding = basis + voorvoegsel/agtervoegsel (jammer + -lik; ver- + mors)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf in die lydende vorm",
+   "payload": {
+    "prompt": "Onderstreep die onderwerp en die voorwerp. Skryf dan die sinne in die lydende vorm oor: Die jagters stel valstrikke. / Jabu pas beeste op. / Sipho hou die jagters dop. / Leeu maak ’n belofte. / Jabu bevry die leeu. / Jakkals help vir Jabu.",
+    "lines": 7
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 33,
+    "pdf_page": 37,
+    "item": "lydende vorm"
+   },
+   "suggested_answer": "Valstrikke word deur die jagters gestel.\nBeeste word deur Jabu opgepas.\nDie jagters word deur Sipho dopgehou.\n’n Belofte word deur Leeu gemaak.\nDie leeu word deur Jabu bevry.\nJabu word deur Jakkals gehelp.",
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "“Egter” beteken dieselfde as “maar”."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê egter beteken dieselfde as maar; albei wys ’n kontras."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Kontrolelys: Ek kan …",
+   "payload": {
+    "prompt": "Merk wat jy al kan doen. Dit is net vir jou eie nagaan.",
+    "lines": 1,
+    "no_text": true,
+    "checklist": [
+     "’n verskeidenheid tekste lees.",
+     "voorspellings op grond van die titel en illustrasies van ’n teks doen.",
+     "vrae op grond van ’n teks beantwoord.",
+     "gebeure in die korrekte volgorde herroep.",
+     "hoof- en ondersteunende idees identifiseer.",
+     "’n tydlyn ontwerp.",
+     "woorde met hul betekenisse verbind.",
+     "aan groepbesprekings deelneem.",
+     "afleidings uit teks maak.",
+     "’n dagboekinskrywing skryf.",
+     "’n verslag skryf.",
+     "’n vriendskaplike brief skryf.",
+     "’n brief van die nodige kenmerke voorsien.",
+     "woorde in lettergrepe verdeel.",
+     "samestellings en afleidings identifiseer.",
+     "tussen hoofwerkwoorde en hulpwerkwoorde onderskei.",
+     "tussen enkelvoudige, saamgestelde en veelvoudige sinne onderskei.",
+     "sinne in die bedrywende en lydende vorm skryf.",
+     "spelpatrone toepas.",
+     "afkortings, verkortings en akronieme gebruik.",
+     "vlug- en soekleesvaardighede toepas.",
+     "die skryfproses toepas.",
+     "voegwoorde gebruik om saamgestelde sinne te vorm.",
+     "voor- en agtervoegsels gebruik om nuwe woorde te vorm.",
+     "sinonieme, antonieme, homofone en homonieme gebruik."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 34,
+    "pdf_page": 38,
+    "item": "Kontrolelys"
+   },
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Watter voegwoord pas: “Sipho nooi Jabu saam, ___ Jabu moet die beeste oppas”?",
+   "explanation": "Daar is ’n kontras tussen die uitnodiging en Jabu se plig.",
+   "options": [
+    {
+     "key": "a",
+     "text": "maar",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "daarom"
+    },
+    {
+     "key": "c",
+     "text": "omdat"
+    },
+    {
+     "key": "d",
+     "text": "en"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter voegwoord wys ’n gevolg?",
+   "explanation": "Daarom wys die gevolg van iets, bv. Leeu het ’n koei gevang, daarom stel die jagters valstrikke.",
+   "options": [
+    {
+     "key": "a",
+     "text": "daarom",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "maar"
+    },
+    {
+     "key": "c",
+     "text": "en"
+    },
+    {
+     "key": "d",
+     "text": "terwyl"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter voegwoord wys dat twee dinge gelyktydig gebeur?",
+   "explanation": "Jabu hoor die leeu terwyl hy beeste oppas.",
+   "options": [
+    {
+     "key": "a",
+     "text": "terwyl",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "omdat"
+    },
+    {
+     "key": "c",
+     "text": "maar"
+    },
+    {
+     "key": "d",
+     "text": "alhoewel"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat beteken “egter”?",
+   "explanation": "Die werkboek sê egter beteken dieselfde as maar.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dieselfde as “maar”",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dieselfde as “en”"
+    },
+    {
+     "key": "c",
+     "text": "Dieselfde as “omdat”"
+    },
+    {
+     "key": "d",
+     "text": "Dieselfde as “daarom”"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n saamgestelde sin?",
+   "explanation": "Dit is die werkboek se verduideliking.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Sin met meer as een werkwoord",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Sin met net een woord"
+    },
+    {
+     "key": "c",
+     "text": "’n Sin sonder onderwerp"
+    },
+    {
+     "key": "d",
+     "text": "’n Vraag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 32,
+    "pdf_page": 36
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Waarvoor staan “ens.”?",
+   "explanation": "Ens. is ’n gewone afkorting vir ensovoorts.",
+   "options": [
+    {
+     "key": "a",
+     "text": "ensovoorts",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "ensiklopedie"
+    },
+    {
+     "key": "c",
+     "text": "enigste"
+    },
+    {
+     "key": "d",
+     "text": "eenvoudig"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 33,
+    "pdf_page": 37,
+    "item": "afkortings"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n samestelling?",
+   "explanation": "Vashou = vas + hou.",
+   "options": [
+    {
+     "key": "a",
+     "text": "vashou",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "jammerlik"
+    },
+    {
+     "key": "c",
+     "text": "vermors"
+    },
+    {
+     "key": "d",
+     "text": "verskriklike"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 33,
+    "pdf_page": 37,
+    "item": "woorddele"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die lydende vorm van: “Jabu bevry die leeu”?",
+   "explanation": "Die voorwerp (die leeu) word die onderwerp.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die leeu word deur Jabu bevry.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jabu word deur die leeu bevry."
+    },
+    {
+     "key": "c",
+     "text": "Die leeu bevry Jabu."
+    },
+    {
+     "key": "d",
+     "text": "Jabu het die leeu bevry."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 33,
+    "pdf_page": 37,
+    "item": "lydende vorm"
+   },
+   "key": "q08"
+  }
+ ]
+}

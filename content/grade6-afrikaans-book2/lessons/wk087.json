@@ -1,0 +1,838 @@
+{
+ "key": "gr6-afr-b2-wk087",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 87,
+ "title_af": "Meer oor taal",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk5-6",
+  "name_af": "Tema 6 · Week 5–6: Stories en briewe",
+  "name_en": "Theme 6 · Weeks 5–6: Stories and letters",
+  "sort": 103
+ },
+ "tier_number": 7,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Taalstrukture en -konvensies",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  48,
+  49
+ ],
+ "pdf_pages": [
+  52,
+  53
+ ],
+ "reference_pages": [
+  {
+   "pdf": 52,
+   "printed": 48,
+   "src": "/workbook/gr6-afr-b2/p052.webp"
+  },
+  {
+   "pdf": 53,
+   "printed": 49,
+   "src": "/workbook/gr6-afr-b2/p053.webp"
+  }
+ ],
+ "intro_af": "Byvoeglike naamwoorde, sinonieme, antonieme en voegwoorde – vandag kyk ons nog ’n bietjie meer na taal!",
+ "objectives_af": [
+  "Selfstandige naamwoorde en byvoeglike naamwoorde in sinne uitken.",
+  "Woorde met hul sinonieme en antonieme verbind.",
+  "Voegwoorde gebruik om sinne saam te voeg.",
+  "Sinne in die bedrywende vorm in die lydende vorm skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Meer oor byvoeglike naamwoorde",
+   "payload": {
+    "paragraphs": [
+     "Byvoeglike naamwoorde vertel ons meer oor selfstandige naamwoorde (persone, plekke of dinge). Gewoonlik kom byvoeglike naamwoorde voor selfstandige naamwoorde, maar soms kom hulle daarna. Hulle beskryf egter steeds die selfstandige naamwoorde."
+    ],
+    "bullets": [
+     "Die vorm van die byvoeglike naamwoord bly nie altyd dieselfde nie: Die meisie is **jonk**, maar die **jong** meisie.",
+     "Wanneer die byvoeglike naamwoord voor aan staan, voeg ons dikwels ’n **-e** by."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Ons hersien",
+   "payload": {
+    "text": "Die bedrywende vorm is die sin in sy basiese vorm: onderwerp + gesegde + voorwerp. In die lydende vorm word die onderwerp en die voorwerp omgeruil."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Voorbeelde: voor of ná die selfstandige naamwoord",
+   "payload": {
+    "headers": [
+     "Voor (met -e)",
+     "Na (sonder -e)"
+    ],
+    "rows": [
+     [
+      "interessante nuus",
+      "Die nuus is interessant."
+     ],
+     [
+      "’n geweldige aardbewing",
+      "Die aardbewing was geweldig."
+     ],
+     [
+      "’n gawe neef",
+      "Die neef is gaaf."
+     ],
+     [
+      "’n koue dag",
+      "Die dag is koud."
+     ],
+     [
+      "’n goeie boek",
+      "Die boek is goed."
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Kies die byvoeglike naamwoord",
+   "payload": {
+    "prompt": "Watter woord in die sin is die byvoeglike naamwoord?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Dit is interessante nuus.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Dit"
+       },
+       {
+        "key": "b",
+        "text": "interessante"
+       },
+       {
+        "key": "c",
+        "text": "nuus"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die nuus is interessant.",
+      "options": [
+       {
+        "key": "a",
+        "text": "nuus"
+       },
+       {
+        "key": "b",
+        "text": "is"
+       },
+       {
+        "key": "c",
+        "text": "interessant"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Dit was ’n geweldige aardbewing.",
+      "options": [
+       {
+        "key": "a",
+        "text": "geweldige"
+       },
+       {
+        "key": "b",
+        "text": "aardbewing"
+       },
+       {
+        "key": "c",
+        "text": "was"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die aardbewing was geweldig.",
+      "options": [
+       {
+        "key": "a",
+        "text": "aardbewing"
+       },
+       {
+        "key": "b",
+        "text": "was"
+       },
+       {
+        "key": "c",
+        "text": "geweldig"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Dis ’n gawe neef.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Dis"
+       },
+       {
+        "key": "b",
+        "text": "gawe"
+       },
+       {
+        "key": "c",
+        "text": "neef"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Hy is ’n vriendelike maat.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Hy"
+       },
+       {
+        "key": "b",
+        "text": "vriendelike"
+       },
+       {
+        "key": "c",
+        "text": "maat"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52,
+    "item": "pare sinne"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "c",
+     "q3": "a",
+     "q4": "c",
+     "q5": "b",
+     "q6": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die byvoeglike naamwoord beskryf ’n persoon, plek of ding (die selfstandige naamwoord)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Onderwerp, voorwerp en gesegde",
+   "payload": {
+    "text": "Kin lees die nuus oor die aardbewing.  Onderwerp: {{1}} · Gesegde: {{2}} · Voorwerp: {{3}}\nKin mis sy gesin en sy maats baie.  Onderwerp: {{4}} · Gesegde: {{5}} · Voorwerp: {{6}}\nOns speel sokker in die park.  Onderwerp: {{7}} · Gesegde: {{8}} · Voorwerp: {{9}}\nKin lees ’n boek.  Onderwerp: {{10}} · Gesegde: {{11}} · Voorwerp: {{12}}\nHy speel rekenaarspeletjies.  Onderwerp: {{13}} · Gesegde: {{14}} · Voorwerp: {{15}}"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52,
+    "item": "onderwerp/voorwerp"
+   },
+   "answer": {
+    "1": [
+     "Kin"
+    ],
+    "2": [
+     "lees"
+    ],
+    "3": [
+     "die nuus",
+     "die nuus oor die aardbewing"
+    ],
+    "4": [
+     "Kin"
+    ],
+    "5": [
+     "mis"
+    ],
+    "6": [
+     "sy gesin en sy maats",
+     "sy gesin"
+    ],
+    "7": [
+     "Ons"
+    ],
+    "8": [
+     "speel"
+    ],
+    "9": [
+     "sokker"
+    ],
+    "10": [
+     "Kin"
+    ],
+    "11": [
+     "lees"
+    ],
+    "12": [
+     "’n boek",
+     "boek"
+    ],
+    "13": [
+     "Hy"
+    ],
+    "14": [
+     "speel"
+    ],
+    "15": [
+     "rekenaarspeletjies"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Wie doen iets? (onderwerp) Wat doen hy? (gesegde) Wie of wat ontvang die aksie? (voorwerp)"
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf in die lydende vorm",
+   "payload": {
+    "prompt": "Skryf die vyf sinne in die lydende vorm oor.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52,
+    "item": "lydende vorm"
+   },
+   "suggested_answer": "Die nuus oor die aardbewing word deur Kin gelees.\nSy gesin en sy maats word baie deur Kin gemis.\nSokker word deur ons in die park gespeel.\n’n Boek word deur Kin gelees.\nRekenaarspeletjies word deur hom gespeel.",
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Verbind die sinonieme (1)",
+   "payload": {
+    "prompt": "Verbind elke woord met sy sinoniem (woorde met dieselfde betekenis).",
+    "left": [
+     {
+      "key": "l1",
+      "text": "stokperdjie"
+     },
+     {
+      "key": "l2",
+      "text": "enorm"
+     },
+     {
+      "key": "l3",
+      "text": "halfpad"
+     },
+     {
+      "key": "l4",
+      "text": "indrukwekkend"
+     },
+     {
+      "key": "l5",
+      "text": "koel"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "massief"
+     },
+     {
+      "key": "r3",
+      "text": "middel"
+     },
+     {
+      "key": "r4",
+      "text": "buitengewoon"
+     },
+     {
+      "key": "r5",
+      "text": "koud"
+     },
+     {
+      "key": "r1",
+      "text": "tydverdryf"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 49,
+    "pdf_page": 53,
+    "item": "sinonieme"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Sinonieme het amper dieselfde betekenis."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Verbind die antonieme",
+   "payload": {
+    "prompt": "Verbind elke woord met sy antoniem (woorde met die teenoorgestelde betekenis).",
+    "left": [
+     {
+      "key": "l1",
+      "text": "hard"
+     },
+     {
+      "key": "l2",
+      "text": "enorm"
+     },
+     {
+      "key": "l3",
+      "text": "gejaagd"
+     },
+     {
+      "key": "l4",
+      "text": "versleg"
+     },
+     {
+      "key": "l5",
+      "text": "koel"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "piepklein"
+     },
+     {
+      "key": "r3",
+      "text": "rustig"
+     },
+     {
+      "key": "r4",
+      "text": "verbeter"
+     },
+     {
+      "key": "r5",
+      "text": "warm"
+     },
+     {
+      "key": "r1",
+      "text": "sag"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 49,
+    "pdf_page": 53,
+    "item": "antonieme"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Antonieme is teenoorgesteld: hard – sag, enorm – piepklein."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Verbind met voegwoorde",
+   "payload": {
+    "prompt": "Verbind die sinne met die voegwoord tussen hakies:\n1. Ek sal hier bly. Dit gaan beter tuis. (totdat)\n2. Ek is gelukkig hier. Ek mis my eie skool. (alhoewel)\n3. Ek het haar gevra om vir ons te wag. Ons was laat. (omdat)\n4. Ek het toestemming gevra om die internet te gebruik. Ek het die e-pos geskryf. (voordat)\n5. Skryf asseblief terug. Dit is vir julle moontlik. (indien)\n6. Ek het hom gevra om nie weer laat te wees nie. Hy was weer laat. (egter)",
+    "lines": 8
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 49,
+    "pdf_page": 53,
+    "item": "voegwoorde"
+   },
+   "suggested_answer": "Ek sal hier bly totdat dit beter gaan tuis.\nEk is gelukkig hier alhoewel ek my eie skool mis.\nEk het haar gevra om vir ons te wag omdat ons laat was.\nEk het toestemming gevra om die internet te gebruik voordat ek die e-pos geskryf het.\nSkryf asseblief terug indien dit vir julle moontlik is.\nEk het hom gevra om nie weer laat te wees nie, egter hy was weer laat.",
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi met die regte vorm",
+   "payload": {
+    "text": "Dis ’n {{1}} dag. Die dag is {{2}}. (koud)  Dit is ’n {{3}} boek. Die boek is {{4}}. (goed)"
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "koue"
+    ],
+    "2": [
+     "koud"
+    ],
+    "3": [
+     "goeie"
+    ],
+    "4": [
+     "goed"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Voor die selfstandige naamwoord voeg ons dikwels -e by: koue, goeie."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In “Die dag is koud” staan die byvoeglike naamwoord ná die selfstandige naamwoord."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Koud staan ná “dag”, maar beskryf steeds die dag."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is die byvoeglike naamwoord: “Dit was ’n geweldige aardbewing”?",
+   "explanation": "Geweldige beskryf die aardbewing.",
+   "options": [
+    {
+     "key": "a",
+     "text": "geweldige",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "aardbewing"
+    },
+    {
+     "key": "c",
+     "text": "was"
+    },
+    {
+     "key": "d",
+     "text": "Dit"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat gebeur dikwels met ’n byvoeglike naamwoord wat voor die selfstandige naamwoord staan?",
+   "explanation": "Die werkboek sê: ons voeg dikwels ’n -e by (jong meisie, koue dag).",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ons voeg ’n -e by.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit verdwyn."
+    },
+    {
+     "key": "c",
+     "text": "Dit verander in ’n werkwoord."
+    },
+    {
+     "key": "d",
+     "text": "Dit kry ’n -s."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter vorm is korrek: “Die dag is ___”?",
+   "explanation": "Ná die selfstandige naamwoord staan die byvoeglike naamwoord sonder -e.",
+   "options": [
+    {
+     "key": "a",
+     "text": "koud",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "koue"
+    },
+    {
+     "key": "c",
+     "text": "kouere"
+    },
+    {
+     "key": "d",
+     "text": "koudde"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n sinoniem vir “stokperdjie”?",
+   "explanation": "Stokperdjie en tydverdryf het amper dieselfde betekenis.",
+   "options": [
+    {
+     "key": "a",
+     "text": "tydverdryf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "skoolwerk"
+    },
+    {
+     "key": "c",
+     "text": "speelgoed"
+    },
+    {
+     "key": "d",
+     "text": "gereedskap"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 49,
+    "pdf_page": 53,
+    "item": "sinonieme"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n antoniem vir “enorm”?",
+   "explanation": "Antoniem = teenoorgestelde: enorm – piepklein.",
+   "options": [
+    {
+     "key": "a",
+     "text": "piepklein",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "massief"
+    },
+    {
+     "key": "c",
+     "text": "groot"
+    },
+    {
+     "key": "d",
+     "text": "reusagtig"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 49,
+    "pdf_page": 53,
+    "item": "antonieme"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter voegwoord pas: “Ek is gelukkig hier ___ ek mis my eie skool”?",
+   "explanation": "Alhoewel wys ’n teenstelling: ek is gelukkig, maar ek mis my skool.",
+   "options": [
+    {
+     "key": "a",
+     "text": "alhoewel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "omdat"
+    },
+    {
+     "key": "c",
+     "text": "totdat"
+    },
+    {
+     "key": "d",
+     "text": "indien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 49,
+    "pdf_page": 53,
+    "item": "voegwoorde"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die lydende vorm van “Kin lees ’n boek”?",
+   "explanation": "In die lydende vorm word die voorwerp die onderwerp.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Boek word deur Kin gelees.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Kin word deur ’n boek gelees."
+    },
+    {
+     "key": "c",
+     "text": "Kin het ’n boek gelees."
+    },
+    {
+     "key": "d",
+     "text": "’n Boek lees Kin."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52,
+    "item": "lydende vorm"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is die onderwerp: “Ons speel sokker in die park”?",
+   "explanation": "Wie speel? Ons.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ons",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "speel"
+    },
+    {
+     "key": "c",
+     "text": "sokker"
+    },
+    {
+     "key": "d",
+     "text": "park"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 48,
+    "pdf_page": 52,
+    "item": "onderwerp/voorwerp"
+   },
+   "key": "q08"
+  }
+ ]
+}

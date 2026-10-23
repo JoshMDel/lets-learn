@@ -1,0 +1,917 @@
+{
+ "key": "gr6-afr-b2-wk068",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 68,
+ "title_af": "Verskillende soorte werkwoorde",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk1-2",
+  "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+  "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+  "sort": 101
+ },
+ "tier_number": 4,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  8,
+  9
+ ],
+ "pdf_pages": [
+  12,
+  13
+ ],
+ "reference_pages": [
+  {
+   "pdf": 12,
+   "printed": 8,
+   "src": "/workbook/gr6-afr-b2/p012.webp"
+  },
+  {
+   "pdf": 13,
+   "printed": 9,
+   "src": "/workbook/gr6-afr-b2/p013.webp"
+  }
+ ],
+ "intro_af": "Werkwoorde is die “doenwoorde” van ’n sin. Vandag leer jy om hoofwerkwoorde en hulpwerkwoorde te kies en sinne in die bedrywende en lydende vorm te skryf.",
+ "objectives_af": [
+  "Hoof- en hulpwerkwoorde identifiseer.",
+  "Die onderwerp, gesegde en voorwerp van ’n sin uitwys.",
+  "Enkelvoudige en saamgestelde sinne uitken.",
+  "Sinne in die bedrywende en die lydende vorm skryf.",
+  "Ons storie in die korrekte volgorde vertel."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Kyk uit na werkwoorde",
+   "payload": {
+    "bullets": [
+     "**Hoofwerkwoorde** is die aksie- of doenwoorde wat in sinne voorkom.",
+     "**Hulpwerkwoorde** vertel ons meer aangaande die hoofwerkwoorde, bv. sal, moet, kan, mag, sou, moes, wou en kon."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Drie soorte hulpwerkwoorde",
+   "payload": {
+    "headers": [
+     "Soort",
+     "Voorbeeld"
+    ],
+    "rows": [
+     [
+      "Hulpwerkwoorde van tyd",
+      "het"
+     ],
+     [
+      "Hulpwerkwoorde van wyse (modaliteit)",
+      "sal / sou en wil / wou"
+     ],
+     [
+      "Hulpwerkwoorde van vorm (lydende vorm)",
+      "Die appel **word** geëet. Die appel **is** geëet."
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Ons hersien sinsleer",
+   "payload": {
+    "paragraphs": [
+     "Sin = onderwerp (wie) + gesegde (werkwoord of werkwoordstuk) + voorwerp (wie/wat)."
+    ],
+    "bullets": [
+     "Die seuntjie (onderwerp) gooi (werkwoord) die bal (voorwerp).",
+     "Die seuntjie (onderwerp) het die bal (voorwerp) gegooi (werkwoordstuk)."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Enkelvoudig of saamgestel?",
+   "payload": {
+    "text": "’n Enkelvoudige sin het net een gesegde. ’n Saamgestelde sin het altyd twee of meer gesegdes (werkwoorde of -stukke)."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "learn-04",
+   "sort_order": 40
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Lydende en bedrywende vorm",
+   "payload": {
+    "bullets": [
+     "In die **bedrywende vorm** is die sin in sy basiese vorm: onderwerp + gesegde + voorwerp, bv. Die seun gooi die bal.",
+     "In die **lydende vorm** ruil die onderwerp en die voorwerp om: Die bal word deur die seun gegooi. (teenwoordige tyd)",
+     "Die bal is deur die seun gegooi. (verlede tyd)",
+     "Die bal sal deur die seun gegooi word. (toekomende tyd)"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13
+   },
+   "key": "learn-05",
+   "sort_order": 50
+  },
+  {
+   "section": "example",
+   "kind": "table",
+   "title_af": "Hoofwerkwoord of hulpwerkwoord?",
+   "payload": {
+    "headers": [
+     "Sin",
+     "Hulpwerkwoord",
+     "Hoofwerkwoord"
+    ],
+    "rows": [
+     [
+      "Dingani **kan** sokker **speel**.",
+      "kan",
+      "speel"
+     ],
+     [
+      "Jan **moes** ’n solo **sing**.",
+      "moes",
+      "sing"
+     ],
+     [
+      "Charl **het** moedeloos **gevoel**.",
+      "het",
+      "gevoel"
+     ]
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "ex-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Hulp- en hoofwerkwoorde (1)",
+   "payload": {
+    "text": "1. Charl gaan die hele vakansie in die gemeenskapstuin werk.\n   Hulpwerkwoord: {{1}} · Hoofwerkwoord: {{2}}\n2. Dingani kan baie goed sokker speel.\n   Hulpwerkwoord: {{3}} · Hoofwerkwoord: {{4}}\n3. Charl wou baie graag sy spesiale talent ontdek.\n   Hulpwerkwoord: {{5}} · Hoofwerkwoord: {{6}}\n4. Charl het moedeloos gevoel.\n   Hulpwerkwoord: {{7}} · Hoofwerkwoord: {{8}}",
+    "prompt": "Skryf die hulpwerkwoord en die hoofwerkwoord van elke sin."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12,
+    "item": "1"
+   },
+   "answer": {
+    "1": [
+     "gaan"
+    ],
+    "2": [
+     "werk"
+    ],
+    "3": [
+     "kan"
+    ],
+    "4": [
+     "speel"
+    ],
+    "5": [
+     "wou"
+    ],
+    "6": [
+     "ontdek"
+    ],
+    "7": [
+     "het"
+    ],
+    "8": [
+     "gevoel"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die hulpwerkwoord (gaan, kan, wou, het) staan by die hoofwerkwoord (werk, speel, ontdek, gevoel)."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Hulp- en hoofwerkwoorde (2)",
+   "payload": {
+    "text": "5. Jan moes ’n solo sing.\n   Hulpwerkwoord: {{1}} · Hoofwerkwoord: {{2}}\n6. Jan oortuig Charl dat hy sy talent moet beoefen. (kyk net na die deel ná “dat”)\n   Hulpwerkwoord: {{3}} · Hoofwerkwoord: {{4}}\n7. Die drie seuns gaan hulle talente en suksesse môre vier.\n   Hulpwerkwoord: {{5}} · Hoofwerkwoord: {{6}}",
+    "prompt": "Skryf die hulpwerkwoord en die hoofwerkwoord van elke sin."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12,
+    "item": "2"
+   },
+   "answer": {
+    "1": [
+     "moes"
+    ],
+    "2": [
+     "sing"
+    ],
+    "3": [
+     "moet"
+    ],
+    "4": [
+     "beoefen"
+    ],
+    "5": [
+     "gaan"
+    ],
+    "6": [
+     "vier"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "moes, moet en gaan help die hoofwerkwoorde sing, beoefen en vier."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Enkelvoudig of saamgestel?",
+   "payload": {
+    "prompt": "Is die sin enkelvoudig (een gesegde) of saamgestel (twee of meer gesegdes)?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Charl werk in die groentetuin.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "Saamgestel"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Dingani het sokker gaan speel en hulle het gewen.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "Saamgestel"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Jan sing in die koor en is gekies om ’n solo te sing.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "Saamgestel"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Charl het mismoedig gevoel.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "Saamgestel"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Jan wys Charl daarop dat hy unieke talente het.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "Saamgestel"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12,
+    "item": "tabel"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Tel die gesegdes: een = enkelvoudig; twee of meer = saamgestel."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Onderwerp en voorwerp (1)",
+   "payload": {
+    "text": "Hy kweek groente.  Onderwerp: {{1}} · Voorwerp: {{2}}\nDingani het ’n doel aangeteken.  Onderwerp: {{3}} · Voorwerp: {{4}}\nJan gaan ’n solo sing.  Onderwerp: {{5}} · Voorwerp: {{6}}"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13,
+    "item": "1"
+   },
+   "answer": {
+    "1": [
+     "hy"
+    ],
+    "2": [
+     "groente"
+    ],
+    "3": [
+     "Dingani"
+    ],
+    "4": [
+     "’n doel",
+     "doel"
+    ],
+    "5": [
+     "Jan"
+    ],
+    "6": [
+     "’n solo",
+     "solo"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die onderwerp vertel wie die doener is; die voorwerp vertel wie of wat die aksie ontvang."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Onderwerp en voorwerp (2)",
+   "payload": {
+    "text": "Charl maak kos.  Onderwerp: {{1}} · Voorwerp: {{2}}\nHy sing ’n liedjie.  Onderwerp: {{3}} · Voorwerp: {{4}}"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13,
+    "item": "2"
+   },
+   "answer": {
+    "1": [
+     "Charl"
+    ],
+    "2": [
+     "kos"
+    ],
+    "3": [
+     "hy"
+    ],
+    "4": [
+     "’n liedjie",
+     "liedjie"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Wie sing? Hy. Wat sing hy? ’n Liedjie."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf in die lydende vorm",
+   "payload": {
+    "prompt": "Skryf die vyf sinne in die lydende vorm oor: Hy kweek groente. / Dingani het ’n doel aangeteken. / Jan gaan ’n solo sing. / Charl maak kos. / Hy sing ’n liedjie.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13,
+    "item": "3"
+   },
+   "suggested_answer": "Groente word deur hom gekweek.\n’n Doel is deur Dingani aangeteken.\n’n Solo gaan deur Jan gesing word.\nKos word deur Charl gemaak.\n’n Liedjie word deur hom gesing.",
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Vertel Charl se storie",
+   "payload": {
+    "prompt": "Vertel die storie van Charl in die korrekte volgorde oor. Gebruik die woorde eers, toe, daarna, later en uiteindelik.",
+    "lines": 10,
+    "checklist": [
+     "Ek het die woord “eers” gebruik.",
+     "Ek het die woord “toe” gebruik.",
+     "Ek het “daarna” en “later” gebruik.",
+     "Ek het “uiteindelik” gebruik.",
+     "Die gebeure is in die korrekte volgorde."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13,
+    "item": "4"
+   },
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Kies die lydende vorm",
+   "payload": {
+    "prompt": "Watter sin is in die lydende vorm?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Dingani gooi die bal. / Die bal word deur Dingani gegooi.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Eerste sin"
+       },
+       {
+        "key": "b",
+        "text": "Tweede sin"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die koek is deur Ma gebak. / Ma bak die koek.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Eerste sin"
+       },
+       {
+        "key": "b",
+        "text": "Tweede sin"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Jan sing ’n liedjie. / ’n Liedjie word deur Jan gesing.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Eerste sin"
+       },
+       {
+        "key": "b",
+        "text": "Tweede sin"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "a",
+     "q3": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "In die lydende vorm kom “word” of “is” voor en die voorwerp begin die sin."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "“Kan” is ’n hoofwerkwoord."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Kan is ’n hulpwerkwoord (van wyse). Dit staan by ’n hoofwerkwoord, soos in “Dingani kan sokker speel”."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-09",
+   "sort_order": 90
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is die hulpwerkwoord in: “Dingani kan baie goed sokker speel”?",
+   "explanation": "Kan help die hoofwerkwoord speel.",
+   "options": [
+    {
+     "key": "a",
+     "text": "kan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "speel"
+    },
+    {
+     "key": "c",
+     "text": "sokker"
+    },
+    {
+     "key": "d",
+     "text": "baie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12,
+    "item": "2"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is die hoofwerkwoord in: “Charl wou baie graag sy talent ontdek”?",
+   "explanation": "Ontdek is die aksiewoord; wou is die hulpwerkwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "ontdek",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "wou"
+    },
+    {
+     "key": "c",
+     "text": "baie"
+    },
+    {
+     "key": "d",
+     "text": "graag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12,
+    "item": "3"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin is in die lydende vorm?",
+   "explanation": "In die lydende vorm kom die voorwerp eerste en daar is “word” of “is”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die bal word deur die seun gegooi.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die seun gooi die bal."
+    },
+    {
+     "key": "c",
+     "text": "Die seun het die bal gegooi."
+    },
+    {
+     "key": "d",
+     "text": "Die seun sal die bal gooi."
+    }
+   ],
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die lydende vorm van: “Charl maak kos”?",
+   "explanation": "Die voorwerp (kos) word die onderwerp en daar kom “word” by.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kos word deur Charl gemaak.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Charl word deur kos gemaak."
+    },
+    {
+     "key": "c",
+     "text": "Kos maak Charl."
+    },
+    {
+     "key": "d",
+     "text": "Charl het kos gemaak."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13,
+    "item": "3"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel gesegdes het ’n saamgestelde sin?",
+   "explanation": "Die werkboek sê: ’n saamgestelde sin het altyd twee of meer gesegdes.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Twee of meer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net een"
+    },
+    {
+     "key": "c",
+     "text": "Geen een nie"
+    },
+    {
+     "key": "d",
+     "text": "Presies drie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin is enkelvoudig?",
+   "explanation": "Net een gesegde: “het … gevoel”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Charl het mismoedig gevoel.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dingani het sokker gaan speel en hulle het gewen."
+    },
+    {
+     "key": "c",
+     "text": "Jan sing in die koor en is gekies om ’n solo te sing."
+    },
+    {
+     "key": "d",
+     "text": "Jan wys Charl daarop dat hy unieke talente het."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12,
+    "item": "tabel"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die onderwerp in: “Jan gaan ’n solo sing”?",
+   "explanation": "Wie gaan sing? Jan.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "solo"
+    },
+    {
+     "key": "c",
+     "text": "gaan"
+    },
+    {
+     "key": "d",
+     "text": "’n solo sing"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13,
+    "item": "1"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter woorde is hulpwerkwoorde van wyse (modaliteit)?",
+   "explanation": "Die werkboek noem sal/sou en wil/wou as hulpwerkwoorde van wyse.",
+   "options": [
+    {
+     "key": "a",
+     "text": "sal / sou en wil / wou",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "het"
+    },
+    {
+     "key": "c",
+     "text": "word en is"
+    },
+    {
+     "key": "d",
+     "text": "speel en sing"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter hulpwerkwoord van tyd kom in “Charl het moedeloos gevoel” voor?",
+   "explanation": "Die hulpwerkwoord van tyd is “het”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "gevoel"
+    },
+    {
+     "key": "c",
+     "text": "moedeloos"
+    },
+    {
+     "key": "d",
+     "text": "Charl"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 8,
+    "pdf_page": 12
+   },
+   "key": "q09"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "“Die bal is deur die seun gegooi.” In watter tyd is die lydende vorm?",
+   "explanation": "Volgens die werkboek is “is … gegooi” die verlede tyd.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Verlede tyd",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Teenwoordige tyd"
+    },
+    {
+     "key": "c",
+     "text": "Toekomende tyd"
+    },
+    {
+     "key": "d",
+     "text": "Dit is nie die lydende vorm nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 9,
+    "pdf_page": 13
+   },
+   "key": "q10"
+  }
+ ]
+}

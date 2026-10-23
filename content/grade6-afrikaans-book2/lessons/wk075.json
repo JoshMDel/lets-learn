@@ -1,0 +1,730 @@
+{
+ "key": "gr6-afr-b2-wk075",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 75,
+ "title_af": "Wat het met die leeu gebeur?",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 3,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk"
+ ],
+ "printed_pages": [
+  22,
+  23
+ ],
+ "pdf_pages": [
+  26,
+  27
+ ],
+ "reference_pages": [
+  {
+   "pdf": 26,
+   "printed": 22,
+   "src": "/workbook/gr6-afr-b2/p026.webp"
+  },
+  {
+   "pdf": 27,
+   "printed": 23,
+   "src": "/workbook/gr6-afr-b2/p027.webp"
+  }
+ ],
+ "intro_af": "Wat het met die leeu gebeur? Lees die tweede deel van die volksverhaal en ontdek die sedeles.",
+ "objectives_af": [
+  "Die tweede deel van ’n volksverhaal lees en vrae daaroor beantwoord.",
+  "Die sedeles (moraal) van ’n storie uitwys.",
+  "Jou eie perspektief uitspreek en motiveer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is ’n sedeles?",
+   "payload": {
+    "text": "Die **moraal** of **sedeles** van ’n storie is die les wat die storie ons leer."
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 22,
+    "pdf_page": 26
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die storie",
+   "payload": {
+    "prompt": "Druk die knoppie en luister terwyl jy saamlees.",
+    "speak_passage": true
+   },
+   "source": "supplementary",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Dink na oor die storie",
+   "payload": {
+    "prompt": "Jy weet nou hoe die storie geëindig het. Dink na oor die volgende vrae.",
+    "points": [
+     "Het die storie geëindig soos jy verwag het?",
+     "Hoe het jy daaroor gevoel dat die leeu sy belofte verbreek het?",
+     "Dink jy die jakkals was slim? Waarom sê jy so?",
+     "Sipho het vir Jabu gesê hy het die hele avontuur misgeloop. Stem jy saam met Sipho? Motiveer jou antwoord."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 23,
+    "pdf_page": 27,
+    "item": "Ons praat"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Die sedeles",
+   "payload": {
+    "prompt": "Wat is die moraal of sedeles van die storie?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 23,
+    "pdf_page": 27,
+    "item": "sedeles"
+   },
+   "suggested_answer": "Jy moet ’n belofte nakom – verbreekte beloftes haal jou altyd in.",
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Die leeu het sy belofte gehou en Jabu nie opgevreet nie."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die leeu het gesê sy belofte is nie meer belangrik noudat hy vry is nie en wou Jabu opvreet."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Hoe het die jakkals die leeu gevang?",
+   "payload": {
+    "prompt": "Hoe het die jakkals die leeu weer in die valstrik gekry?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Hy het Jabu gevra om dit te doen."
+     },
+     {
+      "key": "B",
+      "text": "Hy het die leeu gevra om sy kop in die valstrik te steek en toe die strik toegeklap."
+     },
+     {
+      "key": "C",
+      "text": "Hy het die jagters gaan roep."
+     },
+     {
+      "key": "D",
+      "text": "Hy het die leeu uitgetart om weg te hardloop."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Die jakkals het gesê hy kan nie glo die leeu is gevang nie en gevra dat die leeu wys hoe dit gebeur het. Toe die leeu sy kop insteek, het hy die strik toegeklap.",
+    "per_option": {
+     "A": "Jabu het niks gedoen nie – die jakkals was slim.",
+     "C": "Die jagters kom nie in hierdie deel voor nie.",
+     "D": "Die leeu is weer verstrik nadat hy sy kop ingesteek het."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Volgorde van die gebeure",
+   "payload": {
+    "prompt": "Sit hierdie gebeure in die regte volgorde.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Die jakkals kom luister."
+     },
+     {
+      "key": "e5",
+      "text": "Die jakkals klap die valstrik toe."
+     },
+     {
+      "key": "e1",
+      "text": "Jabu laat die leeu vry."
+     },
+     {
+      "key": "e4",
+      "text": "Die leeu steek sy kop in die valstrik."
+     },
+     {
+      "key": "e2",
+      "text": "Die leeu sê hy gaan Jabu opvreet."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Eers bevry Jabu die leeu, dan wil die leeu hom opvreet, dan kom die jakkals en vang hy die leeu weer."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Vul die woord in",
+   "payload": {
+    "text": "Die leeu het sy {{1}} verbreek, maar die {{2}} het hom slim weer in die valstrik gekry.",
+    "word_bank": [
+     "belofte",
+     "jakkals",
+     "seun"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "belofte"
+    ],
+    "2": [
+     "jakkals"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die jakkals is die slim een in die verhaal."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Wie het dit gesê?",
+   "payload": {
+    "prompt": "Verbind elke sin met die karakter wat dit gesê het.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "“Ek belowe dat ek nie ’n haar op jou kop sal seermaak nie.”"
+     },
+     {
+      "key": "l2",
+      "text": "“Jy behoort nooit ’n belofte te verbreek nie.”"
+     },
+     {
+      "key": "l3",
+      "text": "“Verbreekte beloftes haal jou altyd in!”"
+     },
+     {
+      "key": "l4",
+      "text": "“Jy het die hele avontuur misgeloop!”"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Jabu"
+     },
+     {
+      "key": "r3",
+      "text": "die jakkals"
+     },
+     {
+      "key": "r4",
+      "text": "Sipho"
+     },
+     {
+      "key": "r1",
+      "text": "die leeu"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Volg die gesprek in die storie."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom het Jabu die leeu uiteindelik vrygelaat?",
+   "explanation": "Bhubesi het gesmeek en gepleit en Jabu besluit om hom te vertrou.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die leeu het so jammerlik gesmeek en belowe om hom nie seer te maak nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die jagters het hom gevra."
+    },
+    {
+     "key": "c",
+     "text": "Hy was bang vir die jakkals."
+    },
+    {
+     "key": "d",
+     "text": "Hy wou die leeu se maanhare sien."
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat wou die leeu doen sodra hy vry was?",
+   "explanation": "Hy sê: “Ek gaan jou nou opvreet, seun.”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jabu opvreet",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Rivier toe gaan en slaap"
+    },
+    {
+     "key": "c",
+     "text": "Die jagters gaan jag"
+    },
+    {
+     "key": "d",
+     "text": "Sipho gaan soek"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    18
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom het die jakkals gesê hy glo nie die leeu was in ’n valstrik nie?",
+   "explanation": "Die jakkals het dit gesê sodat die leeu sy kop weer sou insteek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy het die leeu uitgetart om te wys hoe dit gebeur het.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy was bang vir die leeu."
+    },
+    {
+     "key": "c",
+     "text": "Hy het die valstrik self gestel."
+    },
+    {
+     "key": "d",
+     "text": "Hy het Jabu nie vertrou nie."
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    28
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie het die valstrik toegeklap?",
+   "explanation": "Vinniger as ’n weerligstraal klap die jakkals die valstrik toe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die jakkals",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jabu"
+    },
+    {
+     "key": "c",
+     "text": "Sipho"
+    },
+    {
+     "key": "d",
+     "text": "Die leeu self"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    44
+   ]
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die moraal van die storie?",
+   "explanation": "Die jakkals sê: “Verbreekte beloftes haal jou altyd in!”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ons moet beloftes nakom.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Leeus is altyd gevaarlik."
+    },
+    {
+     "key": "c",
+     "text": "Slim mense is altyd bang."
+    },
+    {
+     "key": "d",
+     "text": "Jy moet nooit kinders vertrou nie."
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    49
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat sê die storie oor Jabu se karakter?",
+   "explanation": "Hy het die leeu gehelp en vir regverdigheid gepleit.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy was vriendelik, dapper en het gedink aan reg en verkeerd.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy was gulsig en slu."
+    },
+    {
+     "key": "c",
+     "text": "Hy was lui en bang."
+    },
+    {
+     "key": "d",
+     "text": "Hy was oneerlik."
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    15
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het Sipho gesê toe Jabu terug by die kraal was?",
+   "explanation": "Sipho roep uit dat die leeu gevang is en Jabu die avontuur misgeloop het.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dat Jabu die hele avontuur misgeloop het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dat die leeu weg is"
+    },
+    {
+     "key": "c",
+     "text": "Dat hy die leeu gevang het"
+    },
+    {
+     "key": "d",
+     "text": "Dat die jagters huis toe is"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    56
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat beteken “vernuftig”?",
+   "explanation": "Die mans was vernuftig om die leeu te vang.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Slim en vindingryk",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Baie moeg"
+    },
+    {
+     "key": "c",
+     "text": "Baie bang"
+    },
+    {
+     "key": "d",
+     "text": "Baie sterk"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    60
+   ]
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat gebeur LAASTE in die storie?",
+   "explanation": "Die storie eindig daardie aand by die vuur.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jabu luister by die vuur na die mans se storie van die leeu se vangs.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die leeu belowe om Jabu nie op te vreet nie."
+    },
+    {
+     "key": "c",
+     "text": "Die jakkals kom nader."
+    },
+    {
+     "key": "d",
+     "text": "Jabu maak die leeu los."
+    }
+   ],
+   "key": "q09",
+   "supporting": [
+    60
+   ]
+  }
+ ],
+ "passage": {
+  "title": "Wat het met die leeu gebeur?",
+  "language": "af",
+  "sentences": [
+   "Bhubesi smeek en pleit so jammerlik dat Jabu uiteindelik besluit om hom te vertrou en hom vry te laat.",
+   "Hy lig die balk wat die leeu se kop vashou.",
+   "Die leeu spring los en skud sy maanhare.",
+   "Leeu: O dankie, oemfaan!",
+   "Ek skuld jou regtig iets.",
+   "My nek was besig om so styf te word in daardie valstrik, en ek was bang die jagters sou my doodmaak.",
+   "Maar nou is ek so dors, asseblief oemfaan – kan jy my wys waar die rivier is?",
+   "Jabu: Dis net hier anderkant.",
+   "Kom saam met my.",
+   "Leeu: Ek moet egter sê, dit sal darem baie jammer wees om so ’n sappige maaltyd te vermors!",
+   "Jabu: O nee!",
+   "Ek het jou van die jagters gered, en jy het belowe om my nie op te vreet nie.",
+   "Leeu: Ja, jy is reg.",
+   "Ek het wel belowe.",
+   "Maar noudat ek vry is, is dit nie meer vir my so belangrik om daardie belofte na te kom nie.",
+   "Jabu: Jy maak ’n groot fout.",
+   "Jy behoort nooit ’n belofte te verbreek nie.",
+   "Leeu: Ag, watse onsin!",
+   "Ek gaan jou nou opvreet, seun.",
+   "Al hierdie gepraat maak my net hongerder.",
+   "Jabu: Maar jy het belowe, en as jy ’n belofte verbreek, sal jy gestraf word.",
+   "Op daardie oomblik kom ’n slim ou jakkals wat hulle afgeluister het, nader om meer te wete te kom.",
+   "Jakkals: Watter belofte het jy gemaak, Nkosi (groot Kaptein)?",
+   "En waarom het jy dit gemaak?",
+   "Jabu: Ek het die leeu uit die valstrik bevry, en hy het belowe om my nie op te vreet nie, maar nou wil hy sy belofte verbreek.",
+   "Jakkals: Ag, wat ’n lawwe storie.",
+   "Wil jy vir my sê jy, die groot koning van die diere, is gevang in ’n valstrik wat mense gemaak het?",
+   "Onmoontlik!",
+   "Ek glo dit nie!",
+   "Leeu: Dit is waar!",
+   "Dit was ’n sterk en verskriklike valstrik!",
+   "Jakkals: Ai, ek kan nie glo enigiets is sterker as my koning nie.",
+   "Ek moet daardie valstrik sien.",
+   "Voordat jy jou aandete eet, wys my asseblief die strik waarvan jy praat.",
+   "Dan kan jy jou maaltyd geniet.",
+   "Die leeu, die jakkals en Jabu gaan toe terug na die valstrik toe.",
+   "Jakkals: Ek laat my nie vertel dat hierdie ou dingetjie regtig jou kop kon vashou nie!",
+   "Nooit!",
+   "Ek kan my dit regtig nie voorstel nie.",
+   "Nkosi, as jy nie omgee nie, steek jou kop hier in sodat ek kan sien hoe jy gelyk het toe die seun op jou afgekom het?",
+   "Leeu: Ai tog.",
+   "Jy maak my moeg met jou vrae.",
+   "Ek sal hierdie laaste ding vir jou doen, en dan moet jy my met rus laat sodat ek my ete kan geniet.",
+   "Toe steek Bhubesi sy kop tussen die klampe in, net soos dit was toe Jabu hom gekry het.",
+   "Vinniger as ’n weerligstraal klap die jakkals die valstrik toe.",
+   "Bhubesi sit weer vasgevang!",
+   "Jakkals: Nou sien ek hoe jy gevang is.",
+   "Dis jammer dat jy weer op dieselfde manier verstrik is.",
+   "Maar die seun is reg, Nkosi.",
+   "Verbreekte beloftes haal jou altyd in!",
+   "Bhubesi brul van woede, maar die sterk valstrik hou hom goed vas.",
+   "Jabu bedank die jakkals.",
+   "Hy hardloop terug na sy koeie en jaag hulle aan huis toe en in die kraal in.",
+   "Wat ’n dag het hy nie beleef nie!",
+   "Sipho sien hom en roep uit: “Jabu, Jabu!",
+   "Die leeu is in ’n valstrik naby die rivier gevang!",
+   "Jy het die hele avontuur misgeloop!”",
+   "Jabu glimlag net en sê vir homself: “Ek het genoeg avontuur vir een dag gehad.”",
+   "Sipho gaan toe weer terug na die jagters toe om die storie te hoor van die magtige leeu wat in die valstrik gevang is, en Jabu gaan huis toe.",
+   "Hy groet sy ma, gaan sit en gee ’n groot sug.",
+   "Daardie aand luister Jabu by die vuur na die mans terwyl hulle gesels en die storie vertel van die leeu se vangs, van die stryd wat dit gekos het, en van hoe vernuftig hulle was om hom te vang."
+  ],
+  "paragraph_starts": [
+   0,
+   3,
+   7,
+   9,
+   10,
+   12,
+   15,
+   17,
+   20,
+   21,
+   22,
+   24,
+   25,
+   29,
+   31,
+   35,
+   36,
+   40,
+   43,
+   46,
+   50,
+   54,
+   59,
+   60
+  ],
+  "glossary": [
+   {
+    "term": "maanhare",
+    "definition": "Die lang hare om ’n leeu se nek en kop.",
+    "sentence_index": 2
+   },
+   {
+    "term": "belofte",
+    "definition": "Wat jy sê jy sal doen en moet nakom.",
+    "sentence_index": 14
+   },
+   {
+    "term": "verbreek",
+    "definition": "Nie nakom nie; breek (’n belofte).",
+    "sentence_index": 16
+   },
+   {
+    "term": "vernuftig",
+    "definition": "Slim en vindingryk.",
+    "sentence_index": 60
+   },
+   {
+    "term": "klampe",
+    "definition": "Die houtstukke van die valstrik wat toeklap.",
+    "sentence_index": 43
+   },
+   {
+    "term": "verstrik",
+    "definition": "Vasgevang soos in ’n strik.",
+    "sentence_index": 47
+   },
+   {
+    "term": "jakkals",
+    "definition": "’n Slim, honde-agtige wilde dier.",
+    "sentence_index": 21
+   },
+   {
+    "term": "Nkosi",
+    "definition": "Zulu-woord vir “groot kaptein” of “meneer”.",
+    "sentence_index": 22
+   }
+  ]
+ }
+}

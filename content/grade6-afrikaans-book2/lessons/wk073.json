@@ -1,0 +1,776 @@
+{
+ "key": "gr6-afr-b2-wk073",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 73,
+ "title_af": "Jabu en die leeu",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 1,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk"
+ ],
+ "printed_pages": [
+  18,
+  19
+ ],
+ "pdf_pages": [
+  22,
+  23
+ ],
+ "reference_pages": [
+  {
+   "pdf": 22,
+   "printed": 18,
+   "src": "/workbook/gr6-afr-b2/p022.webp"
+  },
+  {
+   "pdf": 23,
+   "printed": 19,
+   "src": "/workbook/gr6-afr-b2/p023.webp"
+  }
+ ],
+ "intro_af": "Vandag lees ons ’n Zulu-volksverhaal oor Jabu en ’n leeu. Dink eers hoe jy dink dit gaan eindig!",
+ "objectives_af": [
+  "Voorspel waaroor ’n storie gaan deur na die titel en prente te kyk.",
+  "Die kenmerke van ’n volksverhaal ken.",
+  "Vrae oor ’n fiktiewe teks bespreek en jou mening gee.",
+  "In ’n groep ’n einde vir die storie beplan en dit as rolspel opvoer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat is ’n volksverhaal?",
+   "payload": {
+    "paragraphs": [
+     "Volksverhale word mondeling (met die mond) van een geslag na die volgende oorgedra. Mense vertel hierdie verhale vir hulle kinders en kleinkinders – hulle skryf dit nie neer nie."
+    ],
+    "bullets": [
+     "Volksverhale bevat gewoonlik ’n **moraal** of **sedeles** en dien as vermaak.",
+     "Dit verenig ook mense: die kinders van ’n bepaalde kultuurgroep hoor almal dieselfde volksverhale en voel hulle hoort saam.",
+     "In die meeste volksverhale kom ons diere teë wat kan praat. Volksverhale is meestal **fiksie**, aangesien diere nie werklik kan praat nie."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 18,
+    "pdf_page": 22
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat: Voorspel",
+   "payload": {
+    "prompt": "Kyk na die titel en illustrasies van die storie, en voorspel waaroor die storie handel. (Die prente is op die oorspronklike werkboekbladsy.)"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 18,
+    "pdf_page": 22,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die storie",
+   "payload": {
+    "prompt": "Druk die knoppie en luister terwyl jy saamlees.",
+    "speak_passage": true
+   },
+   "source": "supplementary",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Hoe sal die storie eindig?",
+   "payload": {
+    "prompt": "Praat daaroor.",
+    "points": [
+     "Hoe dink jy gaan die storie eindig?",
+     "Dink jy Jabu gaan die leeu bevry?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 19,
+    "pdf_page": 23,
+    "item": "Ons praat"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Rolspel: ’n einde vir die storie",
+   "payload": {
+    "prompt": "Beplan in groepverband ’n einde vir hierdie storie. Stel ’n rolspel saam en bied dit vir die klas aan.",
+    "points": [
+     "Een van julle is Jabu, iemand is Sipho en iemand is Bhubesi, die leeu.",
+     "Julle sal ook ’n paar koeie nodig hê.",
+     "Besluit watter groep die beste einde het."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 19,
+    "pdf_page": 23,
+    "item": "Ons praat"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 1: Hoofkarakters",
+   "payload": {
+    "prompt": "Wie is die hoofkarakters in hierdie storie?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 19,
+    "pdf_page": 23,
+    "item": "1"
+   },
+   "suggested_answer": "Jabu, Sipho en Bhubesi, die leeu.",
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 2: Waarom opgewonde?",
+   "payload": {
+    "prompt": "Waarom was Sipho opgewonde toe hy by Jabu aangehardloop gekom het?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 19,
+    "pdf_page": 23,
+    "item": "2"
+   },
+   "suggested_answer": "Hy wou vir Jabu die nuus vertel dat Bhubesi die leeu gesien is, ’n koei doodgemaak het en dat die mans valstrikke stel.",
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Vraag 3: Waar was Jabu?",
+   "payload": {
+    "prompt": "Waar was Jabu toe Sipho hom gekry het?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 19,
+    "pdf_page": 23,
+    "item": "3"
+   },
+   "suggested_answer": "Op die koppie, besig om sy pa se vee dop te hou.",
+   "answer_status": "derived_from_text",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Vraag 4–5: Praat daaroor",
+   "payload": {
+    "prompt": "Bespreek met jou maat.",
+    "points": [
+     "Kyk na die prentjies en beskryf die plek waar die storie hom afgespeel het. Lyk die plek anders as die plek waar jy woon? Hoe verskil dit?",
+     "Dink jy Jabu was ’n verantwoordelike mens? Waarom sê jy so?"
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 19,
+    "pdf_page": 23,
+    "item": "4–5"
+   },
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Volksverhale word gewoonlik eers neergeskryf en dan voorgelees."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Volksverhale word mondeling van een geslag na die volgende oorgedra – mense vertel dit; hulle skryf dit nie neer nie."
+   },
+   "answer_status": "official",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die sin",
+   "payload": {
+    "text": "Jabu is ’n {{1}} wat sy pa se {{2}} oppas. Hy kry die leeu in ’n {{3}} vasgevang.",
+    "word_bank": [
+     "veewagter",
+     "vee",
+     "valstrik",
+     "kraal"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "veewagter"
+    ],
+    "2": [
+     "vee",
+     "veekudde",
+     "koeie"
+    ],
+    "3": [
+     "valstrik",
+     "strik"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Veewagters pas vee op; die mans het valstrikke gestel om die leeu te vang."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die woord by sy betekenis",
+   "payload": {
+    "prompt": "Verbind elke woord met die korrekte betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "veewagter"
+     },
+     {
+      "key": "l2",
+      "text": "kraal"
+     },
+     {
+      "key": "l3",
+      "text": "noodkreet"
+     },
+     {
+      "key": "l4",
+      "text": "desperaat"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "’n Omheinde plek waar vee snags bly"
+     },
+     {
+      "key": "r3",
+      "text": "’n Harde roep om hulp"
+     },
+     {
+      "key": "r4",
+      "text": "Baie wanhopig"
+     },
+     {
+      "key": "r1",
+      "text": "Iemand wat vee oppas"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Jy kan ook op ’n woord in die storie tik om te sien wat dit beteken."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-11",
+   "sort_order": 110
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Wat het eerste gebeur?",
+   "payload": {
+    "prompt": "Sit die gebeure in die volgorde waarin hulle in die storie gebeur het.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Jabu hoor ’n brul en vind die leeu in die valstrik."
+     },
+     {
+      "key": "e1",
+      "text": "Jabu sit op die koppie en pas die koeie op."
+     },
+     {
+      "key": "e5",
+      "text": "Die leeu smeek Jabu om hom te bevry."
+     },
+     {
+      "key": "e3",
+      "text": "Jabu neem die koeie rivier toe."
+     },
+     {
+      "key": "e2",
+      "text": "Sipho vertel van die leeu en die valstrikke."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die storie volg die gebeure van die oggend op die koppie tot by die valstrik."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-12",
+   "sort_order": 120
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe oud was Jabu?",
+   "explanation": "Die storie sê Jabu was ’n 14-jarige veewagter.",
+   "options": [
+    {
+     "key": "a",
+     "text": "14 jaar oud",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "10 jaar oud"
+    },
+    {
+     "key": "c",
+     "text": "16 jaar oud"
+    },
+    {
+     "key": "d",
+     "text": "21 jaar oud"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is Jabu se werk in die storie?",
+   "explanation": "Jabu is ’n veewagter wat sy pa se groot veekudde versorg.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy pas sy pa se vee op.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy jag leeus."
+    },
+    {
+     "key": "c",
+     "text": "Hy is ’n onderwyser."
+    },
+    {
+     "key": "d",
+     "text": "Hy werk op ’n plaas se kombuis."
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter nuus het Sipho vir Jabu gebring?",
+   "explanation": "Sipho het gehoor Bhubesi, die leeu, is gesien en het ’n koei doodgemaak.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die leeu is gesien en het ’n koei doodgemaak.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jabu se pa is siek."
+    },
+    {
+     "key": "c",
+     "text": "Die rivier is droog."
+    },
+    {
+     "key": "d",
+     "text": "Daar is ’n nuwe skool."
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom was Sipho teleurgesteld?",
+   "explanation": "Jabu kon nie sy vee nou al kraal toe neem nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jabu wou nie dadelik saam met hom na die valstrikke gaan kyk nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het nie ’n koei gehad nie."
+    },
+    {
+     "key": "c",
+     "text": "Die leeu het weggehardloop."
+    },
+    {
+     "key": "d",
+     "text": "Jabu het hom uitgeskel."
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    12
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het Jabu by die rivier gehoor?",
+   "explanation": "Jabu hoor ’n geluid wat hom yskoud laat word van die skrik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Geluid wat hom yskoud laat word het – die leeu se brul",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sipho wat roep"
+    },
+    {
+     "key": "c",
+     "text": "Die jagters wat sing"
+    },
+    {
+     "key": "d",
+     "text": "Sy ma wat hom roep"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    19
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat dink Jabu van die leeu se brul?",
+   "explanation": "Hy dink Bhubesi klink asof hy in die moeilikheid is.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dit was ’n noodkreet.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit was ’n dreigement."
+    },
+    {
+     "key": "c",
+     "text": "Dit was ’n liedjie."
+    },
+    {
+     "key": "d",
+     "text": "Dit was die jagters."
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    26
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar het Jabu die leeu gekry?",
+   "explanation": "Bhubesi was vasgevang in een van die valstrikke wat die mans gestel het.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vasgevang in ’n valstrik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "By die kraal"
+    },
+    {
+     "key": "c",
+     "text": "Op die koppie"
+    },
+    {
+     "key": "d",
+     "text": "In die rivier"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    28
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het die leeu aan Jabu belowe?",
+   "explanation": "Die leeu belowe om nie ’n haar op Jabu se kop seer te maak nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Dat hy hom nie sal opvreet nie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dat hy hom ’n koei sal gee"
+    },
+    {
+     "key": "c",
+     "text": "Dat hy hom sal wys waar die jagters is"
+    },
+    {
+     "key": "d",
+     "text": "Dat hy altyd sy vriend sal wees"
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    49
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat is ’n volksverhaal?",
+   "explanation": "Die werkboek verduidelik dat volksverhale mondeling oorgedra word.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n storie wat mondeling van een geslag na die volgende oorgedra word",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Koerantberig"
+    },
+    {
+     "key": "c",
+     "text": "’n Dagboekinskrywing"
+    },
+    {
+     "key": "d",
+     "text": "’n Brief aan ’n vriend"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 18,
+    "pdf_page": 22
+   },
+   "key": "q09"
+  }
+ ],
+ "passage": {
+  "title": "Jabu en die leeu",
+  "language": "af",
+  "sentences": [
+   "Jabu was ’n 14-jarige veewagter.",
+   "Hy was baie trots op hoe hy sy pa se groot veekudde versorg.",
+   "Een warm herfsdag, terwyl Jabu die diere op die koppie sit en dophou, kom sy maat Sipho daar aangedraf.",
+   "“Het jy die nuus gehoor, Jabu?” vra Sipho uitasem.",
+   "“Bhubesi, die leeu, is verlede nag hier in die omgewing gesien.",
+   "Hy het ’n koei doodgemaak.",
+   "Die mans is besig om vir hom valstrikke te stel.",
+   "Gaan sit jou vee terug in die kraal en dan gaan kyk ons hoe hulle die valstrikke stel.”",
+   "Jabu is geskok.",
+   "“Ek kan die vee nie nou al kraal toe neem nie, Sipho.",
+   "Dis te vroeg in die dag.",
+   "Hulle moet eers klaar wei, en dan moet ek hulle rivier toe neem om water te drink voordat ek hulle terugneem huis toe.”",
+   "Sipho is teleurgesteld, maar hy weet dit help nie om met Jabu te redeneer nie.",
+   "“Oukei,” sê hy.",
+   "“Ek sien jou later, miskien vanaand by die vuur.",
+   "Ek gaan kyk wat die mans doen.”",
+   "Hy vertrek weer op ’n drafstap.",
+   "Jabu begin toe die koeie bymekaar jaag en lei hulle na die rivier toe.",
+   "Terwyl hulle drink, sit hy met sy voete in die water.",
+   "Toe hoor Jabu ’n geluid wat hom yskoud laat word van die skrik.",
+   "Die koeie versteen ook in hulle spore.",
+   "Dit is Bhubesi, en hy is baie naby!",
+   "Jabu kyk versigtig rond.",
+   "Met bewende knieë jaag hy die koeie bymekaar.",
+   "Maar daardie brul het nie geklink soos ’n leeu wat sê “Ek gaan jou opvreet” nie, dink hy.",
+   "Bhubesi klink asof hy in die moeilikheid is.",
+   "Ek dink daardie brul was ’n noodkreet.",
+   "Jabu stap dapper in die rigting van waar hy die geluid gehoor het.",
+   "Hy kry Bhubesi vasgevang in een van die valstrikke wat die mans gestel het.",
+   "Sy kop sit in die valstrik vas, en hoe meer hy stoei, hoe stywer trek die strik.",
+   "Jabu staan eers ’n hele rukkie na hom en staar.",
+   "Nog nooit het hy die koning van die diere van so naby gesien nie.",
+   "Hy is waarlik ’n indrukwekkende dier.",
+   "Terwyl Jabu kyk hoe Bhubesi om sy lewe worstel, begin hy vir hom jammer te voel.",
+   "Op daardie oomblik sien die leeu die seun, en hy praat direk met hom.",
+   "Leeu: Ai!",
+   "Oemfaan (seun)!",
+   "Help my asseblief.",
+   "Ek kan nie loskom nie.",
+   "Sal jy nie asseblief hierdie balk wat my kop afdruk, kom oplig nie?",
+   "Asseblief!",
+   "Jabu kyk in Bhubesi se oë, en hy kan sien hoe desperaat hy is.",
+   "Leeu: Asseblief, oemfaan!",
+   "Asseblief!",
+   "Voordat daardie jagters my kom doodmaak.",
+   "Bevry my asseblief!",
+   "Jabu: Ek sou jou graag wil bevry, Bhubesi.",
+   "Maar ek is bang dat jy my sal opvreet sodra ek dit doen.",
+   "Leeu: O, nee, oemfaan, ek sal nooit iemand kan opvreet wat my lewe gered het nie!",
+   "Ek belowe dat ek nie ’n haar op jou kop sal seermaak nie.",
+   "Ek belowe!"
+  ],
+  "paragraph_starts": [
+   0,
+   3,
+   8,
+   12,
+   13,
+   17,
+   19,
+   28,
+   32,
+   35,
+   41,
+   42,
+   46,
+   48
+  ],
+  "glossary": [
+   {
+    "term": "veewagter",
+    "definition": "Iemand wat vee (koeie en skape) oppas.",
+    "sentence_index": 0
+   },
+   {
+    "term": "veekudde",
+    "definition": "’n Groep diere soos koeie wat saam aangehou word.",
+    "sentence_index": 1
+   },
+   {
+    "term": "kraal",
+    "definition": "’n Omheinde plek waar vee snags bly.",
+    "sentence_index": 7
+   },
+   {
+    "term": "valstrikke",
+    "definition": "Dinge waarmee jagters diere vang.",
+    "sentence_index": 6
+   },
+   {
+    "term": "noodkreet",
+    "definition": "’n Harde roep om hulp.",
+    "sentence_index": 26
+   },
+   {
+    "term": "desperaat",
+    "definition": "Baie wanhopig; iemand wat baie graag hulp wil hê.",
+    "sentence_index": 41
+   },
+   {
+    "term": "indrukwekkende",
+    "definition": "Wat jou beïndruk omdat dit groot of pragtig is.",
+    "sentence_index": 32
+   },
+   {
+    "term": "oemfaan",
+    "definition": "Die Zulu-woord vir “seun”.",
+    "sentence_index": 36
+   }
+  ]
+ }
+}

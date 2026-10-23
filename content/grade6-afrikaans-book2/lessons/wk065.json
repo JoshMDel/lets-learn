@@ -1,0 +1,947 @@
+{
+  "key": "gr6-afr-b2-wk065",
+  "workbook_key": "gr6-afr-hl-book2",
+  "werkkaart": 65,
+  "title_af": "Die seun wat sy talent gaan soek het",
+  "topic": {
+    "key": "gr6-afr-b2-t5-wk1-2",
+    "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+    "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+    "sort": 101
+  },
+  "tier_number": 1,
+  "term": 3,
+  "tema": 5,
+  "tema_title": "Feit en fiksie",
+  "weeks": "Week 1–2",
+  "skill_areas": [
+    "Luister en praat",
+    "Lees en kyk",
+    "Skryf en aanbied"
+  ],
+  "printed_pages": [
+    2,
+    3
+  ],
+  "pdf_pages": [
+    6,
+    7
+  ],
+  "reference_pages": [
+    {
+      "pdf": 6,
+      "printed": 2,
+      "src": "/workbook/gr6-afr-b2/p006.webp"
+    },
+    {
+      "pdf": 7,
+      "printed": 3,
+      "src": "/workbook/gr6-afr-b2/p007.webp"
+    }
+  ],
+  "intro_af": "Hallo! Vandag lees ons ’n storie oor Charl wat sy talent soek. Voorspel eers waaroor dit gaan, lees dan die storie en beantwoord die vrae.",
+  "objectives_af": [
+    "Voorspel wat in ’n storie gaan gebeur deur na die titel en prente te kyk.",
+    "Lees ’n storie en beantwoord meerkeusevrae oor die teks.",
+    "Beantwoord skriftelike vrae op grond van die teks.",
+    "Som die hoofgedagte van die storie in jou eie woorde op."
+  ],
+  "review_status": "needs_review",
+  "review_notes": [
+    "Die werkboek bevat geen antwoordsleutel nie. Alle antwoorde is deur die program uit die teks afgelei (answer_status = derived_from_text) en moet deur 'n onderwyser nagegaan word.",
+    "Die vrae oor Charl se gevoelens en die hoofgedagte is inferensievrae met meer as een aanvaarbare antwoord.",
+    "Die storie strek oor werkkaarte 65 en 66; die hoofgedagte-vraag op werkkaart 65 vra eintlik om die hele storie."
+  ],
+  "passage": {
+    "title": "Die seun wat sy talent gaan soek het",
+    "language": "af",
+    "sentences": [
+      "Dit is Julie 2015 en die begin van die skoolvakansie.",
+      "Charl, wat in Limpopo woon, is besig om groente in die gemeenskapstuin oorkant sy huis te plant.",
+      "Toe hy opkyk, sien hy sy maat Dingani verbydraf.",
+      "“Haai, Dingani. Wat gaan jy gedurende die skoolvakansie doen?” vra Charl.",
+      "“Ek is die kaptein van die skool se sokkerspan, en ons gaan elke dag oefen vir die groot toernooi,” antwoord Dingani.",
+      "“Ek dink ons kan hierdie jaar wen!”",
+      "“Sjoe, dis koel!” antwoord Charl.",
+      "Toe Dingani verder draf, mompel Charl vir homself: “Ek wens ek was deel van ’n sokkerspan. Ek gaan nou begin oefen.”",
+      "Die volgende week sluit Charl by Dingani aan om sokker te gaan oefen.",
+      "Hy speel saam met die span, maar dit gaan nie baie goed met hom nie.",
+      "Hy struikel oor sy eie voete, en hy kry dit selfs reg om ’n doel vir die ander span aan te teken.",
+      "Aan die einde van die wedstryd besef Charl dat sokker nie sy spel is nie.",
+      "Hy stap sleepvoetend huis toe en gaan soek troos in die tuin.",
+      "Net toe sien hy Jan verbystap.",
+      "“Haai, Jan!” roep hy. “Wat gaan jy die vakansie doen?”",
+      "“Ek is in die kerkkoor,” antwoord Jan. “Ek gaan elke dag ons sangoefening bywoon. Ons is besig om vir ’n groot konsert te oefen.”",
+      "Charl sug. “Ai, ek wens ek kon sing,” dink hy.",
+      "Al sy maats is met sulke lekker dinge besig, terwyl hy sy vakansie in die tuin deurbring."
+    ],
+    "glossary": [
+      {
+        "term": "mompel",
+        "definition": "Sag en onduidelik praat, amper asof jy met jouself praat.",
+        "sentence_index": 7
+      },
+      {
+        "term": "sleepvoetend",
+        "definition": "Met stadige, swaar treë loop, asof jou voete moeg is.",
+        "sentence_index": 12
+      },
+      {
+        "term": "toernooi",
+        "definition": "’n Kompetisie waarin baie wedstryde gespeel word.",
+        "sentence_index": 4
+      },
+      {
+        "term": "kaptein",
+        "definition": "Die leier van ’n span.",
+        "sentence_index": 4
+      },
+      {
+        "term": "troos",
+        "definition": "Iets wat jou beter laat voel wanneer jy hartseer is.",
+        "sentence_index": 12
+      },
+      {
+        "term": "gemeenskapstuin",
+        "definition": "’n Tuin waar mense uit die buurt saam groente plant.",
+        "sentence_index": 1
+      }
+    ],
+    "paragraph_starts": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      8,
+      13,
+      15,
+      16
+    ]
+  },
+  "items": [
+    {
+      "key": "learn-before-after",
+      "section": "learn",
+      "kind": "text",
+      "title_af": "Voordat jy lees, terwyl jy lees",
+      "sort_order": 10,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 2,
+        "pdf_page": 6
+      },
+      "payload": {
+        "bullets": [
+          "**Voordat jy lees:** Kyk na die prente en opskrifte en probeer voorspel waaroor die teks sal handel. Vluglees die bladsy om ’n aanduiding van die inhoud te kry.",
+          "**Terwyl jy lees:** Vergelyk jou voorspellings met die teks. As daar iets is wat jy nie verstaan nie, lees dit weer stadig deur. Lees dit hardop."
+        ]
+      }
+    },
+    {
+      "key": "learn-two-worksheets",
+      "section": "learn",
+      "kind": "note",
+      "sort_order": 20,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 2,
+        "pdf_page": 6
+      },
+      "payload": {
+        "text": "Hierdie storie strek oor twee werkkaarte (65 en 66). Vandag lees jy die eerste deel."
+      }
+    },
+    {
+      "key": "learn-main-idea",
+      "section": "learn",
+      "kind": "text",
+      "title_af": "Wat is die hoofgedagte?",
+      "sort_order": 30,
+      "source": "supplementary",
+      "payload": {
+        "paragraphs": [
+          "Die **hoofgedagte** is waaroor die hele storie in die kern gaan. Vra jouself: _Wat wil die skrywer vir my sê?_",
+          "Dink aan wat die hoofkarakter wil hê, wat in sy pad staan, en hoe hy voel."
+        ]
+      }
+    },
+    {
+      "key": "example-answering",
+      "section": "example",
+      "kind": "table",
+      "title_af": "Hoe om ’n teksvraag te beantwoord",
+      "sort_order": 10,
+      "source": "supplementary",
+      "payload": {
+        "headers": [
+          "Stap",
+          "Voorbeeld uit die storie"
+        ],
+        "rows": [
+          [
+            "1. Lees die vraag mooi.",
+            "Wat is Jan se planne vir die skoolvakansie?"
+          ],
+          [
+            "2. Soek die plek in die teks.",
+            "Kyk by wat Jan sê toe Charl hom vra."
+          ],
+          [
+            "3. Skryf ’n volle sin in jou eie woorde.",
+            "Jan gaan elke dag sangoefening by die kerkkoor bywoon."
+          ]
+        ]
+      }
+    },
+    {
+      "key": "act-predict",
+      "section": "activity",
+      "kind": "discuss",
+      "title_af": "Ons praat: Voorspel",
+      "sort_order": 10,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 2,
+        "pdf_page": 6,
+        "item": "Ons praat"
+      },
+      "payload": {
+        "prompt": "Voorspel wat gaan gebeur deur na die titel en prente van die storie te kyk. (Die prente is op die oorspronklike werkboekbladsy onder “Werkboekverwysing”.)"
+      }
+    },
+    {
+      "key": "act-listen",
+      "section": "activity",
+      "kind": "listen",
+      "title_af": "Luister na die storie",
+      "sort_order": 20,
+      "source": "supplementary",
+      "payload": {
+        "prompt": "Druk die knoppie en luister terwyl jy die storie hierbo saamlees.",
+        "speak_passage": true
+      }
+    },
+    {
+      "key": "act-mcq-feeling",
+      "section": "activity",
+      "kind": "mcq",
+      "title_af": "Meerkeusevraag 1",
+      "sort_order": 30,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "1"
+      },
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Die storie sê dat Charl na die sokkeroefening “sleepvoetend” huis toe gestap het. Wat sê dit vir jou oor hoe Charl gevoel het?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Hy wou dans."
+          },
+          {
+            "key": "B",
+            "text": "Hy was ’n bietjie moedeloos."
+          },
+          {
+            "key": "C",
+            "text": "Hy was senuweeagtig."
+          },
+          {
+            "key": "D",
+            "text": "Hy wou in die tuin werk."
+          }
+        ]
+      },
+      "answer": {
+        "choice": "B"
+      },
+      "feedback": {
+        "correct": "Reg! Wie sleepvoetend stap, is moeg of teleurgesteld.",
+        "incorrect": "Dink aan hoe Charl se sokkerdag verloop het en wat “sleepvoetend” beteken.",
+        "per_option": {
+          "A": "Iemand wat wil dans, stap nie sleepvoetend nie.",
+          "C": "Die teks sê nêrens dat Charl bang of senuweeagtig was nie.",
+          "D": "Hy het eers ná die wedstryd troos in die tuin gaan soek; sleepvoetend wys hoe hy gevoel het."
+        },
+        "explanation": "Charl het swak gespeel en besef sokker is nie sy spel nie. Hy stap sleepvoetend (met swaar, stadige treë) huis toe – hy is ’n bietjie moedeloos."
+      }
+    },
+    {
+      "key": "act-mcq-where",
+      "section": "activity",
+      "kind": "mcq",
+      "title_af": "Meerkeusevraag 2",
+      "sort_order": 40,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "2"
+      },
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Waar was Charl aan die begin van die storie?",
+        "options": [
+          {
+            "key": "A",
+            "text": "In die gemeenskapstuin"
+          },
+          {
+            "key": "B",
+            "text": "By die skool"
+          },
+          {
+            "key": "C",
+            "text": "Op die sokkerveld"
+          },
+          {
+            "key": "D",
+            "text": "Op straat"
+          }
+        ]
+      },
+      "answer": {
+        "choice": "A"
+      },
+      "feedback": {
+        "correct": "Reg! Die storie begin met Charl in die tuin.",
+        "incorrect": "Lees die eerste sinne van die storie weer.",
+        "explanation": "Die tweede sin sê: Charl “is besig om groente in die gemeenskapstuin oorkant sy huis te plant”."
+      }
+    },
+    {
+      "key": "act-sa-wishes",
+      "section": "activity",
+      "kind": "short_answer",
+      "title_af": "Skriftelike vraag 1",
+      "sort_order": 50,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "3"
+      },
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Skryf twee sinne wat vir ons sê dat Charl gewens het hy het dieselfde talente as sy maats.",
+        "lines": 3
+      },
+      "suggested_answer": "“Ek wens ek was deel van ’n sokkerspan.” en “Ai, ek wens ek kon sing.”"
+    },
+    {
+      "key": "act-sa-silly",
+      "section": "activity",
+      "kind": "short_answer",
+      "title_af": "Skriftelike vraag 2",
+      "sort_order": 60,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "4"
+      },
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Skryf twee lawwe goed neer wat Charl gedoen het toe hy sokker probeer speel het.",
+        "lines": 3
+      },
+      "suggested_answer": "Hy het oor sy eie voete gestruikel. Hy het ’n doel vir die ander span aangeteken."
+    },
+    {
+      "key": "act-sa-jan",
+      "section": "activity",
+      "kind": "short_answer",
+      "title_af": "Skriftelike vraag 3",
+      "sort_order": 70,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "5"
+      },
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Wat is Jan se planne vir die skoolvakansie?",
+        "lines": 2
+      },
+      "suggested_answer": "Jan is in die kerkkoor. Hy gaan elke dag sangoefening bywoon, want hulle oefen vir ’n groot konsert."
+    },
+    {
+      "key": "act-sa-gardening",
+      "section": "activity",
+      "kind": "short_answer",
+      "title_af": "Skriftelike vraag 4",
+      "sort_order": 80,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "6"
+      },
+      "answer_status": "needs_review",
+      "payload": {
+        "prompt": "Hoe het Charl oor tuinmaak gevoel nadat hy met Jan gesels het?",
+        "lines": 2
+      },
+      "suggested_answer": "Hy het gevoel sy maats doen lekker dinge terwyl hy net sy vakansie in die tuin deurbring – hy was ontevrede en het gewens hy het ’n talent."
+    },
+    {
+      "key": "act-sa-main-idea",
+      "section": "activity",
+      "kind": "short_answer",
+      "title_af": "Skriftelike vraag 5",
+      "sort_order": 90,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "7"
+      },
+      "answer_status": "needs_review",
+      "payload": {
+        "prompt": "Som die hoofgedagte van die storie in jou eie woorde op.",
+        "lines": 3
+      },
+      "suggested_answer": "Charl wens hy het ’n talent soos sy maats, maar hy dink hy het nog nie een gevind nie."
+    },
+    {
+      "key": "act-words",
+      "section": "activity",
+      "kind": "writing",
+      "title_af": "My woordeboek: Nuwe woorde",
+      "sort_order": 100,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "My woordeboek"
+      },
+      "payload": {
+        "prompt": "Skryf nuwe woorde uit die storie neer wat jy wil onthou.",
+        "lines": 4
+      }
+    },
+    {
+      "key": "act-tf",
+      "section": "activity",
+      "kind": "true_false",
+      "title_af": "Waar of onwaar?",
+      "sort_order": 110,
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "payload": {
+        "statement": "Charl het baie goed sokker gespeel."
+      },
+      "answer": {
+        "value": false
+      },
+      "feedback": {
+        "correct": "Reg! Dit het nie goed met hom gegaan nie.",
+        "incorrect": "Lees weer wat gebeur het toe Charl saam met die span gespeel het.",
+        "explanation": "Charl het oor sy eie voete gestruikel en selfs ’n doel vir die ander span aangeteken."
+      }
+    },
+    {
+      "key": "act-fill",
+      "section": "activity",
+      "kind": "fill_blank",
+      "title_af": "Vul die woord in",
+      "sort_order": 120,
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Kies die korrekte woord uit die woordbank.",
+        "text": "Toe Dingani verder draf, {{1}} Charl vir homself. Aan die einde van die wedstryd stap hy {{2}} huis toe.",
+        "word_bank": [
+          "mompel",
+          "sleepvoetend",
+          "toernooi"
+        ]
+      },
+      "answer": {
+        "1": [
+          "mompel"
+        ],
+        "2": [
+          "sleepvoetend"
+        ]
+      },
+      "feedback": {
+        "correct": "Mooi so! Jy ken die woorde uit die storie.",
+        "incorrect": "Soek die twee vetgedrukte woorde in die storie.",
+        "explanation": "“mompel” beteken sag en onduidelik praat; “sleepvoetend” beteken met swaar, stadige treë loop."
+      }
+    },
+    {
+      "key": "act-match",
+      "section": "activity",
+      "kind": "match",
+      "title_af": "Pas die woord by sy betekenis",
+      "sort_order": 130,
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Verbind elke woord met die korrekte betekenis.",
+        "left": [
+          {
+            "key": "l1",
+            "text": "kaptein"
+          },
+          {
+            "key": "l2",
+            "text": "toernooi"
+          },
+          {
+            "key": "l3",
+            "text": "troos"
+          },
+          {
+            "key": "l4",
+            "text": "gemeenskapstuin"
+          }
+        ],
+        "right": [
+          {
+            "key": "r1",
+            "text": "’n Tuin waar mense uit die buurt saam groente plant"
+          },
+          {
+            "key": "r2",
+            "text": "Die leier van ’n span"
+          },
+          {
+            "key": "r3",
+            "text": "Iets wat jou beter laat voel wanneer jy hartseer is"
+          },
+          {
+            "key": "r4",
+            "text": "’n Kompetisie waarin baie wedstryde gespeel word"
+          }
+        ]
+      },
+      "answer": {
+        "pairs": {
+          "l1": "r2",
+          "l2": "r4",
+          "l3": "r3",
+          "l4": "r1"
+        }
+      },
+      "feedback": {
+        "correct": "Almal reg!",
+        "incorrect": "Probeer weer – lees die sin in die storie waar die woord voorkom.",
+        "explanation": "Tik op ’n woord in die storie om te sien wat dit beteken."
+      }
+    },
+    {
+      "key": "act-order",
+      "section": "activity",
+      "kind": "order",
+      "title_af": "Sit die gebeure in volgorde",
+      "sort_order": 140,
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "payload": {
+        "prompt": "Sit hierdie gebeure in die volgorde waarin hulle in die storie gebeur het.",
+        "items": [
+          {
+            "key": "e3",
+            "text": "Charl speel saam met die sokkerspan, maar dit gaan sleg."
+          },
+          {
+            "key": "e1",
+            "text": "Charl plant groente in die gemeenskapstuin."
+          },
+          {
+            "key": "e4",
+            "text": "Charl sien Jan verbystap en hoor van die kerkkoor."
+          },
+          {
+            "key": "e2",
+            "text": "Dingani vertel dat hy die kaptein van die sokkerspan is."
+          }
+        ]
+      },
+      "answer": {
+        "sequence": [
+          "e1",
+          "e2",
+          "e3",
+          "e4"
+        ]
+      },
+      "feedback": {
+        "correct": "Perfek! Jy verstaan hoe die storie verloop.",
+        "incorrect": "Dink: wat gebeur eerste, en wat laaste?",
+        "explanation": "Charl plant groente, sien Dingani, speel sokker, en sien dan Jan."
+      }
+    },
+    {
+      "key": "act-source",
+      "section": "activity",
+      "kind": "note",
+      "sort_order": 150,
+      "source": "workbook",
+      "workbook_ref": {
+        "printed_page": 2,
+        "pdf_page": 6
+      },
+      "payload": {
+        "text": "Bron van die storie (soos in die werkboek): Sample prePIRLS questions and scoring guides, verwerk."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "key": "q-wb-sleepvoetend",
+      "skill": "inference",
+      "source": "workbook",
+      "answer_status": "derived_from_text",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "1"
+      },
+      "prompt": "Die storie sê dat Charl na die sokkeroefening “sleepvoetend” huis toe gestap het. Wat sê dit vir jou oor hoe Charl gevoel het?",
+      "explanation": "Charl het swak gespeel en besef sokker is nie sy spel nie. Wie sleepvoetend stap, is moeg of teleurgesteld – Charl was ’n bietjie moedeloos.",
+      "supporting": [
+        11,
+        12
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Hy wou dans.",
+          "misconception": "Iemand wat wil dans, stap nie sleepvoetend nie."
+        },
+        {
+          "key": "b",
+          "text": "Hy was ’n bietjie moedeloos.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Hy was senuweeagtig.",
+          "misconception": "Die teks sê nêrens dat Charl bang of senuweeagtig was nie."
+        },
+        {
+          "key": "d",
+          "text": "Hy wou in die tuin werk.",
+          "misconception": "Hy het eers ná die wedstryd in die tuin gaan troos soek."
+        }
+      ]
+    },
+    {
+      "key": "q-wb-where",
+      "skill": "literal",
+      "source": "workbook",
+      "answer_status": "derived_from_text",
+      "workbook_ref": {
+        "printed_page": 3,
+        "pdf_page": 7,
+        "item": "2"
+      },
+      "prompt": "Waar was Charl aan die begin van die storie?",
+      "explanation": "Die storie sê Charl is besig om groente in die gemeenskapstuin te plant.",
+      "supporting": [
+        1
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "In die gemeenskapstuin",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "By die skool",
+          "misconception": "Die skoolvakansie het pas begin; Charl is nie by die skool nie."
+        },
+        {
+          "key": "c",
+          "text": "Op die sokkerveld",
+          "misconception": "Charl gaan eers die volgende week sokker oefen."
+        },
+        {
+          "key": "d",
+          "text": "Op straat",
+          "misconception": "Dingani draf op straat verby, maar Charl is in die tuin."
+        }
+      ]
+    },
+    {
+      "key": "q-captain",
+      "skill": "literal",
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "prompt": "Wie is die kaptein van die skool se sokkerspan?",
+      "explanation": "Dingani sê: “Ek is die kaptein van die skool se sokkerspan.”",
+      "supporting": [
+        4
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Jan",
+          "misconception": "Jan is in die kerkkoor."
+        },
+        {
+          "key": "b",
+          "text": "Dingani",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Charl",
+          "misconception": "Charl wens net hy was deel van die span."
+        },
+        {
+          "key": "d",
+          "text": "Sipho",
+          "misconception": "Hierdie naam kom nie in die storie voor nie."
+        }
+      ]
+    },
+    {
+      "key": "q-province",
+      "skill": "literal",
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "prompt": "In watter provinsie woon Charl?",
+      "explanation": "Die storie sê: “Charl, wat in Limpopo woon …”.",
+      "supporting": [
+        1
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Wes-Kaap",
+          "misconception": "Die storie noem nie die Wes-Kaap nie."
+        },
+        {
+          "key": "b",
+          "text": "Limpopo",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Gauteng",
+          "misconception": "Die storie noem nie Gauteng nie."
+        },
+        {
+          "key": "d",
+          "text": "KwaZulu-Natal",
+          "misconception": "Die storie noem nie KwaZulu-Natal nie."
+        }
+      ]
+    },
+    {
+      "key": "q-soccer-day",
+      "skill": "literal",
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "prompt": "Wat gebeur toe Charl saam met die sokkerspan gespeel het?",
+      "explanation": "Hy het oor sy eie voete gestruikel en selfs ’n doel vir die ander span aangeteken.",
+      "supporting": [
+        9,
+        10
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Hy het die wenstreffer geskop.",
+          "misconception": "Dit het glad nie goed met hom gegaan nie."
+        },
+        {
+          "key": "b",
+          "text": "Hy het oor sy eie voete gestruikel en ’n doel vir die ander span aangeteken.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Hy het die nuwe kaptein geword.",
+          "misconception": "Dingani bly die kaptein."
+        },
+        {
+          "key": "d",
+          "text": "Hy het seergekry en moes huis toe gaan.",
+          "misconception": "Die teks sê nie dat hy seergekry het nie."
+        }
+      ]
+    },
+    {
+      "key": "q-jan-plans",
+      "skill": "literal",
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "prompt": "Wat gaan Jan gedurende die vakansie doen?",
+      "explanation": "Jan is in die kerkkoor en gaan elke dag sangoefening bywoon vir ’n groot konsert.",
+      "supporting": [
+        15
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Hy gaan sokker speel.",
+          "misconception": "Dit is Dingani wat sokker speel."
+        },
+        {
+          "key": "b",
+          "text": "Hy gaan groente plant.",
+          "misconception": "Dit is Charl wat in die tuin werk."
+        },
+        {
+          "key": "c",
+          "text": "Hy gaan elke dag sangoefening by die kerkkoor bywoon.",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Hy gaan by die huis bly.",
+          "misconception": "Jan het baie om te doen."
+        }
+      ]
+    },
+    {
+      "key": "q-mompel",
+      "skill": "vocabulary",
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "prompt": "Wat beteken die woord “mompel” in die sin: “Toe Dingani verder draf, mompel Charl vir homself”?",
+      "explanation": "Charl praat vir homself, sag en onduidelik – dit is wat mompel beteken.",
+      "supporting": [
+        7
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Hard skree",
+          "misconception": "Hy praat “vir homself”, so nie hard nie."
+        },
+        {
+          "key": "b",
+          "text": "Sag en onduidelik praat",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Hardop lag",
+          "misconception": "Charl is nie bly nie; hy wens iets."
+        },
+        {
+          "key": "d",
+          "text": "’n Liedjie sing",
+          "misconception": "Charl sing nie hier nie."
+        }
+      ]
+    },
+    {
+      "key": "q-why-wish",
+      "skill": "inference",
+      "source": "supplementary",
+      "answer_status": "needs_review",
+      "prompt": "Hoekom wens Charl hy het ’n talent soos sy maats?",
+      "explanation": "Sy maats is met lekker dinge besig, terwyl Charl voel hy het niks besonders om te doen of goed in te wees nie.",
+      "supporting": [
+        7,
+        16,
+        17
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Hy is kwaad vir sy maats.",
+          "misconception": "Die teks wys geen kwaadheid nie; Charl groet hulle vriendelik."
+        },
+        {
+          "key": "b",
+          "text": "Sy maats het lekker dinge om te doen en hy voel hy het niks besonders nie.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Hy hou nie van sokker nie.",
+          "misconception": "Hy wil juis deel van ’n sokkerspan wees."
+        },
+        {
+          "key": "d",
+          "text": "Sy ouers het gesê hy moet.",
+          "misconception": "Niks in die teks sê iets van sy ouers nie."
+        }
+      ]
+    },
+    {
+      "key": "q-main-idea",
+      "skill": "main_idea",
+      "source": "supplementary",
+      "answer_status": "needs_review",
+      "prompt": "Wat is die beste hoofgedagte van hierdie deel van die storie?",
+      "explanation": "Hierdie deel gaan oor Charl wat sien hoe sy maats talente het en wat voel hy het self nie een nie.",
+      "supporting": [
+        7,
+        16,
+        17
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Sokker is die beste sport.",
+          "misconception": "Die storie sê dit nie; Charl is net nie goed daarin nie."
+        },
+        {
+          "key": "b",
+          "text": "Charl voel hy het nie ’n talent soos sy maats nie.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Tuinmaak is baie moeilik.",
+          "misconception": "Die teks sê niks oor tuinmaak se moeilikheid nie."
+        },
+        {
+          "key": "d",
+          "text": "Die skoolvakansie is te lank.",
+          "misconception": "Die storie klaag nie oor die vakansie se lengte nie."
+        }
+      ]
+    },
+    {
+      "key": "q-first-event",
+      "skill": "sequencing",
+      "source": "supplementary",
+      "answer_status": "derived_from_text",
+      "prompt": "Wat het EERSTE in die storie gebeur?",
+      "explanation": "Die storie begin met Charl wat groente in die gemeenskapstuin plant; daarna sien hy Dingani.",
+      "supporting": [
+        1,
+        2
+      ],
+      "options": [
+        {
+          "key": "a",
+          "text": "Charl speel sokker.",
+          "misconception": "Dit gebeur die volgende week."
+        },
+        {
+          "key": "b",
+          "text": "Charl sien Jan verbystap.",
+          "misconception": "Dit gebeur ná die sokkerwedstryd."
+        },
+        {
+          "key": "c",
+          "text": "Charl plant groente in die gemeenskapstuin.",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Charl stap sleepvoetend huis toe.",
+          "misconception": "Dit gebeur aan die einde van die wedstryd."
+        }
+      ]
+    }
+  ]
+}

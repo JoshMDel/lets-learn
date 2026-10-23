@@ -1,0 +1,738 @@
+{
+ "key": "gr6-afr-b2-wk069",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 69,
+ "title_af": "’n Koerantberig",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk1-2",
+  "name_af": "Tema 5 · Week 1–2: Stories en berigte",
+  "name_en": "Theme 5 · Weeks 1–2: Stories and reports",
+  "sort": 101
+ },
+ "tier_number": 5,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  10,
+  11
+ ],
+ "pdf_pages": [
+  14,
+  15
+ ],
+ "reference_pages": [
+  {
+   "pdf": 14,
+   "printed": 10,
+   "src": "/workbook/gr6-afr-b2/p014.webp"
+  },
+  {
+   "pdf": 15,
+   "printed": 11,
+   "src": "/workbook/gr6-afr-b2/p015.webp"
+  }
+ ],
+ "intro_af": "Koerantberigte vertel ons feite oor iets wat gebeur het. Lees hoe ’n seun per toeval ’n belangrike ontdekking gedoen het.",
+ "objectives_af": [
+  "Voorspel waaroor ’n koerantberig gaan deur na die opskrif en prente te kyk.",
+  "Die dele van ’n koerantberig uitwys (koerant, opskrif, verslaggewer, datum).",
+  "Die berig in een sin opsom en die hoofidee van elke paragraaf neerskryf.",
+  "Jou eie mening oor die berig gee en motiveer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Blokhakies",
+   "payload": {
+    "text": "Ons gebruik blokhakies [soos dié] wanneer ons iets byvoeg by iemand se woorde om die sin te voltooi."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 10,
+    "pdf_page": 14
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Dele van ’n koerantberig",
+   "payload": {
+    "bullets": [
+     "die naam van die koerant (bv. KINDERNUUS)",
+     "die **opskrif** – kort en interessant",
+     "die **verslaggewer** (“Deur …”) en die **datum**",
+     "paragrawe met feite oor wie, waar, wanneer en wat"
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 10,
+    "pdf_page": 14
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons praat: Voorspel",
+   "payload": {
+    "prompt": "Kyk na die opskrif en illustrasies van die koerantberig, en voorspel waaroor die koerantberig handel."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 10,
+    "pdf_page": 14,
+    "item": "Ons praat"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die berig",
+   "payload": {
+    "prompt": "Druk die knoppie en luister terwyl jy die berig saamlees.",
+    "speak_passage": true
+   },
+   "source": "supplementary",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die tabel (1)",
+   "payload": {
+    "text": "Wat is die naam van die koerant? {{1}}\nWie is die verslaggewer? {{2}}\nWat is die datum van publikasie? {{3}}"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "1"
+   },
+   "answer": {
+    "1": [
+     "Kindernuus",
+     "Kinder nuus"
+    ],
+    "2": [
+     "Tobie du Preez"
+    ],
+    "3": [
+     "15 Augustus 2015"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die naam, verslaggewer en datum staan bo-aan die berig."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Voltooi die tabel (2)",
+   "payload": {
+    "prompt": "Wat is die opskrif van die koerantberig?",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "2"
+   },
+   "suggested_answer": "Skoolseun (9) ontdek per toeval die eerste mens",
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Som die berig op",
+   "payload": {
+    "prompt": "Som die berig in een sin op.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "3"
+   },
+   "suggested_answer": "Die negejarige Matthew Berger het per toeval die oorblyfsels van ’n hominied (die Sediba-spesie) by Maropeng gevind.",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoofidee van elke paragraaf",
+   "payload": {
+    "prompt": "Nommer die 5 paragrawe van die berig. Skryf die hoofidee (kerngedagte) van elke paragraaf neer.",
+    "lines": 8
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "4"
+   },
+   "suggested_answer": "Paragraaf 1: Matthew val oor ’n stomp en vind ’n fossiel.\nParagraaf 2: Dr Berger is verstom oor die sleutelbeen in sy seun se hand.\nParagraaf 3: Meer dele van die skelet is gevind en die wetenskaplikes dink hoe die seun gesterf het.\nParagraaf 4: Die fossiel behoort aan ’n hominiede spesie, voorsate van mense.\nParagraaf 5: Die spesie is Sediba genoem en het lank gelede gelewe.",
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die paragraaf by sy hoofidee",
+   "payload": {
+    "prompt": "Verbind elke paragraaf met sy hoofidee.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Paragraaf 1"
+     },
+     {
+      "key": "l2",
+      "text": "Paragraaf 2"
+     },
+     {
+      "key": "l3",
+      "text": "Paragraaf 3"
+     },
+     {
+      "key": "l4",
+      "text": "Paragraaf 4"
+     },
+     {
+      "key": "l5",
+      "text": "Paragraaf 5"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "Dr Berger is verstom oor die sleutelbeen van ’n hominied in sy seun se hand."
+     },
+     {
+      "key": "r3",
+      "text": "Meer dele van die skelet is gevind, en die wetenskaplikes dink hoe die seun gesterf het."
+     },
+     {
+      "key": "r4",
+      "text": "Die fossiel behoort aan ’n hominiede spesie, die voorsate van mense."
+     },
+     {
+      "key": "r5",
+      "text": "Die spesie is Sediba genoem en het lank gelede gelewe."
+     },
+     {
+      "key": "r1",
+      "text": "Matthew val oor ’n stomp en vind per toeval ’n fossiel."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Die hoofidee is wat die paragraaf in die kort vertel."
+   },
+   "answer_status": "needs_review",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Soos mense",
+   "payload": {
+    "prompt": "In watter opsigte was die Sediba-spesie soos mense?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "5"
+   },
+   "suggested_answer": "Hulle het regop geloop en dieselfde kleinerige tande en gesigsvorm as die moderne mens gehad.",
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Anders as mense",
+   "payload": {
+    "prompt": "Hoe het die spesie van mense verskil?",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "6"
+   },
+   "suggested_answer": "Hulle het nog in bome gelewe, hulle voete was primitief en hulle brein was baie klein.",
+   "answer_status": "derived_from_text",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Jou eie mening",
+   "payload": {
+    "prompt": "Gee jou eie mening (perspektief) rakende die berig. Dink jy daar was ’n Sediba-spesie? Motiveer jou antwoord.",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "7"
+   },
+   "feedback": {},
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Matthew Berger was agt jaar oud toe hy die fossiel gevind het."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die berig sê Matthew was negejarig (9 jaar oud)."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-11",
+   "sort_order": 110
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die sin",
+   "payload": {
+    "text": "Die wetenskaplikes het die spesie {{1}} genoem. Dit is ’n Sotho-woord wat {{2}} beteken.",
+    "word_bank": [
+     "Sediba",
+     "fontein",
+     "hominied"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "Sediba"
+    ],
+    "2": [
+     "fontein",
+     "fonteinwater",
+     "fontein of fonteinwater"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Sediba beteken fontein of fonteinwater."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-12",
+   "sort_order": 120
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is die naam van die koerant?",
+   "explanation": "Die naam staan bo-aan: KINDERNUUS.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kindernuus",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Wiegnuus"
+    },
+    {
+     "key": "c",
+     "text": "Mensdomnuus"
+    },
+    {
+     "key": "d",
+     "text": "Sedibanuus"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "1"
+   },
+   "key": "q01",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie is die verslaggewer?",
+   "explanation": "Die berig begin met “Deur Tobie du Preez”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tobie du Preez",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Lee Berger"
+    },
+    {
+     "key": "c",
+     "text": "Matthew Berger"
+    },
+    {
+     "key": "d",
+     "text": "Tau"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 11,
+    "pdf_page": 15,
+    "item": "1"
+   },
+   "key": "q02",
+   "supporting": [
+    2
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe oud was Matthew Berger?",
+   "explanation": "Die opskrif en die eerste paragraaf sê hy was negejarig (9).",
+   "options": [
+    {
+     "key": "a",
+     "text": "Nege jaar oud",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Agt jaar oud"
+    },
+    {
+     "key": "c",
+     "text": "Tien jaar oud"
+    },
+    {
+     "key": "d",
+     "text": "Twintig jaar oud"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het Matthew gekry toe hy oor ’n stomp geval het?",
+   "explanation": "Hy het toevallig ’n belangrike argeologiese vonds gedoen: ’n fossiel.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Fossiel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Skat"
+    },
+    {
+     "key": "c",
+     "text": "’n Dinosourus"
+    },
+    {
+     "key": "d",
+     "text": "’n Nuwe hond"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat beteken “hominiede”?",
+   "explanation": "Die berig verduidelik: Hominiede is die voorsate van menslike wesens en ander nabye verwante.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Voorsate van mense en hulle nabye verwante",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Soorte diere wat in water leef"
+    },
+    {
+     "key": "c",
+     "text": "Gereedskap van antieke mense"
+    },
+    {
+     "key": "d",
+     "text": "Skoolseuns"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    15
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat beteken die woord “Sediba”?",
+   "explanation": "Dit is ’n Sotho-woord wat fontein of fonteinwater beteken.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Fontein of fonteinwater",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Eerste mens"
+    },
+    {
+     "key": "c",
+     "text": "Hoë gras"
+    },
+    {
+     "key": "d",
+     "text": "Skelet"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    16
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar het die Sediba-spesie geleef, volgens die berig?",
+   "explanation": "Hulle het regop geloop, maar nog in bome gelewe.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Nog in bome",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net in grotte"
+    },
+    {
+     "key": "c",
+     "text": "In groot dorpe"
+    },
+    {
+     "key": "d",
+     "text": "Op skepe"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    17
+   ]
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die beste opsomming van die berig?",
+   "explanation": "Die berig vertel van Matthew se toevallige vonds by Maropeng.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Skoolseun het per toeval ’n fossiel van ’n hominied gevind.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dr Berger het ’n nuwe skool begin."
+    },
+    {
+     "key": "c",
+     "text": "’n Hond het ’n skelet gegrawe."
+    },
+    {
+     "key": "d",
+     "text": "Wetenskaplikes het ’n nuwe dier ontdek wat nog leef."
+    }
+   ],
+   "key": "q08",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoekom was dr Berger so verbaas?",
+   "explanation": "Dr Berger was al 20 jaar besig om geraamtes van voorsate te soek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy het 20 jaar lank na sulke geraamtes gesoek en sy seun het een gekry.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het nie van fossiele gehou nie."
+    },
+    {
+     "key": "c",
+     "text": "Matthew het weggeloop."
+    },
+    {
+     "key": "d",
+     "text": "Hy het gedink dit is ’n speelding."
+    }
+   ],
+   "key": "q09",
+   "supporting": [
+    6,
+    8
+   ]
+  }
+ ],
+ "passage": {
+  "title": "’n Koerantberig: Skoolseun (9) ontdek per toeval die eerste mens",
+  "language": "af",
+  "sentences": [
+   "KINDERNUUS",
+   "Skoolseun (9) ontdek per toeval die eerste mens",
+   "Deur Tobie du Preez, 15 Augustus 2015",
+   "WIEG VAN DIE MENSDOM, Suid-Afrika - Die negejarige Matthew Berger het een sonnige oggend hier by Maropeng saam met sy hond, Tau, deur die hoë gras gehardloop.",
+   "Hy het oor ’n stomp geval en toevallig ’n belangrike argeologiese vonds gedoen.",
+   "“Pa, ek het ’n fossiel gekry!” het Matthew vir sy pa, dr Lee Berger, geskree.",
+   "Dr Berger was al 20 jaar lank besig om geraamtes van ons antieke menslike voorsate te soek.",
+   "In sy hand het die jonge Matthew die oorblyfsel gehou van ’n seun wat 1,27 meter lank was en net ’n paar jaar ouer as Matthew toe hy dood is.",
+   "Toe dr Berger nader kom om te kyk waarom Matthew hom roep, was hy verstom om te sien sy seun staan met die sleutelbeen van ’n hominied in sy hand.",
+   "“Ek kon dit nie glo nie!",
+   "Ek was skoon duiselig,” het Dr Berger later gesê.",
+   "“Ek was byna dood (van verbasing).”",
+   "Dr Berger en sy medenavorsers van die Universiteit van die Witwatersrand in Johannesburg het sedertdien nog dele van die seun se skelet gekry, insluitende sy skedel.",
+   "Hulle dink dit is moontlik dat hy en sy gesin water gesoek het en dat diere wat op jag was hulle tot op ’n nou lysie gedwing het, van waar hulle hulle in ’n skag van tussen 30 en 45 meter diep dood geval het.",
+   "Dr Berger en ’n span wetenskaplikes sê die fossiel wys dat die seun aan ’n hominiede spesie behoort het.",
+   "Hominiede is die voorsate van menslike wesens en ander nabye verwante van die menslike ras.",
+   "Die wetenskaplikes het die spesie Sediba gedoop (dit is ’n Sotho-woord wat fontein of fonteinwater beteken).",
+   "Die spesie het regop op hulle lang bene geloop, maar nog in bome gelewe.",
+   "Hulle het dieselfde kleinerige tande en gesigsvorm as die moderne mens gehad, maar die voete was primitief en die brein baie klein.",
+   "Wetenskaplike studies het getoon die Sediba-spesie het tussen 1,78 miljoen en 1,95 miljoen jaar gelede gelewe."
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   2,
+   3,
+   7,
+   12,
+   14,
+   16
+  ],
+  "glossary": [
+   {
+    "term": "fossiel",
+    "definition": "’n Oorblyfsel van ’n plant of dier wat miljoene jare gelede gelewe het.",
+    "sentence_index": 5
+   },
+   {
+    "term": "hominied",
+    "definition": "Een van die voorsate van mense en hulle nabye verwante.",
+    "sentence_index": 8
+   },
+   {
+    "term": "medenavorsers",
+    "definition": "Ander mense wat saam met jou navorsing doen.",
+    "sentence_index": 12
+   },
+   {
+    "term": "primitief",
+    "definition": "Baie eenvoudig of vroeg in die ontwikkeling.",
+    "sentence_index": 18
+   },
+   {
+    "term": "Sediba",
+    "definition": "’n Sotho-woord wat fontein of fonteinwater beteken.",
+    "sentence_index": 16
+   },
+   {
+    "term": "voorsate",
+    "definition": "Mense of diere van wie jy afstam, lank gelede.",
+    "sentence_index": 6
+   }
+  ]
+ }
+}

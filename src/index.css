@@ -78,6 +78,24 @@
   --radius-lg: 1.5rem;
 }
 
+/* Chat palette (teal wave header + bubbles), per theme so the same chat markup
+   works on the light learner screens and the dark parent screens. */
+:root[data-theme='shell'] {
+  --chat-body: #0f1722;
+  --chat-in-bg: #1c3d44;
+  --chat-in-ink: #e3f3f1;
+  --chat-out-bg: #17898a;
+  --chat-out-ink: #ffffff;
+}
+
+:root[data-theme='learning'] {
+  --chat-body: #ffffff;
+  --chat-in-bg: #d3efea;
+  --chat-in-ink: #17383a;
+  --chat-out-bg: #1d6f73;
+  --chat-out-ink: #ffffff;
+}
+
 html,
 body,
 #root {

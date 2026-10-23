@@ -1,0 +1,518 @@
+{
+ "key": "gr6-afr-b2-wk095",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 95,
+ "title_af": "Skryf jul eie drama",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk9-10",
+  "name_af": "Tema 6 · Week 9–10: Speeltyd",
+  "name_en": "Theme 6 · Weeks 9–10: Playtime",
+  "sort": 105
+ },
+ "tier_number": 3,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 9–10",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  64,
+  65
+ ],
+ "pdf_pages": [
+  68,
+  69
+ ],
+ "reference_pages": [
+  {
+   "pdf": 68,
+   "printed": 64,
+   "src": "/workbook/gr6-afr-b2/p068.webp"
+  },
+  {
+   "pdf": 69,
+   "printed": 65,
+   "src": "/workbook/gr6-afr-b2/p069.webp"
+  }
+ ],
+ "intro_af": "Nou skryf julle self ’n toneelstuk! Werk in ’n groep: beplan die karakters, die agtergrond en die storielyn, en skryf dan die drama.",
+ "objectives_af": [
+  "In ’n groep ’n toneelstuk beplan (karakters, agtergrond, intrige).",
+  "Die eerste weergawe skryf, hersien en korrigeer.",
+  "’n Plakkaat ontwerp om die toneelstuk te adverteer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Planning in ’n groep",
+   "payload": {
+    "bullets": [
+     "Hou saam met jou groep ’n dinkskrum om idees vir die teks te kry.",
+     "Gebruik die geheuekaart om jou idees te organiseer.",
+     "Besluit wie die karakters is, wat die agtergrond is en wat die storielyn (intrige) is.",
+     "Vul die name in van die maats wat die verskillende rolle sal speel."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Onthou die dramaformaat",
+   "payload": {
+    "bullets": [
+     "Die naam van die karakter in **hoofletters**, gevolg deur ’n **dubbelpunt** (:).",
+     "**Geen aanhalingstekens** nie.",
+     "Toneelaanwysings tussen **vierkantige hakies** [ ].",
+     "Gebruik ’n **verteller** vir die dele tussen die dialoog."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Dinkskrum",
+   "payload": {
+    "prompt": "Hou saam met jou groep ’n dinkskrum om idees vir die teks te kry, en gebruik die geheuekaart om jou idees te organiseer."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67,
+    "item": "Ons skryf"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beplan: Karakters en agtergrond",
+   "payload": {
+    "prompt": "Vul die tabel in: wie die karakters is (wie dit sal speel, ’n beskrywing van elkeen, wat hy of sy moet aantrek en wat hy of sy sal sê). Beskryf ook die agtergrond (die toneel) en gee jou toneelstuk ’n titel.",
+    "lines": 8,
+    "checklist": [
+     "Ons het die karakters gekies en wie hulle gaan speel.",
+     "Ons het elke karakter beskryf.",
+     "Ons het gesê wat hulle moet aantrek.",
+     "Ons het die agtergrond beskryf.",
+     "Ons het ’n titel gekies."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67,
+    "item": "beplanning"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beplan: die storielyn",
+   "payload": {
+    "prompt": "Beskryf die storielyn (intrige) deur te sê wat gebeur Eers, Toe, Later en Uiteindelik.",
+    "lines": 6,
+    "checklist": [
+     "Eers: ons het die begin beskryf.",
+     "Toe: ons het die volgende gebeure beskryf.",
+     "Later: ons het die hoogtepunt beskryf.",
+     "Uiteindelik: ons het die einde beskryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67,
+    "item": "storielyn"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die storielyn in volgorde",
+   "payload": {
+    "prompt": "Sit die woorde wat jy gebruik om die storielyn te beplan, in die regte volgorde.",
+    "items": [
+     {
+      "key": "e3",
+      "text": "Later"
+     },
+     {
+      "key": "e1",
+      "text": "Eers"
+     },
+     {
+      "key": "e4",
+      "text": "Uiteindelik"
+     },
+     {
+      "key": "e2",
+      "text": "Toe"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67,
+    "item": "storielyn"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Hierdie woorde help jou om die gebeure in volgorde te beplan."
+   },
+   "answer_status": "official",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jul drama",
+   "payload": {
+    "prompt": "Skryf die eerste weergawe van julle toneelstuk in jou klaswerkboek. Hersien en korrigeer waar nodig en skryf dan die finale weergawe. Voltooi julle drama.",
+    "lines": 16,
+    "checklist": [
+     "Ons toneelstuk het ’n titel, ’n agtergrond en karakters.",
+     "Die karakters se name is in hoofletters met ’n dubbelpunt.",
+     "Daar is geen aanhalingstekens nie.",
+     "Die toneelaanwysings is tussen vierkantige hakies.",
+     "Ons het minstens een tegniek gebruik (tydsprong, konflik, onverwagse gebeure, beeldspraak of klankeffekte).",
+     "Ons het ons werk hersien en gekorrigeer."
+    ],
+    "tips": [
+     "Beplan jul toneelstuk.",
+     "Skryf die eerste weergawe in jou klaswerkboek.",
+     "Hersien en korrigeer.",
+     "Skryf die finale weergawe netjies neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 64,
+    "pdf_page": 68,
+    "item": "finale weergawe"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Plakkaat vir die toneelstuk",
+   "payload": {
+    "prompt": "Ontwerp ’n plakkaat om julle toneelstuk te adverteer. Skryf wat op die plakkaat sal staan (titel, plek, tyd, karakters en ’n pakkende sin).",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 65,
+    "pdf_page": 69,
+    "item": "plakkaat"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In ’n dramateks gebruik ons aanhalingstekens vir die karakters se woorde."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: geen aanhalingstekens nie."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Hoe skryf ons die name van karakters in ’n dramateks?",
+   "explanation": "Die werkboek sê dit by die toneelstuk.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In hoofletters met ’n dubbelpunt",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In kleinletters met ’n koppelteken"
+    },
+    {
+     "key": "c",
+     "text": "Tussen aanhalingstekens"
+    },
+    {
+     "key": "d",
+     "text": "In hakies"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat gebruik ons NIE in ’n dramateks nie?",
+   "explanation": "Ons gebruik geen aanhalingstekens nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Aanhalingstekens",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dubbelpunte"
+    },
+    {
+     "key": "c",
+     "text": "Hoofletters"
+    },
+    {
+     "key": "d",
+     "text": "Hakies"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat is die doel van ’n geheuekaart?",
+   "explanation": "Die werkboek sê: gebruik die geheuekaart om jou idees te organiseer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om idees te organiseer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om te teken"
+    },
+    {
+     "key": "c",
+     "text": "Om te spel"
+    },
+    {
+     "key": "d",
+     "text": "Om te lees"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Watter woorde help om die storielyn te beplan?",
+   "explanation": "Die tabel het hierdie vier woorde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Eers, toe, later, uiteindelik",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Mooi, groot, klein"
+    },
+    {
+     "key": "c",
+     "text": "Hy, sy, ons"
+    },
+    {
+     "key": "d",
+     "text": "En, maar, of"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Hoe adverteer jy jou toneelstuk?",
+   "explanation": "Die werkboek vra: ontwerp ’n plakkaat om julle toneelstuk te adverteer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met ’n plakkaat",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Met ’n brief"
+    },
+    {
+     "key": "c",
+     "text": "Met ’n gedig"
+    },
+    {
+     "key": "d",
+     "text": "Met ’n toets"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 63,
+    "pdf_page": 67
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n intrige?",
+   "explanation": "Die intrige is die storielyn.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wat in die storie gebeur",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die naam van die skrywer"
+    },
+    {
+     "key": "c",
+     "text": "Die plek alleen"
+    },
+    {
+     "key": "d",
+     "text": "Die titel"
+    }
+   ],
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Waar skryf jy toneelaanwysings?",
+   "explanation": "Die toneelstuk op bladsy 60 gebruik vierkantige hakies.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tussen vierkantige hakies",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In hoofletters"
+    },
+    {
+     "key": "c",
+     "text": "Tussen aanhalingstekens"
+    },
+    {
+     "key": "d",
+     "text": "Nêrens nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wie vertel die dele wat nie deur die karakters voorgestel word nie?",
+   "explanation": "Die verteller vertel daardie dele.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die verteller",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die gehoor"
+    },
+    {
+     "key": "c",
+     "text": "Die skeidsregter"
+    },
+    {
+     "key": "d",
+     "text": "Die onderwyser"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 60,
+    "pdf_page": 64
+   },
+   "key": "q08"
+  }
+ ]
+}

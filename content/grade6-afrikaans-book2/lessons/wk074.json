@@ -1,0 +1,1032 @@
+{
+ "key": "gr6-afr-b2-wk074",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 74,
+ "title_af": "Jabu hoor die leeu se gebrul",
+ "topic": {
+  "key": "gr6-afr-b2-t5-wk3-4",
+  "name_af": "Tema 5 · Week 3–4: Volksverhale",
+  "name_en": "Theme 5 · Weeks 3–4: Folktales",
+  "sort": 102
+ },
+ "tier_number": 2,
+ "term": 3,
+ "tema": 5,
+ "tema_title": "Feit en fiksie",
+ "weeks": "Week 3–4",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  20,
+  21
+ ],
+ "pdf_pages": [
+  24,
+  25
+ ],
+ "reference_pages": [
+  {
+   "pdf": 24,
+   "printed": 20,
+   "src": "/workbook/gr6-afr-b2/p024.webp"
+  },
+  {
+   "pdf": 25,
+   "printed": 21,
+   "src": "/workbook/gr6-afr-b2/p025.webp"
+  }
+ ],
+ "intro_af": "Vandag gebruik jy soeklees om vrae oor die storie te beantwoord, sit prente in volgorde en werk met sinonieme en homofone.",
+ "objectives_af": [
+  "Soeklees om meerkeusevrae oor die teks te beantwoord.",
+  "Prente in die korrekte volgorde nommer.",
+  "Beskrywende sinne by prente skryf.",
+  "Sinonieme en antonieme vind.",
+  "Die regte homofoon kies."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Vluglees en soeklees",
+   "payload": {
+    "text": "Onthou jy nog dat ’n mens ’n teks **vluglees** om ’n algemene indruk te kry van waaroor die teks handel, en **soeklees** om spesifieke inligting te verkry?"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Homofone en homonieme",
+   "payload": {
+    "text": "Homofone klink dieselfde, maar word verskillend gespel en het verskillende betekenisse. Homonieme is woorde wat dieselfde lyk en klink, maar wat verskillende betekenisse het."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 1",
+   "payload": {
+    "prompt": "Jabu wou nie na die valstrikke gaan kyk nie want:",
+    "options": [
+     {
+      "key": "A",
+      "text": "Dit was te ver om te loop."
+     },
+     {
+      "key": "B",
+      "text": "Hy was te moeg."
+     },
+     {
+      "key": "C",
+      "text": "Hy moes die vee rivier toe neem."
+     },
+     {
+      "key": "D",
+      "text": "Hy het geweet hoe die valstrikke lyk."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "1"
+   },
+   "answer": {
+    "choice": "C"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Jabu sê die vee moet eers klaar wei en dan rivier toe gaan om water te drink.",
+    "per_option": {
+     "A": "Die storie sê niks van die afstand nie.",
+     "B": "Jabu was nie moeg nie – hy het sy werk gedoen.",
+     "D": "Dit is nie die rede wat Jabu noem nie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 2",
+   "payload": {
+    "prompt": "Wat bedoel die storieverteller met “die koeie versteen in hulle spore”?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Hulle het koud gekry."
+     },
+     {
+      "key": "B",
+      "text": "Hulle was te bang om te beweeg."
+     },
+     {
+      "key": "C",
+      "text": "Hulle wou nie na die rivier toe gaan nie."
+     },
+     {
+      "key": "D",
+      "text": "Hulle het in klip verander."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "2"
+   },
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Versteen beteken hier dat die koeie van skrik doodstil gestaan het.",
+    "per_option": {
+     "A": "Die woord “versteen” gaan oor skrik, nie koue nie.",
+     "C": "Hulle was reeds by die rivier.",
+     "D": "Dis ’n beeldspraak; hulle het nie letterlik in klip verander nie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 3",
+   "payload": {
+    "prompt": "Waarom het Jabu se knieë gebewe?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Hy het koud gekry."
+     },
+     {
+      "key": "B",
+      "text": "Hy was bang vir die leeu."
+     },
+     {
+      "key": "C",
+      "text": "Hy kon nie die vee bymekaar kry nie."
+     },
+     {
+      "key": "D",
+      "text": "Hy het sy knieë seergemaak."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "3"
+   },
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Hy het ’n geluid gehoor wat hom yskoud van die skrik laat word het – Bhubesi was baie naby.",
+    "per_option": {
+     "A": "Dit was ’n warm herfsdag.",
+     "C": "Hy het die koeie bymekaar gejaag – die bewing was van skrik.",
+     "D": "Die storie sê niks hiervan nie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Soeklees 4",
+   "payload": {
+    "prompt": "Hoe weet ons dat Jabu ’n verantwoordelike mens was?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Hy het die koeie versorg."
+     },
+     {
+      "key": "B",
+      "text": "Hy het die koeie alleen gelaat."
+     },
+     {
+      "key": "C",
+      "text": "Hy het op die koppie gesit."
+     },
+     {
+      "key": "D",
+      "text": "Hy het met die leeu gepraat."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "4"
+   },
+   "answer": {
+    "choice": "A"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Jabu het sy pa se vee versorg en wou nie sy werk verlaat nie.",
+    "per_option": {
+     "B": "Dit sou onverantwoordelik wees – en Jabu het dit nie gedoen nie.",
+     "C": "Net sit is nie verantwoordelik nie.",
+     "D": "Met die leeu praat wys eerder moed."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Nommer die prente in die regte volgorde",
+   "payload": {
+    "prompt": "Sit die prente in die volgorde waarin dit in die storie gebeur.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Die leeu lê vasgevang en Jabu kyk na hom.",
+      "image": "/workbook/gr6-afr-b2/figures/wk074-prent-lion.webp"
+     },
+     {
+      "key": "e2",
+      "text": "Jabu sê vir Sipho: “Jammer, Sipho, ek kan nie saam met jou gaan nie.”",
+      "image": "/workbook/gr6-afr-b2/figures/wk074-prent-sipho.webp"
+     },
+     {
+      "key": "e1",
+      "text": "Jabu sit op die koppie by sy koeie.",
+      "image": "/workbook/gr6-afr-b2/figures/wk074-prent-koppie.webp"
+     },
+     {
+      "key": "e3",
+      "text": "Jabu is by die rivier en die leeu is naby.",
+      "image": "/workbook/gr6-afr-b2/figures/wk074-prent-rivier.webp"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "Ons doen"
+   },
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die storie begin op die koppie, dan kom Sipho, dan gaan Jabu rivier toe, en uiteindelik vind hy die leeu in die valstrik."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf ’n beskrywende sin by elke prent",
+   "payload": {
+    "prompt": "Skryf ’n beskrywende sin vir elke prent in die prente-oefening hierbo (1 tot 4).",
+    "lines": 5
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "prente"
+   },
+   "feedback": {},
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Sinonieme en antonieme",
+   "payload": {
+    "prompt": "Soek sinonieme (woorde met dieselfde betekenis) in die storie vir die volgende woorde/frases en gee dan jou eie antonieme (woorde met die teenoorgestelde betekenis): intensiewe vorm vir koud; aand; maklik om by te kom; vader; aan die begin van die dag.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "tabel"
+   },
+   "feedback": {},
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Kies ’n sinoniem vir elke werkwoord",
+   "payload": {
+    "prompt": "Verbind elke werkwoord met ’n sinoniem uit die lys.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "bevry"
+     },
+     {
+      "key": "l2",
+      "text": "smeek"
+     },
+     {
+      "key": "l3",
+      "text": "loop"
+     },
+     {
+      "key": "l4",
+      "text": "begeer"
+     },
+     {
+      "key": "l5",
+      "text": "gesels"
+     },
+     {
+      "key": "l6",
+      "text": "wegneem"
+     },
+     {
+      "key": "l7",
+      "text": "kry"
+     },
+     {
+      "key": "l8",
+      "text": "volg"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "pleit"
+     },
+     {
+      "key": "r3",
+      "text": "wandel"
+     },
+     {
+      "key": "r4",
+      "text": "verlang"
+     },
+     {
+      "key": "r5",
+      "text": "praat"
+     },
+     {
+      "key": "r6",
+      "text": "verwyder"
+     },
+     {
+      "key": "r7",
+      "text": "ontdek"
+     },
+     {
+      "key": "r8",
+      "text": "agternaloop"
+     },
+     {
+      "key": "r1",
+      "text": "losmaak"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "werkwoorde"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5",
+     "l6": "r6",
+     "l7": "r7",
+     "l8": "r8"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Sinonieme het dieselfde betekenis. In die werkboek is “praat” vir “gesels” reeds ingevul."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Omkring die regte homofoon",
+   "payload": {
+    "prompt": "Kies die woord wat in die sin pas.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Jabu ___ na Indië.",
+      "options": [
+       {
+        "key": "a",
+        "text": "reis"
+       },
+       {
+        "key": "b",
+        "text": "rys"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Jabu eet ___ saam met ander groente.",
+      "options": [
+       {
+        "key": "a",
+        "text": "reis"
+       },
+       {
+        "key": "b",
+        "text": "rys"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hy gaan die beeste by die rivier ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "haal"
+       },
+       {
+        "key": "b",
+        "text": "hael"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Dit het gereën en ge___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "gehaal"
+       },
+       {
+        "key": "b",
+        "text": "gehael"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Alhoewel Sipho baie eet, is hy ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "maar"
+       },
+       {
+        "key": "b",
+        "text": "maer"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Jabu is bang vir die leeu ___ hy stap dapper nader.",
+      "options": [
+       {
+        "key": "a",
+        "text": "maar"
+       },
+       {
+        "key": "b",
+        "text": "maer"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "homofone"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "b",
+     "q5": "b",
+     "q6": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Lees die sin: die woord wat die sin laat sin maak, is die regte homofoon."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Homofone of homonieme?",
+   "payload": {
+    "text": "Woorde wat dieselfde klink maar verskillend gespel word, noem ons {{1}}. Woorde wat dieselfde lyk en klink maar verskillende betekenisse het, noem ons {{2}}.",
+    "word_bank": [
+     "homofone",
+     "homonieme",
+     "sinonieme"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "homofone"
+    ],
+    "2": [
+     "homonieme"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die werkboek verduidelik die verskil in die geel nota."
+   },
+   "answer_status": "official",
+   "key": "act-10",
+   "sort_order": 100
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Jabu wou nie na die valstrikke gaan kyk nie want:",
+   "explanation": "Die vee moes eers wei en dan water gaan drink.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy moes die vee rivier toe neem.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit was te ver om te loop."
+    },
+    {
+     "key": "c",
+     "text": "Hy was te moeg."
+    },
+    {
+     "key": "d",
+     "text": "Hy het geweet hoe die valstrikke lyk."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "1"
+   },
+   "key": "q01",
+   "supporting": [
+    11
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat bedoel die storieverteller met “die koeie versteen in hulle spore”?",
+   "explanation": "Versteen beteken hier doodstil van skrik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hulle was te bang om te beweeg.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hulle het koud gekry."
+    },
+    {
+     "key": "c",
+     "text": "Hulle wou nie na die rivier toe gaan nie."
+    },
+    {
+     "key": "d",
+     "text": "Hulle het in klip verander."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "2"
+   },
+   "key": "q02",
+   "supporting": [
+    20
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom het Jabu se knieë gebewe?",
+   "explanation": "Hy het die leeu se brul gehoor en geskrik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy was bang vir die leeu.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het koud gekry."
+    },
+    {
+     "key": "c",
+     "text": "Hy kon nie die vee bymekaar kry nie."
+    },
+    {
+     "key": "d",
+     "text": "Hy het sy knieë seergemaak."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "3"
+   },
+   "key": "q03",
+   "supporting": [
+    23
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe weet ons dat Jabu ’n verantwoordelike mens was?",
+   "explanation": "Hy was trots daarop om sy pa se vee te versorg.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy het die koeie versorg.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het die koeie alleen gelaat."
+    },
+    {
+     "key": "c",
+     "text": "Hy het op die koppie gesit."
+    },
+    {
+     "key": "d",
+     "text": "Hy het met die leeu gepraat."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 20,
+    "pdf_page": 24,
+    "item": "4"
+   },
+   "key": "q04",
+   "supporting": [
+    1
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n sinoniem vir “smeek”?",
+   "explanation": "Smeek en pleit beteken amper dieselfde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "pleit",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "wandel"
+    },
+    {
+     "key": "c",
+     "text": "verwyder"
+    },
+    {
+     "key": "d",
+     "text": "agternaloop"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "werkwoorde"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is ’n sinoniem vir “bevry”?",
+   "explanation": "Om iemand te bevry, is om hom los te maak.",
+   "options": [
+    {
+     "key": "a",
+     "text": "losmaak",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "verlang"
+    },
+    {
+     "key": "c",
+     "text": "ontdek"
+    },
+    {
+     "key": "d",
+     "text": "praat"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "werkwoorde"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord pas in die sin: “Jabu ___ na Indië”?",
+   "explanation": "Reis beteken ’n reis maak; rys is ’n graansoort.",
+   "options": [
+    {
+     "key": "a",
+     "text": "reis",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "rys"
+    },
+    {
+     "key": "c",
+     "text": "reiz"
+    },
+    {
+     "key": "d",
+     "text": "rijs"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "homofone"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "spelling",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord pas: “Alhoewel Sipho baie eet, is hy ___”?",
+   "explanation": "Maer is die teenoorgestelde van vet. Maar is ’n voegwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "maer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "maar"
+    },
+    {
+     "key": "c",
+     "text": "mear"
+    },
+    {
+     "key": "d",
+     "text": "maer-"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25,
+    "item": "homofone"
+   },
+   "key": "q08"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is homofone?",
+   "explanation": "Dit is die werkboek se verduideliking van homofone.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Woorde wat dieselfde klink, maar verskillend gespel word en verskillende betekenisse het",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Woorde met dieselfde betekenis"
+    },
+    {
+     "key": "c",
+     "text": "Woorde met teenoorgestelde betekenis"
+    },
+    {
+     "key": "d",
+     "text": "Woorde wat dieselfde lyk en klink"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 21,
+    "pdf_page": 25
+   },
+   "key": "q09"
+  }
+ ],
+ "passage": {
+  "title": "Jabu en die leeu (werkkaart 73)",
+  "language": "af",
+  "sentences": [
+   "Jabu was ’n 14-jarige veewagter.",
+   "Hy was baie trots op hoe hy sy pa se groot veekudde versorg.",
+   "Een warm herfsdag, terwyl Jabu die diere op die koppie sit en dophou, kom sy maat Sipho daar aangedraf.",
+   "“Het jy die nuus gehoor, Jabu?” vra Sipho uitasem.",
+   "“Bhubesi, die leeu, is verlede nag hier in die omgewing gesien.",
+   "Hy het ’n koei doodgemaak.",
+   "Die mans is besig om vir hom valstrikke te stel.",
+   "Gaan sit jou vee terug in die kraal en dan gaan kyk ons hoe hulle die valstrikke stel.”",
+   "Jabu is geskok.",
+   "“Ek kan die vee nie nou al kraal toe neem nie, Sipho.",
+   "Dis te vroeg in die dag.",
+   "Hulle moet eers klaar wei, en dan moet ek hulle rivier toe neem om water te drink voordat ek hulle terugneem huis toe.”",
+   "Sipho is teleurgesteld, maar hy weet dit help nie om met Jabu te redeneer nie.",
+   "“Oukei,” sê hy.",
+   "“Ek sien jou later, miskien vanaand by die vuur.",
+   "Ek gaan kyk wat die mans doen.”",
+   "Hy vertrek weer op ’n drafstap.",
+   "Jabu begin toe die koeie bymekaar jaag en lei hulle na die rivier toe.",
+   "Terwyl hulle drink, sit hy met sy voete in die water.",
+   "Toe hoor Jabu ’n geluid wat hom yskoud laat word van die skrik.",
+   "Die koeie versteen ook in hulle spore.",
+   "Dit is Bhubesi, en hy is baie naby!",
+   "Jabu kyk versigtig rond.",
+   "Met bewende knieë jaag hy die koeie bymekaar.",
+   "Maar daardie brul het nie geklink soos ’n leeu wat sê “Ek gaan jou opvreet” nie, dink hy.",
+   "Bhubesi klink asof hy in die moeilikheid is.",
+   "Ek dink daardie brul was ’n noodkreet.",
+   "Jabu stap dapper in die rigting van waar hy die geluid gehoor het.",
+   "Hy kry Bhubesi vasgevang in een van die valstrikke wat die mans gestel het.",
+   "Sy kop sit in die valstrik vas, en hoe meer hy stoei, hoe stywer trek die strik.",
+   "Jabu staan eers ’n hele rukkie na hom en staar.",
+   "Nog nooit het hy die koning van die diere van so naby gesien nie.",
+   "Hy is waarlik ’n indrukwekkende dier.",
+   "Terwyl Jabu kyk hoe Bhubesi om sy lewe worstel, begin hy vir hom jammer te voel.",
+   "Op daardie oomblik sien die leeu die seun, en hy praat direk met hom.",
+   "Leeu: Ai!",
+   "Oemfaan (seun)!",
+   "Help my asseblief.",
+   "Ek kan nie loskom nie.",
+   "Sal jy nie asseblief hierdie balk wat my kop afdruk, kom oplig nie?",
+   "Asseblief!",
+   "Jabu kyk in Bhubesi se oë, en hy kan sien hoe desperaat hy is.",
+   "Leeu: Asseblief, oemfaan!",
+   "Asseblief!",
+   "Voordat daardie jagters my kom doodmaak.",
+   "Bevry my asseblief!",
+   "Jabu: Ek sou jou graag wil bevry, Bhubesi.",
+   "Maar ek is bang dat jy my sal opvreet sodra ek dit doen.",
+   "Leeu: O, nee, oemfaan, ek sal nooit iemand kan opvreet wat my lewe gered het nie!",
+   "Ek belowe dat ek nie ’n haar op jou kop sal seermaak nie.",
+   "Ek belowe!"
+  ],
+  "paragraph_starts": [
+   0,
+   3,
+   8,
+   12,
+   13,
+   17,
+   19,
+   28,
+   32,
+   35,
+   41,
+   42,
+   46,
+   48
+  ],
+  "glossary": [
+   {
+    "term": "veewagter",
+    "definition": "Iemand wat vee (koeie en skape) oppas.",
+    "sentence_index": 0
+   },
+   {
+    "term": "veekudde",
+    "definition": "’n Groep diere soos koeie wat saam aangehou word.",
+    "sentence_index": 1
+   },
+   {
+    "term": "kraal",
+    "definition": "’n Omheinde plek waar vee snags bly.",
+    "sentence_index": 7
+   },
+   {
+    "term": "valstrikke",
+    "definition": "Dinge waarmee jagters diere vang.",
+    "sentence_index": 6
+   },
+   {
+    "term": "noodkreet",
+    "definition": "’n Harde roep om hulp.",
+    "sentence_index": 26
+   },
+   {
+    "term": "desperaat",
+    "definition": "Baie wanhopig; iemand wat baie graag hulp wil hê.",
+    "sentence_index": 41
+   },
+   {
+    "term": "indrukwekkende",
+    "definition": "Wat jou beïndruk omdat dit groot of pragtig is.",
+    "sentence_index": 32
+   },
+   {
+    "term": "oemfaan",
+    "definition": "Die Zulu-woord vir “seun”.",
+    "sentence_index": 36
+   }
+  ]
+ }
+}

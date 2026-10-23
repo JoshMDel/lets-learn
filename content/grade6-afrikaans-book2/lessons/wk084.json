@@ -1,0 +1,891 @@
+{
+ "key": "gr6-afr-b2-wk084",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 84,
+ "title_af": "Ons hersien briewe",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk5-6",
+  "name_af": "Tema 6 · Week 5–6: Stories en briewe",
+  "name_en": "Theme 6 · Weeks 5–6: Stories and letters",
+  "sort": 103
+ },
+ "tier_number": 4,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  42,
+  43
+ ],
+ "pdf_pages": [
+  46,
+  47
+ ],
+ "reference_pages": [
+  {
+   "pdf": 46,
+   "printed": 42,
+   "src": "/workbook/gr6-afr-b2/p046.webp"
+  },
+  {
+   "pdf": 47,
+   "printed": 43,
+   "src": "/workbook/gr6-afr-b2/p047.webp"
+  }
+ ],
+ "intro_af": "Jan het ’n wonderlike vakansie in Kaapstad gehad – en hy vertel sy maat Danie daarvan in ’n brief. Luister, lees en hersien hoe ’n brief werk.",
+ "objectives_af": [
+  "Na ’n vriendskaplike brief luister en die eienskappe van ’n brief bespreek.",
+  "Spesifieke vrae oor ’n brief soeklees en beantwoord.",
+  "Die teenwoordige, verlede en toekomende tyd, en die ontkenningsvorm herken.",
+  "Woorde in ’n woordeboek naslaan en in sinne gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Tydvorme en ontkenning",
+   "payload": {
+    "headers": [
+     "Vorm",
+     "Wat dit beteken"
+    ],
+    "rows": [
+     [
+      "Teenwoordige tyd",
+      "verwys na die hede"
+     ],
+     [
+      "Verlede tyd",
+      "verwys na gebeure wat reeds gebeur het"
+     ],
+     [
+      "Toekomende tyd",
+      "verwys na dinge wat nog moet gebeur"
+     ],
+     [
+      "Ontkenning",
+      "word in die negatiewe vorm gestel, bv. Sy het nie gebel nie."
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat staan in ’n vriendskaplike brief?",
+   "payload": {
+    "bullets": [
+     "Die adres en die datum bo-aan",
+     "Die aanhef (“Liewe …”)",
+     "Die inhoud in paragrawe",
+     "Die groet en jou naam (bv. “Jou maat, Jan”)"
+    ]
+   },
+   "source": "supplementary",
+   "workbook_ref": {
+    "printed_page": 42,
+    "pdf_page": 46
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Luister na die brief",
+   "payload": {
+    "prompt": "Luister aandagtig na hierdie vriendskaplike brief terwyl jou onderwyser dit voorlees. (Of druk die knoppie.)",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 42,
+    "pdf_page": 46,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Eienskappe van ’n brief",
+   "payload": {
+    "prompt": "Bespreek die eienskappe van ’n brief nadat jy na die brief geluister het."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 42,
+    "pdf_page": 46,
+    "item": "Ons praat"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Vraag 1",
+   "payload": {
+    "prompt": "Waarom skryf Jan hierdie brief aan Danie?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Om hom van die haaie te vertel."
+     },
+     {
+      "key": "B",
+      "text": "Om hom van sy heerlike vakansie te vertel."
+     },
+     {
+      "key": "C",
+      "text": "Om te sê dat hy binnekort terug sal wees."
+     },
+     {
+      "key": "D",
+      "text": "Om hom van die treinrit te vertel."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "1"
+   },
+   "answer": {
+    "choice": "B"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Jan vertel van sy hele vakansie in Kaapstad, nie net van een ding nie.",
+    "per_option": {
+     "A": "Die haaie is net een deel van die vakansie.",
+     "C": "Dit is slegs ’n klein deel van die slot.",
+     "D": "Die treinrit is net die begin van sy vakansie."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Vraag 2",
+   "payload": {
+    "prompt": "Wat bedoel Jan wanneer hy sê dat die haaie “nie skaam was” om hulle rye tande te wys nie?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Die haaie was vriendelik."
+     },
+     {
+      "key": "B",
+      "text": "Die haaie het hulle vermaak."
+     },
+     {
+      "key": "C",
+      "text": "Die haaie het hulle bekke oopgemaak."
+     },
+     {
+      "key": "D",
+      "text": "Die haaie het ander visse gevreet."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "2"
+   },
+   "answer": {
+    "choice": "C"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "“Rye tande wys” beteken om die bek oop te maak sodat jy die tande kan sien."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Goeie maats",
+   "payload": {
+    "prompt": "Skryf ’n frase uit die brief neer wat wys dat Jan en Danie goeie maats is.",
+    "lines": 1
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "3"
+   },
+   "suggested_answer": "“Jou maat” / “Ek kan nie wag om julle almal weer by die skool te sien nie.”",
+   "answer_status": "needs_review",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Ewe oud",
+   "payload": {
+    "prompt": "Haal ’n sin uit die brief aan wat aandui dat Jan en Danie ewe oud is.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "4"
+   },
+   "suggested_answer": "Dit is nie direk gesê nie. Aanvaarbaar: “Ek kan nie wag om julle almal weer by die skool te sien nie” (hulle is in dieselfde skool).",
+   "answer_status": "needs_review",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Eerste keer in Kaapstad",
+   "payload": {
+    "prompt": "Haal ’n sin uit die brief aan wat aandui dat Jan nog nooit tevore in Kaapstad was nie.",
+    "lines": 2
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "5"
+   },
+   "suggested_answer": "Die berg was indrukwekkender as wat ek ooit verwag het dit sou wees.",
+   "answer_status": "needs_review",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter tyd of vorm?",
+   "payload": {
+    "prompt": "Dui die tyd of vorm van elke sin aan.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Ons het ons eie kompartement gehad.",
+      "options": [
+       {
+        "key": "a",
+        "text": "verlede tyd"
+       },
+       {
+        "key": "b",
+        "text": "teenwoordige tyd"
+       },
+       {
+        "key": "c",
+        "text": "toekomende tyd"
+       },
+       {
+        "key": "d",
+        "text": "ontkenning"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Dit is die suidelikste punt van Afrika.",
+      "options": [
+       {
+        "key": "a",
+        "text": "verlede tyd"
+       },
+       {
+        "key": "b",
+        "text": "teenwoordige tyd"
+       },
+       {
+        "key": "c",
+        "text": "toekomende tyd"
+       },
+       {
+        "key": "d",
+        "text": "ontkenning"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Môre vertrek ons weer huis toe.",
+      "options": [
+       {
+        "key": "a",
+        "text": "verlede tyd"
+       },
+       {
+        "key": "b",
+        "text": "teenwoordige tyd"
+       },
+       {
+        "key": "c",
+        "text": "toekomende tyd"
+       },
+       {
+        "key": "d",
+        "text": "ontkenning"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Ek kan nie wag om julle almal weer by die skool te sien nie.",
+      "options": [
+       {
+        "key": "a",
+        "text": "verlede tyd"
+       },
+       {
+        "key": "b",
+        "text": "teenwoordige tyd"
+       },
+       {
+        "key": "c",
+        "text": "toekomende tyd"
+       },
+       {
+        "key": "d",
+        "text": "ontkenning"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "tydvorme"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "c",
+     "q4": "d"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Verlede = het … gehad; teenwoordig = is; toekomend = môre (iets wat nog gaan gebeur); ontkenning = nie … nie."
+   },
+   "answer_status": "needs_review",
+   "key": "act-08",
+   "sort_order": 80
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Woordeboek: indrukwekkend en uitsterf",
+   "payload": {
+    "prompt": "Slaan hierdie woorde in ’n woordeboek na en gebruik hulle dan in ’n sin om te wys wat hulle beteken: indrukwekkend; uitsterf.",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "woordeboek"
+   },
+   "feedback": {},
+   "key": "act-09",
+   "sort_order": 90
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Jan se reis in volgorde",
+   "payload": {
+    "prompt": "Sit Jan se uitstappies in die volgorde waarin hulle in die brief genoem word.",
+    "items": [
+     {
+      "key": "e5",
+      "text": "Hy besoek Kaappunt."
+     },
+     {
+      "key": "e2",
+      "text": "Hy sien Tafelberg."
+     },
+     {
+      "key": "e6",
+      "text": "Hy besoek die Twee Oseane-akwarium."
+     },
+     {
+      "key": "e1",
+      "text": "Hy ry met die trein na Kaapstad."
+     },
+     {
+      "key": "e4",
+      "text": "Hy sien pikkewyne en robbe by Boulders."
+     },
+     {
+      "key": "e3",
+      "text": "Hy besoek Robbeneiland."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5",
+     "e6"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Jan vertel sy reis dag vir dag."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-10",
+   "sort_order": 100
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Voltooi die brief-reël",
+   "payload": {
+    "text": "Jan sluit sy brief af met “{{1}} maat”. Hy skryf die datum ({{2}} Julie 2015) en sy adres bo-aan.",
+    "word_bank": [
+     "Jou",
+     "Julle",
+     "17"
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "1": [
+     "Jou"
+    ],
+    "2": [
+     "17"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Die brief eindig met “Jou maat, Jan”; die datum is 17 Julie 2015."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-11",
+   "sort_order": 110
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Op watter datum het Jan die brief geskryf?",
+   "explanation": "Die datum staan bo-aan die brief.",
+   "options": [
+    {
+     "key": "a",
+     "text": "17 Julie 2015",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "12 Julie 2015"
+    },
+    {
+     "key": "c",
+     "text": "13 Julie 2015"
+    },
+    {
+     "key": "d",
+     "text": "1 Augustus 2015"
+    }
+   ],
+   "key": "q01",
+   "supporting": [
+    3
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe het Jan en sy nefies na Kaapstad gereis?",
+   "explanation": "Ons het 12 Julie met die trein vertrek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Met die trein",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Met die bus"
+    },
+    {
+     "key": "c",
+     "text": "Met die vliegtuig"
+    },
+    {
+     "key": "d",
+     "text": "Met ’n motor"
+    }
+   ],
+   "key": "q02",
+   "supporting": [
+    6
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat het Jan op die eerste dag in Kaapstad gesien?",
+   "explanation": "Die eerste ding was Tafelberg met sy wit “tafeldoek”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tafelberg",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Robbeneiland"
+    },
+    {
+     "key": "c",
+     "text": "Kaappunt"
+    },
+    {
+     "key": "d",
+     "text": "’n Haai"
+    }
+   ],
+   "key": "q03",
+   "supporting": [
+    9
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie was vir 18 jaar op Robbeneiland aangehou?",
+   "explanation": "Hulle het na die sel gaan kyk waarin Nelson Mandela 18 jaar lank aangehou is.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Nelson Mandela",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jan"
+    },
+    {
+     "key": "c",
+     "text": "Danie"
+    },
+    {
+     "key": "d",
+     "text": "Die burgemeester"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    14
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is Kaappunt?",
+   "explanation": "Dit is die suidelikste punt van Afrika, waar twee oseane ontmoet.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die suidelikste punt van Afrika",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Strand vir pikkewyne"
+    },
+    {
+     "key": "c",
+     "text": "’n Eiland"
+    },
+    {
+     "key": "d",
+     "text": "’n Akwarium"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    22
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Waarom skryf Jan die brief?",
+   "explanation": "Hy vertel van sy hele reis.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om sy maat van sy heerlike vakansie te vertel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om om hulp te vra"
+    },
+    {
+     "key": "c",
+     "text": "Om te kla"
+    },
+    {
+     "key": "d",
+     "text": "Om ’n verjaardag te onthou"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "1"
+   },
+   "key": "q06",
+   "supporting": [
+    5
+   ]
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat beteken “die haaie was nie skaam om hulle rye tande te wys nie”?",
+   "explanation": "Hulle het hul bekke oopgemaak sodat die tande sigbaar was.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die haaie het hulle bekke oopgemaak.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die haaie was vriendelik."
+    },
+    {
+     "key": "c",
+     "text": "Die haaie het ander visse gevreet."
+    },
+    {
+     "key": "d",
+     "text": "Die haaie het geslaap."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "2"
+   },
+   "key": "q07",
+   "supporting": [
+    27
+   ]
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin is in die verlede tyd?",
+   "explanation": "Verlede tyd gebruik “het” + ge-vorm of ’n verlede werkwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Ons het per boot na die eiland gevaar.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit is die suidelikste punt van Afrika."
+    },
+    {
+     "key": "c",
+     "text": "Môre vertrek ons weer huis toe."
+    },
+    {
+     "key": "d",
+     "text": "Ek kan nie wag nie."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47,
+    "item": "tydvorme"
+   },
+   "key": "q08",
+   "supporting": [
+    13
+   ]
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoe lyk die ontkenningsvorm?",
+   "explanation": "Die werkboek gee as voorbeeld: Sy het nie gebel nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die woord “nie” verskyn gewoonlik twee keer.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die woord “nie” verskyn nooit."
+    },
+    {
+     "key": "c",
+     "text": "Die sin begin altyd met “nee”."
+    },
+    {
+     "key": "d",
+     "text": "Die sin eindig altyd met ’n vraagteken."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 43,
+    "pdf_page": 47
+   },
+   "key": "q09"
+  }
+ ],
+ "passage": {
+  "title": "Ons hersien briewe: Jan se brief",
+  "language": "af",
+  "sentences": [
+   "Appelweg 27",
+   "Kaapstad",
+   "8001",
+   "17 Julie 2015",
+   "Liewe Danie",
+   "Sjoe, ek was baie gelukkig die vakansie: ek kon saam met my nefies Kaapstad toe gaan!",
+   "Ons het 12 Julie met die trein vertrek en die volgende dag daar aangekom.",
+   "Dit was pret om met die trein te ry.",
+   "Ons het ons eie kompartement gehad, en ek het op die boonste slaapbank geslaap!",
+   "Die eerste ding wat ek gesien het toe ons in Kaapstad aangekom het, was Tafelberg met sy wit, watteagtige “tafeldoek”.",
+   "Die berg was indrukwekkender as wat ek ooit verwag het dit sou wees.",
+   "Kyk na die foto’s wat ek aangeheg het, dan sal jy sien wat ek bedoel.",
+   "Die tweede dag het ons Robbeneiland besoek.",
+   "Ons het per boot na die eiland gevaar.",
+   "Ons het na die sel gaan kyk waarin Nelson Mandela 18 jaar lank aangehou is!",
+   "Die eiland is baie rotsagtig, en ons het baie pikkewyne gesien.",
+   "Op die derde dag het ons weer die pikkewyne gesien.",
+   "Hierdie keer was dit op ’n strandjie wat hulle Boulders noem.",
+   "Ons het ook Kaapse pelsrobbe daar gesien.",
+   "Kaapstad loods ’n projek om die robbe te beskerm, aangesien hulle aan die uitsterf is.",
+   "Die projek beskerm ook die pikkewyne.",
+   "Op dag vier het ons Kaappunt besoek.",
+   "Dit is die suidelikste punt van Afrika, waar twee oseane mekaar ontmoet.",
+   "Dit is hier dat die koue water van die Atlantiese Oseaan en die warm seestrome van die Indiese Oseaan saamvloei.",
+   "Vandag – ons laaste dag – het ons na die seelewe in die Twee Oseane-akwarium gaan kyk.",
+   "Dit was ’n fantastiese belewenis!",
+   "Ek was nog nooit tevore so naby aan ’n haai nie!",
+   "Daar was net ’n glaspaneel tussen ons, en die haaie was nie skaam om hulle rye tande vir ons te wys nie.",
+   "Ons het ook allerhande soorte stervisse gesien – party met vyftig arms!",
+   "As hulle ’n arm verloor, groei daar ’n nuwe een in sy plek.",
+   "Môre vertrek ons weer huis toe.",
+   "Ek kan nie wag om julle almal weer by die skool te sien nie.",
+   "Jou maat",
+   "Jan"
+  ],
+  "paragraph_starts": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   9,
+   11,
+   12,
+   16,
+   21,
+   24,
+   30,
+   32,
+   33
+  ],
+  "glossary": [
+   {
+    "term": "watteagtige",
+    "definition": "Soos watte: sag en wit.",
+    "sentence_index": 9
+   },
+   {
+    "term": "indrukwekkender",
+    "definition": "Meer indrukwekkend (wat jou beïndruk).",
+    "sentence_index": 10
+   },
+   {
+    "term": "loods",
+    "definition": "Begin of stel in werking.",
+    "sentence_index": 19
+   },
+   {
+    "term": "uitsterf",
+    "definition": "Heeltemal verdwyn, sodat daar geen meer oor is nie.",
+    "sentence_index": 19
+   },
+   {
+    "term": "stervisse",
+    "definition": "Seediere met arms in die vorm van ’n ster.",
+    "sentence_index": 28
+   },
+   {
+    "term": "kompartement",
+    "definition": "’n Aparte afdeling of hokkie in ’n trein.",
+    "sentence_index": 8
+   }
+  ]
+ }
+}

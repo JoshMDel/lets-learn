@@ -1,0 +1,4424 @@
+{
+ "manifest_version": 1,
+ "workbook": {
+  "key": "gr6-afr-hl-book2",
+  "title": "Afrikaans Huistaal – Graad 6, Boek 2 (Kwartaal 3 & 4)",
+  "publisher": "Department of Basic Education (Rainbow Workbooks), 15th edition 2025",
+  "isbn": "978-1-4315-0115-1",
+  "pdf_pages": 138,
+  "note": "PDF page index = printed page + 4 for printed pages 1–130 (PDF 5–134). Printed page numbers are not shown on PDF 1–4 or 135–138."
+ },
+ "source_files": [
+  {
+   "n": 1,
+   "name": "Gr6_Afrikaans_Workbook_Part_1_pages_1-69.pdf",
+   "type": "PDF 1.7",
+   "bytes": 26603883,
+   "pdf_pages": "1-69",
+   "status": "verified"
+  },
+  {
+   "n": 2,
+   "name": "Gr6_Afrikaans_Workbook_Part_2_pages_70-138.pdf",
+   "type": "PDF 1.7",
+   "bytes": 14241537,
+   "pdf_pages": "70-138",
+   "status": "verified"
+  },
+  {
+   "n": 3,
+   "name": "Gr6_Afrikaans_Workbook_extracted.txt",
+   "type": "UTF-8 text (6,544 lines)",
+   "bytes": 391363,
+   "pdf_pages": "unpaginated layout text of full workbook",
+   "status": "verified; used only as a secondary reference (per-page text re-extracted from the PDFs)"
+  },
+  {
+   "n": 4,
+   "name": "Gr6_Afrikaans_Workbook_compressed.pdf",
+   "type": "PDF (truncated, no page tree)",
+   "bytes": 890986,
+   "pdf_pages": "n/a",
+   "status": "excluded by user (corrupt)"
+  }
+ ],
+ "four_skill_areas": [
+  "Luister en praat",
+  "Lees en kyk",
+  "Skryf en aanbied",
+  "Taalstrukture en -konvensies"
+ ],
+ "cycles": [
+  {
+   "tema": 5,
+   "title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "overview_pdf": 5,
+   "overview_printed": 1,
+   "checklist_printed": [
+    34,
+    34
+   ]
+  },
+  {
+   "tema": 6,
+   "title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "overview_pdf": 39,
+   "overview_printed": 35,
+   "checklist_printed": [
+    68,
+    68
+   ]
+  },
+  {
+   "tema": 7,
+   "title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "overview_pdf": 73,
+   "overview_printed": 69,
+   "checklist_printed": null
+  },
+  {
+   "tema": 8,
+   "title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "overview_pdf": 105,
+   "overview_printed": 101,
+   "checklist_printed": [
+    129,
+    130
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "pdf": 1,
+   "printed": null,
+   "type": "front_matter",
+   "images": 12,
+   "text_chars": 2746
+  },
+  {
+   "pdf": 2,
+   "printed": null,
+   "type": "front_matter",
+   "images": 12,
+   "text_chars": 2325
+  },
+  {
+   "pdf": 3,
+   "printed": null,
+   "type": "front_matter",
+   "images": 8,
+   "text_chars": 80
+  },
+  {
+   "pdf": 4,
+   "printed": null,
+   "type": "front_matter",
+   "images": 9,
+   "text_chars": 3151
+  },
+  {
+   "pdf": 5,
+   "printed": 1,
+   "type": "cycle_overview",
+   "images": 5,
+   "text_chars": 3772
+  },
+  {
+   "pdf": 6,
+   "printed": 2,
+   "type": "worksheet 65",
+   "images": 7,
+   "text_chars": 1897
+  },
+  {
+   "pdf": 7,
+   "printed": 3,
+   "type": "worksheet 65",
+   "images": 5,
+   "text_chars": 844
+  },
+  {
+   "pdf": 8,
+   "printed": 4,
+   "type": "worksheet 66",
+   "images": 4,
+   "text_chars": 2211
+  },
+  {
+   "pdf": 9,
+   "printed": 5,
+   "type": "worksheet 66",
+   "images": 14,
+   "text_chars": 1280
+  },
+  {
+   "pdf": 10,
+   "printed": 6,
+   "type": "worksheet 67",
+   "images": 8,
+   "text_chars": 1668
+  },
+  {
+   "pdf": 11,
+   "printed": 7,
+   "type": "worksheet 67",
+   "images": 3,
+   "text_chars": 1506
+  },
+  {
+   "pdf": 12,
+   "printed": 8,
+   "type": "worksheet 68",
+   "images": 3,
+   "text_chars": 1693
+  },
+  {
+   "pdf": 13,
+   "printed": 9,
+   "type": "worksheet 68",
+   "images": 4,
+   "text_chars": 881
+  },
+  {
+   "pdf": 14,
+   "printed": 10,
+   "type": "worksheet 69",
+   "images": 6,
+   "text_chars": 2225
+  },
+  {
+   "pdf": 15,
+   "printed": 11,
+   "type": "worksheet 69",
+   "images": 3,
+   "text_chars": 679
+  },
+  {
+   "pdf": 16,
+   "printed": 12,
+   "type": "worksheet 70",
+   "images": 5,
+   "text_chars": 1681
+  },
+  {
+   "pdf": 17,
+   "printed": 13,
+   "type": "worksheet 70",
+   "images": 5,
+   "text_chars": 1453
+  },
+  {
+   "pdf": 18,
+   "printed": 14,
+   "type": "worksheet 71",
+   "images": 9,
+   "text_chars": 2665
+  },
+  {
+   "pdf": 19,
+   "printed": 15,
+   "type": "worksheet 71",
+   "images": 8,
+   "text_chars": 2311
+  },
+  {
+   "pdf": 20,
+   "printed": 16,
+   "type": "worksheet 72",
+   "images": 9,
+   "text_chars": 1908
+  },
+  {
+   "pdf": 21,
+   "printed": 17,
+   "type": "worksheet 72",
+   "images": 6,
+   "text_chars": 452
+  },
+  {
+   "pdf": 22,
+   "printed": 18,
+   "type": "worksheet 73",
+   "images": 4,
+   "text_chars": 2478
+  },
+  {
+   "pdf": 23,
+   "printed": 19,
+   "type": "worksheet 73",
+   "images": 4,
+   "text_chars": 1619
+  },
+  {
+   "pdf": 24,
+   "printed": 20,
+   "type": "worksheet 74",
+   "images": 9,
+   "text_chars": 1183
+  },
+  {
+   "pdf": 25,
+   "printed": 21,
+   "type": "worksheet 74",
+   "images": 4,
+   "text_chars": 1171
+  },
+  {
+   "pdf": 26,
+   "printed": 22,
+   "type": "worksheet 75",
+   "images": 4,
+   "text_chars": 1938
+  },
+  {
+   "pdf": 27,
+   "printed": 23,
+   "type": "worksheet 75",
+   "images": 6,
+   "text_chars": 2096
+  },
+  {
+   "pdf": 28,
+   "printed": 24,
+   "type": "worksheet 76",
+   "images": 5,
+   "text_chars": 1072
+  },
+  {
+   "pdf": 29,
+   "printed": 25,
+   "type": "worksheet 76",
+   "images": 5,
+   "text_chars": 656
+  },
+  {
+   "pdf": 30,
+   "printed": 26,
+   "type": "worksheet 77",
+   "images": 8,
+   "text_chars": 1082
+  },
+  {
+   "pdf": 31,
+   "printed": 27,
+   "type": "worksheet 77",
+   "images": 2,
+   "text_chars": 740
+  },
+  {
+   "pdf": 32,
+   "printed": 28,
+   "type": "worksheet 78",
+   "images": 4,
+   "text_chars": 1737
+  },
+  {
+   "pdf": 33,
+   "printed": 29,
+   "type": "worksheet 78",
+   "images": 6,
+   "text_chars": 1846
+  },
+  {
+   "pdf": 34,
+   "printed": 30,
+   "type": "worksheet 79",
+   "images": 3,
+   "text_chars": 1528
+  },
+  {
+   "pdf": 35,
+   "printed": 31,
+   "type": "worksheet 79",
+   "images": 7,
+   "text_chars": 546
+  },
+  {
+   "pdf": 36,
+   "printed": 32,
+   "type": "worksheet 80",
+   "images": 2,
+   "text_chars": 1434
+  },
+  {
+   "pdf": 37,
+   "printed": 33,
+   "type": "worksheet 80",
+   "images": 4,
+   "text_chars": 1203
+  },
+  {
+   "pdf": 38,
+   "printed": 34,
+   "type": "self_assessment_checklist_or_helpline",
+   "images": 4,
+   "text_chars": 1003
+  },
+  {
+   "pdf": 39,
+   "printed": 35,
+   "type": "cycle_overview",
+   "images": 1,
+   "text_chars": 3685
+  },
+  {
+   "pdf": 40,
+   "printed": 36,
+   "type": "worksheet 81",
+   "images": 5,
+   "text_chars": 2364
+  },
+  {
+   "pdf": 41,
+   "printed": 37,
+   "type": "worksheet 81",
+   "images": 4,
+   "text_chars": 2271
+  },
+  {
+   "pdf": 42,
+   "printed": 38,
+   "type": "worksheet 82",
+   "images": 2,
+   "text_chars": 1480
+  },
+  {
+   "pdf": 43,
+   "printed": 39,
+   "type": "worksheet 82",
+   "images": 6,
+   "text_chars": 905
+  },
+  {
+   "pdf": 44,
+   "printed": 40,
+   "type": "worksheet 83",
+   "images": 7,
+   "text_chars": 328
+  },
+  {
+   "pdf": 45,
+   "printed": 41,
+   "type": "worksheet 83",
+   "images": 12,
+   "text_chars": 393
+  },
+  {
+   "pdf": 46,
+   "printed": 42,
+   "type": "worksheet 84",
+   "images": 9,
+   "text_chars": 2087
+  },
+  {
+   "pdf": 47,
+   "printed": 43,
+   "type": "worksheet 84",
+   "images": 11,
+   "text_chars": 1473
+  },
+  {
+   "pdf": 48,
+   "printed": 44,
+   "type": "worksheet 85",
+   "images": 3,
+   "text_chars": 756
+  },
+  {
+   "pdf": 49,
+   "printed": 45,
+   "type": "worksheet 85",
+   "images": 4,
+   "text_chars": 290
+  },
+  {
+   "pdf": 50,
+   "printed": 46,
+   "type": "worksheet 86",
+   "images": 5,
+   "text_chars": 1560
+  },
+  {
+   "pdf": 51,
+   "printed": 47,
+   "type": "worksheet 86",
+   "images": 4,
+   "text_chars": 1878
+  },
+  {
+   "pdf": 52,
+   "printed": 48,
+   "type": "worksheet 87",
+   "images": 7,
+   "text_chars": 1549
+  },
+  {
+   "pdf": 53,
+   "printed": 49,
+   "type": "worksheet 87",
+   "images": 7,
+   "text_chars": 895
+  },
+  {
+   "pdf": 54,
+   "printed": 50,
+   "type": "worksheet 88",
+   "images": 4,
+   "text_chars": 772
+  },
+  {
+   "pdf": 55,
+   "printed": 51,
+   "type": "worksheet 88",
+   "images": 9,
+   "text_chars": 1116
+  },
+  {
+   "pdf": 56,
+   "printed": 52,
+   "type": "worksheet 89",
+   "images": 4,
+   "text_chars": 1205
+  },
+  {
+   "pdf": 57,
+   "printed": 53,
+   "type": "worksheet 89",
+   "images": 2,
+   "text_chars": 586
+  },
+  {
+   "pdf": 58,
+   "printed": 54,
+   "type": "worksheet 90",
+   "images": 4,
+   "text_chars": 1076
+  },
+  {
+   "pdf": 59,
+   "printed": 55,
+   "type": "worksheet 90",
+   "images": 8,
+   "text_chars": 1217
+  },
+  {
+   "pdf": 60,
+   "printed": 56,
+   "type": "worksheet 91",
+   "images": 6,
+   "text_chars": 974
+  },
+  {
+   "pdf": 61,
+   "printed": 57,
+   "type": "worksheet 91",
+   "images": 2,
+   "text_chars": 291
+  },
+  {
+   "pdf": 62,
+   "printed": 58,
+   "type": "worksheet 92",
+   "images": 3,
+   "text_chars": 1708
+  },
+  {
+   "pdf": 63,
+   "printed": 59,
+   "type": "worksheet 92",
+   "images": 4,
+   "text_chars": 2441
+  },
+  {
+   "pdf": 64,
+   "printed": 60,
+   "type": "worksheet 93",
+   "images": 9,
+   "text_chars": 2542
+  },
+  {
+   "pdf": 65,
+   "printed": 61,
+   "type": "worksheet 93",
+   "images": 5,
+   "text_chars": 1332
+  },
+  {
+   "pdf": 66,
+   "printed": 62,
+   "type": "worksheet 94",
+   "images": 7,
+   "text_chars": 985
+  },
+  {
+   "pdf": 67,
+   "printed": 63,
+   "type": "worksheet 94",
+   "images": 14,
+   "text_chars": 678
+  },
+  {
+   "pdf": 68,
+   "printed": 64,
+   "type": "worksheet 95",
+   "images": 1,
+   "text_chars": 223
+  },
+  {
+   "pdf": 69,
+   "printed": 65,
+   "type": "worksheet 95",
+   "images": 0,
+   "text_chars": 146
+  },
+  {
+   "pdf": 70,
+   "printed": 66,
+   "type": "worksheet 96",
+   "images": 4,
+   "text_chars": 641
+  },
+  {
+   "pdf": 71,
+   "printed": 67,
+   "type": "worksheet 96",
+   "images": 4,
+   "text_chars": 1210
+  },
+  {
+   "pdf": 72,
+   "printed": 68,
+   "type": "self_assessment_checklist_or_helpline",
+   "images": 2,
+   "text_chars": 2100
+  },
+  {
+   "pdf": 73,
+   "printed": 69,
+   "type": "cycle_overview",
+   "images": 2,
+   "text_chars": 3172
+  },
+  {
+   "pdf": 74,
+   "printed": 70,
+   "type": "worksheet 97",
+   "images": 2,
+   "text_chars": 2131
+  },
+  {
+   "pdf": 75,
+   "printed": 71,
+   "type": "worksheet 97",
+   "images": 8,
+   "text_chars": 1996
+  },
+  {
+   "pdf": 76,
+   "printed": 72,
+   "type": "worksheet 98",
+   "images": 2,
+   "text_chars": 868
+  },
+  {
+   "pdf": 77,
+   "printed": 73,
+   "type": "worksheet 98",
+   "images": 2,
+   "text_chars": 970
+  },
+  {
+   "pdf": 78,
+   "printed": 74,
+   "type": "worksheet 99",
+   "images": 5,
+   "text_chars": 645
+  },
+  {
+   "pdf": 79,
+   "printed": 75,
+   "type": "worksheet 99",
+   "images": 4,
+   "text_chars": 320
+  },
+  {
+   "pdf": 80,
+   "printed": 76,
+   "type": "worksheet 100",
+   "images": 4,
+   "text_chars": 1490
+  },
+  {
+   "pdf": 81,
+   "printed": 77,
+   "type": "worksheet 101",
+   "images": 5,
+   "text_chars": 727
+  },
+  {
+   "pdf": 82,
+   "printed": 78,
+   "type": "worksheet 102",
+   "images": 3,
+   "text_chars": 1649
+  },
+  {
+   "pdf": 83,
+   "printed": 79,
+   "type": "worksheet 102",
+   "images": 7,
+   "text_chars": 816
+  },
+  {
+   "pdf": 84,
+   "printed": 80,
+   "type": "worksheet 103",
+   "images": 3,
+   "text_chars": 1268
+  },
+  {
+   "pdf": 85,
+   "printed": 81,
+   "type": "worksheet 103",
+   "images": 5,
+   "text_chars": 1322
+  },
+  {
+   "pdf": 86,
+   "printed": 82,
+   "type": "worksheet 104",
+   "images": 3,
+   "text_chars": 843
+  },
+  {
+   "pdf": 87,
+   "printed": 83,
+   "type": "worksheet 104",
+   "images": 2,
+   "text_chars": 320
+  },
+  {
+   "pdf": 88,
+   "printed": 84,
+   "type": "worksheet 105",
+   "images": 3,
+   "text_chars": 1642
+  },
+  {
+   "pdf": 89,
+   "printed": 85,
+   "type": "worksheet 105",
+   "images": 2,
+   "text_chars": 1686
+  },
+  {
+   "pdf": 90,
+   "printed": 86,
+   "type": "worksheet 106",
+   "images": 4,
+   "text_chars": 481
+  },
+  {
+   "pdf": 91,
+   "printed": 87,
+   "type": "worksheet 106",
+   "images": 2,
+   "text_chars": 452
+  },
+  {
+   "pdf": 92,
+   "printed": 88,
+   "type": "worksheet 107",
+   "images": 6,
+   "text_chars": 1689
+  },
+  {
+   "pdf": 93,
+   "printed": 89,
+   "type": "worksheet 107",
+   "images": 4,
+   "text_chars": 1696
+  },
+  {
+   "pdf": 94,
+   "printed": 90,
+   "type": "worksheet 108",
+   "images": 5,
+   "text_chars": 812
+  },
+  {
+   "pdf": 95,
+   "printed": 91,
+   "type": "worksheet 108",
+   "images": 11,
+   "text_chars": 719
+  },
+  {
+   "pdf": 96,
+   "printed": 92,
+   "type": "worksheet 109",
+   "images": 4,
+   "text_chars": 2040
+  },
+  {
+   "pdf": 97,
+   "printed": 93,
+   "type": "worksheet 109",
+   "images": 10,
+   "text_chars": 2064
+  },
+  {
+   "pdf": 98,
+   "printed": 94,
+   "type": "worksheet 110",
+   "images": 3,
+   "text_chars": 1912
+  },
+  {
+   "pdf": 99,
+   "printed": 95,
+   "type": "worksheet 110",
+   "images": 4,
+   "text_chars": 1555
+  },
+  {
+   "pdf": 100,
+   "printed": 96,
+   "type": "worksheet 111",
+   "images": 3,
+   "text_chars": 584
+  },
+  {
+   "pdf": 101,
+   "printed": 97,
+   "type": "worksheet 111",
+   "images": 5,
+   "text_chars": 1321
+  },
+  {
+   "pdf": 102,
+   "printed": 98,
+   "type": "worksheet 112",
+   "images": 6,
+   "text_chars": 1179
+  },
+  {
+   "pdf": 103,
+   "printed": 99,
+   "type": "worksheet 112",
+   "images": 4,
+   "text_chars": 173
+  },
+  {
+   "pdf": 104,
+   "printed": 100,
+   "type": "worksheet 112",
+   "images": 6,
+   "text_chars": 11
+  },
+  {
+   "pdf": 105,
+   "printed": 101,
+   "type": "cycle_overview",
+   "images": 3,
+   "text_chars": 2445
+  },
+  {
+   "pdf": 106,
+   "printed": 102,
+   "type": "worksheet 113",
+   "images": 5,
+   "text_chars": 1958
+  },
+  {
+   "pdf": 107,
+   "printed": 103,
+   "type": "worksheet 113",
+   "images": 6,
+   "text_chars": 1676
+  },
+  {
+   "pdf": 108,
+   "printed": 104,
+   "type": "worksheet 114",
+   "images": 5,
+   "text_chars": 2077
+  },
+  {
+   "pdf": 109,
+   "printed": 105,
+   "type": "worksheet 114",
+   "images": 6,
+   "text_chars": 1382
+  },
+  {
+   "pdf": 110,
+   "printed": 106,
+   "type": "worksheet 115",
+   "images": 6,
+   "text_chars": 559
+  },
+  {
+   "pdf": 111,
+   "printed": 107,
+   "type": "worksheet 115",
+   "images": 6,
+   "text_chars": 1246
+  },
+  {
+   "pdf": 112,
+   "printed": 108,
+   "type": "worksheet 116",
+   "images": 1,
+   "text_chars": 590
+  },
+  {
+   "pdf": 113,
+   "printed": 109,
+   "type": "worksheet 116",
+   "images": 2,
+   "text_chars": 271
+  },
+  {
+   "pdf": 114,
+   "printed": 110,
+   "type": "worksheet 117",
+   "images": 4,
+   "text_chars": 1442
+  },
+  {
+   "pdf": 115,
+   "printed": 111,
+   "type": "worksheet 117",
+   "images": 2,
+   "text_chars": 1390
+  },
+  {
+   "pdf": 116,
+   "printed": 112,
+   "type": "worksheet 118",
+   "images": 3,
+   "text_chars": 1249
+  },
+  {
+   "pdf": 117,
+   "printed": 113,
+   "type": "worksheet 118",
+   "images": 4,
+   "text_chars": 864
+  },
+  {
+   "pdf": 118,
+   "printed": 114,
+   "type": "worksheet 119",
+   "images": 5,
+   "text_chars": 3682
+  },
+  {
+   "pdf": 119,
+   "printed": 115,
+   "type": "worksheet 119",
+   "images": 5,
+   "text_chars": 1147
+  },
+  {
+   "pdf": 120,
+   "printed": 116,
+   "type": "worksheet 120",
+   "images": 19,
+   "text_chars": 569
+  },
+  {
+   "pdf": 121,
+   "printed": 117,
+   "type": "worksheet 120",
+   "images": 4,
+   "text_chars": 1131
+  },
+  {
+   "pdf": 122,
+   "printed": 118,
+   "type": "worksheet 121",
+   "images": 4,
+   "text_chars": 1558
+  },
+  {
+   "pdf": 123,
+   "printed": 119,
+   "type": "worksheet 121",
+   "images": 2,
+   "text_chars": 525
+  },
+  {
+   "pdf": 124,
+   "printed": 120,
+   "type": "worksheet 122",
+   "images": 1,
+   "text_chars": 933
+  },
+  {
+   "pdf": 125,
+   "printed": 121,
+   "type": "worksheet 122",
+   "images": 2,
+   "text_chars": 158
+  },
+  {
+   "pdf": 126,
+   "printed": 122,
+   "type": "worksheet 123",
+   "images": 3,
+   "text_chars": 1574
+  },
+  {
+   "pdf": 127,
+   "printed": 123,
+   "type": "worksheet 123",
+   "images": 3,
+   "text_chars": 1105
+  },
+  {
+   "pdf": 128,
+   "printed": 124,
+   "type": "worksheet 124",
+   "images": 8,
+   "text_chars": 886
+  },
+  {
+   "pdf": 129,
+   "printed": 125,
+   "type": "worksheet 124",
+   "images": 5,
+   "text_chars": 651
+  },
+  {
+   "pdf": 130,
+   "printed": 126,
+   "type": "worksheet 125",
+   "images": 4,
+   "text_chars": 2310
+  },
+  {
+   "pdf": 131,
+   "printed": 127,
+   "type": "worksheet 125",
+   "images": 2,
+   "text_chars": 1558
+  },
+  {
+   "pdf": 132,
+   "printed": 128,
+   "type": "worksheet 126",
+   "images": 2,
+   "text_chars": 736
+  },
+  {
+   "pdf": 133,
+   "printed": 129,
+   "type": "worksheet 126 (Tema 8 Ek kan checklist)",
+   "images": 6,
+   "text_chars": 1071
+  },
+  {
+   "pdf": 134,
+   "printed": 130,
+   "type": "worksheet 126 (child-safety information and helplines)",
+   "images": 10,
+   "text_chars": 503
+  },
+  {
+   "pdf": 135,
+   "printed": null,
+   "type": "extra_tearout_or_back_matter",
+   "images": 175,
+   "text_chars": 332
+  },
+  {
+   "pdf": 136,
+   "printed": null,
+   "type": "extra_tearout_or_back_matter",
+   "images": 174,
+   "text_chars": 66
+  },
+  {
+   "pdf": 137,
+   "printed": null,
+   "type": "extra_tearout_or_back_matter",
+   "images": 8,
+   "text_chars": 3410
+  },
+  {
+   "pdf": 138,
+   "printed": null,
+   "type": "extra_tearout_or_back_matter",
+   "images": 18,
+   "text_chars": 2368
+  }
+ ],
+ "lessons": [
+  {
+   "key": "gr6-afr-b2-wk065",
+   "werkkaart": 65,
+   "title_af": "Die seun wat sy talent gaan soek het",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    2,
+    3
+   ],
+   "pdf_pages": [
+    6,
+    7
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2741,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 14,
+    "quiz_questions": 10,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "listen": 1,
+     "mcq": 2,
+     "short_answer": 5,
+     "writing": 1,
+     "true_false": 1,
+     "fill_blank": 1,
+     "match": 1,
+     "order": 1
+    },
+    "activities_from_workbook": 9,
+    "activities_supplementary": 5,
+    "quiz_from_workbook": 2,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 8,
+     "needs_review": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": [
+    "Die vrae oor Charl se gevoelens en die hoofgedagte is inferensievrae met meer as een aanvaarbare antwoord.",
+    "Die storie strek oor werkkaarte 65 en 66; die hoofgedagte-vraag op werkkaart 65 vra eintlik om die hele storie."
+   ]
+  },
+  {
+   "key": "gr6-afr-b2-wk066",
+   "werkkaart": 66,
+   "title_af": "Charl soek verder",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    4,
+    5
+   ],
+   "pdf_pages": [
+    8,
+    9
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3491,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 12,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "short_answer": 3,
+     "mcq": 2,
+     "match": 1,
+     "discuss": 1,
+     "writing": 1,
+     "fill_blank": 1,
+     "true_false": 1,
+     "order": 1
+    },
+    "activities_from_workbook": 8,
+    "activities_supplementary": 4,
+    "quiz_from_workbook": 2,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "derived_from_text": 8,
+     "needs_review": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk067",
+   "werkkaart": 67,
+   "title_af": "Ons skryf ’n verslag",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    6,
+    7
+   ],
+   "pdf_pages": [
+    10,
+    11
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3174,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 11,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "short_answer": 5,
+     "order": 1,
+     "writing": 1,
+     "true_false": 1,
+     "fill_blank": 1,
+     "choices": 1
+    },
+    "activities_from_workbook": 8,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 1,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "official": 1,
+     "derived_from_text": 4,
+     "needs_review": 1,
+     "derived_from_rule": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk068",
+   "werkkaart": 68,
+   "title_af": "Verskillende soorte werkwoorde",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    8,
+    9
+   ],
+   "pdf_pages": [
+    12,
+    13
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": true,
+   "page_chars": 2574,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 9,
+    "quiz_questions": 10,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "fill_blank": 4,
+     "choices": 2,
+     "short_answer": 1,
+     "writing": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 7,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 9,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "derived_from_rule": 6,
+     "official": 4
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk069",
+   "werkkaart": 69,
+   "title_af": "’n Koerantberig",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    10,
+    11
+   ],
+   "pdf_pages": [
+    14,
+    15
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2904,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 12,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "listen": 1,
+     "fill_blank": 2,
+     "short_answer": 6,
+     "match": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 8,
+    "activities_supplementary": 4,
+    "quiz_from_workbook": 2,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "derived_from_text": 8,
+     "needs_review": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk070",
+   "werkkaart": 70,
+   "title_af": "Spelling en spelpatrone",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    12,
+    13
+   ],
+   "pdf_pages": [
+    16,
+    17
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": true,
+   "page_chars": 3134,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 10,
+    "answers_verified": true,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "choices": 4,
+     "fill_blank": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 4,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 10,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 10
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk071",
+   "werkkaart": 71,
+   "title_af": "Nelson Mandela gaan hoërskool toe",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    14,
+    15
+   ],
+   "pdf_pages": [
+    18,
+    19
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 2,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 4976,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 10,
+    "quiz_questions": 10,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 2,
+     "listen": 1,
+     "short_answer": 1,
+     "order": 1,
+     "match": 1,
+     "choices": 2,
+     "fill_blank": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 7,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 3,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "derived_from_text": 6,
+     "derived_from_rule": 2,
+     "needs_review": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk072",
+   "werkkaart": 72,
+   "title_af": "Kom ons skryf ’n storie",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Stories en berigte",
+   "printed_pages": [
+    16,
+    17
+   ],
+   "pdf_pages": [
+    20,
+    21
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2360,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "writing": 4,
+     "order": 1,
+     "choices": 1,
+     "fill_blank": 1
+    },
+    "activities_from_workbook": 4,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "official": 6,
+     "derived_from_rule": 1,
+     "derived_from_text": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk073",
+   "werkkaart": 73,
+   "title_af": "Jabu en die leeu",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    18,
+    19
+   ],
+   "pdf_pages": [
+    22,
+    23
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 2,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 4097,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 12,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 4,
+     "listen": 1,
+     "short_answer": 3,
+     "true_false": 1,
+     "fill_blank": 1,
+     "match": 1,
+     "order": 1
+    },
+    "activities_from_workbook": 7,
+    "activities_supplementary": 5,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 9,
+    "quiz_answer_status": {
+     "derived_from_text": 8,
+     "official": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk074",
+   "werkkaart": 74,
+   "title_af": "Jabu hoor die leeu se gebrul",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    20,
+    21
+   ],
+   "pdf_pages": [
+    24,
+    25
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2354,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 10,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "mcq": 4,
+     "order": 1,
+     "short_answer": 2,
+     "match": 1,
+     "choices": 1,
+     "fill_blank": 1
+    },
+    "activities_from_workbook": 9,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 9,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "derived_from_text": 4,
+     "derived_from_rule": 4,
+     "official": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk075",
+   "werkkaart": 75,
+   "title_af": "Wat het met die leeu gebeur?",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    22,
+    23
+   ],
+   "pdf_pages": [
+    26,
+    27
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 4034,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "discuss": 1,
+     "short_answer": 1,
+     "true_false": 1,
+     "mcq": 1,
+     "order": 1,
+     "fill_blank": 1,
+     "match": 1
+    },
+    "activities_from_workbook": 2,
+    "activities_supplementary": 6,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 9,
+    "quiz_answer_status": {
+     "derived_from_text": 6,
+     "needs_review": 2,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk076",
+   "werkkaart": 76,
+   "title_af": "Kom ons dink na oor die storie",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    24,
+    25
+   ],
+   "pdf_pages": [
+    28,
+    29
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1728,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "choices": 2,
+     "short_answer": 2,
+     "order": 1,
+     "writing": 1,
+     "match": 1
+    },
+    "activities_from_workbook": 7,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "official": 4,
+     "needs_review": 4
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk077",
+   "werkkaart": 77,
+   "title_af": "Dink na oor die karakters",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    26,
+    27
+   ],
+   "pdf_pages": [
+    30,
+    31
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1822,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 10,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "fill_blank": 2,
+     "choices": 1,
+     "writing": 4,
+     "short_answer": 1,
+     "match": 1
+    },
+    "activities_from_workbook": 8,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 1,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "derived_from_rule": 5,
+     "official": 1,
+     "derived_from_text": 1,
+     "needs_review": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk078",
+   "werkkaart": 78,
+   "title_af": "Werk met sinne",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    28,
+    29
+   ],
+   "pdf_pages": [
+    32,
+    33
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": true,
+   "page_chars": 3583,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "fill_blank": 4,
+     "choices": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "derived_from_rule": 5,
+     "official": 3
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk079",
+   "werkkaart": 79,
+   "title_af": "’n Vriendskaplike brief",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    30,
+    31
+   ],
+   "pdf_pages": [
+    34,
+    35
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2074,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "short_answer": 2,
+     "choices": 1,
+     "order": 1,
+     "writing": 1,
+     "true_false": 1,
+     "fill_blank": 1
+    },
+    "activities_from_workbook": 2,
+    "activities_supplementary": 6,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 7,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk080",
+   "werkkaart": 80,
+   "title_af": "Voeg hulle saam",
+   "tema": 5,
+   "tema_title": "Feit en fiksie",
+   "quarter": 3,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Volksverhale",
+   "printed_pages": [
+    32,
+    33
+   ],
+   "pdf_pages": [
+    36,
+    37
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": true,
+   "page_chars": 2637,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "match": 2,
+     "short_answer": 2,
+     "fill_blank": 1,
+     "choices": 1,
+     "true_false": 1,
+     "writing": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "needs_review": 1,
+     "derived_from_rule": 5,
+     "official": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk081",
+   "werkkaart": 81,
+   "title_af": "Hasie maak alarm",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    36,
+    37
+   ],
+   "pdf_pages": [
+    40,
+    41
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 4635,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "discuss": 2,
+     "mcq": 1,
+     "order": 1,
+     "match": 1,
+     "fill_blank": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 5,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 9,
+    "quiz_answer_status": {
+     "derived_from_text": 5,
+     "needs_review": 3,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk082",
+   "werkkaart": 82,
+   "title_af": "Ons dink na oor die storie",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    38,
+    39
+   ],
+   "pdf_pages": [
+    42,
+    43
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2385,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 15,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "mcq": 5,
+     "short_answer": 7,
+     "writing": 1,
+     "discuss": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 14,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "derived_from_text": 4,
+     "needs_review": 2,
+     "official": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk083",
+   "werkkaart": 83,
+   "title_af": "Kom ons skryf die storie",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    40,
+    41
+   ],
+   "pdf_pages": [
+    44,
+    45
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 721,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "order": 1,
+     "writing": 2,
+     "fill_blank": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "official": 3,
+     "derived_from_text": 4,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk084",
+   "werkkaart": 84,
+   "title_af": "Ons hersien briewe",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    42,
+    43
+   ],
+   "pdf_pages": [
+    46,
+    47
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3560,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 11,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "discuss": 1,
+     "mcq": 2,
+     "short_answer": 4,
+     "choices": 1,
+     "order": 1,
+     "fill_blank": 1
+    },
+    "activities_from_workbook": 9,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 4,
+    "quiz_supplementary": 5,
+    "quiz_answer_status": {
+     "derived_from_text": 7,
+     "derived_from_rule": 1,
+     "official": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk085",
+   "werkkaart": 85,
+   "title_af": "Kom ons skryf ook ’n brief",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    44,
+    45
+   ],
+   "pdf_pages": [
+    48,
+    49
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1046,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 5,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "order": 1,
+     "writing": 1,
+     "choices": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "official": 6,
+     "derived_from_rule": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk086",
+   "werkkaart": 86,
+   "title_af": "’n E-pos van ’n maat",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    46,
+    47
+   ],
+   "pdf_pages": [
+    50,
+    51
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3438,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 9,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "short_answer": 3,
+     "fill_blank": 2,
+     "choices": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 7,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 2,
+    "quiz_answer_status": {
+     "derived_from_text": 5,
+     "official": 1,
+     "derived_from_rule": 3
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk087",
+   "werkkaart": 87,
+   "title_af": "Meer oor taal",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    48,
+    49
+   ],
+   "pdf_pages": [
+    52,
+    53
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": true,
+   "page_chars": 2444,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "choices": 1,
+     "fill_blank": 2,
+     "short_answer": 2,
+     "match": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "derived_from_rule": 7,
+     "official": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk088",
+   "werkkaart": 88,
+   "title_af": "Werk met sinne",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Stories en briewe",
+   "printed_pages": [
+    50,
+    51
+   ],
+   "pdf_pages": [
+    54,
+    55
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": true,
+   "page_chars": 1888,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "short_answer": 3,
+     "match": 1,
+     "choices": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 4,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 4,
+     "derived_from_rule": 4
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk089",
+   "werkkaart": 89,
+   "title_af": "Supa Strikas",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Strokiesprent verhale is pret",
+   "printed_pages": [
+    52,
+    53
+   ],
+   "pdf_pages": [
+    56,
+    57
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1791,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "mcq": 3,
+     "match": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 1,
+    "activities_supplementary": 5,
+    "quiz_from_workbook": 1,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "official": 1,
+     "derived_from_text": 4,
+     "derived_from_rule": 2,
+     "needs_review": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk090",
+   "werkkaart": 90,
+   "title_af": "Ons skryf oor die Supa Strikas",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Strokiesprent verhale is pret",
+   "printed_pages": [
+    54,
+    55
+   ],
+   "pdf_pages": [
+    58,
+    59
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 2,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2293,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 13,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 2,
+     "short_answer": 9,
+     "writing": 1,
+     "fill_blank": 1
+    },
+    "activities_from_workbook": 13,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 5,
+    "quiz_supplementary": 3,
+    "quiz_answer_status": {
+     "derived_from_text": 5,
+     "derived_from_rule": 3
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk091",
+   "werkkaart": 91,
+   "title_af": "Skryf jou eie advertensie",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Strokiesprent verhale is pret",
+   "printed_pages": [
+    56,
+    57
+   ],
+   "pdf_pages": [
+    60,
+    61
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1265,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "writing": 3,
+     "discuss": 1,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 4,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "official": 6,
+     "derived_from_rule": 1,
+     "derived_from_text": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk092",
+   "werkkaart": 92,
+   "title_af": "Taalstrukture en -konvensies",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Strokiesprent verhale is pret",
+   "printed_pages": [
+    58,
+    59
+   ],
+   "pdf_pages": [
+    62,
+    63
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": true,
+   "page_chars": 4149,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "fill_blank": 2,
+     "short_answer": 3,
+     "match": 1,
+     "choices": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 7,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 9,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 8,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk093",
+   "werkkaart": 93,
+   "title_af": "Hennie is ’n rugbyster!",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk9-10",
+   "group_title": "Week 9 – 10: Speeltyd",
+   "printed_pages": [
+    60,
+    61
+   ],
+   "pdf_pages": [
+    64,
+    65
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3874,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "short_answer": 4,
+     "order": 1,
+     "match": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 2,
+    "quiz_supplementary": 6,
+    "quiz_answer_status": {
+     "derived_from_text": 6,
+     "official": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk094",
+   "werkkaart": 94,
+   "title_af": "Sleutelkenmerke van ’n dramateks",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk9-10",
+   "group_title": "Week 9 – 10: Speeltyd",
+   "printed_pages": [
+    62,
+    63
+   ],
+   "pdf_pages": [
+    66,
+    67
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1663,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "choices": 1,
+     "short_answer": 1,
+     "match": 1,
+     "true_false": 2
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 5,
+     "needs_review": 2,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk095",
+   "werkkaart": 95,
+   "title_af": "Skryf jul eie drama",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk9-10",
+   "group_title": "Week 9 – 10: Speeltyd",
+   "printed_pages": [
+    64,
+    65
+   ],
+   "pdf_pages": [
+    68,
+    69
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 369,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "writing": 4,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "official": 7,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk096",
+   "werkkaart": 96,
+   "title_af": "Taalstrukture en -konvensies",
+   "tema": 6,
+   "tema_title": "Aanbiedingswyses",
+   "quarter": 3,
+   "weeks": "Week 5 – 10",
+   "group": "wk9-10",
+   "group_title": "Week 9 – 10: Speeltyd",
+   "printed_pages": [
+    66,
+    67
+   ],
+   "pdf_pages": [
+    70,
+    71
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": true,
+   "page_chars": 1851,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 10,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "match": 3,
+     "fill_blank": 3,
+     "short_answer": 3,
+     "writing": 1
+    },
+    "activities_from_workbook": 10,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 9,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "derived_from_text": 1,
+     "derived_from_rule": 6,
+     "official": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk097",
+   "werkkaart": 97,
+   "title_af": "Onderhoud met ’n musiekster",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    70,
+    71
+   ],
+   "pdf_pages": [
+    74,
+    75
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 4127,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 9,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "discuss": 3,
+     "writing": 1,
+     "fill_blank": 1,
+     "match": 1,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 4,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 9,
+    "quiz_answer_status": {
+     "derived_from_text": 8,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk098",
+   "werkkaart": 98,
+   "title_af": "Ons dink na oor die onderhoud",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    72,
+    73
+   ],
+   "pdf_pages": [
+    76,
+    77
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1838,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 13,
+    "quiz_questions": 9,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "short_answer": 11,
+     "fill_blank": 1,
+     "match": 1
+    },
+    "activities_from_workbook": 13,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 9,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "derived_from_text": 4,
+     "derived_from_rule": 4,
+     "official": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk099",
+   "werkkaart": 99,
+   "title_af": "Voer jou eie onderhoud",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    74,
+    75
+   ],
+   "pdf_pages": [
+    78,
+    79
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 965,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 3,
+     "writing": 2,
+     "choices": 1,
+     "order": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "official": 5,
+     "derived_from_rule": 3
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk100",
+   "werkkaart": 100,
+   "title_af": "Ons hersien bywoorde",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    76,
+    76
+   ],
+   "pdf_pages": [
+    80,
+    80
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": true,
+   "page_chars": 1490,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "match": 2,
+     "choices": 2,
+     "fill_blank": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 3,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 6,
+     "derived_from_rule": 2
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk101",
+   "werkkaart": 101,
+   "title_af": "Onthou jy nog?",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    77,
+    77
+   ],
+   "pdf_pages": [
+    81,
+    81
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": true,
+   "page_chars": 727,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 4,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "fill_blank": 1,
+     "choices": 1,
+     "short_answer": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "derived_from_rule": 6,
+     "official": 1,
+     "needs_review": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk102",
+   "werkkaart": 102,
+   "title_af": "Gebruik ’n onderhoudvraelys",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    78,
+    79
+   ],
+   "pdf_pages": [
+    82,
+    83
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2465,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": true,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "match": 1,
+     "writing": 3,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 6,
+    "quiz_supplementary": 2,
+    "quiz_answer_status": {
+     "official": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk103",
+   "werkkaart": 103,
+   "title_af": "Taalstrukture en -konvensies",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    80,
+    81
+   ],
+   "pdf_pages": [
+    84,
+    85
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": true,
+   "page_chars": 2590,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "choices": 2,
+     "short_answer": 2,
+     "match": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "derived_from_rule": 5,
+     "official": 2,
+     "derived_from_text": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk104",
+   "werkkaart": 104,
+   "title_af": "Ontwerp ’n onderhoudvraelys",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk1-2",
+   "group_title": "Week 1 – 2: Onderhoude en taaldinge",
+   "printed_pages": [
+    82,
+    83
+   ],
+   "pdf_pages": [
+    86,
+    87
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1163,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "writing": 4,
+     "choices": 1,
+     "discuss": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "official": 7,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk105",
+   "werkkaart": 105,
+   "title_af": "Taalstrukture en -konvensies",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    84,
+    85
+   ],
+   "pdf_pages": [
+    88,
+    89
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": true,
+   "page_chars": 3328,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "choices": 1,
+     "fill_blank": 2,
+     "short_answer": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 4,
+     "derived_from_rule": 3,
+     "needs_review": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk106",
+   "werkkaart": 106,
+   "title_af": "Die sewe kontinente",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    86,
+    87
+   ],
+   "pdf_pages": [
+    90,
+    91
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 933,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "fill_blank": 1,
+     "choices": 2,
+     "match": 1,
+     "discuss": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 7,
+     "derived_from_text": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk107",
+   "werkkaart": 107,
+   "title_af": "Vasvra oor die wêreldkaart",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    88,
+    89
+   ],
+   "pdf_pages": [
+    92,
+    93
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3385,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 2,
+     "choices": 3,
+     "match": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 3,
+     "derived_from_text": 5
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk108",
+   "werkkaart": 108,
+   "title_af": "Soveel kulture",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    90,
+    91
+   ],
+   "pdf_pages": [
+    94,
+    95
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1531,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 5,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "writing": 2,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "official": 6,
+     "derived_from_text": 1,
+     "needs_review": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk109",
+   "werkkaart": 109,
+   "title_af": "Ons behoort aan een familie",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    92,
+    93
+   ],
+   "pdf_pages": [
+    96,
+    97
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 2,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 4104,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "short_answer": 4,
+     "match": 1,
+     "choices": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk110",
+   "werkkaart": 110,
+   "title_af": "Mevrou Ples en Little Foot",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    94,
+    95
+   ],
+   "pdf_pages": [
+    98,
+    99
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3467,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "match": 1,
+     "choices": 1,
+     "fill_blank": 1,
+     "short_answer": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk111",
+   "werkkaart": 111,
+   "title_af": "Ons erfenis",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    96,
+    97
+   ],
+   "pdf_pages": [
+    100,
+    101
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1905,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 5,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "short_answer": 2,
+     "choices": 1,
+     "writing": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 4,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 6,
+    "quiz_supplementary": 2,
+    "quiz_answer_status": {
+     "official": 5,
+     "derived_from_rule": 2,
+     "derived_from_text": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk112",
+   "werkkaart": 112,
+   "title_af": "Beplan ’n pamflet",
+   "tema": 7,
+   "tema_title": "Hoe dit gedoen word",
+   "quarter": 4,
+   "weeks": "Week 1 – 4",
+   "group": "wk3-4",
+   "group_title": "Week 3 – 4: Lees om inligting te bekom",
+   "printed_pages": [
+    98,
+    100
+   ],
+   "pdf_pages": [
+    102,
+    104
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1363,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": true,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "order": 1,
+     "match": 1,
+     "writing": 3,
+     "discuss": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 7,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk113",
+   "werkkaart": 113,
+   "title_af": "Die biblioteekmonster",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    102,
+    103
+   ],
+   "pdf_pages": [
+    106,
+    107
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3634,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 5,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "choices": 1,
+     "short_answer": 1,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk114",
+   "werkkaart": 114,
+   "title_af": "Wie eet ons boeke?",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    104,
+    105
+   ],
+   "pdf_pages": [
+    108,
+    109
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3459,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 5,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "short_answer": 1,
+     "discuss": 1,
+     "writing": 1,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 1,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "derived_from_text": 7,
+     "official": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk115",
+   "werkkaart": 115,
+   "title_af": "Boekeweek",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    106,
+    107
+   ],
+   "pdf_pages": [
+    110,
+    111
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1805,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "short_answer": 1,
+     "writing": 2,
+     "choices": 2,
+     "match": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 3,
+     "derived_from_text": 2,
+     "derived_from_rule": 3
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk116",
+   "werkkaart": 116,
+   "title_af": "Skryf ’n resensie",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    108,
+    109
+   ],
+   "pdf_pages": [
+    112,
+    113
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 861,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 5,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "match": 1,
+     "writing": 2,
+     "order": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 7,
+     "derived_from_text": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk117",
+   "werkkaart": 117,
+   "title_af": "Die kinders gaan kampeer",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    110,
+    111
+   ],
+   "pdf_pages": [
+    114,
+    115
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2832,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 4,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 1,
+     "match": 1,
+     "choices": 1,
+     "short_answer": 1
+    },
+    "activities_from_workbook": 3,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk118",
+   "werkkaart": 118,
+   "title_af": "’n Veldavontuur",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    112,
+    113
+   ],
+   "pdf_pages": [
+    116,
+    117
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2113,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 10,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "order": 1,
+     "short_answer": 5,
+     "match": 1,
+     "writing": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 9,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "derived_from_text": 3,
+     "official": 4,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk119",
+   "werkkaart": 119,
+   "title_af": "Blindheid het my nie gekeer nie",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    114,
+    115
+   ],
+   "pdf_pages": [
+    118,
+    119
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 4829,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 2,
+     "match": 1,
+     "short_answer": 2,
+     "choices": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 1,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "derived_from_text": 7,
+     "official": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk120",
+   "werkkaart": 120,
+   "title_af": "Nog ’n kykie na taal",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk5-6",
+   "group_title": "Week 5 – 6: Storietyd",
+   "printed_pages": [
+    116,
+    117
+   ],
+   "pdf_pages": [
+    120,
+    121
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 0,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": true,
+   "page_chars": 1700,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "match": 3,
+     "choices": 1,
+     "short_answer": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 8,
+    "quiz_supplementary": 0,
+    "quiz_answer_status": {
+     "official": 5,
+     "derived_from_text": 2,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk121",
+   "werkkaart": 121,
+   "title_af": "Maandag-malligheid",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Gedigte vir kinders",
+   "printed_pages": [
+    118,
+    119
+   ],
+   "pdf_pages": [
+    122,
+    123
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2083,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "match": 1,
+     "short_answer": 3,
+     "choices": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 1,
+    "quiz_supplementary": 7,
+    "quiz_answer_status": {
+     "derived_from_text": 7,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk122",
+   "werkkaart": 122,
+   "title_af": "My eie gedig",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Gedigte vir kinders",
+   "printed_pages": [
+    120,
+    121
+   ],
+   "pdf_pages": [
+    124,
+    125
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1091,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 6,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "match": 1,
+     "discuss": 1,
+     "writing": 3,
+     "choices": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 7,
+    "quiz_supplementary": 1,
+    "quiz_answer_status": {
+     "official": 7,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk123",
+   "werkkaart": 123,
+   "title_af": "Rooikappie en die wolf",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Gedigte vir kinders",
+   "printed_pages": [
+    122,
+    123
+   ],
+   "pdf_pages": [
+    126,
+    127
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 1
+   },
+   "language_structures_by_title": false,
+   "page_chars": 2679,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "short_answer": 4,
+     "choices": 1,
+     "discuss": 1
+    },
+    "activities_from_workbook": 6,
+    "activities_supplementary": 1,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk124",
+   "werkkaart": 124,
+   "title_af": "Limerieke",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Gedigte vir kinders",
+   "printed_pages": [
+    124,
+    125
+   ],
+   "pdf_pages": [
+    128,
+    129
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 3
+   },
+   "language_structures_by_title": false,
+   "page_chars": 1537,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "choices": 2,
+     "short_answer": 1,
+     "match": 1,
+     "writing": 2,
+     "true_false": 1
+    },
+    "activities_from_workbook": 8,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 4,
+    "quiz_supplementary": 4,
+    "quiz_answer_status": {
+     "official": 4,
+     "derived_from_text": 4
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk125",
+   "werkkaart": 125,
+   "title_af": "Pret met poësie",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Gedigte vir kinders",
+   "printed_pages": [
+    126,
+    127
+   ],
+   "pdf_pages": [
+    130,
+    131
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 1,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 2
+   },
+   "language_structures_by_title": false,
+   "page_chars": 3868,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 8,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "discuss": 2,
+     "match": 2,
+     "short_answer": 2,
+     "fill_blank": 1,
+     "true_false": 1
+    },
+    "activities_from_workbook": 8,
+    "activities_supplementary": 0,
+    "quiz_from_workbook": 2,
+    "quiz_supplementary": 6,
+    "quiz_answer_status": {
+     "derived_from_text": 8
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": []
+  },
+  {
+   "key": "gr6-afr-b2-wk126",
+   "werkkaart": 126,
+   "title_af": "Nuwejaar!",
+   "tema": 8,
+   "tema_title": "Vriendskap en omgee",
+   "quarter": 4,
+   "weeks": "Week 5 – 8",
+   "group": "wk7-8",
+   "group_title": "Week 7 – 8: Gedigte vir kinders",
+   "printed_pages": [
+    128,
+    130
+   ],
+   "pdf_pages": [
+    132,
+    134
+   ],
+   "skill_labels_on_page": {
+    "Luister en praat": 0,
+    "Lees en kyk": 1,
+    "Skryf en aanbied": 0
+   },
+   "language_structures_by_title": false,
+   "page_chars": 736,
+   "status": {
+    "identified": true,
+    "lesson_authored": true,
+    "activities": 7,
+    "quiz_questions": 8,
+    "answers_verified": false,
+    "visuals_processed": "original workbook pages attached (reference_pages); interactive recreation only where noted in review_notes",
+    "imported": true,
+    "reviewed": false,
+    "activity_kinds": {
+     "listen": 1,
+     "choices": 1,
+     "short_answer": 1,
+     "writing": 3,
+     "true_false": 1
+    },
+    "activities_from_workbook": 5,
+    "activities_supplementary": 2,
+    "quiz_from_workbook": 0,
+    "quiz_supplementary": 8,
+    "quiz_answer_status": {
+     "derived_from_text": 7,
+     "derived_from_rule": 1
+    },
+    "review_status": "needs_review"
+   },
+   "review_flags": [],
+   "notes": "Includes the Tema 8 “Ek kan” checklist (PDF 133, printed 129) and the child-safety / helpline page (PDF 134, printed 130)."
+  }
+ ],
+ "non_lesson_pages": {
+  "front_matter_pdf": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "cycle_overviews_pdf": [
+   5,
+   39,
+   73,
+   105
+  ],
+  "self_assessment_checklists_pdf": [
+   38,
+   72,
+   133
+  ],
+  "helpline_pdf": [
+   134
+  ],
+  "tearout_or_back_matter_pdf": [
+   135,
+   136,
+   137,
+   138
+  ],
+  "note": "PDF 38, 72 and 133 (Ek kan checklists) are attached to lessons 80, 96 and 126; PDF 134 (child-safety helplines) is a note in lesson 126; PDF 5, 39, 73 and 105 (cycle overviews) were used for objectives and skill areas but are not lessons of their own; PDF 1-4 are front matter and were not converted. PDF 135-138 are English cut-out/craft sheets (planet mobile, folding model, “My Telephone and Address Book”): they are not Afrikaans lesson topics, are not referenced by any worksheet and were NOT converted - flagged for manual review."
+ },
+ "open_issues": [
+  "The workbook has no answer key: answers for objective items are derived from the passage/grammar rule and recorded with answer_status (official only where the workbook itself prints the answer); none are official DBE answers. Items with answer_status needs_review should be checked by a teacher.",
+  "Tema 7 has no separate self-assessment checklist page (PDF 104 is the third page of worksheet 112).",
+  "PDF 135-138 (English cut-out/craft sheets) were not converted - see non_lesson_pages.",
+  "Map, drawing, Braille and cut-out tasks (worksheets 106, 112, 115, 119, 122) are represented by interactive questions plus the original page images; the drawing/labelling itself still happens in the printed workbook.",
+  "Worksheet 119: the table lists the year 2004 for the doctorate; the text only says “seven years after returning from the USA”, so that year is derived (needs_review).",
+  "Worksheet 118: the workbook’s cause-and-effect matching grid is ambiguous in two places; the app uses its own unambiguous cause/effect pairs (supplementary) and keeps the workbook version as a writing task."
+ ],
+ "progress": {
+  "lessons_total": 62,
+  "lessons_authored": 62,
+  "lessons_imported": 62,
+  "interactive_activities": 485,
+  "quiz_questions": 516
+ }
+}

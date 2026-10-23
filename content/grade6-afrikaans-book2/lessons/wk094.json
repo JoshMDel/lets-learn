@@ -1,0 +1,735 @@
+{
+ "key": "gr6-afr-b2-wk094",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 94,
+ "title_af": "Sleutelkenmerke van ’n dramateks",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk9-10",
+  "name_af": "Tema 6 · Week 9–10: Speeltyd",
+  "name_en": "Theme 6 · Weeks 9–10: Playtime",
+  "sort": 105
+ },
+ "tier_number": 2,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 9–10",
+ "skill_areas": [
+  "Lees en kyk",
+  "Taalstrukture en -konvensies"
+ ],
+ "printed_pages": [
+  62,
+  63
+ ],
+ "pdf_pages": [
+  66,
+  67
+ ],
+ "reference_pages": [
+  {
+   "pdf": 66,
+   "printed": 62,
+   "src": "/workbook/gr6-afr-b2/p066.webp"
+  },
+  {
+   "pdf": 67,
+   "printed": 63,
+   "src": "/workbook/gr6-afr-b2/p067.webp"
+  }
+ ],
+ "intro_af": "Wat maak ’n toneelstuk ’n toneelstuk? Vandag leer jy die sleutelkenmerke van ’n dramateks en soek jy die tegnieke wat die gehoor se aandag hou.",
+ "objectives_af": [
+  "Die kenmerke van ’n dramateks bestudeer (doel, uitleg, toneelaanwysings).",
+  "Toneeltegnieke identifiseer: tydsprong, konflik, onverwagse gebeure, beeldspraak en klankeffekte.",
+  "Stereotipes uitken."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Sleutelkenmerke van ’n dramateks",
+   "payload": {
+    "headers": [
+     "Kenmerk",
+     "Wat dit beteken"
+    ],
+    "rows": [
+     [
+      "**Drama/toneelstuk**",
+      "teks wat geskryf word met die doel om opgevoer te word"
+     ],
+     [
+      "**Uitleg**",
+      "karakters se woorde in dialoogformaat: die naam in hoofletters, ’n dubbelpunt, dan die woorde"
+     ],
+     [
+      "**Toneelaanwysings**",
+      "tussen hakies; dit beskryf waar die toneel hom afspeel, hoe karakters moet aantrek of optree, en klankeffekte"
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Tegnieke om die gehoor se aandag gevange te hou",
+   "payload": {
+    "bullets": [
+     "tydspronge",
+     "konflik tussen mense",
+     "onverwagte gebeure",
+     "beeldspraak en klankeffekte",
+     "Ons maak ook seker dat die teikengroep hulle met die gebeure in die drama kan vereenselwig."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Stereotipes",
+   "payload": {
+    "text": "Stereotiepe stellings is veralgemenings, bv. “Alle seuns moet rugby speel.”"
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Lees die toneelstuk weer",
+   "payload": {
+    "prompt": "Lees die toneelstuk op bladsy 60 en 61 weer. Dui aan watter tegnieke in die toneelstuk gebruik is en hoe hulle toegepas is.",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66,
+    "item": "Ons skryf"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter tegniek is dit?",
+   "payload": {
+    "prompt": "Watter tegniek word in die toneelstuk gebruik?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Hennie raak aan die slaap en droom van ’n rugbywedstryd (die toneel spring van die sitkamer na Loftus).",
+      "options": [
+       {
+        "key": "a",
+        "text": "tydsprong"
+       },
+       {
+        "key": "b",
+        "text": "konflik"
+       },
+       {
+        "key": "c",
+        "text": "klankeffek"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hennie en sy ouers stry oor sy huiswerk.",
+      "options": [
+       {
+        "key": "a",
+        "text": "tydsprong"
+       },
+       {
+        "key": "b",
+        "text": "konflik"
+       },
+       {
+        "key": "c",
+        "text": "klankeffek"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hennie word skielik ’n rugbyster in sy droom.",
+      "options": [
+       {
+        "key": "a",
+        "text": "onverwagse gebeure"
+       },
+       {
+        "key": "b",
+        "text": "konflik"
+       },
+       {
+        "key": "c",
+        "text": "beeldspraak"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "“Die bal trek soos ’n pyl uit ’n boog.”",
+      "options": [
+       {
+        "key": "a",
+        "text": "beeldspraak"
+       },
+       {
+        "key": "b",
+        "text": "konflik"
+       },
+       {
+        "key": "c",
+        "text": "tydsprong"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66,
+    "item": "tegnieke"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Tydsprong = tyd of plek spring; konflik = stry; onverwags = verbasend; beeldspraak = vergelyking of prentjie met woorde."
+   },
+   "answer_status": "needs_review",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Tegnieke en hoe hulle toegepas is",
+   "payload": {
+    "prompt": "Skryf neer hoe die tegnieke in die toneelstuk gebruik is.",
+    "lines": 6
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66,
+    "item": "tabel"
+   },
+   "suggested_answer": "Tydsprong: Hennie droom van die wedstryd. Konflik: tussen Hennie en sy ouers oor sy huiswerk. Onverwagse gebeure: hy word skielik ’n rugbyster in sy droom. Beeldspraak: “soos ’n pyl uit ’n boog”. Klankeffekte: die eindfluitjie en die kommentator se geskree.",
+   "answer_status": "needs_review",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die kenmerk by sy betekenis",
+   "payload": {
+    "prompt": "Verbind die kenmerk met sy betekenis.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "dramateks"
+     },
+     {
+      "key": "l2",
+      "text": "dialoog"
+     },
+     {
+      "key": "l3",
+      "text": "toneelaanwysing"
+     },
+     {
+      "key": "l4",
+      "text": "stereotipe stelling"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "die woorde wat karakters vir mekaar sê"
+     },
+     {
+      "key": "r3",
+      "text": "tussen hakies: waar en hoe die toneel speel"
+     },
+     {
+      "key": "r4",
+      "text": "’n veralgemening, bv. Alle seuns moet rugby speel"
+     },
+     {
+      "key": "r1",
+      "text": "teks wat geskryf word om opgevoer te word"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Dit is die werkboek se verduideliking."
+   },
+   "answer_status": "official",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "“Alle seuns moet rugby speel” is ’n stereotipe stelling."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek gee dit as voorbeeld van ’n veralgemening."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Toneelaanwysings word in aanhalingstekens geskryf."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Hulle word tussen hakies geskryf."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n dramateks?",
+   "explanation": "Die werkboek sê dit in die blou nota.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Teks wat geskryf word met die doel om opgevoer te word",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Teks wat in ’n koerant staan"
+    },
+    {
+     "key": "c",
+     "text": "Teks wat net vir lees is"
+    },
+    {
+     "key": "d",
+     "text": "’n Brief"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoe word karakters se woorde in ’n dramateks uiteengesit?",
+   "explanation": "Dit is die uitleg van ’n dramateks.",
+   "options": [
+    {
+     "key": "a",
+     "text": "In dialoogformaat: naam in hoofletters, dubbelpunt, dan die woorde",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "In paragrawe sonder name"
+    },
+    {
+     "key": "c",
+     "text": "In kolomme"
+    },
+    {
+     "key": "d",
+     "text": "In ’n tabel"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat beskryf toneelaanwysings?",
+   "explanation": "Toneelaanwysings word tussen hakies aangedui.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Waar die toneel hom afspeel, hoe karakters aantrek of optree en klankeffekte",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Wat die karakters sê"
+    },
+    {
+     "key": "c",
+     "text": "Wie die skrywer is"
+    },
+    {
+     "key": "d",
+     "text": "Hoeveel woorde in die teks is"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n stereotiepe stelling?",
+   "explanation": "Die werkboek gee hierdie voorbeeld.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Veralgemening, bv. “Alle seuns moet rugby speel”",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Feit wat altyd waar is"
+    },
+    {
+     "key": "c",
+     "text": "’n Vraag"
+    },
+    {
+     "key": "d",
+     "text": "’n Beskrywing van ’n plek"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Watter tegniek is die droom in die toneelstuk?",
+   "explanation": "Die toneel spring van die sitkamer na Hennie se droom by Loftus.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tydsprong",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Klankeffek"
+    },
+    {
+     "key": "c",
+     "text": "Beeldspraak"
+    },
+    {
+     "key": "d",
+     "text": "Stereotipe"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66,
+    "item": "tegnieke"
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "inference",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Waar is daar konflik in die toneelstuk?",
+   "explanation": "Hulle stry oor die huiswerk.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Tussen Hennie en sy ouers oor sy huiswerk",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Tussen Hennie en die TV"
+    },
+    {
+     "key": "c",
+     "text": "Tussen die ouers en die dokter"
+    },
+    {
+     "key": "d",
+     "text": "Tussen die verteller en die gehoor"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66,
+    "item": "tegnieke"
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter van die volgende is beeldspraak?",
+   "explanation": "Dit is ’n vergelyking: die bal is soos ’n pyl.",
+   "options": [
+    {
+     "key": "a",
+     "text": "“Die bal trek soos ’n pyl uit ’n boog.”",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "“Hennie, het jy jou huiswerk gedoen?”"
+    },
+    {
+     "key": "c",
+     "text": "[Tel boeketas van die vloer af op.]"
+    },
+    {
+     "key": "d",
+     "text": "“Ek is nie Shakespeare nie.”"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66,
+    "item": "tegnieke"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoekom gebruik skrywers tegnieke soos tydspronge en konflik?",
+   "explanation": "Die werkboek lys dit as tegnieke om die gehoor se aandag te hou.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om die gehoor se aandag gevange te hou",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om die toneelstuk langer te maak"
+    },
+    {
+     "key": "c",
+     "text": "Om die karakters te verwar"
+    },
+    {
+     "key": "d",
+     "text": "Om die teks mooi te maak sonder rede"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 62,
+    "pdf_page": 66
+   },
+   "key": "q08"
+  }
+ ],
+ "passage": {
+  "title": "Hennie is ’n rugbyster! (werkkaart 93)",
+  "language": "af",
+  "sentences": [
+   "Toneel: In Hennie se sitkamer.",
+   "Hy lê op die rusbank en kyk na ’n rugbywedstryd op TV.",
+   "Sy ma en pa kyk besorg na hom omdat hy nie sy huiswerk doen nie.",
+   "MOEDER: Hennie, het jy jou huiswerk gedoen?",
+   "HENNIE: Hm … aa … wel, min of meer.",
+   "Hm … ek het nie regtig baie huiswerk nie, Ma.",
+   "Al wat ek moet doen, is om ’n storie van 300 woorde oor iets te skryf.",
+   "Ek sal dit doen, maar ek wil net gou eers die res van die wedstryd kyk.",
+   "MOEDER: Hennie Havenga, gaan doen nou dadelik jou huiswerk! [Tel boeketas van die vloer af op en sit dit bo-op die tafel neer.]",
+   "HENNIE: Ai Ma!",
+   "Hoe kan ons onderwyser ons vra om ’n storie van 300 woorde te skryf?",
+   "Ek is nie Shakespeare nie!",
+   "Driehonderd woorde!",
+   "Dit sal ’n ewigheid duur!",
+   "Waaroor sal ek skryf?",
+   "Kan ek nie net gou eers na hierdie wedstryd tussen die Bulle en die Leeus kyk nie?",
+   "Ek sal direk ná die wedstryd my huiswerk begin doen, ek belowe!",
+   "VADER: [Haal ’n boek uit die skoolsak en maak dit oop.] Dalk sal dit jou help.",
+   "Kyk na hierdie breinkaart in jou werkboek.",
+   "Dit sê jy moet jou onderwerp in die middel skryf, en dan jou vier hoofgedagtes in elk van hierdie vier raampies.",
+   "Dis baie maklik!",
+   "Komaan, seun.",
+   "HENNIE: Maar Pa, waaroor kan ek skryf?",
+   "Ek sal begin met my naam en van.",
+   "Dan het ek reeds twee woorde.",
+   "Nog het 298 woorde!",
+   "Ek wens ek kan net die wedstryd klaar kyk.",
+   "Okei, okei, ek sal begin dink.",
+   "Waaroor sal ek skryf? [Hennie raak aan die slaap met sy kop op sy boeketas.]",
+   "VERTELLER: Hoe meer Hennie aan ’n onderwerp probeer dink, hoe vaker word hy.",
+   "Hy gaap luidrugtig en sit sy kop op sy boeketas neer.",
+   "Gou is hy vas aan die slaap.",
+   "Hy droom van die wedstryd waarna hy besig was om te kyk.",
+   "Hy sit by Loftus in die voorste ry, net agter die doelpale.",
+   "Hy hou die bal senuweeagtig dop.",
+   "Sy span verloor en daar bly nog net vyf minute oor.",
+   "Die flank loop mank, en die beseerde losskakel is pas van die veld af gedra.",
+   "Uit desperaatheid spring Hennie self op die veld en onderskep die bal by die opponente.",
+   "Hy is vinniger en ratser as enige van die ander span se spelers.",
+   "Dan span Hennie elke spier in sy liggaam in, en konsentreer hy soos nog nooit tevore nie.",
+   "Drie sekondes voordat die eindfluitjie blaas, mik hy ’n skepskop pale toe.",
+   "Die bal trek soos ’n pyl uit ’n boog en seil perfek tussen die pale deur!",
+   "Hennie se glimlaggende gesig verskyn op miljoene TV’s oor die hele land.",
+   "Die kommentator skree opgewonde: Hennie Havenga het pas die wenpunte aangeteken!",
+   "Ons het ’n nuwe rugbyster, Hennie Havenga!",
+   "Suid-Afrika, hier is julle nuwe ster!",
+   "MOEDER: [Maak vir Hennie wakker.] Hennie, word wakker!",
+   "Jy het huiswerk om te doen!",
+   "HENNIE: Wat?",
+   "Wat is aan die gang?",
+   "VADER: Hennie!",
+   "Wat dink jy doen jy?",
+   "Jy moet jou huiswerk klaarmaak!",
+   "MOEDER: Dalk het die slapie jou die energie gegee wat jy nodig het om jou storie te skryf.",
+   "Wil jy hê ek moet jou help dink aan ’n onderwerp vir jou storie?",
+   "HENNIE: [Met ’n breë glimlag.] Nee dankie, Ma.",
+   "Ek weet presies waaroor ek gaan skryf!"
+  ],
+  "paragraph_starts": [
+   0,
+   3,
+   4,
+   8,
+   9,
+   17,
+   22,
+   29,
+   46,
+   48,
+   50,
+   53,
+   55
+  ],
+  "glossary": [
+   {
+    "term": "besorg",
+    "definition": "Bekommerd en omgee.",
+    "sentence_index": 2
+   },
+   {
+    "term": "boeketas",
+    "definition": "’n Skooltas vir boeke.",
+    "sentence_index": 8
+   },
+   {
+    "term": "losskakel",
+    "definition": "’n Posisie in rugby (’n speler).",
+    "sentence_index": 36
+   },
+   {
+    "term": "flank",
+    "definition": "’n Posisie in rugby (’n speler aan die kant).",
+    "sentence_index": 36
+   },
+   {
+    "term": "opponente",
+    "definition": "Teenstanders.",
+    "sentence_index": 37
+   },
+   {
+    "term": "skepskop",
+    "definition": "’n Hoë skop in rugby wat oor die kruisbalk mik.",
+    "sentence_index": 40
+   },
+   {
+    "term": "desperaatheid",
+    "definition": "Wanhoop; ’n gevoel dat jy nie kan wag nie.",
+    "sentence_index": 37
+   },
+   {
+    "term": "Shakespeare",
+    "definition": "’n Beroemde Engelse skrywer.",
+    "sentence_index": 11
+   }
+  ]
+ }
+}

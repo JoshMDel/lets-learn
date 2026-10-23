@@ -1,0 +1,549 @@
+{
+ "key": "gr6-afr-b2-wk101",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 101,
+ "title_af": "Onthou jy nog?",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 5,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Taalstrukture en -konvensies",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  77,
+  77
+ ],
+ "pdf_pages": [
+  81,
+  81
+ ],
+ "reference_pages": [
+  {
+   "pdf": 81,
+   "printed": 77,
+   "src": "/workbook/gr6-afr-b2/p081.webp"
+  }
+ ],
+ "intro_af": "Onthou jy nog hoe woorde in die meervoud en verkleining verander, en hoe byvoeglike naamwoorde werk? Tyd vir ’n vinnige hersiening!",
+ "objectives_af": [
+  "Meervoude en verkleinwoorde vorm.",
+  "Selfstandige en byvoeglike naamwoorde in sinne gebruik.",
+  "Die byvoeglike naamwoord voor en ná die selfstandige naamwoord skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Selfstandige naamwoorde",
+   "payload": {
+    "text": "Selfstandige naamwoorde is die name van mense, dinge en plekke."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "table",
+   "title_af": "Byvoeglike naamwoord voor of ná die selfstandige naamwoord",
+   "payload": {
+    "headers": [
+     "Voor (met -e)",
+     "Ná (sonder -e)"
+    ],
+    "rows": [
+     [
+      "Hy is ’n **lang** seun.",
+      "Die seun is **lank**."
+     ]
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "fill_blank",
+   "title_af": "Meervoud en verkleining",
+   "payload": {
+    "text": "seun: meervoud {{1}}, verkleining {{2}}\nlied: meervoud {{3}}, verkleining {{4}}\nonderhoud: meervoud {{5}}, verkleining {{6}}\nradio: meervoud {{7}}, verkleining {{8}}",
+    "prompt": "Voltooi die tabel."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "tabel"
+   },
+   "answer": {
+    "1": [
+     "seuns"
+    ],
+    "2": [
+     "seuntjie",
+     "seunie"
+    ],
+    "3": [
+     "liedere",
+     "liedjies"
+    ],
+    "4": [
+     "liedjie"
+    ],
+    "5": [
+     "onderhoude"
+    ],
+    "6": [
+     "onderhoudjie",
+     "onderhoudjie"
+    ],
+    "7": [
+     "radio’s",
+     "radios"
+    ],
+    "8": [
+     "radiotjie",
+     "radio’tjie"
+    ]
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk mooi na die woord se plek in die sin.",
+    "explanation": "Kyk na die reëls vir meervoud (-e of -s) en verkleining (-jie, -tjie, -kie, -etjie, -pie)."
+   },
+   "answer_status": "needs_review",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Byvoeglike naamwoord: kies die regte vorm",
+   "payload": {
+    "prompt": "Kies die korrekte vorm.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Hy is ’n ___ seun.",
+      "options": [
+       {
+        "key": "a",
+        "text": "lank"
+       },
+       {
+        "key": "b",
+        "text": "lang"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die seun is ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "lank"
+       },
+       {
+        "key": "b",
+        "text": "lang"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Sy is ’n ___ meisie.",
+      "options": [
+       {
+        "key": "a",
+        "text": "talentvol"
+       },
+       {
+        "key": "b",
+        "text": "talentvolle"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die meisie is ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "talentvol"
+       },
+       {
+        "key": "b",
+        "text": "talentvolle"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Hy is ’n ___ omroeper.",
+      "options": [
+       {
+        "key": "a",
+        "text": "bekwaam"
+       },
+       {
+        "key": "b",
+        "text": "bekwame"
+       }
+      ]
+     },
+     {
+      "key": "q6",
+      "text": "Die omroeper is ___.",
+      "options": [
+       {
+        "key": "a",
+        "text": "bekwaam"
+       },
+       {
+        "key": "b",
+        "text": "bekwame"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "byvoeglike naamwoorde"
+   },
+   "answer": {
+    "answers": {
+     "q1": "b",
+     "q2": "a",
+     "q3": "b",
+     "q4": "a",
+     "q5": "b",
+     "q6": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Voor die selfstandige naamwoord kry die byvoeglike naamwoord dikwels -e; ná die naamwoord nie."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf jou eie sinne",
+   "payload": {
+    "prompt": "Gebruik hierdie selfstandige naamwoorde en byvoeglike naamwoorde om jou eie sinne te skryf. In die eerste sin moet jy die byvoeglike naamwoord voor die selfstandige naamwoord skryf. In die tweede sin moet jy die byvoeglike naamwoord ná die selfstandige naamwoord skryf: talentvol / meisie; bekwaam / omroeper; getrou / luisteraar; streng / bestuurder; pragtige / liedjie.",
+    "lines": 8
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "sinne"
+   },
+   "suggested_answer": "Die talentvolle meisie sing mooi. Die meisie is talentvol.\nHy is ’n bekwame omroeper. Die omroeper is bekwaam.\nSy is ’n getroue luisteraar. Die luisteraar is getrou.\nHy is ’n strenge bestuurder. Die bestuurder is streng.\nDit is ’n pragtige liedjie. Die liedjie is pragtig.",
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Selfstandige naamwoorde is die name van mense, dinge en plekke."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê dit in die nota."
+   },
+   "answer_status": "official",
+   "key": "act-04",
+   "sort_order": 40
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die meervoud van “seun”?",
+   "explanation": "Seun – seuns.",
+   "options": [
+    {
+     "key": "a",
+     "text": "seuns",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "seune"
+    },
+    {
+     "key": "c",
+     "text": "seunde"
+    },
+    {
+     "key": "d",
+     "text": "seunen"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "tabel"
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die verkleining van “lied”?",
+   "explanation": "Woorde op -d kry -jie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "liedjie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "liedtjie"
+    },
+    {
+     "key": "c",
+     "text": "liedie"
+    },
+    {
+     "key": "d",
+     "text": "liedpie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "tabel"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter vorm is korrek: “Hy is ’n ___ seun”?",
+   "explanation": "Voor die selfstandige naamwoord gebruik ons “lang”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "lang",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "lank"
+    },
+    {
+     "key": "c",
+     "text": "lange"
+    },
+    {
+     "key": "d",
+     "text": "langer"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "byvoeglike naamwoorde"
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter vorm is korrek: “Die seun is ___”?",
+   "explanation": "Ná die selfstandige naamwoord: lank.",
+   "options": [
+    {
+     "key": "a",
+     "text": "lank",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "lang"
+    },
+    {
+     "key": "c",
+     "text": "lange"
+    },
+    {
+     "key": "d",
+     "text": "lankste"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is die selfstandige naamwoord: “Die talentvolle meisie sing”?",
+   "explanation": "Meisie is die naam van ’n persoon.",
+   "options": [
+    {
+     "key": "a",
+     "text": "meisie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "talentvolle"
+    },
+    {
+     "key": "c",
+     "text": "sing"
+    },
+    {
+     "key": "d",
+     "text": "Die"
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter woord is die byvoeglike naamwoord: “’n pragtige liedjie”?",
+   "explanation": "Pragtige beskryf die liedjie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "pragtige",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "liedjie"
+    },
+    {
+     "key": "c",
+     "text": "’n"
+    },
+    {
+     "key": "d",
+     "text": "is"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "needs_review",
+   "prompt": "Wat is die verkleining van “radio”?",
+   "explanation": "Woorde wat op ’n klinker eindig, kry dikwels -tjie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "radiotjie",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "radiojie"
+    },
+    {
+     "key": "c",
+     "text": "radioie"
+    },
+    {
+     "key": "d",
+     "text": "radiokie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "tabel"
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die meervoud van “onderhoud”?",
+   "explanation": "Tweeklank-reël: voeg -e by.",
+   "options": [
+    {
+     "key": "a",
+     "text": "onderhoude",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "onderhoudde"
+    },
+    {
+     "key": "c",
+     "text": "onderhouds"
+    },
+    {
+     "key": "d",
+     "text": "onderhoudens"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 77,
+    "pdf_page": 81,
+    "item": "tabel"
+   },
+   "key": "q08"
+  }
+ ]
+}

@@ -1,0 +1,538 @@
+{
+ "key": "gr6-afr-b2-wk099",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 99,
+ "title_af": "Voer jou eie onderhoud",
+ "topic": {
+  "key": "gr6-afr-b2-t7-wk1-2",
+  "name_af": "Tema 7 · Week 1–2: Onderhoude en taaldinge",
+  "name_en": "Theme 7 · Weeks 1–2: Interviews and language",
+  "sort": 106
+ },
+ "tier_number": 3,
+ "term": 4,
+ "tema": 7,
+ "tema_title": "Hoe dit gedoen word",
+ "weeks": "Week 1–2",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  74,
+  75
+ ],
+ "pdf_pages": [
+  78,
+  79
+ ],
+ "reference_pages": [
+  {
+   "pdf": 78,
+   "printed": 74,
+   "src": "/workbook/gr6-afr-b2/p078.webp"
+  },
+  {
+   "pdf": 79,
+   "printed": 75,
+   "src": "/workbook/gr6-afr-b2/p079.webp"
+  }
+ ],
+ "intro_af": "Vandag is jy die radio-omroeper! Kies iemand, beplan vier vrae, voer die onderhoud en rolspeel dit voor die klas.",
+ "objectives_af": [
+  "’n Onderhoud beplan met ’n geheuekaart (spinnekopdiagram).",
+  "Vier belangrike vrae oor iemand se lewe en loopbaan opstel.",
+  "’n Onderhoud voer en die antwoorde invul.",
+  "Die onderhoud voor die klas rolspeel."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Hoe beplan jy ’n onderhoud?",
+   "payload": {
+    "bullets": [
+     "Dink met wie jy ’n onderhoud wil voer en skryf die naam in die middel van die spinnekopdiagram.",
+     "Dink aan die **vier belangrikste vrae** oor sy of haar lewe en loopbaan.",
+     "Voer die onderhoud (of vra ’n maat om voor te gee om die persoon te wees).",
+     "Skryf die antwoorde neer."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Jy is die radio-omroeper",
+   "payload": {
+    "prompt": "Vandag is jy ’n radio-omroeper. Dink met wie jy ’n onderhoud wil voer."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78,
+    "item": "Ons skryf"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "My vier belangrikste vrae",
+   "payload": {
+    "prompt": "Vul die persoon se naam in die middel van die spinnekopdiagram in. Skryf jou vier belangrikste vrae oor sy of haar lewe en loopbaan.",
+    "lines": 6,
+    "checklist": [
+     "Ek het die persoon se naam neergeskryf.",
+     "Vraag 1 is geskryf.",
+     "Vraag 2 is geskryf.",
+     "Vraag 3 is geskryf.",
+     "Vraag 4 is geskryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78,
+    "item": "vrae"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Voer die onderhoud",
+   "payload": {
+    "prompt": "Voer nou indien moontlik ’n werklike onderhoud met die persoon wat jy gekies het, en vra hom of haar jou vier vrae. Indien dit nie moontlik is nie, vra ’n maat om voor te gee om daardie persoon te wees, en doen ’n rolspel van die onderhoud."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78,
+    "item": "Ons doen"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Die antwoorde op my vrae",
+   "payload": {
+    "prompt": "Skryf ’n onderhoud met … Vul die antwoorde op jou vier vrae in (antwoord 1 tot 4).",
+    "lines": 10,
+    "checklist": [
+     "Ek het antwoord 1 neergeskryf.",
+     "Ek het antwoord 2 neergeskryf.",
+     "Ek het antwoord 3 neergeskryf.",
+     "Ek het antwoord 4 neergeskryf."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 75,
+    "pdf_page": 79,
+    "item": "antwoorde"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Rolspel voor die klas",
+   "payload": {
+    "prompt": "Rolspel jou en jou maat se onderhoud voor die klas."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 75,
+    "pdf_page": 79,
+    "item": "Ons doen"
+   },
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Goeie onderhoudvrae",
+   "payload": {
+    "prompt": "Is dit ’n goeie vraag vir ’n onderhoud (’n oop vraag wat meer as ja of nee vra)?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Vertel my van jou loopbaan.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Hou jy van sokker?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Hoe het jy begin sing?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Is jy 12?",
+      "options": [
+       {
+        "key": "a",
+        "text": "Ja"
+       },
+       {
+        "key": "b",
+        "text": "Nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Oop vrae wat met “Hoe”, “Vertel” of “Waarom” begin, gee langer antwoorde."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die stappe van ’n onderhoud",
+   "payload": {
+    "prompt": "Sit die stappe in die regte volgorde.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Skryf die antwoorde neer."
+     },
+     {
+      "key": "e1",
+      "text": "Kies met wie jy ’n onderhoud wil voer."
+     },
+     {
+      "key": "e5",
+      "text": "Rolspeel die onderhoud voor die klas."
+     },
+     {
+      "key": "e2",
+      "text": "Skryf vier belangrike vrae op die geheuekaart."
+     },
+     {
+      "key": "e3",
+      "text": "Voer die onderhoud."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Dit is die volgorde wat die werkboek gee."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat doen jy EERSTE as jy ’n onderhoud beplan?",
+   "explanation": "Die werkboek sê: dink met wie jy ’n onderhoud wil voer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Besluit met wie jy ’n onderhoud wil voer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Skryf die antwoorde"
+    },
+    {
+     "key": "c",
+     "text": "Rolspeel voor die klas"
+    },
+    {
+     "key": "d",
+     "text": "Voer die onderhoud"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Hoeveel belangrikste vrae moet jy opstel?",
+   "explanation": "Die werkboek sê: die vier belangrikste vrae.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vier",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een"
+    },
+    {
+     "key": "c",
+     "text": "Twee"
+    },
+    {
+     "key": "d",
+     "text": "Tien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat skryf jy in die middel van die spinnekopdiagram?",
+   "explanation": "Die werkboek sê vul die persoon se naam in die middel in.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die naam van die persoon met wie jy die onderhoud voer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die datum"
+    },
+    {
+     "key": "c",
+     "text": "Jou eie naam"
+    },
+    {
+     "key": "d",
+     "text": "Die titel van ’n lied"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat as jy nie ’n werklike onderhoud kan voer nie?",
+   "explanation": "Dit is die werkboek se opsie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jy vra ’n maat om voor te gee om die persoon te wees",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jy los die oefening uit"
+    },
+    {
+     "key": "c",
+     "text": "Jy skryf ’n gedig"
+    },
+    {
+     "key": "d",
+     "text": "Jy bel die onderwyser"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 74,
+    "pdf_page": 78
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter vraag is ’n goeie oop onderhoudvraag?",
+   "explanation": "Oop vrae gee langer antwoorde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vertel my van jou loopbaan.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Is jy ’n sanger?"
+    },
+    {
+     "key": "c",
+     "text": "Hou jy van koffie?"
+    },
+    {
+     "key": "d",
+     "text": "Is dit warm?"
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat doen jy ná die onderhoud?",
+   "explanation": "Die werkboek vra jou om die antwoorde in te vul en voor die klas te rolspeel.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Skryf die antwoorde neer en rolspeel dit",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Gooi dit weg"
+    },
+    {
+     "key": "c",
+     "text": "Begin ’n nuwe onderhoud"
+    },
+    {
+     "key": "d",
+     "text": "Niks nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 75,
+    "pdf_page": 79
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n radio-omroeper?",
+   "explanation": "In die oefening is jy die omroeper wat vrae vra.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Iemand wat op die radio praat en onderhoude voer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Iemand wat radio’s maak"
+    },
+    {
+     "key": "c",
+     "text": "Iemand wat net musiek speel"
+    },
+    {
+     "key": "d",
+     "text": "Iemand wat kos verkoop"
+    }
+   ],
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die doel van ’n onderhoud?",
+   "explanation": "Die onderhoudvoerder vra vrae en luister na die antwoorde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om meer oor iemand te leer deur vrae te vra",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om ’n gedig te skryf"
+    },
+    {
+     "key": "c",
+     "text": "Om ’n sokkerwedstryd te wen"
+    },
+    {
+     "key": "d",
+     "text": "Om ’n boek te lees"
+    }
+   ],
+   "key": "q08"
+  }
+ ]
+}

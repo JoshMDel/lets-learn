@@ -1,0 +1,559 @@
+{
+ "key": "gr6-afr-b2-wk089",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 89,
+ "title_af": "Supa Strikas",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk7-8",
+  "name_af": "Tema 6 · Week 7–8: Strokiesprentverhale is pret",
+  "name_en": "Theme 6 · Weeks 7–8: Comic-strip stories are fun",
+  "sort": 104
+ },
+ "tier_number": 1,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Lees en kyk",
+  "Luister en praat"
+ ],
+ "printed_pages": [
+  52,
+  53
+ ],
+ "pdf_pages": [
+  56,
+  57
+ ],
+ "reference_pages": [
+  {
+   "pdf": 56,
+   "printed": 52,
+   "src": "/workbook/gr6-afr-b2/p056.webp"
+  },
+  {
+   "pdf": 57,
+   "printed": 53,
+   "src": "/workbook/gr6-afr-b2/p057.webp"
+  }
+ ],
+ "intro_af": "Strokiesprente vertel ’n storie met baie prente en min woorde. Lees die Supa Strikas-strokiesprent en let op die praatborrels en die klanknabootsende woorde!",
+ "objectives_af": [
+  "Weet wat ’n strokiesprentverhaal is.",
+  "Verstaan wat in elke raampie gebeur.",
+  "Die verskillende soorte praatborrels en die klanknabootsende woorde herken.",
+  "Die uitleg en woordeskat van ’n strokiesprent bespreek."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wat is ’n strokiesprentverhaal?",
+   "payload": {
+    "text": "Die strokiesprentverhaal is ’n **genre**. Tot dusver vanjaar het jy verskillende soorte tekste gelees: volksverhale, gedigte, advertensies, verslae, dialoë, inligtingtekste en instruksionele tekste. Die strokiesprentverhaal is nog ’n soort teks. Daar is minder woorde en baie prente, sodat jy kan sien hoe die karakters lyk en wat hulle doen. Die storie word in ’n reeks raampies vertel. Soms is daar woorde, soms nie."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 52,
+    "pdf_page": 56
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Waarop moet jy let?",
+   "payload": {
+    "bullets": [
+     "Fokus op wat in elk van die raampies gebeur.",
+     "Let op die verskillende soorte **praatborrels**.",
+     "Kyk na die praatborrels in raam 4, 5, 6, 7 en 8: hulle wys wat die kommentators sê.",
+     "Let op die **klanknabootsende woorde** (onomatopeë) en hoe hulle geskryf is, bv. PRRRRT, SKARRA!, DWOOSJ."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 52,
+    "pdf_page": 56
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "image",
+   "title_af": "Die strokiesprent (bladsy 1: rame 1–7)",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/p056.webp",
+    "alt": "Supa Strikas-strokiesprent, bladsy 1 met rame 1 tot 7."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 52,
+    "pdf_page": 56
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "image",
+   "title_af": "Die strokiesprent (bladsy 2: rame 8–14)",
+   "payload": {
+    "src": "/workbook/gr6-afr-b2/p057.webp",
+    "alt": "Supa Strikas-strokiesprent, bladsy 2 met rame 8 tot 14."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 53,
+    "pdf_page": 57
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons lees: Vluglees",
+   "payload": {
+    "prompt": "Lees die twee bladsye uit ’n Supa Strika-strokiesprent. Fokus op wat in elk van die raampies gebeur en let op die praatborrels en die klanknabootsende woorde."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 52,
+    "pdf_page": 56,
+    "item": "Ons lees"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Teen watter span speel Supa Strikas?",
+   "payload": {
+    "prompt": "Teen watter span speel die Supa Strikas?",
+    "options": [
+     {
+      "key": "A",
+      "text": "United"
+     },
+     {
+      "key": "B",
+      "text": "Spur"
+     },
+     {
+      "key": "C",
+      "text": "Caltex"
+     },
+     {
+      "key": "D",
+      "text": "Shakes"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "choice": "A"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Die kommentator sê: “Die Strikas reageer met oorgawe op United se doel.”",
+    "per_option": {
+     "B": "Spur is die naam wat op ’n advertensiebord in raam 12 staan.",
+     "C": "Caltex is ’n advertensie op die veld.",
+     "D": "Shakes is een van die spelers."
+    }
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Wie moet die held word?",
+   "payload": {
+    "prompt": "Wie wil die afrigter vandag die held maak?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Shakes"
+     },
+     {
+      "key": "B",
+      "text": "Die skeidsregter"
+     },
+     {
+      "key": "C",
+      "text": "Die kommentator"
+     },
+     {
+      "key": "D",
+      "text": "United se doelwagter"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "choice": "A"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "In raam 10 sê die persoon: “Dit lyk my ons afrigter wil jou vandag die held maak, Shakes!”"
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "mcq",
+   "title_af": "Wat het Shakes laas keer gedoen?",
+   "payload": {
+    "prompt": "Wat het die kommentator oor Shakes se laaste finale wedstryd teen United gesê?",
+    "options": [
+     {
+      "key": "A",
+      "text": "Hy het ’n stelskop misgeskop."
+     },
+     {
+      "key": "B",
+      "text": "Hy het ’n doel aangeteken."
+     },
+     {
+      "key": "C",
+      "text": "Hy het ’n rooi kaart gekry."
+     },
+     {
+      "key": "D",
+      "text": "Hy was seergemaak."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "choice": "A"
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Lees die vraag en die teks nog een keer.",
+    "explanation": "Raam 11: “Laas toe Shakes ’n stelskop in ’n finale wedstryd teen United gehad het, het hy misgeskop.”"
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Pas die woord by sy betekenis",
+   "payload": {
+    "prompt": "Verbind elke woord met wat dit in die strokiesprent beteken.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "praatborrel"
+     },
+     {
+      "key": "l2",
+      "text": "raampie"
+     },
+     {
+      "key": "l3",
+      "text": "klanknabootsende woord"
+     },
+     {
+      "key": "l4",
+      "text": "dubbelmuur"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "een blokkie in die strokiesprent"
+     },
+     {
+      "key": "r3",
+      "text": "woord wat ’n klank naboots, bv. PRRRRT"
+     },
+     {
+      "key": "r4",
+      "text": "twee rye verdedigers voor die doel"
+     },
+     {
+      "key": "r1",
+      "text": "wys wat ’n karakter sê"
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "In ’n strokiesprent vertel die rame en die praatborrels saam die storie."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In ’n strokiesprent is daar altyd net woorde en geen prente nie."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: daar is minder woorde en baie prente."
+   },
+   "answer_status": "official",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n strokiesprentverhaal?",
+   "explanation": "Die werkboek sê: minder woorde en baie prente, ’n reeks raampies.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Genre waar ’n storie met prente en min woorde in raampies vertel word",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Lang brief"
+    },
+    {
+     "key": "c",
+     "text": "’n Koerantberig met ’n opskrif"
+    },
+    {
+     "key": "d",
+     "text": "’n Gedig met rym"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 52,
+    "pdf_page": 56
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Teen watter span speel die Supa Strikas in die strokiesprent?",
+   "explanation": "Die kommentator praat van “United se doel”.",
+   "options": [
+    {
+     "key": "a",
+     "text": "United",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Spur"
+    },
+    {
+     "key": "c",
+     "text": "Caltex"
+    },
+    {
+     "key": "d",
+     "text": "Metropolitan"
+    }
+   ],
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wie wil die afrigter die held maak?",
+   "explanation": "Raam 10 noem Shakes.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Shakes",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die doelwagter"
+    },
+    {
+     "key": "c",
+     "text": "Die skeidsregter"
+    },
+    {
+     "key": "d",
+     "text": "Die kommentator"
+    }
+   ],
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Watter klanknabootsende woord kom in die laaste raam voor?",
+   "explanation": "Raam 14 het die groot woord DWOOSJ.",
+   "options": [
+    {
+     "key": "a",
+     "text": "DWOOSJ",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "KABOEM"
+    },
+    {
+     "key": "c",
+     "text": "WROEM"
+    },
+    {
+     "key": "d",
+     "text": "SPLOSJ"
+    }
+   ],
+   "key": "q04"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat wou Shakes se plan wees om die “dubbelmuur” te troef?",
+   "explanation": "Raam 13 en 14: “Want om ’n dubbelmuur te troef … het jy ’n dubbelkurwe nodig!”",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Dubbelkurwe",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Lang skop"
+    },
+    {
+     "key": "c",
+     "text": "’n Gelykopskop"
+    },
+    {
+     "key": "d",
+     "text": "’n Strafskop"
+    }
+   ],
+   "key": "q05"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Waarvoor word praatborrels in strokiesprente gebruik?",
+   "explanation": "Praatborrels bevat die karakters se woorde.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Om te wys wat die karakters sê of dink",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Om advertensies te wys"
+    },
+    {
+     "key": "c",
+     "text": "Om die telling te hou"
+    },
+    {
+     "key": "d",
+     "text": "Om die datum te wys"
+    }
+   ],
+   "key": "q06"
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "needs_review",
+   "prompt": "Wat beteken “Koel … dis Shakes teenoor Dingaan!”?",
+   "explanation": "Die kommentator reageer opgewonde op die twee spelers.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die kommentator se opwinding oor die twee spelers wat teenoor mekaar staan",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Dit is te koud om sokker te speel"
+    },
+    {
+     "key": "c",
+     "text": "Die skeidsregter is kwaad"
+    },
+    {
+     "key": "d",
+     "text": "Die publiek is weg"
+    }
+   ],
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n klanknabootsende woord (onomatopee)?",
+   "explanation": "Dit word geskryf soos die klank klink.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Woord wat ’n klank naboots, soos PRRRRT",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Woord met dieselfde betekenis"
+    },
+    {
+     "key": "c",
+     "text": "’n Woord met teenoorgestelde betekenis"
+    },
+    {
+     "key": "d",
+     "text": "’n Woord wat ’n naam is"
+    }
+   ],
+   "key": "q08"
+  }
+ ]
+}

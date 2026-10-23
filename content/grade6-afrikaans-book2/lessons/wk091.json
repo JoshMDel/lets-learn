@@ -1,0 +1,491 @@
+{
+ "key": "gr6-afr-b2-wk091",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 91,
+ "title_af": "Skryf jou eie advertensie",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk7-8",
+  "name_af": "Tema 6 · Week 7–8: Strokiesprentverhale is pret",
+  "name_en": "Theme 6 · Weeks 7–8: Comic-strip stories are fun",
+  "sort": 104
+ },
+ "tier_number": 3,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Luister en praat",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  56,
+  57
+ ],
+ "pdf_pages": [
+  60,
+  61
+ ],
+ "reference_pages": [
+  {
+   "pdf": 60,
+   "printed": 56,
+   "src": "/workbook/gr6-afr-b2/p060.webp"
+  },
+  {
+   "pdf": 61,
+   "printed": 57,
+   "src": "/workbook/gr6-afr-b2/p061.webp"
+  }
+ ],
+ "intro_af": "Nou is jy die advertensiemaker! Beplan en skryf die teks vir jou eie TV-advertensie in vier tonele en voer dit saam met jou groep op.",
+ "objectives_af": [
+  "’n TV-advertensie beplan (produk, doel, teikengroep, agtergrond en karakters).",
+  "Die advertensie in vier tonele verdeel.",
+  "Klanknabootsende woorde gebruik.",
+  "Jou advertensie opvoer."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Stap vir stap",
+   "payload": {
+    "bullets": [
+     "Besluit wat jy gaan adverteer, wat jy met jou advertensie wil bereik en wie jou teikengroep is.",
+     "Besluit teen watter agtergrond jou advertensie hom gaan afspeel, en wie die karakter(s) gaan wees.",
+     "Besluit ook hoe jy aksie by jou advertensie sal voeg.",
+     "Verdeel jou advertensie in vier tonele.",
+     "Teken ’n prentjie of plak prente in om elke toneel te illustreer.",
+     "Skryf ’n teks om presies aan te dui wat elke persoon sal sê."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Wenk",
+   "payload": {
+    "text": "Onthou om klanknabootsende woorde te gebruik. Jy kan ook jou eie nuwe woorde skep."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Beplan jou advertensie",
+   "payload": {
+    "prompt": "Beantwoord hierdie vrae op jou advertensiebeplanner: Wat gaan jy adverteer? Wat is die doel van die advertensie? Wie is die teikengroep? Waar speel die advertensie hom af? Wie is die karakters in die advertensie?",
+    "lines": 8,
+    "checklist": [
+     "Ek weet wat ek gaan adverteer.",
+     "Ek weet wat die doel van my advertensie is.",
+     "Ek weet wie my teikengroep is.",
+     "Ek weet waar die advertensie hom afspeel.",
+     "Ek het my karakters gekies."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60,
+    "item": "beplanner"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Toneel 1 en 2",
+   "payload": {
+    "prompt": "Skryf jou eerste weergawe vir toneel 1 en toneel 2 (blok 1 en 2). Skryf presies wat elke persoon sal sê en gebruik klanknabootsende woorde.",
+    "lines": 8
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60,
+    "item": "blok 1–2"
+   },
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Toneel 3 en 4",
+   "payload": {
+    "prompt": "Skryf jou eerste weergawe vir toneel 3 en toneel 4 (blok 3 en 4).",
+    "lines": 8,
+    "checklist": [
+     "Ek het die advertensie in vier tonele verdeel.",
+     "Ek het aangedui wat elke karakter sê.",
+     "Ek het klanknabootsende woorde gebruik.",
+     "Ek het my teks hersien en gekorrigeer."
+    ],
+    "tips": [
+     "Gebruik ’n geheuekaart om jou skryfwerk te beplan.",
+     "Voltooi jou eerste weergawe in blok 1 tot 4.",
+     "Hersien en korrigeer jou teks.",
+     "Skryf jou finale weergawe op bladsy 57."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 57,
+    "pdf_page": 61,
+    "item": "blok 3–4"
+   },
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "discuss",
+   "title_af": "Ons doen: Speel jou advertensie",
+   "payload": {
+    "prompt": "Wanneer jy die hele teks vir jou TV-advertensie geskryf het, kies lede van jou groep om dit te dramatiseer en te wys hoe dit op TV sal lyk."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 57,
+    "pdf_page": 61,
+    "item": "Ons doen"
+   },
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "order",
+   "title_af": "Die stappe van die advertensiebeplanner",
+   "payload": {
+    "prompt": "Sit die stappe in die volgorde waarin jy dit sal doen.",
+    "items": [
+     {
+      "key": "e4",
+      "text": "Teken of plak prente by elke toneel."
+     },
+     {
+      "key": "e1",
+      "text": "Besluit wat jy gaan adverteer en wie jou teikengroep is."
+     },
+     {
+      "key": "e5",
+      "text": "Skryf wat elke persoon sal sê."
+     },
+     {
+      "key": "e3",
+      "text": "Verdeel die advertensie in vier tonele."
+     },
+     {
+      "key": "e2",
+      "text": "Besluit teen watter agtergrond en met watter karakters."
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "sequence": [
+     "e1",
+     "e2",
+     "e3",
+     "e4",
+     "e5"
+    ]
+   },
+   "feedback": {
+    "correct": "Perfek!",
+    "incorrect": "Dink: wat kom eerste, en wat laaste?",
+    "explanation": "Die werkboek gee hierdie volgorde."
+   },
+   "answer_status": "official",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "Jy moet jou TV-advertensie in vier tonele verdeel."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: Verdeel jou advertensie in vier tonele."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "In hoeveel tonele verdeel jy jou advertensie?",
+   "explanation": "Die werkboek sê vier tonele.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vier",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Twee"
+    },
+    {
+     "key": "c",
+     "text": "Ses"
+    },
+    {
+     "key": "d",
+     "text": "Tien"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Watter inligting moet jy eerste besluit?",
+   "explanation": "Dit is die eerste stap in die werkboek.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Wat jy gaan adverteer, wat jy wil bereik en wie jou teikengroep is",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die kleur van die papier"
+    },
+    {
+     "key": "c",
+     "text": "Wie die beste teken"
+    },
+    {
+     "key": "d",
+     "text": "Die datum"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is ’n teikengroep?",
+   "explanation": "Dit is die groep wat die produk sou koop.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Die mense vir wie jy die advertensie maak",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Die akteurs"
+    },
+    {
+     "key": "c",
+     "text": "Die onderwyser"
+    },
+    {
+     "key": "d",
+     "text": "Die klas"
+    }
+   ],
+   "key": "q03"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat skryf jy in die teks van jou advertensie?",
+   "explanation": "Die werkboek sê: skryf ’n teks om presies aan te dui wat elke persoon sal sê.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Presies wat elke persoon sal sê",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net die prys"
+    },
+    {
+     "key": "c",
+     "text": "Net die naam van die winkel"
+    },
+    {
+     "key": "d",
+     "text": "Net die datum"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Watter soort woorde moet jy onthou om te gebruik?",
+   "explanation": "Die werkboek sê onthou om klanknabootsende woorde te gebruik.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Klanknabootsende woorde",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Net lang woorde"
+    },
+    {
+     "key": "c",
+     "text": "Net vreemde woorde"
+    },
+    {
+     "key": "d",
+     "text": "Net getalle"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "sequencing",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Wat doen jy nadat jy jou advertensie geskryf het?",
+   "explanation": "Ons doen: kies lede van jou groep om dit te dramatiseer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jy dramatiseer dit saam met lede van jou groep",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jy gooi dit weg"
+    },
+    {
+     "key": "c",
+     "text": "Jy ruil dit vir ’n ander teks"
+    },
+    {
+     "key": "d",
+     "text": "Jy skryf dit nie opnuut nie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 57,
+    "pdf_page": 61
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "official",
+   "prompt": "Hoe wys jy waar die advertensie hom afspeel?",
+   "explanation": "Die werkboek vra: teen watter agtergrond gaan jou advertensie hom afspeel?",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jy besluit teen watter agtergrond dit afspeel",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jy skryf dit nêrens neer nie"
+    },
+    {
+     "key": "c",
+     "text": "Jy los dit uit"
+    },
+    {
+     "key": "d",
+     "text": "Jy vra die onderwyser"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "main_idea",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe voeg jy aksie by?",
+   "explanation": "Die werkboek sê besluit hoe jy aksie by jou advertensie sal voeg.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Jy besluit hoe die karakters beweeg en wat hulle doen",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Jy gebruik net teks"
+    },
+    {
+     "key": "c",
+     "text": "Jy gebruik net prente"
+    },
+    {
+     "key": "d",
+     "text": "Jy skryf ’n gedig"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 56,
+    "pdf_page": 60
+   },
+   "key": "q08"
+  }
+ ]
+}

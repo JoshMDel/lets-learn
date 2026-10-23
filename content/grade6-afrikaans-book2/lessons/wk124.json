@@ -1,0 +1,761 @@
+{
+ "key": "gr6-afr-b2-wk124",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 124,
+ "title_af": "Limerieke",
+ "topic": {
+  "key": "gr6-afr-b2-t8-wk7-8",
+  "name_af": "Tema 8 · Week 7–8: Gedigte vir kinders",
+  "name_en": "Theme 8 · Weeks 7–8: Poems for children",
+  "sort": 109
+ },
+ "tier_number": 4,
+ "term": 4,
+ "tema": 8,
+ "tema_title": "Vriendskap en omgee",
+ "weeks": "Week 7–8",
+ "skill_areas": [
+  "Lees en kyk",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  124,
+  125
+ ],
+ "pdf_pages": [
+  128,
+  129
+ ],
+ "reference_pages": [
+  {
+   "pdf": 128,
+   "printed": 124,
+   "src": "/workbook/gr6-afr-b2/p128.webp"
+  },
+  {
+   "pdf": 129,
+   "printed": 125,
+   "src": "/workbook/gr6-afr-b2/p129.webp"
+  }
+ ],
+ "intro_af": "Limerieke is vyfreëlige snaakse gedigte met ’n spesiale rympatroon. Lees ’n paar, beantwoord vrae en skryf jou eie!",
+ "objectives_af": [
+  "Limerieke lees en geniet.",
+  "Die eienskappe van ’n limeriek noem (5 reëls, rym aabba, humoristies).",
+  "Vergelykings en metafore uitken.",
+  "’n Eie limeriek skryf."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Wat is ’n limeriek?",
+   "payload": {
+    "bullets": [
+     "Dit bestaan uit **5 reëls**.",
+     "Die rym is **aabba**: reël 1, 2 en 5 rym met mekaar en reël 3 en 4 rym met mekaar.",
+     "Dit is **humoristies** (snaaks)."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Vergelyking",
+   "payload": {
+    "text": "’n **Vergelyking** gebruik die woord **soos** om twee dinge wat eners is, met mekaar te vergelyk. Voorbeeld: Hy is so trots soos ’n pou."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 124,
+    "pdf_page": 128
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Metafoor",
+   "payload": {
+    "text": "’n **Metafoor** vergelyk twee dinge deur te sê dat die een ding ’n ander ding is. Die woord “soos” word nie gebruik nie. Voorbeeld: Sy het ’n hart van goud."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 124,
+    "pdf_page": 128
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "listen",
+   "title_af": "Lees die limerieke",
+   "payload": {
+    "prompt": "Lees hierdie limerieke hardop en geniet die humor.",
+    "speak_passage": true
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 124,
+    "pdf_page": 128,
+    "item": "Ons lees"
+   },
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Eienskappe van ’n limeriek",
+   "payload": {
+    "prompt": "Is dit ’n eienskap van ’n limeriek?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Dit bestaan uit 5 reëls.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Die rym is aabba.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Dit is humoristies.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Dit het altyd 10 reëls.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     },
+     {
+      "key": "q5",
+      "text": "Dit is altyd baie hartseer.",
+      "options": [
+       {
+        "key": "a",
+        "text": "ja"
+       },
+       {
+        "key": "b",
+        "text": "nee"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129,
+    "item": "eienskappe"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a",
+     "q3": "a",
+     "q4": "b",
+     "q5": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Die werkboek gee drie eienskappe: 5 reëls, rym aabba en humoristies."
+   },
+   "answer_status": "official",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Hoeveel reëls? Watter reëls rym?",
+   "payload": {
+    "prompt": "Hoeveel reëls het ’n limeriek? Watter reëls rym met mekaar?",
+    "lines": 3
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129,
+    "item": "1–2"
+   },
+   "suggested_answer": "Vyf reëls. Reël 1, 2 en 5 rym met mekaar (a), en reël 3 en 4 rym met mekaar (b): aabba.",
+   "answer_status": "derived_from_text",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Rymwoorde in die eerste limeriek",
+   "payload": {
+    "prompt": "Verbind die woorde wat in die limeriek oor Klaas rym.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "Klaas"
+     },
+     {
+      "key": "l2",
+      "text": "helaas"
+     },
+     {
+      "key": "l3",
+      "text": "haai"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "dwaas"
+     },
+     {
+      "key": "r3",
+      "text": "paai"
+     },
+     {
+      "key": "r1",
+      "text": "helaas"
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 124,
+    "pdf_page": 128,
+    "item": "limeriek 1"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Reël 1, 2 en 5 rym (Klaas, helaas, dwaas); reël 3 en 4 rym (haai, paai)."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Vergelyking of metafoor?",
+   "payload": {
+    "prompt": "Kies die regte antwoord.",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Hy is so trots soos ’n pou.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Sy het ’n hart van goud.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Sy is so slim soos ’n uil.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       }
+      ]
+     },
+     {
+      "key": "q4",
+      "text": "Die klas was ’n sirkus.",
+      "options": [
+       {
+        "key": "a",
+        "text": "vergelyking"
+       },
+       {
+        "key": "b",
+        "text": "metafoor"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 124,
+    "pdf_page": 128,
+    "item": "beeldspraak"
+   },
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "a",
+     "q4": "b"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Vergelyking gebruik “soos”; metafoor sê dat iets ’n ander ding ís."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Skryf jou eie limeriek (San)",
+   "payload": {
+    "prompt": "Maak ’n lys van al die woorde wat met “San” rym (bv. Jan, kan, dan). Skryf dan jou eie limeriek wat so begin: “Daar was ’n jong vrou genaamd San,”",
+    "lines": 7,
+    "checklist": [
+     "Ek het ’n rymlys gemaak.",
+     "My limeriek het 5 reëls.",
+     "Die rym is aabba.",
+     "My limeriek is snaaks."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129,
+    "item": "San"
+   },
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "writing",
+   "title_af": "Of probeer die “Ben”-limeriek",
+   "payload": {
+    "prompt": "Of probeer hierdie een: “Daar was ’n jong man genaamd Ben,” en gebruik woorde wat met “Ben” rym (bv. hen, pen, ken).",
+    "lines": 7,
+    "checklist": [
+     "My limeriek het 5 reëls.",
+     "Die rym is aabba.",
+     "My limeriek is snaaks."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129,
+    "item": "Ben"
+   },
+   "key": "act-07",
+   "sort_order": 70
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In ’n limeriek rym reël 3 en 4 met mekaar."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129,
+    "item": "rym"
+   },
+   "answer": {
+    "value": true
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die rym is aabba: reël 3 en 4 (b) rym."
+   },
+   "answer_status": "derived_from_text",
+   "key": "act-08",
+   "sort_order": 80
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel reëls het ’n limeriek?",
+   "explanation": "Dit bestaan uit 5 reëls.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Vyf",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Vier"
+    },
+    {
+     "key": "c",
+     "text": "Ses"
+    },
+    {
+     "key": "d",
+     "text": "Agt"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is die rymskema van ’n limeriek?",
+   "explanation": "Die rym is aabba.",
+   "options": [
+    {
+     "key": "a",
+     "text": "aabba",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "aabb"
+    },
+    {
+     "key": "c",
+     "text": "abab"
+    },
+    {
+     "key": "d",
+     "text": "abcde"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "literal",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoe moet ’n limeriek wees?",
+   "explanation": "Dit is humoristies.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Snaaks",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hartseer"
+    },
+    {
+     "key": "c",
+     "text": "Sag"
+    },
+    {
+     "key": "d",
+     "text": "Lank"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 125,
+    "pdf_page": 129
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Hoe heet die knaap in die eerste limeriek?",
+   "explanation": "Daar was eens ’n knaap genaamd Klaas.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Klaas",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Ben"
+    },
+    {
+     "key": "c",
+     "text": "Jan"
+    },
+    {
+     "key": "d",
+     "text": "San"
+    }
+   ],
+   "key": "q04",
+   "supporting": [
+    0
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat gebeur met Klaas?",
+   "explanation": "Die limeriek sê: “Toe swem hy die see in … arme dwaas!”",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy swem die see in omdat hy dink haaie vlug as jy paai",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy word ’n haai"
+    },
+    {
+     "key": "c",
+     "text": "Hy leer swem"
+    },
+    {
+     "key": "d",
+     "text": "Hy vang ’n haai"
+    }
+   ],
+   "key": "q05",
+   "supporting": [
+    4
+   ]
+  },
+  {
+   "skill": "literal",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Waar woon die werker in die tweede limeriek?",
+   "explanation": "Dit staan in reël 1.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Koffiefontein",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Kaapstad"
+    },
+    {
+     "key": "c",
+     "text": "Paarl"
+    },
+    {
+     "key": "d",
+     "text": "Durban"
+    }
+   ],
+   "key": "q06",
+   "supporting": [
+    5
+   ]
+  },
+  {
+   "skill": "inference",
+   "source": "supplementary",
+   "answer_status": "derived_from_text",
+   "prompt": "Wat is snaaks aan die jong vrou van die Kaap?",
+   "explanation": "Sy kon net glad nie ophou gaap nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Sy kon nie ophou gaap nie en voel nou soos ’n swaap",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Sy kan nie praat nie"
+    },
+    {
+     "key": "c",
+     "text": "Sy slaap in die klas"
+    },
+    {
+     "key": "d",
+     "text": "Sy kry ’n prys"
+    }
+   ],
+   "key": "q07",
+   "supporting": [
+    11
+   ]
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Watter soort beeldspraak is “Sy het ’n hart van goud”?",
+   "explanation": "Daar is geen “soos” nie.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Metafoor",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Vergelyking"
+    },
+    {
+     "key": "c",
+     "text": "Personifikasie"
+    },
+    {
+     "key": "d",
+     "text": "Alliterasie"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 124,
+    "pdf_page": 128
+   },
+   "key": "q08"
+  }
+ ],
+ "passage": {
+  "title": "Limerieke",
+  "language": "af",
+  "sentences": [
+   "Daar was eens ’n knaap genaamd Klaas,\n",
+   "Hy dog hy weet baie maar ai tog helaas.\n",
+   "Hy glo dat ’n haai\n",
+   "Sou vlug as jy paai.\n",
+   "Toe swem hy die see in … arme dwaas!",
+   "’n Werker woonagtig in Koffiefontein,\n",
+   "Kom af op twee pragtige meisies so klein.\n",
+   "Hy sê met ’n sug,\n",
+   "Terwyl hy vryf aan sy rug\n",
+   "“Die bank waarop julle sit is pas gelym.”",
+   "Daar was ’n jong vrou van die Kaap,\n",
+   "Sy kon net glad nie ophou gaap.\n",
+   "Sy’t alles probeer,\n",
+   "Al maak dit ook seer.\n",
+   "En nou voel sy natuurlik ’n regte swaap."
+  ],
+  "paragraph_starts": [
+   0,
+   5,
+   10
+  ],
+  "glossary": [
+   {
+    "term": "knaap",
+    "definition": "’n Seun of jong man.",
+    "sentence_index": 0
+   },
+   {
+    "term": "paai",
+    "definition": "Vriendelik probeer maak dat iemand of iets goedgesind is.",
+    "sentence_index": 3
+   },
+   {
+    "term": "dwaas",
+    "definition": "’n Mens wat onverstandig optree.",
+    "sentence_index": 4
+   },
+   {
+    "term": "woonagtig",
+    "definition": "Woon in.",
+    "sentence_index": 5
+   },
+   {
+    "term": "gelym",
+    "definition": "Met gom vasgeplak.",
+    "sentence_index": 9
+   },
+   {
+    "term": "swaap",
+    "definition": "Iemand wat dom of simpel is (onvriendelike gesegde).",
+    "sentence_index": 14
+   }
+  ]
+ }
+}

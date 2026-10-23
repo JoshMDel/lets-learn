@@ -1,0 +1,650 @@
+{
+ "key": "gr6-afr-b2-wk088",
+ "workbook_key": "gr6-afr-hl-book2",
+ "werkkaart": 88,
+ "title_af": "Werk met sinne",
+ "topic": {
+  "key": "gr6-afr-b2-t6-wk5-6",
+  "name_af": "Tema 6 · Week 5–6: Stories en briewe",
+  "name_en": "Theme 6 · Weeks 5–6: Stories and letters",
+  "sort": 103
+ },
+ "tier_number": 8,
+ "term": 3,
+ "tema": 6,
+ "tema_title": "Aanbiedingswyses",
+ "weeks": "Week 5–6",
+ "skill_areas": [
+  "Taalstrukture en -konvensies",
+  "Skryf en aanbied"
+ ],
+ "printed_pages": [
+  50,
+  51
+ ],
+ "pdf_pages": [
+  54,
+  55
+ ],
+ "reference_pages": [
+  {
+   "pdf": 54,
+   "printed": 50,
+   "src": "/workbook/gr6-afr-b2/p054.webp"
+  },
+  {
+   "pdf": 55,
+   "printed": 51,
+   "src": "/workbook/gr6-afr-b2/p055.webp"
+  }
+ ],
+ "intro_af": "Sinne kan kort of lank wees. Vandag skryf jy verskillende tipes sinne, verander die tyd en leer jy ontkennings en afkortings.",
+ "objectives_af": [
+  "Voorbeelde van enkelvoudige, saamgestelde en veelvoudige sinne skryf.",
+  "Sinne in die verlede en toekomende tyd oorskryf.",
+  "Sinne in die ontkennende vorm skryf.",
+  "Afkortings en akronieme gebruik."
+ ],
+ "review_status": "needs_review",
+ "review_notes": [
+  "Die werkboek bevat geen antwoordsleutel nie. Antwoorde is deur die program uit die teks of die taalreël afgelei en moet deur ’n onderwyser nagegaan word."
+ ],
+ "items": [
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Sinsleer",
+   "payload": {
+    "paragraphs": [
+     "Onthou, ’n sin begin met ’n hoofletter en eindig met ’n punt, ’n vraagteken of ’n uitroepteken."
+    ],
+    "bullets": [
+     "Sin = onderwerp (wie) + gesegde (werkwoord/-stuk) + voorwerp (wie/wat).",
+     "**Werkwoordstuk:** die hoofwerkwoord en die hulpwerkwoord vorm saam die werkwoordstuk.",
+     "’n **Saamgestelde sin** het altyd twee of meer gesegdes en bestaan uit meer as een hoofsin.",
+     "’n **Veelvoudige sin** het ’n hoofsin en ’n bysin."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 50,
+    "pdf_page": 54
+   },
+   "key": "learn-01",
+   "sort_order": 10
+  },
+  {
+   "section": "learn",
+   "kind": "note",
+   "title_af": "Ontkennings",
+   "payload": {
+    "text": "In die ontkennende vorm word sake in die negatiewe vorm gestel, bv. Sy het nie gebel nie. Let daarop dat die woord “nie” twee keer in die sin verskyn."
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55
+   },
+   "key": "learn-02",
+   "sort_order": 20
+  },
+  {
+   "section": "learn",
+   "kind": "text",
+   "title_af": "Drie soorte afkortings",
+   "payload": {
+    "bullets": [
+     "**Gewone afkortings:** ons spreek die oorspronklike woord volledig uit (“bl.” = “bladsy”).",
+     "**Akronieme (letterwoorde):** die letters van verskeie woorde word as een woord uitgespreek, bv. Sasol.",
+     "**Verkortings:** ons spreek oorspronklike lettergrepe of dele van verskeie woorde as een woord uit (bv. “Australasië”)."
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55
+   },
+   "key": "learn-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Voorbeelde van sinne",
+   "payload": {
+    "prompt": "Skryf 2 voorbeelde van elke tipe sin neer: enkelvoudige sinne, saamgestelde sinne, veelvoudige sinne.",
+    "lines": 8
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 50,
+    "pdf_page": 54,
+    "item": "sinsleer"
+   },
+   "suggested_answer": "Enkelvoudig: Kin skryf ’n e-pos. Die hasie hardloop.\nSaamgestel: Kin skryf ’n e-pos en Danie lees dit. Die leeu lag en die hasie wip.\nVeelvoudig: Kin, wat in Japan bly, skryf ’n e-pos. Die hasie, wat bang was, het gehardloop.",
+   "answer_status": "needs_review",
+   "key": "act-01",
+   "sort_order": 10
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Verlede en toekomende tyd",
+   "payload": {
+    "prompt": "Skryf hierdie sinne in die verlede en toekomende tyd oor: Kin skryf ’n e-pos. / Hy lees ’n boek en speel rekenaarspeletjies. / Danie en Anita lees Kin se e-pos.",
+    "lines": 7
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 50,
+    "pdf_page": 54,
+    "item": "tye"
+   },
+   "suggested_answer": "Gister het Kin ’n e-pos geskryf. Môre sal Kin ’n e-pos skryf.\nGister het hy ’n boek gelees en rekenaarspeletjies gespeel. Môre sal hy ’n boek lees en rekenaarspeletjies speel.\nGister het Danie en Anita Kin se e-pos gelees. Môre sal Danie en Anita Kin se e-pos lees.",
+   "answer_status": "derived_from_rule",
+   "key": "act-02",
+   "sort_order": 20
+  },
+  {
+   "section": "activity",
+   "kind": "short_answer",
+   "title_af": "Skryf in die ontkennende vorm",
+   "payload": {
+    "prompt": "Herskryf hierdie sinne in die ontkennende vorm: Tegnologiese vooruitgang is altyd voordelig. / Die aardbewing het groot verwoesting gesaai. / Kin verlang baie na sy ouers en sy maats.",
+    "lines": 4
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55,
+    "item": "ontkennings"
+   },
+   "suggested_answer": "Tegnologiese vooruitgang is nie altyd voordelig nie.\nDie aardbewing het nie groot verwoesting gesaai nie.\nKin verlang nie baie na sy ouers en sy maats nie.",
+   "answer_status": "derived_from_rule",
+   "key": "act-03",
+   "sort_order": 30
+  },
+  {
+   "section": "activity",
+   "kind": "match",
+   "title_af": "Afkortings en akronieme",
+   "payload": {
+    "prompt": "Verbind elke woord of frase met sy afkorting of akroniem.",
+    "left": [
+     {
+      "key": "l1",
+      "text": "afdeling"
+     },
+     {
+      "key": "l2",
+      "text": "algemeen"
+     },
+     {
+      "key": "l3",
+      "text": "biblioteek"
+     },
+     {
+      "key": "l4",
+      "text": "persoonlike identifikasienommer"
+     },
+     {
+      "key": "l5",
+      "text": "Dierebeskermingsvereniging"
+     }
+    ],
+    "right": [
+     {
+      "key": "r2",
+      "text": "alg."
+     },
+     {
+      "key": "r3",
+      "text": "bibl."
+     },
+     {
+      "key": "r4",
+      "text": "PIN"
+     },
+     {
+      "key": "r5",
+      "text": "DBV"
+     },
+     {
+      "key": "r1",
+      "text": "afd."
+     }
+    ]
+   },
+   "source": "workbook",
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55,
+    "item": "afkortings"
+   },
+   "answer": {
+    "pairs": {
+     "l1": "r1",
+     "l2": "r2",
+     "l3": "r3",
+     "l4": "r4",
+     "l5": "r5"
+    }
+   },
+   "feedback": {
+    "correct": "Almal reg!",
+    "incorrect": "Probeer weer – lees die voorbeelde noukeurig.",
+    "explanation": "Afkortings: afd., alg., bibl.; akroniem: PIN. (Gebruik jou woordeboek om te kyk.)"
+   },
+   "answer_status": "needs_review",
+   "key": "act-04",
+   "sort_order": 40
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Watter tipe sin?",
+   "payload": {
+    "prompt": "Is die sin enkelvoudig, saamgestel of veelvoudig?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Kin skryf ’n e-pos.",
+      "options": [
+       {
+        "key": "a",
+        "text": "enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "saamgestel"
+       },
+       {
+        "key": "c",
+        "text": "veelvoudig"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Kin skryf ’n e-pos en Danie lees dit.",
+      "options": [
+       {
+        "key": "a",
+        "text": "enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "saamgestel"
+       },
+       {
+        "key": "c",
+        "text": "veelvoudig"
+       }
+      ]
+     },
+     {
+      "key": "q3",
+      "text": "Kin, wat in Japan bly, skryf ’n e-pos.",
+      "options": [
+       {
+        "key": "a",
+        "text": "enkelvoudig"
+       },
+       {
+        "key": "b",
+        "text": "saamgestel"
+       },
+       {
+        "key": "c",
+        "text": "veelvoudig"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "b",
+     "q3": "c"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "Een gesegde = enkelvoudig; twee of meer gesegdes = saamgestel; hoofsin + bysin = veelvoudig."
+   },
+   "answer_status": "derived_from_rule",
+   "key": "act-05",
+   "sort_order": 50
+  },
+  {
+   "section": "activity",
+   "kind": "choices",
+   "title_af": "Ontkenning: kies die korrekte sin",
+   "payload": {
+    "prompt": "Watter sin is in die ontkennende vorm?",
+    "questions": [
+     {
+      "key": "q1",
+      "text": "Sy het nie gebel nie. / Sy het gebel.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Eerste sin"
+       },
+       {
+        "key": "b",
+        "text": "Tweede sin"
+       }
+      ]
+     },
+     {
+      "key": "q2",
+      "text": "Ek speel nie sokker nie. / Ek speel sokker.",
+      "options": [
+       {
+        "key": "a",
+        "text": "Eerste sin"
+       },
+       {
+        "key": "b",
+        "text": "Tweede sin"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "supplementary",
+   "answer": {
+    "answers": {
+     "q1": "a",
+     "q2": "a"
+    }
+   },
+   "feedback": {
+    "correct": "Mooi so!",
+    "incorrect": "Kyk weer – lees elke sin noukeurig.",
+    "explanation": "In die ontkenning kom “nie” twee keer voor."
+   },
+   "answer_status": "official",
+   "key": "act-06",
+   "sort_order": 60
+  },
+  {
+   "section": "activity",
+   "kind": "true_false",
+   "title_af": "Waar of onwaar?",
+   "payload": {
+    "statement": "In die ontkennende vorm kom die woord “nie” net een keer voor."
+   },
+   "source": "supplementary",
+   "answer": {
+    "value": false
+   },
+   "feedback": {
+    "correct": "Reg!",
+    "incorrect": "Dink weer daaroor.",
+    "explanation": "Die werkboek sê: die woord nie verskyn twee keer in die sin."
+   },
+   "answer_status": "official",
+   "key": "act-07",
+   "sort_order": 70
+  }
+ ],
+ "quiz": [
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Waarmee begin ’n sin altyd?",
+   "explanation": "Die werkboek sê: ’n sin begin met ’n hoofletter.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Hoofletter",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Punt"
+    },
+    {
+     "key": "c",
+     "text": "’n Werkwoord"
+    },
+    {
+     "key": "d",
+     "text": "’n Voegwoord"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 50,
+    "pdf_page": 54
+   },
+   "key": "q01"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin is in die verlede tyd?",
+   "explanation": "Verlede tyd: het + ge-vorm.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Gister het Kin ’n e-pos geskryf.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Kin skryf ’n e-pos."
+    },
+    {
+     "key": "c",
+     "text": "Môre sal Kin ’n e-pos skryf."
+    },
+    {
+     "key": "d",
+     "text": "Kin gaan ’n e-pos skryf."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 50,
+    "pdf_page": 54,
+    "item": "tye"
+   },
+   "key": "q02"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die toekomende tyd van “Hy lees ’n boek”?",
+   "explanation": "Toekomende tyd: sal + werkwoord.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Hy sal ’n boek lees.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Hy het ’n boek gelees."
+    },
+    {
+     "key": "c",
+     "text": "Hy lees ’n boek."
+    },
+    {
+     "key": "d",
+     "text": "Hy is besig om te lees."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 50,
+    "pdf_page": 54,
+    "item": "tye"
+   },
+   "key": "q03"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Watter sin is in die ontkennende vorm?",
+   "explanation": "In die ontkenning kom “nie” voor.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Kin verlang nie baie na sy ouers nie.",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Kin verlang baie na sy ouers."
+    },
+    {
+     "key": "c",
+     "text": "Kin het baie verlang."
+    },
+    {
+     "key": "d",
+     "text": "Kin sal baie verlang."
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55,
+    "item": "ontkennings"
+   },
+   "key": "q04"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Hoeveel keer verskyn “nie” in ’n ontkennende sin, volgens die werkboek?",
+   "explanation": "Die werkboek sê dit in die nota oor ontkennings.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Twee keer",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "Een keer"
+    },
+    {
+     "key": "c",
+     "text": "Drie keer"
+    },
+    {
+     "key": "d",
+     "text": "Nooit"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55
+   },
+   "key": "q05"
+  },
+  {
+   "skill": "grammar",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n saamgestelde sin?",
+   "explanation": "Die werkboek sê: saamgestelde sin het altyd twee of meer gesegdes.",
+   "options": [
+    {
+     "key": "a",
+     "text": "’n Sin met twee of meer gesegdes",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Sin met net een werkwoord"
+    },
+    {
+     "key": "c",
+     "text": "’n Sin sonder onderwerp"
+    },
+    {
+     "key": "d",
+     "text": "’n Vraag"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 50,
+    "pdf_page": 54
+   },
+   "key": "q06"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "official",
+   "prompt": "Wat is ’n akroniem (letterwoord)?",
+   "explanation": "Die werkboek gee Sasol as voorbeeld.",
+   "options": [
+    {
+     "key": "a",
+     "text": "Letters van verskeie woorde wat as een woord uitgespreek word, soos Sasol",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "’n Woord met dieselfde betekenis"
+    },
+    {
+     "key": "c",
+     "text": "’n Kort sin"
+    },
+    {
+     "key": "d",
+     "text": "’n Woord met ’n teenoorgestelde betekenis"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55
+   },
+   "key": "q07"
+  },
+  {
+   "skill": "vocabulary",
+   "source": "workbook",
+   "answer_status": "derived_from_rule",
+   "prompt": "Wat is die afkorting vir “persoonlike identifikasienommer”?",
+   "explanation": "PIN is ’n akroniem van persoonlike identifikasienommer.",
+   "options": [
+    {
+     "key": "a",
+     "text": "PIN",
+     "correct": true
+    },
+    {
+     "key": "b",
+     "text": "PIE"
+    },
+    {
+     "key": "c",
+     "text": "PIK"
+    },
+    {
+     "key": "d",
+     "text": "PIS"
+    }
+   ],
+   "workbook_ref": {
+    "printed_page": 51,
+    "pdf_page": 55,
+    "item": "afkortings"
+   },
+   "key": "q08"
+  }
+ ]
+}
