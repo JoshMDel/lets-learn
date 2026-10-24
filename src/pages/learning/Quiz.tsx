@@ -68,6 +68,17 @@ export default function Quiz() {
     }
   }, [activeChildId, tierId])
 
+  if (ready && questions.length === 0) {
+    return (
+      <LearningLayout>
+        <p className="mb-4 text-muted">{t('quiz.empty')}</p>
+        <Button variant="secondary" onClick={() => navigate(-1)}>
+          {t('nav.back')}
+        </Button>
+      </LearningLayout>
+    )
+  }
+
   if (!ready || questions.length === 0) {
     return (
       <LearningLayout>

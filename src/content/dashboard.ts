@@ -34,7 +34,13 @@ export interface ChildDashboardStats {
   rewardHistory: RewardHistoryRow[]
 }
 
-const SKILLS: SkillType[] = ['literal', 'inference', 'vocabulary', 'main_idea', 'sequencing']
+function chunk<T>(items: T[], size: number): T[][] {
+  const out: T[][] = []
+  for (let i = 0; i < items.length; i += size) out.push(items.slice(i, i + size))
+  return out
+}
+
+const SKILLS: SkillType[] =['literal', 'inference', 'vocabulary', 'main_idea', 'sequencing']
 
 export function useChildDashboard(childId: string | null) {
   return useQuery({
@@ -63,20 +69,34 @@ export function useChildDashboard(childId: string | null) {
       const skillAccuracy = SKILLS.map((skill) => ({ skill, correct: 0, total: 0 }))
 
       if (attemptIds.length > 0) {
-        const { data: answers, error: ansErr } = await supabase
-          .from('attempt_answers')
-          .select('question_id, is_correct')
-          .in('attempt_id', attemptIds)
-        if (ansErr) throw ansErr
+        // Chunk the id lists (URL length) and page the rows (the API returns at most
+        // 1,000 rows per request) so the numbers stay right as a child does more quizzes.
+        const answers: { question_id: string; is_correct: boolean }[] = []
+        for (const ids of chunk(attemptIds, 100)) {
+          for (let from = 0; ; from += 1000) {
+            const { data, error: ansErr } = await supabase
+              .from('attempt_answers')
+              .select('question_id, is_correct')
+              .in('attempt_id', ids)
+              .range(from, from + 999)
+            if (ansErr) throw ansErr
+            answers.push(...(data ?? []))
+            if ((data ?? []).length < 1000) break
+          }
+        }
 
-        const questionIds = Array.from(new Set((answers ?? []).map((a) => a.question_id)))
-        const { data: questionSkills, error: qErr } = await supabase
-          .from('v_quiz_questions')
-          .select('id, skill_type')
-          .in('id', questionIds)
-        if (qErr) throw qErr
+        const questionIds = Array.from(new Set(answers.map((a) => a.question_id)))
+        const questionSkills: { id: string; skill_type: string }[] = []
+        for (const ids of chunk(questionIds, 100)) {
+          const { data, error: qErr } = await supabase
+            .from('v_quiz_questions')
+            .select('id, skill_type')
+            .in('id', ids)
+          if (qErr) throw qErr
+          questionSkills.push(...(data ?? []))
+        }
 
-        const skillById = new Map((questionSkills ?? []).map((q) => [q.id, q.skill_type as SkillType]))
+        const skillById = new Map(questionSkills.map((q) => [q.id, q.skill_type as SkillType]))
         const bySkill = new Map(skillAccuracy.map((s) => [s.skill, s]))
         for (const a of answers ?? []) {
           const skill = skillById.get(a.question_id)

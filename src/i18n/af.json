@@ -103,6 +103,7 @@
   "quiz.question": "Vraag {current} van {total}",
   "quiz.submit": "Gaan my antwoorde na",
   "quiz.next": "Volgende vraag",
+  "quiz.empty": "Hierdie vasvra is nog nie gereed nie. Sê asseblief vir jou onderwyser of ouer, en probeer ’n ander les.",
   "quiz.submitAll": "Voltooi vasvra",
   "results.title": "Jou uitslae",
   "results.score": "Jy het {correct} uit {total} reg",

@@ -103,6 +103,7 @@
   "quiz.question": "Question {current} of {total}",
   "quiz.submit": "Check my answers",
   "quiz.next": "Next question",
+  "quiz.empty": "This quiz isn't ready yet. Please tell your teacher or parent, and try another lesson.",
   "quiz.submitAll": "Finish quiz",
   "results.title": "Your results",
   "results.score": "You got {correct} out of {total} right",

@@ -36,4 +36,6 @@ Every item carries `source` (`workbook` or `supplementary`) and every key an `an
    The importer calls `public.import_workbook_lesson(jsonb)` (SECURITY DEFINER, executable only by `service_role`). Items are upserted by key, so re-running never duplicates anything, and learner responses to unchanged items are kept.
 3. Pictures: `python crop_figure.py NAME PDF_PAGE x0 y0 x1 y1` (coordinates in the 820 px render), then `node scripts/figures-to-webp.mjs` from the app root. Page images live in `public/workbook/gr6-afr-b2/` and are lazy-loaded, never precached.
 
+4. Run `tools/qc.sql` in the Supabase SQL editor after every import: every query must return nothing (it catches questions or activities without answer options).
+
 Poems are authored with `poem(title, strofes)`; line breaks are kept by `PassageReader` (`whitespace-pre-line`).
