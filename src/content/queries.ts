@@ -153,7 +153,13 @@ export function useQuizPool(tierId: string | null) {
           : { data: [] as QuizOption[], error: null }
       if (oErr) throw oErr
 
-      return { questions: questions as QuizQuestion[], options: options as QuizOption[] }
+      // A question that arrives without answer options can never be answered, so
+      // never put one in front of a child (it would block the whole quiz).
+      const withOptions = new Set((options as QuizOption[]).map((o) => o.question_id))
+      return {
+        questions: (questions as QuizQuestion[]).filter((q) => withOptions.has(q.id)),
+        options: options as QuizOption[],
+      }
     },
   })
 }
